@@ -50,7 +50,13 @@ class FetchError(Exception):
 def load_creds():
     if not CRED_FILE.exists():
         raise FetchError("missing .logTw")
-    return json.loads(CRED_FILE.read_text())
+    text = CRED_FILE.read_text()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # tolerate trailing garbage (e.g. stray brace) — parse the first JSON object
+        obj, _ = json.JSONDecoder().raw_decode(text)
+        return obj
 
 
 def save_creds(d):

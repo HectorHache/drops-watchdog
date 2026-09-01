@@ -1,0 +1,36 @@
+name: drops-watchdog CI
+
+# Phase 6 mirror: runs the full test suite on every push/PR to main.
+# The deterministic Python pipeline runs on the Mac (fetch/seed/digest/push);
+# this workflow is a read-only quality gate — no secrets needed (tests use
+# fixtures only, never .logTw/.steamMine which are gitignored anyway).
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests (fixtures only)
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Verify deterministic site output
+        # build_drops_json is exercised by test_db/test_watchdog; here we just
+        # confirm docs/ contains the committed site artifacts and valid JSON.
+        run: |
+          test -f docs/index.html || (echo "docs/index.html missing" && exit 1)
+          python3 -c "import json; d=json.load(open('docs/drops.json')); assert 'campaigns' in d and 'archive' in d; print('drops.json OK:', len(d['campaigns']), 'campaigns')"

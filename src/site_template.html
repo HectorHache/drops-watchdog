@@ -6,6 +6,8 @@
 <title>Twitch Drops Watchdog — drops.hache.app</title>
 <meta name="description" content="Live Twitch drop campaigns: rewards, countdowns, filters, history.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%239146FF'/%3E%3Ctext x='16' y='23' font-size='18' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3E%E2%8C%9B%3C/text%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#9146FF">
 <style>
 :root{
   --bg:#090d16; --panel:#0f172a; --card:#141c33; --card2:#1a2440;
@@ -84,8 +86,13 @@ select option{background:var(--card)}
 .card .rewards{margin-top:auto; display:flex; flex-direction:column; gap:4px; padding-top:8px; border-top:1px dashed var(--line)}
 .card .reward{display:flex; justify-content:space-between; gap:8px; font-size:12.5px; color:var(--text)}
 .card .reward .min{color:var(--muted); font-size:11px; white-space:nowrap}
-.card .foot{display:flex; justify-content:space-between; align-items:center; margin-top:6px}
-.card .foot a{font-size:12.5px; font-weight:600}
+.card .foot{display:flex; justify-content:space-between; align-items:center; margin-top:6px; gap:8px}
+.card .foot a{font-size:12.5px; font-weight:600; white-space:nowrap}
+.actions{display:flex; gap:5px}
+.ibtn{background:var(--card); color:var(--muted); border:1px solid var(--line); border-radius:8px;
+  font-size:13px; padding:3px 7px; cursor:pointer; transition:.15s; line-height:1}
+.ibtn:hover{color:var(--text); border-color:var(--purple)}
+.ibtn.on{background:rgba(145,69,255,.2); color:var(--purple2); border-color:var(--purple)}
 .hl{outline:2px solid var(--purple); outline-offset:2px}
 
 /* history */
@@ -98,7 +105,9 @@ table.hist tr:hover td{background:rgba(145,69,255,.06)}
 .hist-note{color:var(--muted); font-size:12px; margin-bottom:8px}
 
 /* empty + footer */
-.empty{grid-column:1/-1; text-align:center; color:var(--muted); padding:60px 0; font-size:14px}
+.stats{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 14px;
+  margin-bottom:14px; font-size:13px; color:var(--muted); display:flex; gap:22px; flex-wrap:wrap}
+.stats b{color:var(--text)} .stats span.top{color:var(--purple2)}
 .empty .big{font-size:38px; margin-bottom:10px}
 footer{margin-top:36px; color:var(--muted); font-size:12px; text-align:center; line-height:1.8}
 @media (max-width:640px){
@@ -140,9 +149,11 @@ footer{margin-top:36px; color:var(--muted); font-size:12px; text-align:center; l
         <option value="long">Longest duration</option>
         <option value="az">A–Z</option>
       </select>
+      <button id="lang" title="Language / Idioma" class="tab">🇬🇧 EN</button>
     </div>
   </div>
 
+  <div id="stats" class="stats" hidden></div>
   <div id="grid"></div>
 
   <section id="history">
@@ -176,6 +187,16 @@ const $ = s => document.querySelector(s);
 const norm = t => String(t ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 const fmtDT = iso => { if(!iso) return "—"; const d = new Date(iso); return d.toLocaleString("en-GB", {weekday:"short", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Madrid"}); };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+// Phase 6: post an interaction to the CF Pages Function -> KV (favorite/like/remind)
+async function interact(kind, campaignId, value){
+  try{
+    const r = await fetch("/api/interact", {method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({kind, campaignId, value})});
+    const j = await r.json();
+    if(!j.ok) console.warn("interact", kind, j.error);
+    return j.ok;
+  }catch(e){ console.warn("interact failed", kind, e); return false; }
+}
 
 function el(tag, attrs={}, children=[]){
   const n = document.createElement(tag);
@@ -314,8 +335,22 @@ function card(c){
     body.appendChild(rw);
   }
   const foot = el("div", {class:"foot"});
-  foot.appendChild(el("a", {href:c.detailsUrl, target:"_blank", rel:"noopener", text:"Watch on Twitch ↗"}));
-  foot.appendChild(el("span", {class:"pill new", text:"#"+c.id.slice(0,4)}));
+  const act = el("div", {class:"actions"});
+  const mkBtn = (sym, kind, title, cls) => {
+    const b = el("button", {class:"ibtn " + cls, title, "data-kind": kind, text: sym});
+    b.addEventListener("click", async () => {
+      b.disabled = true;
+      const ok = await interact(kind, c.id, c.game);
+      if(ok){ b.classList.add("on"); }
+      b.disabled = false;
+    });
+    return b;
+  };
+  act.appendChild(mkBtn("⭐", "favorite", "Favorite game (site ↔ watchdog)", "fav"));
+  act.appendChild(mkBtn("👍", "like", "Like", "like"));
+  act.appendChild(mkBtn("🔔", "remind", "Remind me when this ends", "rem"));
+  foot.appendChild(act);
+  foot.appendChild(el("a", {href:c.detailsUrl, target:"_blank", rel:"noopener", text:"Watch ↗"}));
   body.appendChild(foot);
 
   return el("article", {class:"card", id:"campaign-"+c.id, "data-cid":c.id}, [art, body]);
@@ -323,6 +358,7 @@ function card(c){
 
 function render(){
   updateMeta();
+  renderStats();
   const histVisible = state.sec === "hist";
   $("#grid").style.display = histVisible ? "none" : "";
   $("#history").style.display = histVisible ? "" : "none";
@@ -456,8 +492,52 @@ setInterval(updateAgo, 30000);
   }, 1800);
 })();
 
+/* ---------- weekly stats panel + ES/EN toggle (Phase 6) ---------- */
+const I18N = {
+  en: { endedWk:"Campaigns ended (7d)", avgDur:"Avg duration", top:"Top games" },
+  es: { endedWk:"Campañas finalizadas (7d)", avgDur:"Duración media", top:"Juegos top" },
+};
+let LANG = localStorage.getItem("drops-lang") || "en";
+function renderStats(){
+  const st = $("#stats");
+  if(state.sec === "hist"){ st.hidden = true; return; }
+  const now = Date.now(), wk = 7*864e5;
+  const ended = DATA.archive.filter(a => now - new Date(a.endAt).getTime() <= wk && new Date(a.endAt) <= new Date(now));
+  const gc = {};
+  for(const a of DATA.archive){ const k = a.game; gc[k] = (gc[k]||0)+1; }
+  const top = Object.entries(gc).sort((a,b)=>b[1]-a[1]).slice(0,3);
+  const dur = DATA.archive.filter(a => new Date(a.endAt) >= new Date(now)-wk)
+    .map(a => (new Date(a.endAt)-new Date(a.startAt))/36e5).filter(Number.isFinite);
+  const avg = dur.length ? (dur.reduce((x,y)=>x+y,0)/dur.length).toFixed(1) : "—";
+  const t = I18N[LANG];
+  st.hidden = false;
+  st.innerHTML = "";
+  const p1 = el("span");
+  p1.appendChild(document.createTextNode(t.endedWk + ": "));
+  p1.appendChild(el("b", {text: String(ended.length)}));
+  st.appendChild(p1);
+  const p2 = el("span");
+  p2.appendChild(document.createTextNode(t.avgDur + ": "));
+  p2.appendChild(el("b", {text: avg + "h"}));
+  st.appendChild(p2);
+  const p3 = el("span");
+  p3.appendChild(document.createTextNode(t.top + ": "));
+  for(const [g,c] of top) p3.appendChild(el("span", {class:"top", text: ` ${g} ×${c} `}));
+  st.appendChild(p3);
+}
+$("#lang").addEventListener("click", () => {
+  LANG = LANG === "en" ? "es" : "en";
+  localStorage.setItem("drops-lang", LANG);
+  $("#lang").textContent = LANG === "en" ? "🇬🇧 EN" : "🇪🇸 ES";
+  render(); renderStats();
+});
+
 /* ---------- boot ---------- */
 (function boot(){
+  $("#lang").textContent = LANG === "en" ? "🇬🇧 EN" : "🇪🇸 ES";
+  if("serviceWorker" in navigator){
+    navigator.serviceWorker.register("sw.js").catch(e => console.warn("SW", e));
+  }
   handleHash();
   loadData();
   loadData(); // warm the poll cadence baseline
