@@ -18,11 +18,20 @@ tests/        unit tests + live fixtures
 ```
 python3 src/main.py seed        fetch live → upsert drops.db
 python3 src/main.py send        full run → Telegram channel (delta-only, dedupe)
+python3 src/main.py sync [--dry]  scheduled run (cron): fetch → seed → close ended
+                       → digest → build → commit+push docs/ only when changed
 python3 src/main.py build       regenerate docs/ from drops.db
 python3 src/main.py dryrun [--fixture F]   preview digest (read-only)
 python3 src/main.py status      credentials + DB status
 python3 -m unittest discover -s tests
 ```
+
+## Scheduling (Phase 4)
+Hermes cron job `twitch-drops-sync` (`b9870369ed3a`), schedule `0,30 7-23,0 * * *`
+(wake hours Europe/Madrid), script `~/.hermes/scripts/twitch_drops_sync.sh` →
+`python3 src/main.py sync`. Deterministic `docs/` = byte-identical when no campaign
+data changed → commit-on-change push keeps CF Pages under the 500 builds/month cap.
+Error alerts (fetch/push failure) → DM, throttled 6h via `meta` watermark.
 
 ## Secrets (gitignored, chmod 600)
 - `.logTw` — Twitch web auth-token + integrity token + device headers (throwaway account)
