@@ -1,6 +1,6 @@
 # Twitch Drops Watchdog + Dashboard — Master Plan (v2)
 
-**Status:** v2.7 — **Phases 0-3 engine COMPLETE; private repo LIVE** (`github.com/PythonMalone/drops-watchdog`, pushed main); **awaiting Mick's CF Pages wizard**; then Phase 4 scheduling
+**Status:** v2.8 — **Phases 0-3 COMPLETE + site LIVE** (`https://drops.hache.app`, CF Pages auto-deploy verified); **Phase 4 DONE**: deterministic docs, sync command, close_ended, error alerts, Hermes cron `twitch-drops-sync` (30-min wake hours) + commit-on-change push. Next: Phase 5 Steam favorites.
 **Version:** 2.2.0 (supersedes v2.1.0 / v2.0.0 / v1 draft)
 **File:** `260901-drops-plan.md` (Mick's naming convention: YYMMDD-<project>-plan.md)
 **Date:** 2026-09-01
