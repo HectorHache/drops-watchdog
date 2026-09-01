@@ -35,6 +35,7 @@ def build_drops_json(conn, cfg) -> dict:
     now = datetime.datetime.now(datetime.timezone.utc)
     rows = dbm.get_campaigns(conn)
     favorites = {r["game_name"] for r in conn.execute("SELECT game_name FROM favorites")}
+    steam_games = dbm.get_steam_games(conn, ("mick",))   # badge = Mick's owned library
     campaigns, archive = [], []
     for c in rows.values():
         end = wd.parse_dt(c["end_at"])
@@ -56,7 +57,7 @@ def build_drops_json(conn, cfg) -> dict:
             "rewards": rewards,
         }
         if active:
-            entry["inSteamLibrary"] = False          # Phase 5
+            entry["inSteamLibrary"] = c["game_name"] in steam_games
             entry["isFavorite"] = c["game_name"] in favorites
             campaigns.append(entry)
         else:
