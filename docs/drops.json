@@ -1610,34 +1610,6 @@
    "asset": "assets/15770ea9-97d6-4c06-99c9-dd06d157b673.png"
   },
   {
-   "id": "3a4133e8-36b5-4d71-88be-2531f237d96c",
-   "game": "Call of Duty: Modern Warfare 4",
-   "title": "Modern Warfare 4 Beta W2",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T16:00:00+00:00",
-   "endAt": "2026-09-01T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/004ab4bf-a565-4032-aeb2-e048bd0cc00f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a4133e8-36b5-4d71-88be-2531f237d96c",
-   "rewards": [
-    {
-     "name": "Get Tactical Emblem",
-     "minutes": 15
-    },
-    {
-     "name": "Clearing House Calling Card",
-     "minutes": 30
-    },
-    {
-     "name": "Action Ready Charm",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3a4133e8-36b5-4d71-88be-2531f237d96c.png"
-  },
-  {
    "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
    "game": "Marbles on Stream",
    "title": "Marble Day 263",
@@ -2766,30 +2738,6 @@
    "asset": "assets/cd4d2fc7-092b-444c-a9dc-f2c9da8a1fbc.png"
   },
   {
-   "id": "2ee33507-7ee6-4e79-a791-df23f626dad8",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R2 (1)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T17:00:00+00:00",
-   "endAt": "2026-09-01T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T17:00:56+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1ddcce9-dd37-4224-a97d-7f8864d3b9ca.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2ee33507-7ee6-4e79-a791-df23f626dad8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2ee33507-7ee6-4e79-a791-df23f626dad8.jpg"
-  },
-  {
    "id": "53b85d5e-6b78-49c7-848d-280ce62cc970",
    "game": "Rise Online",
    "title": "Mobile Drop 145",
@@ -2851,6 +2799,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "3a4133e8-36b5-4d71-88be-2531f237d96c",
+   "game": "Call of Duty: Modern Warfare 4",
+   "title": "Modern Warfare 4 Beta W2",
+   "startAt": "2026-08-28T16:00:00+00:00",
+   "endAt": "2026-09-01T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2ee33507-7ee6-4e79-a791-df23f626dad8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R2 (1)",
+   "startAt": "2026-09-01T17:00:00+00:00",
+   "endAt": "2026-09-01T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "55cf13ea-1500-4852-9fd7-135902e40d1b",
    "game": "World of Tanks Console",
