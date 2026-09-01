@@ -8,6 +8,7 @@ Commands:
 import argparse
 import datetime
 import json
+import shutil
 import sys
 import time
 import urllib.request
@@ -25,6 +26,52 @@ DOCS = ROOT / "docs"
 ASSETS = DOCS / "assets"
 TZ_NAME = "Europe/Madrid"
 TEMPLATE = ROOT / "src" / "site_template.html"
+MEDIA = ROOT / "media"          # favicon pack source (Mick 2026-09-01)
+
+# favicon pack files copied from media/ -> docs/ on every build (deterministic)
+FAVICON_FILES = [
+    "favicon.ico",
+    "favicon-16x16.png",
+    "favicon-32x32.png",
+    "apple-touch-icon.png",
+    "android-chrome-192x192.png",
+    "android-chrome-512x512.png",
+]
+
+MANIFEST = {
+    "name": "Twitch Drops Watchdog",
+    "short_name": "Drops Watch",
+    "description": "Live Twitch drop campaigns: rewards, countdowns, filters, history.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#090d16",
+    "theme_color": "#9146FF",
+    "icons": [
+        {"src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+        {"src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    ],
+}
+
+
+def sync_favicons() -> list:
+    """Copy the favicon pack from media/ into docs/ (deterministic per build).
+
+    Missing media/ files are tolerated (site works without them); docs/ always
+    ends up with a complete, consistent set. Returns the copied filenames.
+    """
+    copied = []
+    for name in FAVICON_FILES:
+        src = MEDIA / name
+        dst = DOCS / name
+        if src.exists():
+            shutil.copyfile(src, dst)
+            copied.append(name)
+        elif dst.exists():
+            dst.unlink()  # keep docs/ in sync if a source file disappears
+    (DOCS / "manifest.json").write_text(json.dumps(MANIFEST, indent=1))
+    (DOCS / "site.webmanifest").write_text(json.dumps(MANIFEST, indent=1))
+    return copied
+
 
 
 def _fmt(ts) -> str:
@@ -167,6 +214,8 @@ def cmd_build(args):
         print(f"[site] WARNING: {TEMPLATE} missing — index.html not updated", file=sys.stderr)
 
     (DOCS / "feed.xml").write_text(build_feed(data))
+
+    favicons = sync_favicons()
 
     now = datetime.datetime.now(datetime.timezone.utc)
     ending24 = sum(1 for c in data["campaigns"]
