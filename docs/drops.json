@@ -29,7 +29,7 @@
      "minutes": 240
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/812ec00b-52f4-4fb9-8387-3a26ca1104d7.png"
   },
@@ -157,7 +157,7 @@
      "minutes": 180
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/e221678f-3391-402d-8819-fd1783894746.png"
   },
@@ -293,7 +293,7 @@
      "minutes": 120
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a79bead9-e221-402a-996b-e0fa4e2f8912.png"
   },
@@ -425,7 +425,7 @@
      "minutes": 240
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/42fa626c-57c5-45f0-88fe-25e29819cd62.png"
   },
@@ -465,7 +465,7 @@
      "minutes": 240
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c7936644-f76f-4bc6-a540-a415a56c4712.png"
   },
@@ -665,7 +665,7 @@
      "minutes": 360
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/05a8f884-cb18-4206-93fb-509264b6d5e0.png"
   },
@@ -757,7 +757,7 @@
      "minutes": 240
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/0f1b1514-fe01-4f81-8fea-d35049d204cd.jpg"
   },
@@ -1245,7 +1245,7 @@
      "minutes": 60
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/3ed94804-99c7-498e-bba2-b63448b3386d.jpg"
   },
@@ -1309,7 +1309,7 @@
      "minutes": 120
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a32d43f5-2c18-4205-9480-d1149b3558d2.png"
   },
@@ -1525,7 +1525,7 @@
      "minutes": 420
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/abfb863d-aeb8-4814-b4e1-0a8f3ad94c31.png"
   },
@@ -2581,7 +2581,7 @@
      "minutes": 120
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/28540dcb-38f7-49d3-abb5-505e9cc59b6c.png"
   },
