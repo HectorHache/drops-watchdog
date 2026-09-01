@@ -30,6 +30,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
+import kv as kvm
 import notify as ntf
 import site_builder as sb
 import steam_import as si
@@ -303,6 +304,13 @@ def cmd_sync(args):
     dbm.meta_set(conn, "last_seed_at", dbm.now_iso())
     print(f"seeded {len(camps)} campaigns (new={n_new}, updated={n_upd})")
 
+    # pull site ⭐/👍/🔔 interactions (KV round-trip) so favorites made on the
+    # site apply within the next sync cycle
+    try:
+        kvm.kv_pull(conn)
+    except Exception as e:
+        print(f"[kv] pull error (non-fatal): {e}", file=sys.stderr)
+
     # close campaigns that have ended (keep rows forever; site History grows)
     closed = dbm.close_ended(conn)
     if closed:
@@ -424,6 +432,10 @@ def cmd_personal(args):
         raise
     for c in camps:
         dbm.upsert_campaign(conn, c)
+    try:
+        kvm.kv_pull(conn)
+    except Exception as e:
+        print(f"[kv] pull error (non-fatal): {e}", file=sys.stderr)
     closed = dbm.close_ended(conn)
     if closed:
         print(f"closed {closed} ended campaign(s)")
