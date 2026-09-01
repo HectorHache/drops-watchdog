@@ -23,6 +23,9 @@ python3 src/main.py sync [--dry]  scheduled run (cron): fetch → seed → close
 python3 src/main.py build       regenerate docs/ from drops.db
 python3 src/main.py dryrun [--fixture F]   preview digest (read-only)
 python3 src/main.py status      credentials + DB status
+python3 src/main.py steam-import [--owners mick,wifey]   import Steam libraries (Phase 5)
+python3 src/main.py favorite add|rm|list "<Game Name>"   manage favorites + site refresh
+python3 src/main.py personal [--dry]   24/7 favorites DM check (cron)
 python3 -m unittest discover -s tests
 ```
 
@@ -35,7 +38,7 @@ Error alerts (fetch/push failure) → DM, throttled 6h via `meta` watermark.
 
 ## Secrets (gitignored, chmod 600)
 - `.logTw` — Twitch web auth-token + integrity token + device headers (throwaway account)
-- `.steamMine` — Steam API key (Phase 5)
+- `.steamMine` — Steam API key (Phase 5, bare 32-hex or JSON)
 
 ## Notes
 - Twitch gql is login-gated: auth = browser-minted `Client-Integrity` token (Kasada) + web `auth-token`, refreshed via a quick ego-browser visit per run.
