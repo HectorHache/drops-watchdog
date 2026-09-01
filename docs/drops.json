@@ -2738,7 +2738,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/a7bdc2ec-dc51-4a17-9fdd-6f6331e6407b.png"
   },
   {
@@ -2758,7 +2758,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/33e74b8b-b473-4f5c-bf91-a94a01f5302d.png"
   },
   {
@@ -3085,6 +3085,7 @@
   }
  ],
  "favorites": [
+  "Delta Force",
   "Marvel Rivals"
  ]
 }
