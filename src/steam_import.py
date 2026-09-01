@@ -104,15 +104,18 @@ await openOrReuseTab('https://steamcommunity.com/profiles/76561198051826838/game
 await wait(5)
 // login-gated or private? Steam shows "Profile is private" or an age gate / sign-in.
 const body = await js(`document.body ? document.body.innerText.slice(0, 1200) : ''`)
+// revamped Steam games page lazy-loads rows on scroll -> scroll to bottom first
+for (let i = 0; i < 8; i++) { await scroll({ dy: 3500 }); await wait(1); }
+await wait(2)
 const titles = await js(`(() => {
   const out = new Set();
-  // game tiles on the games page (owner pane)
-  document.querySelectorAll('.gameListRowItem .gameListRowItemName, .gameListRowItemName, .game_name, .tab_item_name').forEach(n => {
-    const t = (n.textContent || '').trim(); if (t) out.add(t);
+  document.querySelectorAll('a[href*="/app/"]').forEach(a => {
+    const t = (a.textContent || '').trim();
+    if (t && t.length < 100 && !/store page|download|community/i.test(t)) out.add(t);
   });
   return [...out];
 })()`)
-cliLog('STEAM_BODY: ' + body.replace(/\n+/g, ' | ').slice(0, 600))
+cliLog('STEAM_BODY: ' + body.replace(/\n+/g, ' | ').slice(0, 400))
 cliLog('STEAM_TITLES: ' + JSON.stringify(titles))
 await completeTaskSpace(task.id, { keep: false })
 """
