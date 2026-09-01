@@ -166,10 +166,10 @@ footer{margin-top:36px; color:var(--muted); font-size:12px; text-align:center; l
 
 <script>
 "use strict";
-const GENERATED_AT = "/*__GENERATED_AT__*/";
-let DATA = null;                 // latest drops.json
+let DATA = null;                 // latest drops.json (deterministic: data only)
 let state = { sec:"all", q:"", game:"", sort:"soon", prio:true, histDate:"" };
 let dataHash = "";
+let fetchedAt = Date.now();      // when the current drops.json was loaded (for "updated ago")
 
 const $ = s => document.querySelector(s);
 const fmtDT = iso => { if(!iso) return "—"; const d = new Date(iso); return d.toLocaleString("en-GB", {weekday:"short", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Madrid"}); };
@@ -194,20 +194,33 @@ async function loadData(){
   try{
     const r = await fetch(url, {cache:"no-store"});
     const j = await r.json();
-    const h = JSON.stringify([j.generated_at, j.campaigns.length, j.counts, j.archive.length]);
-    if(h !== dataHash){ dataHash = h; DATA = j; render(); }
+    // deterministic content hash: bytes change ONLY when campaign data changes
+    const h = JSON.stringify([j.campaigns, j.archive, j.favorites]);
+    if(h !== dataHash){ dataHash = h; DATA = j; fetchedAt = Date.now(); render(); }
     else updateMeta();
   }catch(e){ console.warn("poll failed", e); }
   updateAgo();
 }
+// client-side derived values (drops.json carries raw dates only — deterministic)
+const hoursLeft = c => (new Date(c.endAt).getTime() - Date.now()) / 3600000;
+const isNewCamp  = c => (Date.now() - new Date(c.firstSeenAt || c.startAt).getTime()) <= 86400000;
+function counts(){
+  const cs = DATA.campaigns;
+  const u24 = cs.filter(c => hoursLeft(c) <= 24).length;
+  const u48 = cs.filter(c => hoursLeft(c) > 24 && hoursLeft(c) <= 48).length;
+  const fresh = cs.filter(isNewCamp).length;
+  const favs = cs.filter(c => c.isFavorite).length;
+  return { all: cs.length, u24, u48, fresh, favs };
+}
 function updateMeta(){
   if(!DATA) return;
-  $("#active-count").textContent = DATA.counts.active;
-  $("#urgent-count").textContent = DATA.counts.ending24;
-  $("#gen-at").textContent = DATA.generated_at_local || "—";
+  const cc = counts();
+  $("#active-count").textContent = cc.all;
+  $("#urgent-count").textContent = cc.u24;
+  $("#gen-at").textContent = "live";
   for(const s of ["all","u24","u48","fresh","favs"]){
     const elm = document.querySelector(`[data-cnt="${s}"]`);
-    if(elm) elm.textContent = "(" + counts()[s] + ")";
+    if(elm) elm.textContent = "(" + cc[s] + ")";
   }
   // game dropdown (rebuild if changed)
   const cur = $("#game").value;
@@ -220,17 +233,13 @@ function updateMeta(){
     $("#game").value = cur;
   }
 }
-function counts(){
-  const c = DATA.counts;
-  return { all: c.active, u24: c.ending24, u48: c.ending48, fresh: c.new, favs: DATA.favorites.length };
-}
 
 /* ---------- filtering / sorting ---------- */
 function visibleCampaigns(){
   let list = DATA.campaigns;
-  if(state.sec === "u24") list = list.filter(c => c.hoursLeft <= 24);
-  if(state.sec === "u48") list = list.filter(c => c.hoursLeft <= 48 && c.hoursLeft > 24);
-  if(state.sec === "fresh") list = list.filter(c => c.isNew);
+  if(state.sec === "u24") list = list.filter(c => hoursLeft(c) <= 24);
+  if(state.sec === "u48") list = list.filter(c => hoursLeft(c) <= 48 && hoursLeft(c) > 24);
+  if(state.sec === "fresh") list = list.filter(isNewCamp);
   if(state.sec === "favs") list = list.filter(c => c.isFavorite);
   if(state.game) list = list.filter(c => c.game === state.game);
   if(state.q){
@@ -239,7 +248,7 @@ function visibleCampaigns(){
       (c.rewards||[]).some(r => r.name.toLowerCase().includes(q)));
   }
   const sorters = {
-    soon: (a,b) => a.hoursLeft - b.hoursLeft,
+    soon: (a,b) => hoursLeft(a) - hoursLeft(b),
     new:  (a,b) => new Date(b.startAt) - new Date(a.startAt),
     long: (a,b) => (new Date(b.endAt)-new Date(b.startAt)) - (new Date(a.endAt)-new Date(a.startAt)),
     az:   (a,b) => a.game.localeCompare(b.game),
@@ -256,9 +265,9 @@ function visibleCampaigns(){
 /* ---------- rendering (safe: textContent only) ---------- */
 function badge(c){
   const pills = [];
-  if(c.isNew) pills.push(el("span", {class:"pill new", text:"NEW"}));
-  if(c.hoursLeft <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
-  else if(c.hoursLeft <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
+  if(isNewCamp(c)) pills.push(el("span", {class:"pill new", text:"NEW"}));
+  if(hoursLeft(c) <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
+  else if(hoursLeft(c) <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
   if(c.isFavorite) pills.push(el("span", {class:"pill fav", text:"⭐ FAV"}));
   if(c.inSteamLibrary) pills.push(el("span", {class:"pill lib", text:"🎮 LIB"}));
   return pills;
@@ -321,7 +330,7 @@ function render(){
   const list = visibleCampaigns();
   // hash-diff re-render: only rebuild when the visible set signature changes
   const sig = state.sec + "|" + state.q + "|" + state.game + "|" + state.sort + "|" + state.prio + "|" +
-              list.map(c => c.id + (c.isNew?1:0) + (c.isFavorite?1:0)).join(",");
+              list.map(c => c.id + (isNewCamp(c)?1:0) + (c.isFavorite?1:0)).join(",");
   if(grid.dataset.sig === sig){ tick(); return; }
   grid.dataset.sig = sig;
   grid.innerHTML = "";
@@ -403,11 +412,9 @@ window.addEventListener("hashchange", handleHash);
 
 /* ---------- polling (10 min, delta only) ---------- */
 setInterval(loadData, 10*60*1000);
-let lastAgo = 0;
 function updateAgo(){
   if(!DATA) return;
-  const t = new Date(DATA.generated_at_local).getTime();
-  const s = Math.max(0, Math.round((Date.now()-t)/1000));
+  const s = Math.max(0, Math.round((Date.now()-fetchedAt)/1000));
   const m = Math.floor(s/60), h = Math.floor(m/60);
   $("#updated-ago").textContent = h ? `${h}h ${m%60}m ago` : m ? `${m}m ago` : "just now";
 }
@@ -449,7 +456,6 @@ setInterval(updateAgo, 30000);
 
 /* ---------- boot ---------- */
 (function boot(){
-  $("#gen-at").textContent = GENERATED_AT || "—";
   handleHash();
   loadData();
   loadData(); // warm the poll cadence baseline
