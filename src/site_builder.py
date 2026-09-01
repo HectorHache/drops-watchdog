@@ -50,14 +50,12 @@ def build_drops_json(conn, cfg) -> dict:
             "status": c["status"],
             "startAt": _fmt(c["start_at"]),
             "endAt": _fmt(c["end_at"]),
+            "firstSeenAt": _fmt(c["first_seen_at"]),
             "imageUrl": c.get("image_url") or "",
             "detailsUrl": c.get("details_url") or "",
             "rewards": rewards,
         }
         if active:
-            first_seen = wd.parse_dt(c["first_seen_at"])
-            entry["isNew"] = bool(first_seen and (now - first_seen) <= datetime.timedelta(hours=24))
-            entry["hoursLeft"] = round((end - now).total_seconds() / 3600, 2)
             entry["inSteamLibrary"] = False          # Phase 5
             entry["isFavorite"] = c["game_name"] in favorites
             campaigns.append(entry)
@@ -68,21 +66,17 @@ def build_drops_json(conn, cfg) -> dict:
                 "status": "ENDED" if end and end <= now else c["status"],
             })
 
-    ending24 = sum(1 for e in campaigns if 0 < e["hoursLeft"] <= 24)
-    ending48 = sum(1 for e in campaigns if 24 < e["hoursLeft"] <= 48)
-    campaigns.sort(key=lambda e: e["hoursLeft"])
+    # DETERMINISTIC OUTPUT: no hoursLeft/isNew/counts/generated timestamp — those
+    # change every build and would defeat commit-on-change push. The SPA computes
+    # countdowns/filters client-side from startAt/endAt/firstSeenAt.
+    campaigns.sort(key=lambda e: e["startAt"])
     archive.sort(key=lambda e: e["endAt"], reverse=True)
 
     return {
-        "generated_at": now.astimezone(datetime.timezone(datetime.timedelta(hours=2))).isoformat(timespec="seconds")
-        if False else dbm.now_iso(),
-        "generated_at_local": now.astimezone(wd.ZoneInfo(TZ_NAME)).isoformat(timespec="seconds"),
         "tz": TZ_NAME,
         "campaigns": campaigns,
         "archive": archive,
         "favorites": sorted(favorites),
-        "counts": {"active": len(campaigns), "new": sum(1 for e in campaigns if e["isNew"]),
-                   "ending24": ending24, "ending48": ending48},
     }
 
 
@@ -121,7 +115,7 @@ def build_feed(data: dict) -> str:
     for c in data["campaigns"][:50]:
         title = f"{c['game']} — {c['title']}"
         desc = " · ".join(r["name"] for r in c["rewards"][:6]) or "Twitch Drops campaign"
-        desc = f"{desc} — runs {c['startAt']} → {c['endAt']} ({c['hoursLeft']}h left)"
+        desc = f"{desc} — runs {c['startAt']} → {c['endAt']} (Europe/Madrid)"
         items.append(
             f"  <item>\n"
             f"    <title>{xml.sax.saxutils.escape(title)}</title>\n"
@@ -166,16 +160,19 @@ def cmd_build(args):
     (DOCS / "_headers").write_text(HEADERS)
 
     if TEMPLATE.exists():
-        html = TEMPLATE.read_text()
-        html = html.replace("/*__GENERATED_AT__*/", data["generated_at_local"])
-        (DOCS / "index.html").write_text(html)
+        # deterministic: index.html is byte-identical to the template on every build
+        (DOCS / "index.html").write_text(TEMPLATE.read_text())
     else:
         print(f"[site] WARNING: {TEMPLATE} missing — index.html not updated", file=sys.stderr)
 
     (DOCS / "feed.xml").write_text(build_feed(data))
 
+    now = datetime.datetime.now(datetime.timezone.utc)
+    ending24 = sum(1 for c in data["campaigns"]
+                   if (wd.parse_dt(c["endAt"]) and now < wd.parse_dt(c["endAt"])
+                       <= now + datetime.timedelta(hours=24)))
     print(f"docs/ published: {len(data['campaigns'])} active + {len(data['archive'])} archived")
-    print(f"  counts: {data['counts']}")
+    print(f"  counts: active={len(data['campaigns'])} ending<24h={ending24} (client-computed)")
     print(f"  assets: downloaded={asset_report['downloaded']} failed={len(asset_report['failed'])} pruned={len(asset_report['pruned'])}")
     print(f"  files: drops.json, index.html, feed.xml, _headers, assets/{len(list(ASSETS.iterdir()))}")
 
