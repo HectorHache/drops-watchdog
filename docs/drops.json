@@ -162,26 +162,6 @@
    "asset": "assets/e221678f-3391-402d-8819-fd1783894746.png"
   },
   {
-   "id": "dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32",
-   "game": "League of Legends",
-   "title": "Split 3 - Sub Drop (Pt.1)",
-   "status": "ACTIVE",
-   "startAt": "2026-08-15T23:30:00+00:00",
-   "endAt": "2026-09-01T17:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e7ddf5b-a4d5-441a-9cfa-2e0e37f91cb2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32",
-   "rewards": [
-    {
-     "name": "I Call The Shots\t",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32.png"
-  },
-  {
    "id": "e7a34dde-0b5c-44cd-ac88-2525e49648fb",
    "game": "North Hunt",
    "title": "North Hunt 1.0 Release",
@@ -2242,46 +2222,6 @@
    "asset": "assets/552d4954-a736-42b2-aab9-8031c7bc5a1a.png"
   },
   {
-   "id": "1b268f37-ee55-49a3-86d8-c10e17d4e60b",
-   "game": "Rise Online",
-   "title": "ROW Drop 573",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T17:59:00+00:00",
-   "endAt": "2026-09-01T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/adaf7e0b-0bf9-45e5-9c46-82198bfbfd15.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b268f37-ee55-49a3-86d8-c10e17d4e60b",
-   "rewards": [
-    {
-     "name": "ROW Drop 573",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1b268f37-ee55-49a3-86d8-c10e17d4e60b.jpg"
-  },
-  {
-   "id": "e2b77e82-ded3-45d2-a493-d30e779a372a",
-   "game": "Rise Online",
-   "title": "Mobile Drop 144",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T17:59:00+00:00",
-   "endAt": "2026-09-01T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/535acc72-69dd-44d9-921c-2df6e1de5c0d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e2b77e82-ded3-45d2-a493-d30e779a372a",
-   "rewards": [
-    {
-     "name": "Mobile Drop 144",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e2b77e82-ded3-45d2-a493-d30e779a372a.png"
-  },
-  {
    "id": "b64521c4-a827-4533-a403-6bc3929fb216",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 1",
@@ -2872,9 +2812,93 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2ee33507-7ee6-4e79-a791-df23f626dad8.jpg"
+  },
+  {
+   "id": "53b85d5e-6b78-49c7-848d-280ce62cc970",
+   "game": "Rise Online",
+   "title": "Mobile Drop 145",
+   "status": "ACTIVE",
+   "startAt": "2026-09-01T17:59:00+00:00",
+   "endAt": "2026-09-02T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e089d3e8-38af-4da1-891f-e07ecbc00d57.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=53b85d5e-6b78-49c7-848d-280ce62cc970",
+   "rewards": [
+    {
+     "name": "Mobile Drop 145",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/53b85d5e-6b78-49c7-848d-280ce62cc970.png"
+  },
+  {
+   "id": "b9837c58-2ce8-47ed-988b-32e3b9901e0a",
+   "game": "Rise Online",
+   "title": "ROW Drop 574",
+   "status": "ACTIVE",
+   "startAt": "2026-09-01T17:59:00+00:00",
+   "endAt": "2026-09-02T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/348b57fb-db8a-4af2-8106-1610b3e0fe43.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b9837c58-2ce8-47ed-988b-32e3b9901e0a",
+   "rewards": [
+    {
+     "name": "ROW Drop 574",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b9837c58-2ce8-47ed-988b-32e3b9901e0a.png"
+  },
+  {
+   "id": "7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138",
+   "game": "League of Legends",
+   "title": "Split 3 - Sub Drop (Pt.2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-01T18:00:00+00:00",
+   "endAt": "2026-09-29T17:59:59.999+00:00",
+   "firstSeenAt": "2026-09-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5fb5bbb8-e62d-4b74-91e9-6f2300267eac.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138",
+   "rewards": [
+    {
+     "name": "Love, Sera\t\t\t\t\t",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32",
+   "game": "League of Legends",
+   "title": "Split 3 - Sub Drop (Pt.1)",
+   "startAt": "2026-08-15T23:30:00+00:00",
+   "endAt": "2026-09-01T17:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1b268f37-ee55-49a3-86d8-c10e17d4e60b",
+   "game": "Rise Online",
+   "title": "ROW Drop 573",
+   "startAt": "2026-08-31T17:59:00+00:00",
+   "endAt": "2026-09-01T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e2b77e82-ded3-45d2-a493-d30e779a372a",
+   "game": "Rise Online",
+   "title": "Mobile Drop 144",
+   "startAt": "2026-08-31T17:59:00+00:00",
+   "endAt": "2026-09-01T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a7bdc2ec-dc51-4a17-9fdd-6f6331e6407b",
    "game": "Delta Force",
