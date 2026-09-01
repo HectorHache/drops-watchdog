@@ -2880,6 +2880,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/55cf13ea-1500-4852-9fd7-135902e40d1b.png"
+  },
+  {
+   "id": "2ee33507-7ee6-4e79-a791-df23f626dad8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R2 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-01T17:00:00+00:00",
+   "endAt": "2026-09-01T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-01T17:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1ddcce9-dd37-4224-a97d-7f8864d3b9ca.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2ee33507-7ee6-4e79-a791-df23f626dad8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2ee33507-7ee6-4e79-a791-df23f626dad8.jpg"
   }
  ],
  "archive": [
