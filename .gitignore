@@ -1,0 +1,12 @@
+# secrets (never commit)
+.logTw
+.steamMine
+
+# local state
+data/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local caches
+.tmp/

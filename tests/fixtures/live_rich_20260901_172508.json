@@ -1,0 +1,4130 @@
+{
+  "data": {
+    "currentUser": {
+      "id": "908570355",
+      "displayName": "LaPurria",
+      "dropCampaigns": [
+        {
+          "id": "a7bdc2ec-dc51-4a17-9fdd-6f6331e6407b",
+          "name": "ANNIVERSARY PREVIEW",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T14:45:00Z",
+          "endAt": "2026-09-01T17:29:59.999Z",
+          "game": {
+            "id": "1282866981",
+            "name": "Delta Force",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42f7ceeb-6f3c-4a63-9e5a-d6b57305e7b7.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "c2996569-a05e-11f1-b468-0a58a9feac02",
+              "name": "Spray Paint - Hol' Up",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "d296a655-a05e-11f1-a906-0a58a9feac02",
+              "name": "Calling Card - Moments of Joy",
+              "requiredMinutesWatched": 20
+            },
+            {
+              "id": "da4e5354-a05e-11f1-8951-0a58a9feac02",
+              "name": "Avatar - Holiday",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "e49608e9-a05e-11f1-84b9-0a58a9feac02",
+              "name": "Vector Submachine Gun - Playtime",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "1b268f37-ee55-49a3-86d8-c10e17d4e60b",
+          "name": "ROW Drop 573",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T17:59:00Z",
+          "endAt": "2026-09-01T17:56:59.999Z",
+          "game": {
+            "id": "516588",
+            "name": "Rise Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/adaf7e0b-0bf9-45e5-9c46-82198bfbfd15.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "1125478a-a161-11f1-867e-0a58a9feac02",
+              "name": "ROW Drop 573",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "e2b77e82-ded3-45d2-a493-d30e779a372a",
+          "name": "Mobile Drop 144",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T17:59:00Z",
+          "endAt": "2026-09-01T17:56:59.999Z",
+          "game": {
+            "id": "516588",
+            "name": "Rise Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/535acc72-69dd-44d9-921c-2df6e1de5c0d.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "08cd1bd7-a163-11f1-8fae-0a58a9feac02",
+              "name": "Mobile Drop 144",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32",
+          "name": "Split 3 - Sub Drop (Pt.1)",
+          "status": "ACTIVE",
+          "startAt": "2026-08-15T23:30:00Z",
+          "endAt": "2026-09-01T17:58:59.999Z",
+          "game": {
+            "id": "21779",
+            "name": "League of Legends",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/21779-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e7ddf5b-a4d5-441a-9cfa-2e0e37f91cb2.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "09c12f11-8139-11f1-a582-0a58a9feac02",
+              "name": "I Call The Shots\t",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "3a4133e8-36b5-4d71-88be-2531f237d96c",
+          "name": "Modern Warfare 4 Beta W2",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T16:00:00Z",
+          "endAt": "2026-09-01T19:29:59.999Z",
+          "game": {
+            "id": "1478650472",
+            "name": "Call of Duty: Modern Warfare 4",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1478650472_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/004ab4bf-a565-4032-aeb2-e048bd0cc00f.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "928f5b6c-9a67-11f1-8014-0a58a9feac02",
+              "name": "Get Tactical Emblem",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "9fc4e0ba-9a67-11f1-a3fe-0a58a9feac02",
+              "name": "Clearing House Calling Card",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "ab7665a2-9a67-11f1-a0e5-0a58a9feac02",
+              "name": "Action Ready Charm",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "b3edc86e-62e8-4bb5-ad65-f4789bc31f13",
+          "name": "Sterling",
+          "status": "ACTIVE",
+          "startAt": "2026-08-24T19:30:00Z",
+          "endAt": "2026-09-01T23:29:59.999Z",
+          "game": {
+            "id": "356609813",
+            "name": "Kirka.io",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/356609813_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dab10df3-0e25-490f-a294-ffe45a202b3a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "38f7bfec-a02d-11f1-881a-0a58a9feac02",
+              "name": "Sterling",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        },
+        {
+          "id": "f51394f0-0f64-47d5-bfe0-e53e7cecfbc6",
+          "name": "September Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T00:00:00Z",
+          "endAt": "2026-09-01T23:59:59.999Z",
+          "game": {
+            "id": "2128139746",
+            "name": "The Quinfall",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/505b1043-2ae1-40b8-b83d-e6de98acdf04.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "35c29fa9-a55b-11f1-8666-0a58a9feac02",
+              "name": "Twitch Reward Chest",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
+          "name": "Brawlhalla Eternal Sport",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T12:00:00Z",
+          "endAt": "2026-09-02T03:59:59.999Z",
+          "game": {
+            "id": "460316",
+            "name": "Brawlhalla",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/460316_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/38f8e1fc-b726-4bf3-a86a-4fe72f35cc4d.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "74a94d2b-9bd2-11f1-b0ef-0a58a9feac02",
+              "name": "Volkov v6 Colors",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "7bcbdd26-9bd2-11f1-92ff-0a58a9feac02",
+              "name": "Koji v6 Colors",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "83c4fda4-9bd2-11f1-9a25-0a58a9feac02",
+              "name": "\"Survivalist\" Title",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "8c29d54b-9bd2-11f1-b313-0a58a9feac02",
+              "name": "Qinghua & BaoBao v7",
+              "requiredMinutesWatched": 300
+            },
+            {
+              "id": "9342eb5b-9bd2-11f1-bec3-0a58a9feac02",
+              "name": "Neo City Chakram",
+              "requiredMinutesWatched": 420
+            }
+          ]
+        },
+        {
+          "id": "15770ea9-97d6-4c06-99c9-dd06d157b673",
+          "name": "2026 WCS VGC Co-Streamers",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T15:30:00Z",
+          "endAt": "2026-09-02T06:58:59.999Z",
+          "game": {
+            "id": "1931693784",
+            "name": "Pok\u00e9mon Champions",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1931693784_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6a9d4dc2-0937-49b0-a3f1-b098d5fd8d8a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0bf0af15-9b57-11f1-82bd-0a58a9feac02",
+              "name": "Quick Coupon x50 (Co-Stream)",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "f790b2a4-79a9-4308-9aa8-851300893cc7",
+          "name": "2026 WCS GO Co-Streamers",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-02T06:58:59.999Z",
+          "game": {
+            "id": "490655",
+            "name": "Pok\u00e9mon GO",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29bcb76a-ff16-4c2e-88ff-ed43894a1c3b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "78bf35a4-9b5a-11f1-a725-0a58a9feac02",
+              "name": "World Championships 2026 Pikachu",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c",
+          "name": "2026 WCS TCG Co-Stream",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-02T06:59:59.999Z",
+          "game": {
+            "id": "9618",
+            "name": "Pok\u00e9mon Trading Card Game",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b85117f-e90f-4185-91fa-5fc5bb98ad9d.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "cd8ead7d-9c2d-11f1-944d-0a58a9feac02",
+              "name": "'26 WCS TCGL Co-Stream",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "5078dc9a-e17d-4411-ad1e-92f278ff0a1a",
+          "name": "2026 WCS Incineroar",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-02T06:59:59.999Z",
+          "game": {
+            "id": "1931693784",
+            "name": "Pok\u00e9mon Champions",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1931693784_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1b972807-e5cb-44b0-a5b1-eef769f37ac3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b2ed032f-9b56-11f1-9472-0a58a9feac02",
+              "name": "Incineroar",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "08a9b31a-ff37-429d-8817-1b8e42d59fcd",
+          "name": "AOCP Flamescale 1 - #2/7",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T10:00:00Z",
+          "endAt": "2026-09-02T09:29:59.999Z",
+          "game": {
+            "id": "417528",
+            "name": "Albion Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/038653ff-4b6e-40ff-af8b-9d5c5402a061.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "890883cb-9b0d-11f1-b9c0-0a58a9feac02",
+              "name": "2x Noble Community Chest",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "06a1167e-f7a5-4819-84ca-8cd20b95301a",
+          "name": "Dragonfire 1 - #2/7",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T10:00:00Z",
+          "endAt": "2026-09-02T09:29:59.999Z",
+          "game": {
+            "id": "417528",
+            "name": "Albion Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00512795-dc94-47bd-8c1d-cc56b1d1222c.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "394a0f0a-9b07-11f1-b5e5-0a58a9feac02",
+              "name": "2x Dragonfire Chest",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "28540dcb-38f7-49d3-abb5-505e9cc59b6c",
+          "name": "2026 BDO Drops (Sep 1)",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T12:00:00Z",
+          "endAt": "2026-09-02T11:59:59.999Z",
+          "game": {
+            "id": "386821",
+            "name": "Black Desert",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/70f78fbe-9461-4d07-9797-30e89b3d9c90.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "7aa15f7e-a25f-11f1-ab2a-0a58a9feac02",
+              "name": "2 Hours (Sep 1)",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "4b910356-dc7d-4cc0-aa28-f0843e303fff",
+          "name": "MrM Fun week",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T12:00:00Z",
+          "endAt": "2026-09-02T11:59:59.999Z",
+          "game": {
+            "id": "1292861145",
+            "name": "Marble Racing Manager",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1292861145_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "aff9cf38-a199-11f1-a4cd-0a58a9feac02",
+              "name": "Drop 1",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "c63fd64b-a199-11f1-bb2e-0a58a9feac02",
+              "name": "Sub Drop 1",
+              "requiredMinutesWatched": 0
+            },
+            {
+              "id": "d320f002-a199-11f1-8f0f-0a58a9feac02",
+              "name": "Drop 2",
+              "requiredMinutesWatched": 720
+            }
+          ]
+        },
+        {
+          "id": "e1bf9724-4dfa-4fba-ad0b-fa70e6dae704",
+          "name": "Affiliate 9/1/26",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T13:00:00Z",
+          "endAt": "2026-09-02T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7116d025-74b8-40d9-bce2-fa930358aae0.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b1069b5e-9fe6-11f1-97be-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "b8350b4a-9fe6-11f1-a1e1-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "bdb6dc1d-9fe6-11f1-93c6-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "c20e7d3d-9fe6-11f1-98e7-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "c71b6289-9fe6-11f1-ae1e-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 90
+            }
+          ]
+        },
+        {
+          "id": "84430ba9-5313-4f51-a238-eef01f4c57bf",
+          "name": "DrDynastic 9/1/26",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T13:00:00Z",
+          "endAt": "2026-09-02T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b0e18751-8280-4b5f-81ab-ec528489f952.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b291eb9d-a537-11f1-901a-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "b92a4a35-a537-11f1-89dc-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "bd6a28a0-a537-11f1-9ad5-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "c12465fe-a537-11f1-8a8c-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "c5ed0c27-a537-11f1-a008-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "cd957813-a537-11f1-ad62-0a58a9feac02",
+              "name": "6",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "d3da2a52-a537-11f1-bf89-0a58a9feac02",
+              "name": "7",
+              "requiredMinutesWatched": 150
+            },
+            {
+              "id": "da36075e-a537-11f1-a3c7-0a58a9feac02",
+              "name": "8",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "377c2eb4-276b-4055-931d-ed46a67e58a5",
+          "name": "Back in Action #3",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T15:00:00Z",
+          "endAt": "2026-09-02T14:59:59.999Z",
+          "game": {
+            "id": "27546",
+            "name": "World of Tanks",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b4c0b5b-a1b4-4da8-be8c-eb2682944c1f.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "08735a2c-8b23-11f1-9390-0a58a9feac02",
+              "name": "Drop",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "68abe2be-5e6d-4a33-805c-be185cfab75b",
+          "name": "HEAT Season 1 - Week 9",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T16:00:00Z",
+          "endAt": "2026-09-02T15:58:59.999Z",
+          "game": {
+            "id": "767133634",
+            "name": "World of Tanks: HEAT",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/767133634_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/787a1798-1382-4bde-b134-48c1dfca4749.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "683e44db-81e8-11f1-ac4d-0a58a9feac02",
+              "name": "10,000 Credits",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "6c7c24f1-81e8-11f1-a8c3-0a58a9feac02",
+              "name": "300 Tech",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "8cfe655c-5209-46e4-ac4a-244cfc7abbbc",
+          "name": "15.7 WOWS Channel Drop",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T22:00:00Z",
+          "endAt": "2026-09-02T21:59:59.999Z",
+          "game": {
+            "id": "32502",
+            "name": "World of Warships",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e4ab3c7-a698-4660-aeac-dfa3d26951f4.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b71b1551-919c-11f1-9d83-0a58a9feac02",
+              "name": "Week 3: gamescom 2026 mission",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "edf379ee-bce7-41cb-8c2e-85496f9e2c18",
+          "name": "Aug #5",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T08:00:00Z",
+          "endAt": "2026-09-02T23:58:59.999Z",
+          "game": {
+            "id": "1471416868",
+            "name": "UFL",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1471416868_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86c48744-b745-4bf1-a10d-15dc3cf77b01.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "5ab117b6-a1ea-11f1-baec-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "670e64af-a1ea-11f1-9891-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "74982f3b-a1ea-11f1-81bd-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "7fb36a83-a1ea-11f1-8b4f-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "9290f0f7-a1ea-11f1-961d-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 300
+            }
+          ]
+        },
+        {
+          "id": "d9325f57-34f6-46ee-8695-24f1c5a8e93f",
+          "name": "JS1 PARTNER\u21607.30\uff081\uff09",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T04:00:00Z",
+          "endAt": "2026-09-03T03:59:59.999Z",
+          "game": {
+            "id": "515474",
+            "name": "NARAKA: BLADEPOINT",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c4fba0be-1d98-4e07-9b41-646202685757.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "06832d8d-8af8-11f1-bc5c-0a58a9feac02",
+              "name": "Ye Xiu\u00b7Fierce Dungeon",
+              "requiredMinutesWatched": 480
+            },
+            {
+              "id": "0e57d707-8af8-11f1-9c82-0a58a9feac02",
+              "name": "Serene Treasure Choice Gift",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "e9c22ee7-8af7-11f1-90b1-0a58a9feac02",
+              "name": "Tae*500",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "f3fafae2-8af7-11f1-ba12-0a58a9feac02",
+              "name": "Spectral Silk*500",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "fd2ea5ca-8af7-11f1-9c47-0a58a9feac02",
+              "name": "Outfit Trial Choice Gift",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "19b53cc6-d03b-478d-8497-a87a5e2967e4",
+          "name": "DEEP SIGNAL EVENT",
+          "status": "ACTIVE",
+          "startAt": "2026-08-20T10:30:00Z",
+          "endAt": "2026-09-03T08:59:59.999Z",
+          "game": {
+            "id": "1910103699",
+            "name": "THE FINALS",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1910103699-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c079b88e-a7ac-4240-bf6a-6e882305e9be.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "a8bb653e-959d-11f1-8c2e-0a58a9feac02",
+              "name": "Connection Complete Sticker",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "aecf1a35-959d-11f1-b7c7-0a58a9feac02",
+              "name": "Link Established Charm",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "c2262ad3-959d-11f1-af40-0a58a9feac02",
+              "name": "Meteor Tip Earrings",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "95282aea-6696-48b6-af42-f143f0791167",
+          "name": "Union Day 2026 Drop 1",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T11:00:00Z",
+          "endAt": "2026-09-03T10:57:59.999Z",
+          "game": {
+            "id": "13263",
+            "name": "EVE Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/13263-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ca9a187-a470-4e1a-ab93-795f8a6a7fe6.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "08a514c0-a52f-11f1-aaee-0a58a9feac02",
+              "name": "Halcyon B-3 Booster",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "e92d0112-0b48-413a-b169-9e24472a0634",
+          "name": "Season 4 Update Drops ",
+          "status": "ACTIVE",
+          "startAt": "2026-08-21T05:00:00Z",
+          "endAt": "2026-09-03T14:59:59.999Z",
+          "game": {
+            "id": "2104758320",
+            "name": "The First Descendant",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2104758320_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "1450d38c-96f0-11f1-88f0-0a58a9feac02",
+              "name": "Crystallization Catalyst & Energy Activator",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "3dcc9150-96f0-11f1-8e1a-0a58a9feac02",
+              "name": "Gold, Kuiper Shards & Descendant Slot",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "d2210c26-96ef-11f1-9f20-0a58a9feac02",
+              "name": "Twitch Violet Color Paints",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "f00cb260-96ef-11f1-94eb-0a58a9feac02",
+              "name": "EXP Boost Pack",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "c7f41fc6-9fd5-44ca-913a-c28a4beeb90b",
+          "name": "TCTD2 Y8S3 Red Horizon",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T15:00:00Z",
+          "endAt": "2026-09-03T14:59:59.999Z",
+          "game": {
+            "id": "504463",
+            "name": "Tom Clancy's The Division 2",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/504463_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "66999509-a1fd-11f1-9b92-0a58a9feac02",
+              "name": "Witness Arm Patch",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "702b2c23-a1fd-11f1-b64a-0a58a9feac02",
+              "name": "Named Item Cache",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "7867b0e9-a1fd-11f1-ae88-0a58a9feac02",
+              "name": "Renewal Arm Patch",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "8738d5b9-a1fd-11f1-81fb-0a58a9feac02",
+              "name": "Exotic Cache",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "92a5d55e-a1fd-11f1-9fb6-0a58a9feac02",
+              "name": "Aftermath Weapon Skin",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "7d52f54c-0c35-4d63-8cbe-a2014bbabd5c",
+          "name": "Update 15.7 Drop: Week 3",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T16:00:00Z",
+          "endAt": "2026-09-03T15:59:59.999Z",
+          "game": {
+            "id": "32502",
+            "name": "World of Warships",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce73fcec-f6a5-44ec-bcc5-a1c912ae9dc5.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "2782ac09-919b-11f1-b102-0a58a9feac02",
+              "name": "Update 15.7 Mission #3",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "2d59f4ef-919b-11f1-af12-0a58a9feac02",
+              "name": "Twitch Container 15.7 week #3",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "89359282-f4d9-4c03-8a72-3403723b9ca4",
+          "name": "Anno 117 DLC2 Launch",
+          "status": "ACTIVE",
+          "startAt": "2026-08-20T10:00:00Z",
+          "endAt": "2026-09-03T15:59:59.999Z",
+          "game": {
+            "id": "1637021799",
+            "name": "Anno 117: Pax Romana",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1637021799_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "d7344342-8a84-11f1-9e71-0a58a9feac02",
+              "name": "Medusa logo",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "e3932414-8a84-11f1-9e55-0a58a9feac02",
+              "name": "Festive Alder Skin",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "385bbec7-f07e-4108-bfc7-58427e4505e9",
+          "name": "S&F Droplets",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T14:00:00Z",
+          "endAt": "2026-09-03T21:58:59.999Z",
+          "game": {
+            "id": "510389",
+            "name": "Shakes and Fidget",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9ca3b2d-408c-4b35-a775-dc1838d192d0.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0287575c-716b-11f1-a807-0a58a9feac02",
+              "name": "Soul Taker Package",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "0a7112e7-716b-11f1-a3a5-0a58a9feac02",
+              "name": "Fortification Package",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "1216e731-716b-11f1-9a90-0a58a9feac02",
+              "name": "Smith Package",
+              "requiredMinutesWatched": 150
+            },
+            {
+              "id": "1ab7f7ea-716b-11f1-9997-0a58a9feac02",
+              "name": "Allrounder Package",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "ebb6631d-716a-11f1-8bf9-0a58a9feac02",
+              "name": "Gilded Package",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "f3bb717a-716a-11f1-bdcf-0a58a9feac02",
+              "name": "Construction Package",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "fb69af0d-716a-11f1-b247-0a58a9feac02",
+              "name": "Arcane Package",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "812ec00b-52f4-4fb9-8387-3a26ca1104d7",
+          "name": "Season 9.5 Twitch Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-07T12:00:00Z",
+          "endAt": "2026-09-04T08:59:59.999Z",
+          "game": {
+            "id": "1264310518",
+            "name": "Marvel Rivals",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1264310518_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/518e60e5-e45c-4aa0-8c7f-666c402d8719.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "473ee6b8-8f1b-11f1-9a16-0a58a9feac02",
+              "name": "Elsa Bloodstone\u300cWill of Galacta\u300dSpray",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "4b708597-8f1b-11f1-a4ba-0a58a9feac02",
+              "name": "Elsa Bloodstone\u300cWill of Galacta\u300dNameplate",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "4ea82af7-8f1b-11f1-bf21-0a58a9feac02",
+              "name": "Elsa Bloodstone\u300cSpot of Tea\u300dEmotes",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "51cef43b-8f1b-11f1-ad4e-0a58a9feac02",
+              "name": "Elsa Bloodstone\u300cWill of Galacta\u300dCostume",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "8969a2fd-fe6c-4364-a28f-e70fb013c877",
+          "name": "NW2 SUMMER DROPS #7",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T14:00:00Z",
+          "endAt": "2026-09-04T09:59:59.999Z",
+          "game": {
+            "id": "544682640",
+            "name": "NextWorld2",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/544682640_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2e1d3a2-92d2-454f-a02f-cb8ce4cf5026.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "8e5e8f81-a0c3-11f1-b0c2-0a58a9feac02",
+              "name": "Gladi\u00e1tor K\u00f6peny (100 db)",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "9379076e-a0c3-11f1-94e5-0a58a9feac02",
+              "name": "Gladi\u00e1tor Gy\u0171r\u0171 (1 db)",
+              "requiredMinutesWatched": 300
+            },
+            {
+              "id": "9eec294a-a0c3-11f1-b8fe-0a58a9feac02",
+              "name": "Twitch \u00c9rme (1 db)",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "a7aa2ecf-a0c3-11f1-8bfa-0a58a9feac02",
+              "name": "Twitch F\u00f3kusz (1 db)",
+              "requiredMinutesWatched": 840
+            },
+            {
+              "id": "ab3c9466-a0c3-11f1-b62b-0a58a9feac02",
+              "name": "Next L\u00e1da Var\u00e1zslat",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        },
+        {
+          "id": "8037f40f-4902-49a2-8ce1-8a8bfd5b432d",
+          "name": "Lestakorabli - 26.8 #4",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T14:00:00Z",
+          "endAt": "2026-09-04T14:59:59.999Z",
+          "game": {
+            "id": "2133072147",
+            "name": "Mir Korabley",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2133072147_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0dcbedb-c56c-4707-bbed-f3c750f2e1e0.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "8d0a27b7-8a9c-11f1-bcf5-0a58a9feac02",
+              "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "af763899-d449-4c09-ab9b-27fb1d48f4c4",
+          "name": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.8: \u0427\u0430\u0441\u0442\u044c 4",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T14:00:00Z",
+          "endAt": "2026-09-04T14:59:59.999Z",
+          "game": {
+            "id": "2133072147",
+            "name": "Mir Korabley",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2133072147_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1424ac07-b6d0-4987-bd81-95449a4c1f42.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "3330a49e-8c20-11f1-89a6-0a58a9feac02",
+              "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.8 #4",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
+          "name": "Marble Day 263",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T16:00:00Z",
+          "endAt": "2026-09-04T15:59:59.999Z",
+          "game": {
+            "id": "509511",
+            "name": "Marbles on Stream",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509511_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20d833e7-d2dc-483e-b5f9-7069079ff320.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "3dcafb31-a2b4-11f1-8392-0a58a9feac02",
+              "name": "DROP 1",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "41956dab-a2b4-11f1-8a4b-0a58a9feac02",
+              "name": "DROP 2",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "47c7910a-a2b4-11f1-b755-0a58a9feac02",
+              "name": "DROP 3",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "4d3b8e81-a2b4-11f1-8416-0a58a9feac02",
+              "name": "DROP 4",
+              "requiredMinutesWatched": 480
+            },
+            {
+              "id": "50d04861-a2b4-11f1-b742-0a58a9feac02",
+              "name": "DROP 5",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "57bec0fc-a2b4-11f1-8aed-0a58a9feac02",
+              "name": "DROP - SUBS",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "a61fe9af-414f-4736-beb0-aa978591bd79",
+          "name": "August Week 5",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T17:00:00Z",
+          "endAt": "2026-09-04T16:44:59.999Z",
+          "game": {
+            "id": "461221",
+            "name": "MARVEL Contest of Champions",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/461221_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "c96dfe46-a1ad-11f1-875f-0a58a9feac02",
+              "name": "Drop 1 - 5x Energy & 3x Level 2 Revives",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "de4e0b6c-a1ad-11f1-983a-0a58a9feac02",
+              "name": "Drop 2 - PRG Gated Rank Up Gem",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "e8f56ab1-a1ad-11f1-ac4f-0a58a9feac02",
+              "name": "Drop 3 - PRG Gated Ascension Materials",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "f1ede4ba-a1ad-11f1-8b96-0a58a9feac02",
+              "name": "Drop 4 - PRG Gated Signature Stones",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "9e51c96d-5adc-4dde-be70-f12777c80aeb",
+          "name": "August Week 5 - Ishtar!",
+          "status": "ACTIVE",
+          "startAt": "2026-08-29T11:00:00Z",
+          "endAt": "2026-09-05T10:57:59.999Z",
+          "game": {
+            "id": "2094865572",
+            "name": "SMITE 2",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2094865572-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f25c01e9-4358-4068-b8b0-f2e9f3ab4d6e.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "55d9434d-a234-11f1-8360-0a58a9feac02",
+              "name": "Market Coins Bundle 1",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "5b16e194-a234-11f1-9569-0a58a9feac02",
+              "name": "Market Coins Bundle 2",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "5fa68409-a234-11f1-b816-0a58a9feac02",
+              "name": "Market Coins Bundle 3",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "64edb06c-a234-11f1-bc88-0a58a9feac02",
+              "name": "Market Coins Bundle 4",
+              "requiredMinutesWatched": 480
+            },
+            {
+              "id": "6e2de4c0-a234-11f1-b2ee-0a58a9feac02",
+              "name": "Rose Warrior Ishtar",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "746c1751-a234-11f1-9f4c-0a58a9feac02",
+              "name": "Market Coins Bundle 6",
+              "requiredMinutesWatched": 720
+            },
+            {
+              "id": "7c0809dc-a234-11f1-bf79-0a58a9feac02",
+              "name": "Market Coins Bundle 7",
+              "requiredMinutesWatched": 840
+            }
+          ]
+        },
+        {
+          "id": "d985bdab-7bd3-41f6-8d24-8d002ba29ff6",
+          "name": "Cipher",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T19:30:00Z",
+          "endAt": "2026-09-05T23:29:59.999Z",
+          "game": {
+            "id": "356609813",
+            "name": "Kirka.io",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/356609813_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f5b50b91-454c-41e0-8077-8b381cc68aea.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "fb730a72-a34e-11f1-8621-0a58a9feac02",
+              "name": "Cipher",
+              "requiredMinutesWatched": 600
+            }
+          ]
+        },
+        {
+          "id": "751c7c96-b668-4130-a638-9acb33868edb",
+          "name": "Plants on Fire",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T02:00:00Z",
+          "endAt": "2026-09-06T01:59:59.999Z",
+          "game": {
+            "id": "2146281325",
+            "name": "Plants on Fire",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2146281325_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/179e97fd-41cf-4cbe-912e-ac1bc72f9ef1.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "95743047-9c49-11f1-892b-0a58a9feac02",
+              "name": "10 Recruit Tokens",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "9b815f67-9d41-11f1-b4dd-0a58a9feac02",
+              "name": "1,000 Gold",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "9f0eff17-9c49-11f1-992f-0a58a9feac02",
+              "name": "Exclusive Profile",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "b105f621-9c49-11f1-b08f-0a58a9feac02",
+              "name": "Legendary Harvest Pot",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "c5383e3e-0a84-4cd8-b073-6f09cb489c74",
+          "name": "S&F Drops 1/3",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T14:00:00Z",
+          "endAt": "2026-09-06T21:58:59.999Z",
+          "game": {
+            "id": "510389",
+            "name": "Shakes and Fidget",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/57e732c3-1eaa-4945-b96f-d5a072b099b5.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "26f4e4d1-7171-11f1-9ba1-0a58a9feac02",
+              "name": "Gilded Package",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "2e8d9a1e-7171-11f1-ba7a-0a58a9feac02",
+              "name": "Potion Package",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "343d30b1-7171-11f1-9e26-0a58a9feac02",
+              "name": "Soul Taker Package",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "3aa8c68c-7171-11f1-9545-0a58a9feac02",
+              "name": "Fortification Package",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "427febfe-7171-11f1-ac57-0a58a9feac02",
+              "name": "Smith Package",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "4a278cc7-7171-11f1-adf7-0a58a9feac02",
+              "name": "Time Jump Package",
+              "requiredMinutesWatched": 150
+            },
+            {
+              "id": "51289079-7171-11f1-861d-0a58a9feac02",
+              "name": "Gem Package",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "36a8fac7-6588-45fc-8544-19eef52dac2a",
+          "name": "MD Drops Set 4",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T00:00:00Z",
+          "endAt": "2026-09-06T21:59:59.999Z",
+          "game": {
+            "id": "383199964",
+            "name": "Mobile Dungeon",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/383199964_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2fe8ff53-e3f4-4502-93b8-7275742ee834.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "577b15e5-715c-11f1-a022-0a58a9feac02",
+              "name": "5x Dungeon Key",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "63d06958-715c-11f1-9d31-0a58a9feac02",
+              "name": "2x Arena Ticket",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "6c003873-715c-11f1-ba7a-0a58a9feac02",
+              "name": "50x Crystal",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "7454329d-715c-11f1-8bf9-0a58a9feac02",
+              "name": "48x Thirst for Adventure",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "e7a34dde-0b5c-44cd-ac88-2525e49648fb",
+          "name": "North Hunt 1.0 Release",
+          "status": "ACTIVE",
+          "startAt": "2026-08-17T05:00:00Z",
+          "endAt": "2026-09-06T23:29:59.999Z",
+          "game": {
+            "id": "378188687",
+            "name": "North Hunt",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/378188687_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4872483-d98a-4684-bf98-0185fba345b5.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "843e26df-97f3-11f1-9358-0a58a9feac02",
+              "name": "01 Drop",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "89d8ec15-97f3-11f1-bde9-0a58a9feac02",
+              "name": "02 Drop",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8f09eb10-97f3-11f1-9bd1-0a58a9feac02",
+              "name": "03 Drop",
+              "requiredMinutesWatched": 90
+            }
+          ]
+        },
+        {
+          "id": "c000c894-58ae-4b2b-bf19-265f8d529737",
+          "name": "Weekly Supply Drops #31",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T00:00:00Z",
+          "endAt": "2026-09-06T23:29:59.999Z",
+          "game": {
+            "id": "423797288",
+            "name": "Modern Warships",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d5252416-4beb-4e00-b0c7-e56ffd917552.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "df3fcfe3-8105-11f1-ae06-0a58a9feac02",
+              "name": "1 Day of Premium",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "e322c614-8105-11f1-ab39-0a58a9feac02",
+              "name": "100 UP's",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "e84c6386-8105-11f1-a823-0a58a9feac02",
+              "name": "Tactical Consumables Set",
+              "requiredMinutesWatched": 90
+            }
+          ]
+        },
+        {
+          "id": "6c8043e5-3d85-46ba-87d1-c770c4108f3d",
+          "name": "[Re-Drop] Tree Tower Skin",
+          "status": "ACTIVE",
+          "startAt": "2026-08-30T18:14:13Z",
+          "endAt": "2026-09-06T23:59:59.999Z",
+          "game": {
+            "id": "324223699",
+            "name": "ChatTDT: Tower Defense Twitch",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/324223699_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c58e423-f88b-4683-91f3-ee1fb04872bd.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "afaf6e89-a49e-11f1-97a3-0a58a9feac02",
+              "name": "Tree Tower Skin [Standard]",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "c523e70f-98d4-4432-b67e-2c500d3c770c",
+          "name": "JS1 Weekly 8.31",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T04:00:00Z",
+          "endAt": "2026-09-07T03:59:59.999Z",
+          "game": {
+            "id": "515474",
+            "name": "NARAKA: BLADEPOINT",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d4502e3d-af7c-49b5-9d4f-b2edcaa8fd7b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b2680b37-6865-11f1-bba0-0a58a9feac02",
+              "name": "Special Random Gift",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "0b9dbe08-616c-4603-b0aa-b8d66f8bcae7",
+          "name": "2026 WCS TCG Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-07T06:58:59.999Z",
+          "game": {
+            "id": "9618",
+            "name": "Pok\u00e9mon Trading Card Game",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb873deb-0a1f-4e1c-9893-8e2b22f51f5f.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "568a9016-9b58-11f1-a0ed-0a58a9feac02",
+              "name": "Mega Zeraora ex Playset",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "7154f5cb-9b58-11f1-adc4-0a58a9feac02",
+              "name": "2026 Pok\u00e9mon World Championships Crate",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "f2ab701b-9b57-11f1-b4c4-0a58a9feac02",
+              "name": "Pitch Black Booster Packs x6",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "3f647f40-7675-46d9-85df-9039c0dc949e",
+          "name": "2026 WCS GO Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-07T06:58:59.999Z",
+          "game": {
+            "id": "490655",
+            "name": "Pok\u00e9mon GO",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87fed35e-f523-4feb-a553-85471e572e6b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "494d382b-9b59-11f1-92b7-0a58a9feac02",
+              "name": "2025 World Champion's Timed Research",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "5689cb12-9b59-11f1-9dd7-0a58a9feac02",
+              "name": "Team Building: Great League Bonus Timed Research",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "76ed891e-61c1-4207-ac23-ae9d036e843c",
+          "name": "2026 WCS UNITE Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "518379",
+            "name": "Pok\u00e9mon UNITE",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/518379_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f85aba36-4850-4db9-bef2-6e5310809ff6.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "9b492fbf-9b5b-11f1-a13c-0a58a9feac02",
+              "name": "2026 Pok\u00e9mon World Championships sticker",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "b09a7424-9b5b-11f1-9173-0a58a9feac02",
+              "name": "2026 Worlds costumed Pikachu License Art",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "e949ae78-9b5b-11f1-a2c3-0a58a9feac02",
+              "name": "2025 World Champions\u2019 License Selection Box",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "6f5cb838-8c0f-4095-82d8-b335dd3712c5",
+          "name": "2026 WCS VGC Finals Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-30T15:30:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "1931693784",
+            "name": "Pok\u00e9mon Champions",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1931693784_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03d566e2-f563-4145-9e25-2ea88f3624d2.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "7413e4c7-9b56-11f1-9d4d-0a58a9feac02",
+              "name": "Training Ticket x5",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "a6333c5e-a293-4730-bd7c-a87af365511f",
+          "name": "B&S NEO Reignited Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T17:00:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "801121736",
+            "name": "Blade & Soul NEO",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/801121736_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be0d4cc6-a7a9-4bc6-847b-a0bac0b529a8.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "924ef6d0-a264-11f1-bb00-0a58a9feac02",
+              "name": "Darkstorm Portrait Chest x2",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "9da42e47-a264-11f1-b788-0a58a9feac02",
+              "name": "Heroic Insignia Chest x5",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "a7255de1-a264-11f1-9c42-0a58a9feac02",
+              "name": "Darkstorm Portrait Chest x4",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "b124b5ca-a264-11f1-bd9a-0a58a9feac02",
+              "name": "Heroic Special Insignia Chest x2",
+              "requiredMinutesWatched": 480
+            },
+            {
+              "id": "b829241c-a264-11f1-9753-0a58a9feac02",
+              "name": "Bound Heroic Skill Book Selection Chest x1",
+              "requiredMinutesWatched": 600
+            }
+          ]
+        },
+        {
+          "id": "3652adfd-9812-4c1d-bffa-7886fa78faae",
+          "name": "PXP TCG Panel Rewards",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "9618",
+            "name": "Pok\u00e9mon Trading Card Game",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/80d12d51-abfe-4255-a461-c0bc819dd3e7.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "e7db2abd-9b54-11f1-bb47-0a58a9feac02",
+              "name": "PXP TCGL Drops",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "3efcfc9b-93e7-4057-b343-9f3d86d22b39",
+          "name": "PXP & 26 WCS TCGP",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T07:00:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "9618",
+            "name": "Pok\u00e9mon Trading Card Game",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/620dfa74-fafc-4544-b72b-a36d8c438c7b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "a33d0886-9b53-11f1-9f38-0a58a9feac02",
+              "name": "PXP & 26WCS TCGP Hourglasses",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "678cc286-9652-4890-9007-af05240cee99",
+          "name": "PXP GO Panel Reward",
+          "status": "ACTIVE",
+          "startAt": "2026-08-29T07:00:00Z",
+          "endAt": "2026-09-07T06:59:59.999Z",
+          "game": {
+            "id": "490655",
+            "name": "Pok\u00e9mon GO",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85114307-5600-4f4d-ae07-9f0de6d866f7.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "d64bac06-9b55-11f1-934f-0a58a9feac02",
+              "name": "PXP Pok\u00e9mon GO TR",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
+          "name": "Laptophound 17",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T13:00:00Z",
+          "endAt": "2026-09-07T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b4d4e36d-f89c-4733-a287-c0040d1590a9.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "5db94858-a53a-11f1-aee4-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "64ae7fea-a53a-11f1-be51-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "6acb343a-a53a-11f1-a379-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "724326f9-a53a-11f1-a7b0-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 480
+            }
+          ]
+        },
+        {
+          "id": "255103de-421f-4720-91fa-92b25fe0467a",
+          "name": "Official 17",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T13:00:00Z",
+          "endAt": "2026-09-07T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec3480a6-a7d9-407a-af28-f64d3cb4b6c3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "071611c5-a53a-11f1-aaee-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "14250043-a53a-11f1-aee4-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 450
+            },
+            {
+              "id": "2bd1c514-a53a-11f1-830a-0a58a9feac02",
+              "name": "6",
+              "requiredMinutesWatched": 540
+            },
+            {
+              "id": "349eac1e-a53a-11f1-9714-0a58a9feac02",
+              "name": "7",
+              "requiredMinutesWatched": 630
+            },
+            {
+              "id": "e90d1a6d-a539-11f1-a248-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "f4a0e42b-a539-11f1-bf89-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "fd205fe4-a539-11f1-9e2e-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 270
+            }
+          ]
+        },
+        {
+          "id": "3ed94804-99c7-498e-bba2-b63448b3386d",
+          "name": "The Herbalist #1",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T15:00:00Z",
+          "endAt": "2026-09-07T13:59:59.999Z",
+          "game": {
+            "id": "1780647523",
+            "name": "HITMAN World of Assassination",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1780647523_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db7e13f2-9a16-41d4-81f6-ae6ed9fc7b14.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "eeba3be7-a13e-11f1-8992-0a58a9feac02",
+              "name": "Purple Streak Proximity Explosive",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
+          "name": "Happy Birthday Voyagers!",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T16:00:00Z",
+          "endAt": "2026-09-07T15:59:59.999Z",
+          "game": {
+            "id": "1374834939",
+            "name": "Voyagers of Nera",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1374834939_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72fa0633-7cf0-4d3f-937d-cb77620681cf.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b2860d1b-a0bc-11f1-b256-0a58a9feac02",
+              "name": "Twitch Mana Flare",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "b9bb91f6-a0bc-11f1-9608-0a58a9feac02",
+              "name": "Twitch Diving Knife",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "c082343b-a0bc-11f1-834e-0a58a9feac02",
+              "name": "Infused Stone Skimmer",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "c65720c3-a0bc-11f1-945e-0a58a9feac02",
+              "name": "Twitch Sail",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "ccaed985-a0bc-11f1-90d3-0a58a9feac02",
+              "name": "Infused Watering Can",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "d199bb34-a0bc-11f1-bdbb-0a58a9feac02",
+              "name": "Infused Stone Glider",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "b64521c4-a827-4533-a403-6bc3929fb216",
+          "name": "MSF | September Week 1",
+          "status": "ACTIVE",
+          "startAt": "2026-08-31T21:00:00Z",
+          "endAt": "2026-09-07T20:59:59.999Z",
+          "game": {
+            "id": "504651",
+            "name": "MARVEL Strike Force",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c6a290e-8bb3-4785-b7b1-90590aea21b5.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "14e0687e-a20e-11f1-9180-0a58a9feac02",
+              "name": "1M Gold",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "1c5bb587-a20e-11f1-9582-0a58a9feac02",
+              "name": "100 L4 Training Modules",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "47172f4c-ad4a-4155-a20c-6e440102ff38",
+          "name": "Aegis of Dawn Drops \u2694\ufe0f",
+          "status": "ACTIVE",
+          "startAt": "2026-08-11T15:00:00Z",
+          "endAt": "2026-09-07T23:29:59.999Z",
+          "game": {
+            "id": "511295",
+            "name": "Predecessor",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/511295_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c4ba7dad-e17a-4e49-9122-d880cc96686c.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "5c62919c-9253-11f1-99ca-0a58a9feac02",
+              "name": "Ion Core",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "650b9a62-9253-11f1-81eb-0a58a9feac02",
+              "name": "Ion Core",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "6ef4a109-9253-11f1-af7f-0a58a9feac02",
+              "name": "Quantum Core",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "a5e7a0d9-9198-11f1-b214-0a58a9feac02",
+              "name": "Turquoise Scarlett Variant",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "b24c27f4-9198-11f1-a5da-0a58a9feac02",
+              "name": "Turquoise Scarlett Icon",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "b72c7517-9198-11f1-8dac-0a58a9feac02",
+              "name": "Turquoise Scarlett Banner",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "33e74b8b-b473-4f5c-bf91-a94a01f5302d",
+          "name": "ANNIVERSARY PREVIEW SUB",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T14:45:00Z",
+          "endAt": "2026-09-07T23:59:59.999Z",
+          "game": {
+            "id": "1282866981",
+            "name": "Delta Force",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/247e574a-926c-4b80-9240-d06a6be5ff49.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "83f7d67b-a05f-11f1-8e35-0a58a9feac02",
+              "name": "MP5 - Relentless Assault",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "b3bf7ef1-3d9a-4438-8ef9-9fd6f8e92e26",
+          "name": "Global Launch Welcome Kit",
+          "status": "ACTIVE",
+          "startAt": "2026-08-12T00:00:00Z",
+          "endAt": "2026-09-08T05:59:59.999Z",
+          "game": {
+            "id": "513567",
+            "name": "GunZ: The Duel",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/513567_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db6c48c9-4161-46eb-880d-1eef4f54c46e.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "3bc0ff88-96a3-11f1-b048-0a58a9feac02",
+              "name": "Global Launch Drops Kit",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "4c219285-bcf7-422a-9e2e-1603ced3d10c",
+          "name": "SQUADRA SEASON 6.2 Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-18T06:00:00Z",
+          "endAt": "2026-09-08T05:59:59.999Z",
+          "game": {
+            "id": "801541637",
+            "name": "DRAGON BALL GEKISHIN SQUADRA",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/801541637_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/36cfe199-856d-4a37-bf0a-d1c2c287f0da.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0c2e78eb-7f60-11f1-9005-0a58a9feac02",
+              "name": "Zeni \u00d73,000",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "0fbd38f5-7f60-11f1-8421-0a58a9feac02",
+              "name": "Exclusive Icon",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "15096790-7f60-11f1-a186-0a58a9feac02",
+              "name": "P6G-Capsule \u00d75",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "1bd69ce1-7f60-11f1-87d5-0a58a9feac02",
+              "name": "Zeni \u00d77,000",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "086f67a6-8db3-4e9e-92a2-6be857335056",
+          "name": "Masters of Mayhem Week 6",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T15:00:00Z",
+          "endAt": "2026-09-08T09:57:59.999Z",
+          "game": {
+            "id": "499551",
+            "name": "World of Tanks Console",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/499551-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/71c4de0c-c018-4fea-8e08-fcbbbcb052bf.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "086e632c-a5f1-11f1-9369-0a58a9feac02",
+              "name": "10 Enhanced Med Kits",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "11c988ec-a5f1-11f1-ad20-0a58a9feac02",
+              "name": "4 x3 Vehicle XP Boosters",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "8c186806-a5f1-11f1-8e1b-0a58a9feac02",
+              "name": "2 x6 Commander XP Boosters",
+              "requiredMinutesWatched": 480
+            }
+          ]
+        },
+        {
+          "id": "05a8f884-cb18-4206-93fb-509264b6d5e0",
+          "name": "DbD: Chorus of Sin",
+          "status": "ACTIVE",
+          "startAt": "2026-08-25T15:00:00Z",
+          "endAt": "2026-09-08T14:59:59.999Z",
+          "game": {
+            "id": "491487",
+            "name": "Dead by Daylight",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/491487-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a0f2cf2-9461-4a42-9cd5-2d66806c39ba.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "d7ae4836-9cc6-11f1-96f8-0a58a9feac02",
+              "name": "The Grimoire Badge",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "e26056fa-9cc6-11f1-91dc-0a58a9feac02",
+              "name": "Aurora Stardotter Figurine Charm",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "f033320e-9cc6-11f1-b7e5-0a58a9feac02",
+              "name": "Day of Reckoning Banner",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "b007b04a-ac60-4f4e-8d82-d9be40a74dd1",
+          "name": "September 01",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T15:00:00Z",
+          "endAt": "2026-09-08T14:59:59.999Z",
+          "game": {
+            "id": "608663369",
+            "name": "RavenQuest",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/608663369_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e2b329c-6ea2-47da-af62-92d03d3854d1.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "8ff5a2a5-a55d-11f1-ba9f-0a58a9feac02",
+              "name": "Drops Twitch Pack 1",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "93d9b668-a55d-11f1-bd7e-0a58a9feac02",
+              "name": "Drops Twitch Pack 2",
+              "requiredMinutesWatched": 600
+            },
+            {
+              "id": "979ff731-a55d-11f1-a986-0a58a9feac02",
+              "name": "2x Treasure Below RavenPacks",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "cd4d2fc7-092b-444c-a9dc-f2c9da8a1fbc",
+          "name": "September 01",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T15:00:00Z",
+          "endAt": "2026-09-08T14:59:59.999Z",
+          "game": {
+            "id": "262400435",
+            "name": "Ravendawn",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/262400435-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/098c8414-11e8-4a5f-94f4-1c18e08b5346.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "4e34ca41-a562-11f1-87a7-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "50e5d945-a562-11f1-b029-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "53ba711a-a562-11f1-87c7-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "56cdb449-a562-11f1-9ac9-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 540
+            },
+            {
+              "id": "59eaaea8-a562-11f1-a7d3-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 720
+            },
+            {
+              "id": "5e46c96b-a562-11f1-82da-0a58a9feac02",
+              "name": "100x Ghostly Infusion",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        },
+        {
+          "id": "5584d321-57de-48df-823b-bb9d18435f2c",
+          "name": "September Week 1",
+          "status": "ACTIVE",
+          "startAt": "2026-08-25T17:00:00Z",
+          "endAt": "2026-09-08T16:59:59.999Z",
+          "game": {
+            "id": "589569308",
+            "name": "Splinterlands",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/589569308_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d9ae990-e444-42ea-8aab-0e29d51699cc.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "103b71ff-a346-11f1-8b72-0a58a9feac02",
+              "name": "1000 Glint",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "229878a2-a346-11f1-9edc-0a58a9feac02",
+              "name": "1000 Glint",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "3224e59b-a346-11f1-9aad-0a58a9feac02",
+              "name": "1000 Glint",
+              "requiredMinutesWatched": 540
+            },
+            {
+              "id": "3fa030ea-a346-11f1-9379-0a58a9feac02",
+              "name": "1000 Glint",
+              "requiredMinutesWatched": 720
+            },
+            {
+              "id": "50b7c897-a367-11f1-a248-0a58a9feac02",
+              "name": "1000 Glint",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        },
+        {
+          "id": "8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a",
+          "name": "Sorcerer's Grassy Garb",
+          "status": "ACTIVE",
+          "startAt": "2026-08-11T17:00:00Z",
+          "endAt": "2026-09-08T16:59:59.999Z",
+          "game": {
+            "id": "18122",
+            "name": "World of Warcraft",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/18122-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/947bb6bc-4b0e-47f2-8112-c6d61fb59962.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "a273a44a-9397-11f1-8926-0a58a9feac02",
+              "name": "Ensemble: Sorcerer's Grassy Garb",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "ac46850b-745e-45d2-b7b3-494c17e30127",
+          "name": "26.8 Summer Event",
+          "status": "ACTIVE",
+          "startAt": "2026-08-19T03:00:00Z",
+          "endAt": "2026-09-08T20:59:59.999Z",
+          "game": {
+            "id": "512708",
+            "name": "Mahjong Soul",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512708_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b27ec98a-2149-4cf1-9cf2-ba2b2966032d.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "27c75960-8038-11f1-8974-0a58a9feac02",
+              "name": "Reward 1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "2fc4a136-8038-11f1-8052-0a58a9feac02",
+              "name": "Reward 2",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "336c660d-8038-11f1-b412-0a58a9feac02",
+              "name": "Reward 3",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "3795ce5c-8038-11f1-baf0-0a58a9feac02",
+              "name": "Reward 4",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "42fa626c-57c5-45f0-88fe-25e29819cd62",
+          "name": "Brawlhalla Q&B Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-19T14:00:00Z",
+          "endAt": "2026-09-09T03:59:59.999Z",
+          "game": {
+            "id": "460316",
+            "name": "Brawlhalla",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/460316_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fae9dd4b-242f-4090-9898-876d4ef19f4e.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "4f59220d-8cf2-11f1-b558-0a58a9feac02",
+              "name": "Artemis Esports v7",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "569a8f58-8cf2-11f1-adcd-0a58a9feac02",
+              "name": "Fait CCv2 Color",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "5f1345d0-8cf2-11f1-9d58-0a58a9feac02",
+              "name": "Priya CCv2 Color",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "66072ccc-8cf2-11f1-bc1e-0a58a9feac02",
+              "name": "Ragnir CCv2 Color",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "6dd0bc1a-8cf2-11f1-89f9-0a58a9feac02",
+              "name": "Qinghua & BaoBao",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
+          "name": "New class & New collab",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T10:00:00Z",
+          "endAt": "2026-09-09T09:59:59.999Z",
+          "game": {
+            "id": "741249831",
+            "name": "Crystal of Atlan",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/741249831_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8463f8b-b06a-40e6-950d-3f16d046f29b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "21fc1d99-9f90-11f1-bbc0-0a58a9feac02",
+              "name": "15min_Prismadium x20",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "28aee682-9f90-11f1-b339-0a58a9feac02",
+              "name": "30min_Bound Gold x500k",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "2f097a63-9f90-11f1-b037-0a58a9feac02",
+              "name": "60min_Spare Part Supply Box x20",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "3871cfb6-9f90-11f1-bbd2-0a58a9feac02",
+              "name": "120min_Enhancement Funds x1,000k",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "3f302b24-9f90-11f1-8a42-0a58a9feac02",
+              "name": "180min_Potent Catalyst x1",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "9bdebdf9-91c0-4ebb-a929-95861608d905",
+          "name": "Demo Release 0.3",
+          "status": "ACTIVE",
+          "startAt": "2026-08-13T13:00:00Z",
+          "endAt": "2026-09-10T12:59:59.999Z",
+          "game": {
+            "id": "1979426071",
+            "name": "Cash is King!",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1979426071_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00ed5118-e545-4a7a-89a6-0d66122ac937.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "4530e9ef-6f9d-11f1-aa0d-0a58a9feac02",
+              "name": "Dance Elite 2000",
+              "requiredMinutesWatched": 15
+            }
+          ]
+        },
+        {
+          "id": "e221678f-3391-402d-8819-fd1783894746",
+          "name": "Bugburst Waterballoon",
+          "status": "ACTIVE",
+          "startAt": "2026-08-13T17:00:00Z",
+          "endAt": "2026-09-10T16:59:59.999Z",
+          "game": {
+            "id": "488634",
+            "name": "Don't Starve Together",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/488634_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcbbb03a-8827-4d55-b308-c40d7a0ff698.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0b3a8d1b-9208-11f1-b416-0a58a9feac02",
+              "name": "Profile Icon",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "0fa53524-9208-11f1-a98f-0a58a9feac02",
+              "name": "Portrait Frame",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "1400091c-9208-11f1-bc40-0a58a9feac02",
+              "name": "Belonging",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "99335e2c-370b-4ca8-ba84-891e01002112",
+          "name": "Tooth and Claw",
+          "status": "ACTIVE",
+          "startAt": "2026-08-29T12:00:00Z",
+          "endAt": "2026-09-12T11:59:59.999Z",
+          "game": {
+            "id": "1671346441",
+            "name": "War Robots: Frontiers",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1671346441_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/15ac6377-3cd6-4be3-a716-9937d4dbcc0c.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0b231945-a206-11f1-8554-0a58a9feac02",
+              "name": "3-Day Premium Account",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "25fdae72-a206-11f1-9af2-0a58a9feac02",
+              "name": "15,000 Salvage",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "35ef006b-a206-11f1-b298-0a58a9feac02",
+              "name": "Repulsor",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "464a2867-a206-11f1-bf79-0a58a9feac02",
+              "name": "50 Intel",
+              "requiredMinutesWatched": 150
+            },
+            {
+              "id": "5f13cf88-a206-11f1-bad9-0a58a9feac02",
+              "name": "1x Helios Chassis",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "701fd14a-a206-11f1-aa5f-0a58a9feac02",
+              "name": "2x Nucleon",
+              "requiredMinutesWatched": 210
+            },
+            {
+              "id": "805e9dd9-a206-11f1-b298-0a58a9feac02",
+              "name": "100 Intel",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "901b7adc-a206-11f1-82e7-0a58a9feac02",
+              "name": "Garuda",
+              "requiredMinutesWatched": 270
+            },
+            {
+              "id": "f33c386e-a205-11f1-aa81-0a58a9feac02",
+              "name": "3,000 Credits",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "3595f84e-98bc-423d-9853-30dcebbf7481",
+          "name": "Skull and Bones - Y3S2",
+          "status": "ACTIVE",
+          "startAt": "2026-08-18T07:00:00Z",
+          "endAt": "2026-09-14T21:29:59.999Z",
+          "game": {
+            "id": "497431",
+            "name": "Skull and Bones",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/497431_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13c96614-e7b4-471a-8cbc-a3a48bf641b3.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "487fb861-8a97-11f1-970a-0a58a9feac02",
+              "name": "Hull Color - Mossy Gravewood",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "4f7ad715-8a97-11f1-8584-0a58a9feac02",
+              "name": "Sail Color - Rotbreath",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "560ee0f0-8a97-11f1-b70d-0a58a9feac02",
+              "name": "Pattern - Noose of Thorns",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "5d963d85-8a97-11f1-acc8-0a58a9feac02",
+              "name": "Emblem - Marauder's Gash",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "a79bead9-e221-402a-996b-e0fa4e2f8912",
+          "name": "Live Update 1.42.0",
+          "status": "ACTIVE",
+          "startAt": "2026-08-18T11:00:00Z",
+          "endAt": "2026-09-15T10:59:59.999Z",
+          "game": {
+            "id": "464339927",
+            "name": "ARC Raiders",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aadb8aab-2596-4b15-b808-981e9db89ea2.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "82baea1d-9557-11f1-ae64-0a58a9feac02",
+              "name": "Car Air Freshener",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8a9104d8-9557-11f1-b490-0a58a9feac02",
+              "name": "Ceramic Vase",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
+          "name": "SAB - Platinum god games",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T12:00:00Z",
+          "endAt": "2026-09-15T11:58:59.999Z",
+          "game": {
+            "id": "497431",
+            "name": "Skull and Bones",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/497431_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/05cedca3-7cf6-471f-99d0-39bde279197a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "54a16eb4-9fb3-11f1-9479-0a58a9feac02",
+              "name": "Stormlash",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "94084529-b24c-4d1a-9863-e815865f16f5",
+          "name": "Season 3 Special Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-19T12:30:00Z",
+          "endAt": "2026-09-15T12:29:59.999Z",
+          "game": {
+            "id": "266795834",
+            "name": "Blue Protocol: Star Resonance",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/266795834_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2ea7a0a-65cc-4b7c-8c79-1f8e7ad1a580.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0fbc3a95-9ab4-11f1-8979-0a58a9feac02",
+              "name": "Rose Orb (Bound) *100",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "83e5522a-9ab4-11f1-b014-0a58a9feac02",
+              "name": "Starland Medal *500",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "8d9ec777-9ab4-11f1-bc66-0a58a9feac02",
+              "name": "Dye Pack - Select*5",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "9a0fb0f9-9ab4-11f1-90a0-0a58a9feac02",
+              "name": "Rose Orb (Bound) *200",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "a3d4fd4d-9ab4-11f1-b461-0a58a9feac02",
+              "name": "Advanced Cooking - Select*3",
+              "requiredMinutesWatched": 300
+            }
+          ]
+        },
+        {
+          "id": "4f140c7d-c750-4c74-96a6-ae8c52fe221a",
+          "name": "R6S Y11S3",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T13:00:00Z",
+          "endAt": "2026-09-15T12:59:59.999Z",
+          "game": {
+            "id": "460630",
+            "name": "Rainbow Six Siege",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/460630-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8288e4f6-9eda-4125-b1c4-55d4743c5f14.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "6204167b-a08b-11f1-96f3-0a58a9feac02",
+              "name": "SMELLS LIKE BURNING",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "57c84a37-de55-4de4-ba40-331029d9cab7",
+          "name": "SAR Highland Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-18T17:00:00Z",
+          "endAt": "2026-09-15T16:59:59.999Z",
+          "game": {
+            "id": "509529",
+            "name": "Super Animal Royale",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509529_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59a2ffa6-0422-4e2c-8e5a-b7c4348387c3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "38ea1b2d-9b0d-11f1-8925-0a58a9feac02",
+              "name": "Scottish Claymore",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "7f6f0010-9b08-11f1-9c44-0a58a9feac02",
+              "name": "Scotsman's Outfit",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8e386b1f-9b08-11f1-bc66-0a58a9feac02",
+              "name": "Highland Tammy",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "2426fda9-8f15-43b6-9edb-2a6175fb204e",
+          "name": "Kakele Online - September",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T06:00:00Z",
+          "endAt": "2026-09-15T20:59:59.999Z",
+          "game": {
+            "id": "902050890",
+            "name": "Kakele Online - MMORPG",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/902050890_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b77aeea-96ca-4ce0-a89f-2dce603e96c3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "45a5255c-a178-11f1-9909-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "4a51a64a-a178-11f1-bba1-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "5102bbdf-a178-11f1-8616-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "6a94e1d4-a178-11f1-a77a-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "711e4e64-a178-11f1-8978-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 300
+            },
+            {
+              "id": "7ed8f98d-a178-11f1-b64e-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 540
+            },
+            {
+              "id": "88cd8e46-a178-11f1-8e69-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 720
+            },
+            {
+              "id": "948cb5b1-a178-11f1-8016-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 840
+            },
+            {
+              "id": "9c9bb2f1-a178-11f1-bc3c-0a58a9feac02",
+              "name": "Streamer Token",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        },
+        {
+          "id": "9ff2d241-3b92-4f86-b625-1362dbbdbafc",
+          "name": "Petals & Portraits",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T18:00:00Z",
+          "endAt": "2026-09-16T17:59:59.999Z",
+          "game": {
+            "id": "982017546",
+            "name": "Palia",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/982017546_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5ae7368f-1359-42c4-aab9-f3b88002e1db.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "9a5c1240-9c08-11f1-8401-0a58a9feac02",
+              "name": "Tier One",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "9f175fed-9c08-11f1-ad37-0a58a9feac02",
+              "name": "Tier Two",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "a3eac5e3-9c08-11f1-b40d-0a58a9feac02",
+              "name": "Tier Three",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "c7936644-f76f-4bc6-a540-a415a56c4712",
+          "name": "Where Wind Meet Sept",
+          "status": "ACTIVE",
+          "startAt": "2026-08-20T02:00:00Z",
+          "endAt": "2026-09-17T01:59:59.999Z",
+          "game": {
+            "id": "1630982727",
+            "name": "Where Winds Meet",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1630982727_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dd1e2fa9-5e83-4136-b460-2ab42d8d1409.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "c929b621-99fa-11f1-9290-0a58a9feac02",
+              "name": "15min drop September",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "ce9cc4bd-99fa-11f1-ad2b-0a58a9feac02",
+              "name": "30min drop September",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "d77f3d0c-99fa-11f1-8bef-0a58a9feac02",
+              "name": "60min drop September",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "e3370d4e-99fa-11f1-a5bd-0a58a9feac02",
+              "name": "120min drop September",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "e7cebfcf-99fa-11f1-b617-0a58a9feac02",
+              "name": "180min drop September",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "edc7d6c7-99fa-11f1-9d21-0a58a9feac02",
+              "name": "240min drop September",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "a490aaea-7490-4f94-9066-7834653c0899",
+          "name": "V3.6 Wuthering Waves",
+          "status": "ACTIVE",
+          "startAt": "2026-08-20T03:00:00Z",
+          "endAt": "2026-09-17T02:58:59.999Z",
+          "game": {
+            "id": "209738946",
+            "name": "Wuthering Waves",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/209738946_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db50d8c9-fe0f-4ae9-a6be-93f6f5b30fcd.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "052eedf4-9aed-11f1-974b-0a58a9feac02",
+              "name": "Advanced Energy Bag*2",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "11cffb4f-9aed-11f1-9ec1-0a58a9feac02",
+              "name": "Advanced Energy Core*3",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "1dff7a73-9aed-11f1-b1c3-0a58a9feac02",
+              "name": " Medium Resonance Potion*5",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "29a4cdf9-9aed-11f1-8bdd-0a58a9feac02",
+              "name": "Shell Credit*25000",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "f22f3236-9aec-11f1-ab5a-0a58a9feac02",
+              "name": "Astrite*50",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "f6e63738-9f19-47e3-8336-9d31482e91ad",
+          "name": "S6: Shard Voyagers",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T04:00:00Z",
+          "endAt": "2026-09-17T03:59:59.999Z",
+          "game": {
+            "id": "1023750977",
+            "name": "FragPunk",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1023750977_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eedf27c4-168a-4b30-af6c-e1d52873bf6a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "0708a3a5-9c47-11f1-9efe-0a58a9feac02",
+              "name": "Noisy Gears",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "12bcdeee-9c47-11f1-a75a-0a58a9feac02",
+              "name": "At the Ready",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "20e6f28d-9c47-11f1-98a6-0a58a9feac02",
+              "name": "Jaw-Dropping",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "2ac12e60-9c47-11f1-96e7-0a58a9feac02",
+              "name": "Dinosaur Pistol",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "caafff3e-0899-45cb-8937-d64a70f811a6",
+          "name": "V9.0 Special Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-20T10:00:00Z",
+          "endAt": "2026-09-17T09:59:59.999Z",
+          "game": {
+            "id": "506230",
+            "name": "Honkai Impact 3rd",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/506230_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fbfb9d5a-30c3-47fa-9216-d1de30c5f638.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "423d4885-8cbd-11f1-b17b-0a58a9feac02",
+              "name": "1. Stamina Potion*1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "5ce1afb0-8cbd-11f1-82bc-0a58a9feac02",
+              "name": "2. Phase Shifter*1",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "73015846-8cbd-11f1-ba9e-0a58a9feac02",
+              "name": "3. Asterite*1500",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8474e774-8cbd-11f1-9638-0a58a9feac02",
+              "name": "4. Crystal*120",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "796bdad1-10fd-4294-8277-6783723e14ff",
+          "name": "Mayhem Collection - DC",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T07:00:00Z",
+          "endAt": "2026-09-20T06:59:59.999Z",
+          "game": {
+            "id": "1813168901",
+            "name": "LEGO Batman: Legacy of the Dark Knight",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1813168901_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b54ae636-3d0d-4ea4-8ce2-12e39d19ba4b.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "97b14577-a1aa-11f1-b2ee-0a58a9feac02",
+              "name": "Comic Book Stand",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "a306d4c1-a1aa-11f1-8953-0a58a9feac02",
+              "name": "Neon Bat-Symbol",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "7d64c672-6183-425b-92e2-57546404f25c",
+          "name": "Harley Mayhem",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T07:00:00Z",
+          "endAt": "2026-09-20T06:59:59.999Z",
+          "game": {
+            "id": "1813168901",
+            "name": "LEGO Batman: Legacy of the Dark Knight",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1813168901_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ac988185-8594-4167-af46-872dd6e86565.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "11514a6a-a567-11f1-aba4-0a58a9feac02",
+              "name": "Harley Mayhem",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "4a750183-d375-48ac-9814-3650bd3a7534",
+          "name": "007 First Light #4",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T14:00:00Z",
+          "endAt": "2026-09-20T16:59:59.999Z",
+          "game": {
+            "id": "229772247",
+            "name": "007 First Light",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/229772247_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b33d3ac7-d412-420b-bb6c-6a59dbf4afc7.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "306d4c36-a14b-11f1-a56a-0a58a9feac02",
+              "name": "Daring Elite Outfit",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "454244f1-aeb4-427e-86d9-35b878bfd66a",
+          "name": "7DS Origin Drops 4th",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T08:00:00Z",
+          "endAt": "2026-09-21T14:58:59.999Z",
+          "game": {
+            "id": "76929895",
+            "name": "The Seven Deadly Sins: Origin",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/76929895_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/246e8300-0966-4b43-a923-964786b4d1bb.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "62e9c836-9f77-11f1-a8d9-0a58a9feac02",
+              "name": "Supreme Mastery EXP x 10",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "7e74fc58-9f77-11f1-953e-0a58a9feac02",
+              "name": "Special Refinement Stone x 10",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "8a0b76a5-9f77-11f1-8336-0a58a9feac02",
+              "name": "Special Tier Up Stone x 10",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8fdfd304-9f77-11f1-a218-0a58a9feac02",
+              "name": "Cube Key Bundle x 3",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "94181e7e-9f77-11f1-b339-0a58a9feac02",
+              "name": "Regular Hero Draw Ticket x 5",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "55e4bee5-9ac5-4af9-97fa-4906e6468120",
+          "name": "NBA 2K27 Season 1",
+          "status": "ACTIVE",
+          "startAt": "2026-08-25T16:00:00Z",
+          "endAt": "2026-09-22T15:59:59.999Z",
+          "game": {
+            "id": "602040818",
+            "name": "NBA 2K27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/602040818_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee6d33e4-0b5a-406e-9005-5e6baa60b0cb.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "1a996d9e-9da9-11f1-b344-0a58a9feac02",
+              "name": "NBA 2K27 Season 1 Code (45m)",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "216a7c91-9da9-11f1-a8d8-0a58a9feac02",
+              "name": "NBA 2K27 Season 1 Code (2hr)",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "281deb41-9da9-11f1-a555-0a58a9feac02",
+              "name": "NBA 2K27 Season 1 Code (4hr)",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "0f1b1514-fe01-4f81-8fea-d35049d204cd",
+          "name": "Console Launch Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-25T18:00:00Z",
+          "endAt": "2026-09-22T17:59:59.999Z",
+          "game": {
+            "id": "1441208453",
+            "name": "Once Human",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1441208453_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f467110-a08d-4bb5-8e85-130af883a918.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "3da689f5-9f9c-11f1-99e8-0a58a9feac02",
+              "name": "DECAL: GRAFFITI",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "44a63ad9-9f9c-11f1-83e4-0a58a9feac02",
+              "name": "VOID WINGS SKIN: UNKNOWN FEAR",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "4cebd3b7-9f9c-11f1-865e-0a58a9feac02",
+              "name": "FORMULA: GOLD-FRAMED CARVED WALL PAINTING",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "89ce7f50-00c2-4029-b3ca-e54630cfafd4",
+          "name": "Twitch Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T06:47:31Z",
+          "endAt": "2026-09-22T23:29:59.999Z",
+          "game": {
+            "id": "1102857083",
+            "name": "Doomsday: Last Survivors",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1102857083_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/903308d9-478b-4d28-9d70-077d9ef4d2d7.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "18cf3b17-a11a-11f1-bec4-0a58a9feac02",
+              "name": "15-Minute Reward",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "255cc991-a11b-11f1-8139-0a58a9feac02",
+              "name": "30-Minute Reward",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "412be155-a987-41ba-8f9e-30f0909e54cb",
+          "name": "V4.5 Honkai: Star Rail",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T01:00:00Z",
+          "endAt": "2026-09-23T00:59:59.999Z",
+          "game": {
+            "id": "213930085",
+            "name": "Honkai: Star Rail",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/213930085_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d3e3e83-c11f-45b8-9452-10e0223ce246.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "a0498f60-909d-11f1-bfde-0a58a9feac02",
+              "name": "Credit*20000",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "a5d220bb-909d-11f1-9b73-0a58a9feac02",
+              "name": "Lost Gold Fragment*4",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "ac9a84b6-909d-11f1-ae81-0a58a9feac02",
+              "name": "Condensed Aether*5",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "b241938c-909d-11f1-a852-0a58a9feac02",
+              "name": "Traveler's Guide*3",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "b7dd0d5c-909d-11f1-a7cf-0a58a9feac02",
+              "name": "Stellar Jade*30",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "90589949-1d2e-4161-8def-3aee51e1f721",
+          "name": "Resonance Launch",
+          "status": "ACTIVE",
+          "startAt": "2026-08-26T16:00:00Z",
+          "endAt": "2026-09-23T15:59:59.999Z",
+          "game": {
+            "id": "570615518",
+            "name": "Resonance: A Plague Tale Legacy",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/570615518_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/219ecc61-cc7d-457b-9f14-794549b28700.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "59bac079-9749-11f1-a04f-0a58a9feac02",
+              "name": "Resonance Minotaur",
+              "requiredMinutesWatched": 60
+            }
+          ]
+        },
+        {
+          "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
+          "name": "V2.9 Infinity Nikki",
+          "status": "ACTIVE",
+          "startAt": "2026-08-28T03:00:00Z",
+          "endAt": "2026-09-24T01:59:59.999Z",
+          "game": {
+            "id": "2014795392",
+            "name": "Infinity Nikki",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2014795392_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eed5e89a-b7bd-4fb3-9327-958a4071d496.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "36f3afcf-9883-11f1-ac20-0a58a9feac02",
+              "name": "2.9 Diamondx10",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "54606fb4-9883-11f1-b364-0a58a9feac02",
+              "name": "2.9 Diamond\u00d720",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "6232ef32-9883-11f1-bbeb-0a58a9feac02",
+              "name": "2.9 Bling\u00d720,000",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "796d826b-9883-11f1-a0e2-0a58a9feac02",
+              "name": "2.9 Thread of Purity\u00d7100",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "8f58b6b1-9883-11f1-b802-0a58a9feac02",
+              "name": "2.9 Shining Particle\u00d7100",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "a31607ee-9883-11f1-9291-0a58a9feac02",
+              "name": "2.9 Shiny Bubbles x100",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
+          "name": "Twitch Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-08-27T03:45:15Z",
+          "endAt": "2026-09-24T03:43:59.999Z",
+          "game": {
+            "id": "492618",
+            "name": "Lords Mobile",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/492618_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/796851b4-880f-49da-9a9e-ac8fa1e5cf9e.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "b6f96e8e-a1c8-11f1-a757-0a58a9feac02",
+              "name": "15-Minute Reward",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "d35cfa2a-a1c8-11f1-8082-0a58a9feac02",
+              "name": "30-Minute Drop",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "0f0f3203-1c8f-4bf1-85d5-e5484bfc822d",
+          "name": "Pool Party Drops",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T00:00:00Z",
+          "endAt": "2026-09-28T23:29:59.999Z",
+          "game": {
+            "id": "628949545",
+            "name": "Goblin Cleanup",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/628949545_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/09fe2d32-8054-49cc-8101-d5646b2855b1.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "4ea0a32e-9714-11f1-9e20-0a58a9feac02",
+              "name": "Surfer Body",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "59a50d7b-9714-11f1-8053-0a58a9feac02",
+              "name": "Surfer Legs",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "63e2c14f-9714-11f1-bc8f-0a58a9feac02",
+              "name": "Straw Hat",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "7921f14d-9714-11f1-a1c5-0a58a9feac02",
+              "name": "Inflatable Mimic",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "8e07dbf3-9714-11f1-9912-0a58a9feac02",
+              "name": "Inflatable Slimop",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "9aab8e43-9714-11f1-987c-0a58a9feac02",
+              "name": "Coconut Managon",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "a3f7a56a-f943-46d2-a780-3700684883f1",
+          "name": "Sorcerer Rogier ",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T07:00:00Z",
+          "endAt": "2026-09-29T06:59:59.999Z",
+          "game": {
+            "id": "512953",
+            "name": "ELDEN RING",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f54806b1-498d-4bfc-8ff7-f4a348ff4471.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "be803013-a572-11f1-bcf7-0a58a9feac02",
+              "name": "Sorcerer Rogier",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
+          "name": "Ironmouse Subathon 2026",
+          "status": "ACTIVE",
+          "startAt": "2026-09-01T07:00:00Z",
+          "endAt": "2026-10-01T07:00:00Z",
+          "game": {
+            "id": "509663",
+            "name": "Special Events",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509663-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6838852-b685-4943-825b-f9798c90222a.gif",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "f071d84d-a0d1-11f1-84db-0a58a9feac02",
+              "name": "IronmouseWah Emote",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "f3f7fc6b-a31a-11f1-9b44-0a58a9feac02",
+              "name": "Mouseathon Badge",
+              "requiredMinutesWatched": 15
+            }
+          ]
+        },
+        {
+          "id": "8735a795-5c94-4ed1-9134-0c6b7856a694",
+          "name": "VT\u4e3b\u64ad\u671d\u8056\u796d_w5",
+          "status": "EXPIRED",
+          "startAt": "2026-08-25T08:00:00Z",
+          "endAt": "2026-08-31T15:59:59.999Z",
+          "game": {
+            "id": "15229",
+            "name": "Ragnarok Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/15229_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "545f7a22-8a2c-11f1-a39a-0a58a9feac02",
+              "name": "\u849f\u84bb\u679c\u51cd[\u6d3b\u52d5\u5c08\u7528]x5",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "5f470ffd-8a2c-11f1-a5eb-0a58a9feac02",
+              "name": "\u771f\u529b\u91cf\u9632\u8b77\u5377\u8ef8[\u6d3b\u52d5\u5c08\u7528]x2",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "661bf79a-8a2c-11f1-94f0-0a58a9feac02",
+              "name": "\u5f37\u5316\u6599\u7406\u6fc3\u7e2e\u6db2[\u6d3b\u52d5\u5c08\u7528]x2",
+              "requiredMinutesWatched": 300
+            },
+            {
+              "id": "6cfe146c-8a2c-11f1-8a55-0a58a9feac02",
+              "name": "\u7dbf\u7dbf\u5cf6\u8c93\u98df\u7f50\u982dx3",
+              "requiredMinutesWatched": 480
+            }
+          ]
+        },
+        {
+          "id": "e138f5fd-7e2d-446f-87df-390b919f39c7",
+          "name": "ROW Drop 572",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T17:59:00Z",
+          "endAt": "2026-08-31T17:56:59.999Z",
+          "game": {
+            "id": "516588",
+            "name": "Rise Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f21c672c-6d74-4ce1-ab72-ea637d1b519a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "496dc30d-a15f-11f1-a338-0a58a9feac02",
+              "name": "ROW Drop 572",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "57f37a8c-c47b-4cf7-a196-efd5744e6922",
+          "name": "Mobile Drop 143",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T17:59:00Z",
+          "endAt": "2026-08-31T17:56:59.999Z",
+          "game": {
+            "id": "516588",
+            "name": "Rise Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9830371-cbfb-41b2-83ed-bf9f8612e558.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "c04957da-a162-11f1-b21c-0a58a9feac02",
+              "name": "Mobile Drop 143",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "40771db8-64a0-4ffe-905e-0ebf4499a2a8",
+          "name": "NTE Twitch Drops Event",
+          "status": "EXPIRED",
+          "startAt": "2026-08-19T02:00:00Z",
+          "endAt": "2026-08-31T17:59:59.999Z",
+          "game": {
+            "id": "1901865180",
+            "name": "NTE: Neverness to Everness",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1901865180_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6eda4b6c-01c3-444f-9fe9-3cab2fc3396a.jpeg",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "26958513-922a-11f1-a5f9-0a58a9feac02",
+              "name": "Elite Hunter Guide \u00d72",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "57e7741e-922a-11f1-bcab-0a58a9feac02",
+              "name": "Chaotic Dye \u00d72",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "5d859ab1-922a-11f1-91d8-0a58a9feac02",
+              "name": "Fons \u00d750,000",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "6662fff3-922a-11f1-985c-0a58a9feac02",
+              "name": "De-noise Solution \u00d71",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "7ed29850-922a-11f1-af71-0a58a9feac02",
+              "name": "Annulith \u00d750",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "277a5396-c006-467e-a057-bb79c4e0a888",
+          "name": "Webs Assemble - Week 5",
+          "status": "EXPIRED",
+          "startAt": "2026-08-24T21:00:00Z",
+          "endAt": "2026-08-31T20:59:59.999Z",
+          "game": {
+            "id": "504651",
+            "name": "MARVEL Strike Force",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3f37adca-84b6-4b5c-b840-d6cc91bf7be3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "ccd9d7fa-8702-11f1-a9da-0a58a9feac02",
+              "name": "1M Gold",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "d2abf607-8702-11f1-b4b6-0a58a9feac02",
+              "name": "100 L4 Training Modules",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "6d35d63c-d9f7-4597-bfd0-a4f4f5b21b6a",
+          "name": "GOALS - 31st of August",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T22:01:00Z",
+          "endAt": "2026-08-31T21:58:59.999Z",
+          "game": {
+            "id": "951160620",
+            "name": "GOALS",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/951160620_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/468ac206-509c-46c0-a86f-6709cd1afa9d.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "ad38a1aa-a2e3-11f1-bd62-0a58a9feac02",
+              "name": "1\u00d7 Common+ Pack (1 Player)",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "aff7956d-a2e3-11f1-ace8-0a58a9feac02",
+              "name": "1\u00d7 Common+ Pack (1 Player)",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "b2db7bff-a2e3-11f1-954d-0a58a9feac02",
+              "name": "1\u00d7 Common+ Pack (1 Player)",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "b6c0cd18-a2e3-11f1-9fba-0a58a9feac02",
+              "name": "1\u00d7 Uncommon+ Pack (1 Player)",
+              "requiredMinutesWatched": 300
+            },
+            {
+              "id": "b97bdf40-a2e3-11f1-aa3f-0a58a9feac02",
+              "name": "1\u00d7 Uncommon+ Pack (1 Player)",
+              "requiredMinutesWatched": 360
+            }
+          ]
+        },
+        {
+          "id": "108b3747-8f3c-499b-a95d-2a7eeed484d8",
+          "name": "MW: Ancient Continents",
+          "status": "EXPIRED",
+          "startAt": "2026-08-12T00:00:00Z",
+          "endAt": "2026-08-31T23:29:59.999Z",
+          "game": {
+            "id": "423797288",
+            "name": "Modern Warships",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/993469ad-89ee-4c94-8211-aa72803da49f.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "57d20bec-94cb-11f1-b65f-0a58a9feac02",
+              "name": "2 Days of Premium",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "5cea7f46-94cb-11f1-899a-0a58a9feac02",
+              "name": "Advanced Consumables",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "6824de37-94cb-11f1-a5ec-0a58a9feac02",
+              "name": "200 UP's",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "6c7294c3-94cb-11f1-929a-0a58a9feac02",
+              "name": "15 Authorization Keys",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "71a5b8ab-94cb-11f1-bdce-0a58a9feac02",
+              "name": "Camo Earth Element",
+              "requiredMinutesWatched": 300
+            }
+          ]
+        },
+        {
+          "id": "24b990da-4023-4d45-b8c8-a771a28cd459",
+          "name": "Crispy",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T17:26:59Z",
+          "endAt": "2026-08-31T23:29:59.999Z",
+          "game": {
+            "id": "356609813",
+            "name": "Kirka.io",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/356609813_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/45a0ee45-120e-49b3-bccd-1fc2aba39f05.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "e9f38080-a497-11f1-836d-0a58a9feac02",
+              "name": "Crispy",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "f64ba0ea-a497-11f1-8f7f-0a58a9feac02",
+              "name": "Crispy",
+              "requiredMinutesWatched": 0
+            }
+          ]
+        },
+        {
+          "id": "95f16bff-5905-4b18-b4b4-638891c31542",
+          "name": "OPEN QUALIFIER W1",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T00:00:00Z",
+          "endAt": "2026-08-31T23:59:59.999Z",
+          "game": {
+            "id": "1282866981",
+            "name": "Delta Force",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/421c26c7-76a5-4c98-a6d2-5a221d8789a6.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "4bbc36eb-a05d-11f1-ab48-0a58a9feac02",
+              "name": "Armament Voucher",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "71734b42-a05d-11f1-8a3c-0a58a9feac02",
+              "name": "Ammo Selection Pack Lv.4",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "7acaee04-a05d-11f1-bfcf-0a58a9feac02",
+              "name": "Calling Card - Dream Castle",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "883fe5bd-a05d-11f1-95c2-0a58a9feac02",
+              "name": "Standard Gear Ticket",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "90cb77d8-a05d-11f1-b2df-0a58a9feac02",
+              "name": "Bizon Submachine Gun - Heavy Duty",
+              "requiredMinutesWatched": 90
+            }
+          ]
+        },
+        {
+          "id": "7b8bbfa1-648b-4a94-9b46-85695ef6315a",
+          "name": "WCI Wildcard Drops",
+          "status": "EXPIRED",
+          "startAt": "2026-08-30T17:00:00Z",
+          "endAt": "2026-08-31T23:59:59.999Z",
+          "game": {
+            "id": "27546",
+            "name": "World of Tanks",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c1538374-bd79-4a4a-806c-30f782f9e8be.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "3e1096b5-9bc2-11f1-b623-0a58a9feac02",
+              "name": "Drop 1",
+              "requiredMinutesWatched": 150
+            }
+          ]
+        },
+        {
+          "id": "69557150-95e8-45bf-87ad-d34f5673b53f",
+          "name": "August Drops",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T00:00:00Z",
+          "endAt": "2026-08-31T23:59:59.999Z",
+          "game": {
+            "id": "2128139746",
+            "name": "The Quinfall",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8f22038-e092-44bc-8b7f-884b854e8285.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "c4866bf7-a47e-11f1-9cb5-0a58a9feac02",
+              "name": "Twitch Reward Chest",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "1fa88c96-7965-43a7-858f-2b21f84ec0cd",
+          "name": "V7.0 Genshin Impact Drops",
+          "status": "EXPIRED",
+          "startAt": "2026-08-12T03:00:00Z",
+          "endAt": "2026-09-01T03:59:59.999Z",
+          "game": {
+            "id": "513181",
+            "name": "Genshin Impact",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4af9c322-9bf1-40d0-a8c6-df2811e80dbe.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "224c757d-8fe5-11f1-8e76-0a58a9feac02",
+              "name": "Genshin Impact Drops",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "27e35001-8fe5-11f1-b4e7-0a58a9feac02",
+              "name": "Genshin Impact Drops",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "e8a8a781-8fe4-11f1-8b29-0a58a9feac02",
+              "name": "Genshin Impact Drops",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "eed0b1a0-8fe4-11f1-ac8e-0a58a9feac02",
+              "name": "Genshin Impact Drops",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "fa6f9085-8fe4-11f1-a0a3-0a58a9feac02",
+              "name": "Genshin Impact Drops",
+              "requiredMinutesWatched": 45
+            }
+          ]
+        },
+        {
+          "id": "425c71c1-7773-4ce7-a468-e2ad4738163a",
+          "name": "Cinna's August Subathon",
+          "status": "EXPIRED",
+          "startAt": "2026-08-01T07:00:00Z",
+          "endAt": "2026-09-01T06:59:59.999Z",
+          "game": {
+            "id": "509663",
+            "name": "Special Events",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509663-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d291395d-71b9-4256-a6ff-1302cb516471.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "152aa9cb-8acd-11f1-aaae-0a58a9feac02",
+              "name": "CREP Emote",
+              "requiredMinutesWatched": 30
+            }
+          ]
+        },
+        {
+          "id": "670877c2-3bcb-4ec5-8ccf-04bac5ce5d9a",
+          "name": "AOCP Flamescale 1 - #1/7",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T10:00:00Z",
+          "endAt": "2026-09-01T09:29:59.999Z",
+          "game": {
+            "id": "417528",
+            "name": "Albion Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e95112a4-5a8c-4505-bbe5-74cfcc8e9aa3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "795e8189-9b0d-11f1-a3ee-0a58a9feac02",
+              "name": "2x Noble Community Chest",
+              "requiredMinutesWatched": 240
+            }
+          ]
+        },
+        {
+          "id": "7bf6f3ea-0812-4fac-92a4-301c6e2b9614",
+          "name": "Dragonfire 1 - #1/7",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T10:00:00Z",
+          "endAt": "2026-09-01T09:29:59.999Z",
+          "game": {
+            "id": "417528",
+            "name": "Albion Online",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/186ce476-9588-49cf-8a55-621c60811b0a.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "333731e8-9b07-11f1-9a2c-0a58a9feac02",
+              "name": "2x Dragonfire Chest",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "5ff04855-170e-40ee-89c2-bdd02c913da0",
+          "name": "Mayhem Weekend 5",
+          "status": "EXPIRED",
+          "startAt": "2026-08-28T19:00:00Z",
+          "endAt": "2026-09-01T09:57:59.999Z",
+          "game": {
+            "id": "499551",
+            "name": "World of Tanks Console",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/499551-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/210fdf4a-651c-4ec1-9cf1-68a8eeb824d5.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "124fd0df-8437-11f1-a0ef-0a58a9feac02",
+              "name": "5 x1.25 Silver Boosters",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "1d5638de-8437-11f1-8a7e-0a58a9feac02",
+              "name": "Camo Voucher",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "24938eda-8437-11f1-9a96-0a58a9feac02",
+              "name": "Modern Armor Blobs Camo",
+              "requiredMinutesWatched": 480
+            }
+          ]
+        },
+        {
+          "id": "2bc48d56-cfb4-4305-a783-76e1d2bb8a2a",
+          "name": "Masters of Mayhem Week 5",
+          "status": "EXPIRED",
+          "startAt": "2026-08-25T13:00:00Z",
+          "endAt": "2026-09-01T09:57:59.999Z",
+          "game": {
+            "id": "499551",
+            "name": "World of Tanks Console",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/499551-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c91e2d20-dc0c-4a1e-ab0d-37a331863d40.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "56cf0c2d-8435-11f1-a581-0a58a9feac02",
+              "name": "10 Enhanced Med Kits",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "62341ab7-8435-11f1-a8c8-0a58a9feac02",
+              "name": "4 x3 Vehicle XP Boosters",
+              "requiredMinutesWatched": 240
+            },
+            {
+              "id": "6c650414-8435-11f1-9051-0a58a9feac02",
+              "name": "2 x6 Commander XP Booster",
+              "requiredMinutesWatched": 480
+            }
+          ]
+        },
+        {
+          "id": "10fbc57b-b543-41df-a04a-0706594c1550",
+          "name": "Edania Part ll (Aug 31)",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T12:00:00Z",
+          "endAt": "2026-09-01T11:59:59.999Z",
+          "game": {
+            "id": "386821",
+            "name": "Black Desert",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3de55f39-66b9-4973-a717-b28198c6bd72.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "6883adfd-9c39-11f1-96e7-0a58a9feac02",
+              "name": "1 Hour (Aug 31)",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "a5132b07-9c39-11f1-9f45-0a58a9feac02",
+              "name": "2 Hours (Aug 31)",
+              "requiredMinutesWatched": 120
+            }
+          ]
+        },
+        {
+          "id": "109d7204-6113-4ed1-bda0-1e1d7a3d6818",
+          "name": "Affiliate 8/31/26",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T13:00:00Z",
+          "endAt": "2026-09-01T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/803d58be-7f9f-4334-b286-d08f54ba24e9.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "6d5f42da-9fe6-11f1-ad57-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "723b185c-9fe6-11f1-af28-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "77414800-9fe6-11f1-82ed-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "7ab5fa08-9fe6-11f1-975c-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "7fc3fa8b-9fe6-11f1-b676-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 90
+            }
+          ]
+        },
+        {
+          "id": "07ce0ba1-2cd4-4659-ba7a-124d015de2b9",
+          "name": "DrDynastic 8/31/26",
+          "status": "EXPIRED",
+          "startAt": "2026-08-31T13:00:00Z",
+          "endAt": "2026-09-01T12:59:59.999Z",
+          "game": {
+            "id": "2099590881",
+            "name": "Out of the Park Baseball 27",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e4857ae-4491-48c3-ab49-0b4645628923.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "5b327a4e-a537-11f1-b47a-0a58a9feac02",
+              "name": "1",
+              "requiredMinutesWatched": 15
+            },
+            {
+              "id": "649b55f7-a537-11f1-895b-0a58a9feac02",
+              "name": "2",
+              "requiredMinutesWatched": 30
+            },
+            {
+              "id": "6a927e2e-a537-11f1-92d8-0a58a9feac02",
+              "name": "3",
+              "requiredMinutesWatched": 45
+            },
+            {
+              "id": "6fea075b-a537-11f1-aca8-0a58a9feac02",
+              "name": "4",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "7485a34e-a537-11f1-b983-0a58a9feac02",
+              "name": "5",
+              "requiredMinutesWatched": 90
+            },
+            {
+              "id": "7b57687c-a537-11f1-9ad5-0a58a9feac02",
+              "name": "6",
+              "requiredMinutesWatched": 120
+            },
+            {
+              "id": "83cd09c3-a537-11f1-8a8c-0a58a9feac02",
+              "name": "7",
+              "requiredMinutesWatched": 150
+            },
+            {
+              "id": "8a64243a-a537-11f1-aca8-0a58a9feac02",
+              "name": "8",
+              "requiredMinutesWatched": 180
+            }
+          ]
+        },
+        {
+          "id": "f0736c62-4c1e-45c1-8d72-49086c1a5117",
+          "name": "August 04",
+          "status": "EXPIRED",
+          "startAt": "2026-08-25T15:00:00Z",
+          "endAt": "2026-09-01T14:59:59.999Z",
+          "game": {
+            "id": "608663369",
+            "name": "RavenQuest",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/608663369_IGDB-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/794dd95f-00f0-4340-934f-e1ea651b160e.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "303f5fec-8f52-11f1-8ac5-0a58a9feac02",
+              "name": "2x Treasure Below RavenPacks",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "38bf75d5-8f52-11f1-abf6-0a58a9feac02",
+              "name": "Twitch Drops Pack 1",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "3c1a6e89-8f52-11f1-8349-0a58a9feac02",
+              "name": "Twitch Drops Pack 2",
+              "requiredMinutesWatched": 600
+            }
+          ]
+        },
+        {
+          "id": "1ea5f58c-b3d0-44d7-b994-8b577bc143b0",
+          "name": "August 04",
+          "status": "EXPIRED",
+          "startAt": "2026-08-25T15:00:00Z",
+          "endAt": "2026-09-01T14:59:59.999Z",
+          "game": {
+            "id": "262400435",
+            "name": "Ravendawn",
+            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/262400435-{width}x{height}.jpg"
+          },
+          "imageURL": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/57d83543-2f08-472f-8736-e5197157c4b3.png",
+          "self": {
+            "isAccountConnected": false
+          },
+          "timeBasedDrops": [
+            {
+              "id": "14f76ac1-8f57-11f1-95c3-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 60
+            },
+            {
+              "id": "179eb316-8f57-11f1-855c-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 180
+            },
+            {
+              "id": "1a2a1f58-8f57-11f1-888c-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 360
+            },
+            {
+              "id": "1d255b39-8f57-11f1-902f-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 540
+            },
+            {
+              "id": "1fd5c678-8f57-11f1-9fab-0a58a9feac02",
+              "name": "2x RavenPacks",
+              "requiredMinutesWatched": 720
+            },
+            {
+              "id": "260b345f-8f57-11f1-b12a-0a58a9feac02",
+              "name": "100x Ghostly Infusion",
+              "requiredMinutesWatched": 900
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "durationMilliseconds": 114,
+    "requestID": "01M1ES5XCQ0CR63RRE5VRJTMF9"
+  }
+}
