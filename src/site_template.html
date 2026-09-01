@@ -65,6 +65,7 @@ select option{background:var(--card)}
 .pill.u24{background:rgba(255,93,108,.16); color:var(--red); border:1px solid rgba(255,93,108,.45); animation:pulse 2s infinite}
 .pill.u48{background:rgba(251,191,36,.14); color:var(--amber); border:1px solid rgba(251,191,36,.4)}
 .pill.fav{background:rgba(169,112,255,.18); color:var(--purple2); border:1px solid rgba(169,112,255,.45)}
+.pill.hot{background:rgba(255,120,60,.16); color:#ff8a5c; border:1px solid rgba(255,120,60,.35)}
 .pill.lib{background:rgba(45,212,167,.14); color:var(--green); border:1px solid rgba(45,212,167,.4)}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
 
@@ -280,8 +281,9 @@ function visibleCampaigns(){
     az:   (a,b) => a.game.localeCompare(b.game),
   };
   list.sort(sorters[state.sort] || sorters.soon);
-  if(state.prio){ // priority view: favorites first (stable)
-    const fav = list.filter(c => c.isFavorite);
+  if(state.prio){ // priority view: favorites first, learned-weight order (Phase 7)
+    const fw = j.favoriteWeights || {};
+    const fav = list.filter(c => c.isFavorite).sort((a,b) => (fw[b.game]||10) - (fw[a.game]||10));
     const rest = list.filter(c => !c.isFavorite);
     list = fav.concat(rest);
   }
@@ -295,6 +297,8 @@ function badge(c){
   if(hoursLeft(c) <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
   else if(hoursLeft(c) <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
   if(c.isFavorite) pills.push(el("span", {class:"pill fav", text:"⭐ FAV"}));
+  const sig = (j.signals||{})[c.game]||{};
+  if(sig.score >= 8) pills.push(el("span", {class:"pill hot", text:"🔥 " + Math.round(sig.score)}));
   if(c.inSteamLibrary) pills.push(el("span", {class:"pill lib", text:"🎮 LIB"}));
   return pills;
 }

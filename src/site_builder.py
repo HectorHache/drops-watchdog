@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
+import learning as lrn
 import watchdog as wd
 
 DOCS = ROOT / "docs"
@@ -120,11 +121,17 @@ def build_drops_json(conn, cfg) -> dict:
     campaigns.sort(key=lambda e: e["startAt"])
     archive.sort(key=lambda e: e["endAt"], reverse=True)
 
+    # Phase 7 learning: per-game interaction signals (deterministic, recency-decayed)
+    signals = lrn.game_signals(conn)
+    weights = lrn.favorites_weight(conn)
+
     return {
         "tz": TZ_NAME,
         "campaigns": campaigns,
         "archive": archive,
         "favorites": sorted(favorites),
+        "signals": {g: {k: round(v, 2) for k, v in sg.items()} for g, sg in sorted(signals.items())},
+        "favoriteWeights": {g: w for g, w in sorted(weights.items())},
     }
 
 

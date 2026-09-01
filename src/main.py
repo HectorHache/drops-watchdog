@@ -31,6 +31,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
 import kv as kvm
+import learning as lrn
 import notify as ntf
 import site_builder as sb
 import steam_import as si
@@ -311,6 +312,14 @@ def cmd_sync(args):
     except Exception as e:
         print(f"[kv] pull error (non-fatal): {e}", file=sys.stderr)
 
+    # Phase 7 learning loop: recency-decayed interaction signals -> favorite weights
+    try:
+        nw = lrn.update_weights(conn)
+        if nw:
+            print(f"[learning] {nw} favorite weight(s) updated from interactions")
+    except Exception as e:
+        print(f"[learning] weight update error (non-fatal): {e}", file=sys.stderr)
+
     # close campaigns that have ended (keep rows forever; site History grows)
     closed = dbm.close_ended(conn)
     if closed:
@@ -436,6 +445,12 @@ def cmd_personal(args):
         kvm.kv_pull(conn)
     except Exception as e:
         print(f"[kv] pull error (non-fatal): {e}", file=sys.stderr)
+
+
+    try:
+        lrn.update_weights(conn)
+    except Exception as e:
+        print(f"[learning] weight update error (non-fatal): {e}", file=sys.stderr)
     closed = dbm.close_ended(conn)
     if closed:
         print(f"closed {closed} ended campaign(s)")
