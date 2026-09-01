@@ -70,7 +70,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/47172f4c-ad4a-4155-a20c-6e440102ff38.png"
   },
   {
@@ -274,7 +274,7 @@
     }
    ],
    "inSteamLibrary": true,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/a79bead9-e221-402a-996b-e0fa4e2f8912.png"
   },
   {
@@ -446,7 +446,7 @@
     }
    ],
    "inSteamLibrary": true,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/c7936644-f76f-4bc6-a540-a415a56c4712.png"
   },
   {
@@ -738,7 +738,7 @@
     }
    ],
    "inSteamLibrary": true,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/0f1b1514-fe01-4f81-8fea-d35049d204cd.jpg"
   },
   {
@@ -954,7 +954,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/9ff2d241-3b92-4f86-b625-1362dbbdbafc.png"
   },
   {
@@ -1206,7 +1206,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/c7f41fc6-9fd5-44ca-913a-c28a4beeb90b.png"
   },
   {
@@ -2350,7 +2350,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/796bdad1-10fd-4294-8277-6783723e14ff.png"
   },
   {
@@ -2370,7 +2370,7 @@
     }
    ],
    "inSteamLibrary": false,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/7d64c672-6183-425b-92e2-57546404f25c.png"
   },
   {
@@ -3033,19 +3033,87 @@
   }
  ],
  "favorites": [
+  "ARC Raiders",
   "Delta Force",
-  "Marvel Rivals"
+  "LEGO Batman: Legacy of the Dark Knight",
+  "Marvel Rivals",
+  "Once Human",
+  "Palia",
+  "Predecessor",
+  "Tom Clancy's The Division 2",
+  "Where Winds Meet"
  ],
  "signals": {
+  "ARC Raiders": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
+  },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
    "score": 9.99
+  },
+  "HITMAN World of Assassination": {
+   "favorites": 0,
+   "likes": 2,
+   "reminds": 0,
+   "score": 6.0
+  },
+  "LEGO Batman: Legacy of the Dark Knight": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 5,
+   "score": 38.0
+  },
+  "Once Human": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
+  },
+  "Palia": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
+  },
+  "Predecessor": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
+  },
+  "THE FINALS": {
+   "favorites": 0,
+   "likes": 1,
+   "reminds": 0,
+   "score": 3.0
+  },
+  "Tom Clancy's The Division 2": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
+  },
+  "Where Winds Meet": {
+   "favorites": 1,
+   "likes": 1,
+   "reminds": 0,
+   "score": 13.0
   }
  },
  "favoriteWeights": {
+  "ARC Raiders": 22,
   "Delta Force": 19,
-  "Marvel Rivals": 10
+  "LEGO Batman: Legacy of the Dark Knight": 47,
+  "Marvel Rivals": 10,
+  "Once Human": 22,
+  "Palia": 22,
+  "Predecessor": 22,
+  "Tom Clancy's The Division 2": 22,
+  "Where Winds Meet": 22
  }
 }
