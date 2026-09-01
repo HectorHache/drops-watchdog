@@ -1,0 +1,21 @@
+# Twitch Drops Watchdog — config
+timezone: Europe/Madrid
+
+watchdog:
+  ending_24h_hours: 24
+  ending_48h_hours: 48
+  message_cap_chars: 3800     # Telegram hard limit is 4096
+  changed_end_delta_min: 5    # end_at shift beyond this = material change
+  prunable_age_days: 7        # (Phase 3) keep ended-campaign art for history window
+
+auth:
+  max_age_days: 25            # Twitch 2FA sessions ≈ 30 days -> warn before expiry
+  integrity_reuse_min: 20     # reuse minted integrity token if younger than this
+
+telegram:
+  dm_chat_id: "2350638"       # Mick's DM (Héctor)
+  group_chat_id: "-1003773674983"  # t.me/dropwatchdog (resolved 2026-09-01)
+  bot_token_env: TELEGRAM_BOT_TOKEN  # read from heimdall profile .env at send time
+
+site:
+  base_url: https://drops.hache.app

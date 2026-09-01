@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Twitch Drops Watchdog — drops.hache.app</title>
+<meta name="description" content="Live Twitch drop campaigns: rewards, countdowns, filters, history.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%239146FF'/%3E%3Ctext x='16' y='23' font-size='18' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3E%E2%8C%9B%3C/text%3E%3C/svg%3E">
+<style>
+:root{
+  --bg:#090d16; --panel:#0f172a; --card:#141c33; --card2:#1a2440;
+  --line:#223055; --text:#e6ecff; --muted:#8b98c0; --purple:#9146FF; --purple2:#a970ff;
+  --green:#2dd4a7; --amber:#fbbf24; --red:#ff5d6c; --blue:#5eb0ff;
+}
+*{box-sizing:border-box; margin:0; padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg); color:var(--text); font-family:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  min-height:100vh; overflow-x:hidden}
+#ambient{position:fixed; inset:0; z-index:-2; background:radial-gradient(1200px 800px at 70% -10%, #1b1240 0%, var(--bg) 55%)}
+#ambient canvas{position:absolute; inset:0; width:100%; height:100%}
+a{color:var(--purple2); text-decoration:none} a:hover{text-decoration:underline}
+.wrap{max-width:1200px; margin:0 auto; padding:0 18px 80px}
+
+/* header */
+header{padding:26px 0 14px; display:flex; align-items:flex-end; justify-content:space-between; gap:14px; flex-wrap:wrap}
+header h1{font-size:24px; letter-spacing:-.02em; display:flex; align-items:center; gap:10px}
+header h1 .dot{width:10px;height:10px;border-radius:50%;background:var(--green);box-shadow:0 0 12px var(--green)}
+header .meta{color:var(--muted); font-size:12.5px; line-height:1.6; text-align:right}
+header .meta b{color:var(--text)}
+
+/* toolbar — FIXED header, content-only re-renders below */
+#toolbar{position:sticky; top:0; z-index:20; background:rgba(9,13,22,.85); backdrop-filter:blur(10px);
+  border:1px solid var(--line); border-radius:14px; padding:10px 12px; margin:10px 0 20px;
+  display:flex; flex-wrap:wrap; gap:8px; align-items:center}
+.tabs{display:flex; gap:6px; flex-wrap:wrap}
+.tab{padding:6px 12px; border-radius:9px; border:1px solid var(--line); background:var(--card);
+  color:var(--muted); cursor:pointer; font-size:13px; transition:.15s; white-space:nowrap}
+.tab:hover{color:var(--text)}
+.tab.active{background:linear-gradient(135deg,var(--purple),var(--purple2)); color:#fff; border-color:transparent}
+.tab .cnt{opacity:.75; font-size:11px; margin-left:4px}
+.controls{display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-left:auto}
+input[type=search], select{background:var(--card); color:var(--text); border:1px solid var(--line);
+  border-radius:9px; padding:6px 10px; font-size:13px; outline:none}
+input[type=search]{width:170px}
+input[type=search]:focus, select:focus{border-color:var(--purple)}
+select option{background:var(--card)}
+#prio{cursor:pointer; user-select:none; font-size:13px}
+#prio .knob{display:inline-block; width:34px; height:18px; border-radius:9px; background:var(--line);
+  vertical-align:middle; margin-right:6px; position:relative; transition:.2s}
+#prio .knob::after{content:''; position:absolute; width:14px; height:14px; border-radius:50%; background:#fff;
+  top:2px; left:2px; transition:.2s}
+#prio.on .knob{background:var(--purple)}
+#prio.on .knob::after{left:18px}
+#prio span.lbl{color:var(--muted)}
+
+/* status pills */
+.pills{display:flex; gap:6px; flex-wrap:wrap; align-items:center}
+.pill{font-size:11px; font-weight:600; padding:3px 9px; border-radius:20px; letter-spacing:.02em}
+.pill.new{background:rgba(94,176,255,.16); color:var(--blue); border:1px solid rgba(94,176,255,.4)}
+.pill.u24{background:rgba(255,93,108,.16); color:var(--red); border:1px solid rgba(255,93,108,.45); animation:pulse 2s infinite}
+.pill.u48{background:rgba(251,191,36,.14); color:var(--amber); border:1px solid rgba(251,191,36,.4)}
+.pill.fav{background:rgba(169,112,255,.18); color:var(--purple2); border:1px solid rgba(169,112,255,.45)}
+.pill.lib{background:rgba(45,212,167,.14); color:var(--green); border:1px solid rgba(45,212,167,.4)}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+
+/* cards */
+#grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px}
+.card{background:linear-gradient(160deg,var(--card),var(--card2)); border:1px solid var(--line);
+  border-radius:16px; overflow:hidden; display:flex; flex-direction:column; transition:.18s;
+  contain:layout paint; content-visibility:auto; contain-intrinsic-size:auto 430px}
+.card:hover{transform:translateY(-3px); border-color:var(--purple); box-shadow:0 12px 34px rgba(145,69,255,.18)}
+.card .art{position:relative; height:132px; background:linear-gradient(135deg,#1b1240,#141c33); overflow:hidden}
+.card .art img{width:100%; height:100%; object-fit:cover; display:block}
+.card .art .fallback{position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+  font-size:44px; font-weight:800; color:rgba(255,255,255,.9); background:linear-gradient(135deg,var(--purple),#3a1d8a)}
+.card .art .badges{position:absolute; top:8px; left:8px; display:flex; gap:5px; flex-wrap:wrap}
+.card .art .countdown{position:absolute; right:8px; bottom:8px; background:rgba(9,13,22,.78);
+  border:1px solid var(--purple); color:var(--purple2); font-size:12px; font-variant-numeric:tabular-nums;
+  padding:3px 9px; border-radius:9px; font-weight:600}
+.card .body{padding:12px 14px 14px; display:flex; flex-direction:column; gap:7px; flex:1}
+.card .game{font-size:15px; font-weight:700}
+.card .title{color:var(--muted); font-size:12.5px; line-height:1.35}
+.card .dates{color:var(--muted); font-size:12px; font-variant-numeric:tabular-nums}
+.card .rewards{margin-top:auto; display:flex; flex-direction:column; gap:4px; padding-top:8px; border-top:1px dashed var(--line)}
+.card .reward{display:flex; justify-content:space-between; gap:8px; font-size:12.5px; color:var(--text)}
+.card .reward .min{color:var(--muted); font-size:11px; white-space:nowrap}
+.card .foot{display:flex; justify-content:space-between; align-items:center; margin-top:6px}
+.card .foot a{font-size:12.5px; font-weight:600}
+.hl{outline:2px solid var(--purple); outline-offset:2px}
+
+/* history */
+#history{display:none}
+.hist-tools{display:flex; gap:10px; align-items:center; margin-bottom:14px; flex-wrap:wrap; color:var(--muted); font-size:13px}
+table.hist{width:100%; border-collapse:collapse; font-size:13px}
+table.hist th{text-align:left; color:var(--muted); font-weight:600; padding:8px 10px; border-bottom:1px solid var(--line); font-size:11.5px; text-transform:uppercase; letter-spacing:.05em}
+table.hist td{padding:9px 10px; border-bottom:1px solid rgba(34,48,85,.55)}
+table.hist tr:hover td{background:rgba(145,69,255,.06)}
+.hist-note{color:var(--muted); font-size:12px; margin-bottom:8px}
+
+/* empty + footer */
+.empty{grid-column:1/-1; text-align:center; color:var(--muted); padding:60px 0; font-size:14px}
+.empty .big{font-size:38px; margin-bottom:10px}
+footer{margin-top:36px; color:var(--muted); font-size:12px; text-align:center; line-height:1.8}
+@media (max-width:640px){
+  .controls{margin-left:0; width:100%} input[type=search]{flex:1; width:auto}
+  #grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div id="ambient"></div>
+
+<div class="wrap">
+  <header>
+    <h1><span class="dot"></span>Twitch Drops Watchdog</h1>
+    <div class="meta">
+      <div>🔄 updated <b id="updated-ago">—</b> · <b id="active-count">0</b> active · <span id="urgent-count" style="color:var(--red)">0</span> &lt;24h</div>
+      <div><a href="feed.xml" target="_blank">📡 RSS</a> · <a href="https://t.me/dropwatchdog" target="_blank">📣 Telegram</a></div>
+    </div>
+  </header>
+
+  <div id="toolbar">
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-sec="all">🔥 All<span class="cnt" data-cnt="all"></span></button>
+      <button class="tab" data-sec="u24">🚨 &lt;24h<span class="cnt" data-cnt="u24"></span></button>
+      <button class="tab" data-sec="u48">⏰ &lt;48h<span class="cnt" data-cnt="u48"></span></button>
+      <button class="tab" data-sec="fresh">✨ New<span class="cnt" data-cnt="fresh"></span></button>
+      <button class="tab" data-sec="favs">⭐ Favorites<span class="cnt" data-cnt="favs"></span></button>
+      <button class="tab" data-sec="hist">🗄️ History</button>
+    </div>
+    <div class="controls">
+      <div id="prio" class="on" title="Priority view: favorites first">
+        <span class="knob"></span><span class="lbl">Priority</span>
+      </div>
+      <input type="search" id="q" placeholder="Search game / title / reward…">
+      <select id="game"><option value="">All games</option></select>
+      <select id="sort">
+        <option value="soon">Expiring soonest</option>
+        <option value="new">Newly added</option>
+        <option value="long">Longest duration</option>
+        <option value="az">A–Z</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="grid"></div>
+
+  <section id="history">
+    <div class="hist-tools">
+      <label>Show campaigns active on:</label>
+      <input type="date" id="hist-date">
+      <span>(default: all ended campaigns, newest first)</span>
+    </div>
+    <div class="hist-note">🗄️ Data-only archive — images are pruned when campaigns end.</div>
+    <table class="hist">
+      <thead><tr><th>Game</th><th>Campaign</th><th>Start</th><th>End</th><th>Status</th></tr></thead>
+      <tbody id="hist-body"></tbody>
+    </table>
+  </section>
+
+  <footer>
+    Data &amp; artwork © Twitch — personal-use monitoring · generated <span id="gen-at">—</span> ·
+    <a href="https://drops.hache.app">drops.hache.app</a>
+  </footer>
+</div>
+
+<script>
+"use strict";
+const GENERATED_AT = "2026-09-01T17:54:06+02:00";
+let DATA = null;                 // latest drops.json
+let state = { sec:"all", q:"", game:"", sort:"soon", prio:true, histDate:"" };
+let dataHash = "";
+
+const $ = s => document.querySelector(s);
+const fmtDT = iso => { if(!iso) return "—"; const d = new Date(iso); return d.toLocaleString("en-GB", {weekday:"short", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Madrid"}); };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function el(tag, attrs={}, children=[]){
+  const n = document.createElement(tag);
+  for(const [k,v] of Object.entries(attrs)){
+    if(k === "text") n.textContent = v;
+    else if(k === "html") n.innerHTML = v;           // only for our own static strings
+    else if(k.startsWith("on")) n.addEventListener(k.slice(2), v);
+    else if(k === "class") n.className = v;
+    else n.setAttribute(k, v);
+  }
+  for(const c of [].concat(children)) if(c) n.appendChild(typeof c === "string" ? document.createTextNode(c) : c);
+  return n;
+}
+
+/* ---------- data ---------- */
+async function loadData(){
+  const url = "drops.json?ts=" + Date.now();
+  try{
+    const r = await fetch(url, {cache:"no-store"});
+    const j = await r.json();
+    const h = JSON.stringify([j.generated_at, j.campaigns.length, j.counts, j.archive.length]);
+    if(h !== dataHash){ dataHash = h; DATA = j; render(); }
+    else updateMeta();
+  }catch(e){ console.warn("poll failed", e); }
+  updateAgo();
+}
+function updateMeta(){
+  if(!DATA) return;
+  $("#active-count").textContent = DATA.counts.active;
+  $("#urgent-count").textContent = DATA.counts.ending24;
+  $("#gen-at").textContent = DATA.generated_at_local || "—";
+  for(const s of ["all","u24","u48","fresh","favs"]){
+    const elm = document.querySelector(`[data-cnt="${s}"]`);
+    if(elm) elm.textContent = "(" + counts()[s] + ")";
+  }
+  // game dropdown (rebuild if changed)
+  const cur = $("#game").value;
+  const games = [...new Set(DATA.campaigns.map(c => c.game))].sort();
+  const sig = games.join("|");
+  if($("#game").dataset.sig !== sig){
+    $("#game").dataset.sig = sig;
+    $("#game").innerHTML = '<option value="">All games</option>' +
+      games.map(g => `<option value="${esc(g)}">${esc(g)}</option>`).join("");
+    $("#game").value = cur;
+  }
+}
+function counts(){
+  const c = DATA.counts;
+  return { all: c.active, u24: c.ending24, u48: c.ending48, fresh: c.new, favs: DATA.favorites.length };
+}
+
+/* ---------- filtering / sorting ---------- */
+function visibleCampaigns(){
+  let list = DATA.campaigns;
+  if(state.sec === "u24") list = list.filter(c => c.hoursLeft <= 24);
+  if(state.sec === "u48") list = list.filter(c => c.hoursLeft <= 48 && c.hoursLeft > 24);
+  if(state.sec === "fresh") list = list.filter(c => c.isNew);
+  if(state.sec === "favs") list = list.filter(c => c.isFavorite);
+  if(state.game) list = list.filter(c => c.game === state.game);
+  if(state.q){
+    const q = state.q.toLowerCase();
+    list = list.filter(c => c.game.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) ||
+      (c.rewards||[]).some(r => r.name.toLowerCase().includes(q)));
+  }
+  const sorters = {
+    soon: (a,b) => a.hoursLeft - b.hoursLeft,
+    new:  (a,b) => new Date(b.startAt) - new Date(a.startAt),
+    long: (a,b) => (new Date(b.endAt)-new Date(b.startAt)) - (new Date(a.endAt)-new Date(a.startAt)),
+    az:   (a,b) => a.game.localeCompare(b.game),
+  };
+  list.sort(sorters[state.sort] || sorters.soon);
+  if(state.prio){ // priority view: favorites first (stable)
+    const fav = list.filter(c => c.isFavorite);
+    const rest = list.filter(c => !c.isFavorite);
+    list = fav.concat(rest);
+  }
+  return list;
+}
+
+/* ---------- rendering (safe: textContent only) ---------- */
+function badge(c){
+  const pills = [];
+  if(c.isNew) pills.push(el("span", {class:"pill new", text:"NEW"}));
+  if(c.hoursLeft <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
+  else if(c.hoursLeft <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
+  if(c.isFavorite) pills.push(el("span", {class:"pill fav", text:"⭐ FAV"}));
+  if(c.inSteamLibrary) pills.push(el("span", {class:"pill lib", text:"🎮 LIB"}));
+  return pills;
+}
+function fallbackArt(c){
+  const initials = (c.game || "?").split(/\s+/).slice(0,2).map(w => w[0]||"").join("").toUpperCase() || "?";
+  return el("div", {class:"fallback", text: initials});
+}
+function card(c){
+  const art = el("div", {class:"art"});
+  const img = el("img", {loading:"lazy", alt:c.game, onerror: function(){
+    // local -> remote -> branded fallback
+    const rem = c.imageUrl;
+    if(this.dataset.stage === "remote") this.replaceWith(fallbackArt(c));
+    else if(this.dataset.stage === "local"){
+      if(rem){ this.dataset.stage = "remote"; this.src = rem; }
+      else this.replaceWith(fallbackArt(c));
+    }
+  }});
+  img.dataset.stage = "local";
+  img.src = c.asset || ("assets/" + c.id + ".jpg");
+  art.appendChild(img);
+  const badges = el("div", {class:"badges"}, badge(c));
+  art.appendChild(badges);
+  const cd = el("div", {class:"countdown", "data-end": c.endAt});
+  art.appendChild(cd);
+
+  const body = el("div", {class:"body"});
+  body.appendChild(el("div", {class:"game", text:c.game}));
+  body.appendChild(el("div", {class:"title", text:c.title}));
+  const totalMin = (c.rewards||[]).reduce((a,r) => a + (r.minutes||0), 0);
+  const durH = totalMin ? (totalMin/60).toFixed(1).replace(/\.0$/,"") : null;
+  body.appendChild(el("div", {class:"dates",
+    text:`📅 ${fmtDT(c.startAt)} → ${fmtDT(c.endAt)}${durH ? ` · ⏱️ claim all: ${durH}h` : ""}`}));
+  if((c.rewards||[]).length){
+    const rw = el("div", {class:"rewards"});
+    for(const r of c.rewards.slice(0,5)){
+      rw.appendChild(el("div", {class:"reward"},
+        [el("span", {text:"🏆 " + r.name}), el("span", {class:"min", text: r.minutes ? r.minutes + " min" : ""})]));
+    }
+    if(c.rewards.length > 5) rw.appendChild(el("div", {class:"reward", text:`… +${c.rewards.length-5} more`}));
+    body.appendChild(rw);
+  }
+  const foot = el("div", {class:"foot"});
+  foot.appendChild(el("a", {href:c.detailsUrl, target:"_blank", rel:"noopener", text:"Watch on Twitch ↗"}));
+  foot.appendChild(el("span", {class:"pill new", text:"#"+c.id.slice(0,4)}));
+  body.appendChild(foot);
+
+  return el("article", {class:"card", id:"campaign-"+c.id, "data-cid":c.id}, [art, body]);
+}
+
+function render(){
+  updateMeta();
+  const histVisible = state.sec === "hist";
+  $("#grid").style.display = histVisible ? "none" : "";
+  $("#history").style.display = histVisible ? "" : "none";
+  if(histVisible){ renderHistory(); return; }
+
+  const grid = $("#grid");
+  const list = visibleCampaigns();
+  // hash-diff re-render: only rebuild when the visible set signature changes
+  const sig = state.sec + "|" + state.q + "|" + state.game + "|" + state.sort + "|" + state.prio + "|" +
+              list.map(c => c.id + (c.isNew?1:0) + (c.isFavorite?1:0)).join(",");
+  if(grid.dataset.sig === sig){ tick(); return; }
+  grid.dataset.sig = sig;
+  grid.innerHTML = "";
+  if(!list.length){
+    grid.appendChild(el("div", {class:"empty"}, [el("div", {class:"big", text:"🎮"}), el("div", {text: emptyText()})]));
+  } else {
+    for(const c of list) grid.appendChild(card(c));
+  }
+  tick();
+}
+function emptyText(){
+  if(state.q) return "Nothing matches your search.";
+  if(state.game) return "No campaigns for that game right now.";
+  if(state.sec === "u24") return "Nothing ending in the next 24h — enjoy the calm.";
+  if(state.sec === "u48") return "No campaigns in the 24–48h window.";
+  if(state.sec === "fresh") return "No new campaigns in the last 24h.";
+  if(state.sec === "favs") return "No favorites yet — the favorites list arrives with the Steam import.";
+  return "No active campaigns right now.";
+}
+
+function renderHistory(){
+  const date = state.histDate ? new Date(state.histDate + "T00:00:00") : null;
+  const rows = DATA.archive.filter(a => {
+    if(!date) return true;
+    const s = new Date(a.startAt), e = new Date(a.endAt);
+    return s <= date && e >= date;
+  });
+  const tb = $("#hist-body");
+  tb.innerHTML = "";
+  if(!rows.length){
+    tb.appendChild(el("tr", [el("td", {colspan:5, class:"hist-note", text:"No archived campaigns" + (date ? " active on that date" : "") + "."})]));
+    return;
+  }
+  for(const a of rows){
+    tb.appendChild(el("tr", [
+      el("td", {text:a.game}), el("td", {text:a.title}),
+      el("td", {text:fmtDT(a.startAt)}), el("td", {text:fmtDT(a.endAt)}),
+      el("td", {text:a.status === "ENDED" ? "🏁 ended" : a.status}),
+    ]));
+  }
+}
+
+/* ---------- live countdown tick (1s, only text updates) ---------- */
+function fmtLeft(ms){
+  const s = Math.max(0, Math.floor(ms/1000));
+  const d = Math.floor(s/86400), h = Math.floor(s%86400/3600), m = Math.floor(s%3600/60), ss = s%60;
+  if(d > 0) return `${d}d ${h}h ${m}m`;
+  return `${String(h).padStart(2,"0")}:${String(m).padStart(2,"0")}:${String(ss).padStart(2,"0")}`;
+}
+function tick(){
+  const now = Date.now();
+  document.querySelectorAll("[data-end]").forEach(n => {
+    const left = new Date(n.dataset.end).getTime() - now;
+    n.textContent = left <= 0 ? "🏁 ended" : "⏳ " + fmtLeft(left);
+  });
+}
+setInterval(tick, 1000);
+
+/* ---------- hash anchors (#campaign-<id>) ---------- */
+function handleHash(){
+  const m = location.hash.match(/^#campaign-(.+)$/);
+  if(!m) return;
+  const elm = document.getElementById("campaign-" + m[1]);
+  if(elm){ setTimeout(() => { elm.scrollIntoView({behavior:"smooth", block:"center"}); elm.classList.add("hl"); setTimeout(() => elm.classList.remove("hl"), 2200); }, 60); }
+}
+
+/* ---------- events ---------- */
+$("#tabs").addEventListener("click", e => {
+  const t = e.target.closest(".tab"); if(!t) return;
+  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("active", x === t));
+  state.sec = t.dataset.sec; render();
+});
+$("#prio").addEventListener("click", () => { state.prio = !state.prio; $("#prio").classList.toggle("on", state.prio); render(); });
+$("#q").addEventListener("input", e => { state.q = e.target.value; render(); });
+$("#game").addEventListener("change", e => { state.game = e.target.value; render(); });
+$("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+$("#hist-date").addEventListener("change", e => { state.histDate = e.target.value; renderHistory(); });
+window.addEventListener("hashchange", handleHash);
+
+/* ---------- polling (10 min, delta only) ---------- */
+setInterval(loadData, 10*60*1000);
+let lastAgo = 0;
+function updateAgo(){
+  if(!DATA) return;
+  const t = new Date(DATA.generated_at_local).getTime();
+  const s = Math.max(0, Math.round((Date.now()-t)/1000));
+  const m = Math.floor(s/60), h = Math.floor(m/60);
+  $("#updated-ago").textContent = h ? `${h}h ${m%60}m ago` : m ? `${m}m ago` : "just now";
+}
+setInterval(updateAgo, 30000);
+
+/* ---------- Three.js ambient (progressive enhancement, lazy) ---------- */
+(function ambient(){
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const small = innerWidth < 900;
+  if(reduced || small) return;
+  setTimeout(async () => {
+    try{
+      const THREE = await import("https://cdn.jsdelivr.net/npm/three@0.164.1/build/three.module.js");
+      const host = $("#ambient");
+      const cvs = document.createElement("canvas");
+      host.appendChild(cvs);
+      const renderer = new THREE.WebGLRenderer({canvas:cvs, alpha:true, antialias:false});
+      renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(75, 1, .1, 1000);
+      camera.position.z = 60;
+      const geo = new THREE.BufferGeometry();
+      const N = 260, pos = new Float32Array(N*3);
+      for(let i=0;i<N;i++){ pos[i*3]=(Math.random()-.5)*140; pos[i*3+1]=(Math.random()-.5)*90; pos[i*3+2]=(Math.random()-.5)*60; }
+      geo.setAttribute("position", new THREE.BufferAttribute(pos, 3));
+      const mat = new THREE.PointsMaterial({color:0x9146FF, size:.5, transparent:true, opacity:.55, depthWrite:false});
+      const pts = new THREE.Points(geo, mat);
+      scene.add(pts);
+      let running = true;
+      document.addEventListener("visibilitychange", () => running = !document.hidden);
+      const fit = () => { const r = host.getBoundingClientRect(); renderer.setSize(r.width, r.height); camera.aspect = r.width/Math.max(1,r.height); camera.updateProjectionMatrix(); };
+      fit();
+      addEventListener("resize", fit);
+      const loop = () => { if(!running){ requestAnimationFrame(loop); return; } pts.rotation.y += .0006; pts.rotation.x += .0002; renderer.render(scene, camera); requestAnimationFrame(loop); };
+      loop();
+    }catch(e){ /* ambient is decorative — fail silently */ }
+  }, 1800);
+})();
+
+/* ---------- boot ---------- */
+(function boot(){
+  $("#gen-at").textContent = GENERATED_AT || "—";
+  handleHash();
+  loadData();
+  loadData(); // warm the poll cadence baseline
+})();
+</script>
+</body>
+</html>

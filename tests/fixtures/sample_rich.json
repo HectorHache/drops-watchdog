@@ -1,0 +1,66 @@
+{
+  "captured_at": "2026-09-01_172508",
+  "note": "Synthetic deterministic fixture for unit tests (shapes mirror the live Phase-0 capture)",
+  "payload": {
+    "data": {
+      "currentUser": {
+        "id": "908570355",
+        "displayName": "LaPurria",
+        "dropCampaigns": [
+          {
+            "id": "a7bdc2ec-dc51-4a17-9fdd-6f6331e6407b",
+            "name": "ANNIVERSARY PREVIEW",
+            "status": "ACTIVE",
+            "startAt": "2026-09-01T14:45:00Z",
+            "endAt": "2026-09-01T19:29:59Z",
+            "game": {"id": "11", "name": "Delta Force", "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/DeltaForce.jpg"},
+            "imageURL": "https://static-cdn.jtvnw.net/campaign/anniversary.jpg",
+            "self": {"isAccountConnected": true},
+            "timeBasedDrops": [
+              {"id": "r1", "name": "Spray Paint - Hol' Up", "requiredMinutesWatched": 15},
+              {"id": "r2", "name": "Calling Card - Moments of Joy", "requiredMinutesWatched": 20}
+            ]
+          },
+          {
+            "id": "b3edc86e-62e8-4bb5-ad65-f4789bc31f13",
+            "name": "Sterling",
+            "status": "ACTIVE",
+            "startAt": "2026-08-24T19:30:00Z",
+            "endAt": "2026-09-01T23:29:59Z",
+            "game": {"id": "22", "name": "Kirka.io", "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Kirka.jpg"},
+            "imageURL": null,
+            "self": {"isAccountConnected": false},
+            "timeBasedDrops": [
+              {"id": "r3", "name": "Sterling Emote", "requiredMinutesWatched": 900}
+            ]
+          },
+          {
+            "id": "abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
+            "name": "Brawlhalla & Friends Eternal Sport",
+            "status": "ACTIVE",
+            "startAt": "2026-08-28T12:00:00Z",
+            "endAt": "2026-09-02T03:59:59Z",
+            "game": {"id": "33", "name": "Brawlhalla", "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/Brawlhalla.jpg"},
+            "imageURL": null,
+            "self": {"isAccountConnected": false},
+            "timeBasedDrops": [
+              {"id": "r4", "name": "Eternal Sport Skin <Gold>", "requiredMinutesWatched": 120},
+              {"id": "r5", "name": "Eternal Sport 2", "requiredMinutesWatched": 240}
+            ]
+          },
+          {
+            "id": "1b268f37-ee55-49a3-86d8-c10e17d4e60b",
+            "name": "ROW Drop 573",
+            "status": "EXPIRED",
+            "startAt": "2026-08-31T17:59:00Z",
+            "endAt": "2026-09-01T17:56:59Z",
+            "game": {"id": "44", "name": "Rise Online", "boxArtURL": null},
+            "imageURL": null,
+            "self": {"isAccountConnected": false},
+            "timeBasedDrops": []
+          }
+        ]
+      }
+    }
+  }
+}
