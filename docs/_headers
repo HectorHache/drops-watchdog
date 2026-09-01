@@ -1,0 +1,5 @@
+/drops.json
+  Cache-Control: no-store
+
+/feed.xml
+  Cache-Control: max-age=600
