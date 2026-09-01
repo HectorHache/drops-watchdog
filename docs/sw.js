@@ -4,7 +4,11 @@
  * (network-first with cache fallback) — the app already polls it every 10 min.
  */
 const CACHE = "drops-watchdog-v1";
-const SHELL = ["/", "/index.html", "/manifest.json", "/drops.json"];
+const SHELL = [
+  "/", "/index.html", "/manifest.json", "/site.webmanifest", "/drops.json",
+  "/favicon.ico", "/favicon-16x16.png", "/favicon-32x32.png",
+  "/apple-touch-icon.png", "/android-chrome-192x192.png", "/android-chrome-512x512.png",
+];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
