@@ -2766,30 +2766,6 @@
    "asset": "assets/cd4d2fc7-092b-444c-a9dc-f2c9da8a1fbc.png"
   },
   {
-   "id": "55cf13ea-1500-4852-9fd7-135902e40d1b",
-   "game": "World of Tanks Console",
-   "title": "Metal Fest Act 2 Opening",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T15:30:00+00:00",
-   "endAt": "2026-09-01T18:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56ac600d-1aaf-49ee-afc3-ab5f08e9c4b7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=55cf13ea-1500-4852-9fd7-135902e40d1b",
-   "rewards": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 45
-    },
-    {
-     "name": "Purple Stripes Camo",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/55cf13ea-1500-4852-9fd7-135902e40d1b.png"
-  },
-  {
    "id": "2ee33507-7ee6-4e79-a791-df23f626dad8",
    "game": "Tanki Online",
    "title": "WMR2 2026 R2 (1)",
@@ -2875,6 +2851,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "55cf13ea-1500-4852-9fd7-135902e40d1b",
+   "game": "World of Tanks Console",
+   "title": "Metal Fest Act 2 Opening",
+   "startAt": "2026-09-01T15:30:00+00:00",
+   "endAt": "2026-09-01T18:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "dd6c3b5c-60c6-4ca8-8cac-6184c25c9c32",
    "game": "League of Legends",
