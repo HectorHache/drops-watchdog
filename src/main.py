@@ -32,6 +32,7 @@ sys.path.insert(0, str(ROOT / "src"))
 import db as dbm
 import notify as ntf
 import site_builder as sb
+import steam_import as si
 import twitch_client as tc
 import watchdog as wd
 
@@ -315,6 +316,120 @@ def cmd_sync(args):
 
 
 
+def cmd_steam_import(args):
+    """Import Steam libraries (mick API + wifey browser scrape) into steam_games."""
+    results = si.cmd_import(str(db_path()), args.owners)
+    print(f"[steam] stored in {db_path()}")
+    # rebuild site so badges reflect the new library
+    try:
+        sb.cmd_build(argparse.Namespace(db=str(db_path())))
+        commit_on_change(dbm.init_db(db_path()), dry=args.dry)
+    except Exception as e:
+        print(f"[steam] site refresh skipped: {e}", file=sys.stderr)
+    return results
+
+
+def cmd_favorite(args):
+    """Manage favorites: add/rm/list a game name (selector backend for Phase 5)."""
+    conn = dbm.init_db(db_path())
+    if args.fcmd == "list":
+        rows = conn.execute("SELECT game_name, source, created_at FROM favorites ORDER BY game_name").fetchall()
+        print(f"favorites ({len(rows)}):")
+        for r in rows:
+            print(f"  ⭐ {r['game_name']}  (source={r['source']})")
+        return
+    if not args.game:
+        raise SystemExit("favorite add|rm <game-name> | favorite list")
+    name = args.game.strip()
+    if args.fcmd == "add":
+        conn.execute("INSERT OR IGNORE INTO favorites (game_name, weight, instant_alert, source, created_at) "
+                     "VALUES (?,10,1,'manual',?)", (name, dbm.now_iso()))
+        conn.commit()
+        print(f"⭐ favorited: {name}")
+    elif args.fcmd == "rm":
+        cur = conn.execute("DELETE FROM favorites WHERE game_name=?", (name,))
+        conn.commit()
+        print(f"removed favorite ({cur.rowcount}): {name}")
+    else:
+        raise SystemExit("favorite add|rm <game-name> | favorite list")
+    # rebuild site so isFavorite flags + Favorites tab update
+    try:
+        sb.cmd_build(argparse.Namespace(db=str(db_path())))
+        commit_on_change(conn, dry=args.dry)
+    except Exception as e:
+        print(f"[favorite] site refresh skipped: {e}", file=sys.stderr)
+
+
+def _send_personal(camps, cfg, conn, dry=False):
+    """Favorites' personal DM alerts (24/7). Fires once per campaign per kind:
+    PERSONAL_NEW (favorite game has a brand-new campaign) and PERSONAL_24H (favorite
+    campaign enters the <24h window). Ledger-marked after successful send -> no spam.
+    Returns the message or None (silent)."""
+    import notify as ntf
+    favorites = get_favorites(conn)
+    if not favorites:
+        print("no favorites configured — skipping personal alerts")
+        return None
+    now = datetime.datetime.now(datetime.timezone.utc)
+    known = dbm.get_campaigns(conn)
+    state = wd.classify(known, camps, now,
+                        h24=cfg["watchdog"]["ending_24h_hours"],
+                        h48=cfg["watchdog"]["ending_48h_hours"])
+    picks = []
+    for c in state["new"]:
+        if c["game_name"] in favorites and not dbm.ledger_has(conn, c["id"], "PERSONAL_NEW"):
+            picks.append((c, "PERSONAL_NEW", "NEW DROP"))
+    for c in state["ending_24"]:
+        if c["game_name"] in favorites and not dbm.ledger_has(conn, c["id"], "PERSONAL_24H"):
+            picks.append((c, "PERSONAL_24H", "ENDING <24H"))
+    if not picks:
+        print("no favorite alerts to send (silent)")
+        return None
+    lines = ["⭐ <b>FAVORITE DROP ALERT</b>", "━━━━━━━━━━━━━━━━━━━━━━"]
+    for c, kind, tag in picks:
+        end = wd.parse_dt(c["end_at"])
+        left = wd._hours_left(end, now)
+        lines.append(f"🚨 <b>{wd._esc(tag)}</b> — <b>{wd._esc(c['game_name'])}</b> — <i>{wd._esc(c['title'])}</i>")
+        if end:
+            lines.append(f"   ⏳ ends {wd._esc(wd.fmt_dt(end, cfg['timezone']))} ({left} left)")
+        names = wd._esc(" · ".join(r["name"] for r in c.get("rewards", [])[:3]))
+        if names:
+            lines.append(f"   🏆 {names}")
+        lines.append(f"   🔗 <a href=\"{wd._esc(c['details_url'])}\">Open drop</a>")
+    lines.append("━━━━━━━━━━━━━━━━━━━━━━")
+    lines.append(f"🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>")
+    msg = "\n".join(lines)
+    if dry:
+        print(msg)
+        return msg
+    token = ntf.bot_token()
+    chat = cfg["telegram"]["dm_chat_id"]
+    ntf.send_digest(token, chat, msg)
+    for c, kind, _ in picks:
+        dbm.ledger_add(conn, c["id"], kind, "telegram:dm")
+    dbm.record_event(conn, "personal_alert_sent", payload={"picks": len(picks), "to": chat})
+    print(f"personal favorite alert sent to {chat} ({len(picks)} pick(s))")
+    return msg
+
+
+def cmd_personal(args):
+    """24/7 favorites check (separate cron): fetch -> seed -> close -> personal DM only."""
+    cfg = load_config()
+    conn = dbm.init_db(db_path())
+    try:
+        camps = tc.fetch_campaigns()
+    except tc.FetchError as e:
+        print(f"FETCH ERROR: {e}", file=sys.stderr)
+        _alert(conn, "FETCH_FAILED", str(e))
+        raise
+    for c in camps:
+        dbm.upsert_campaign(conn, c)
+    closed = dbm.close_ended(conn)
+    if closed:
+        print(f"closed {closed} ended campaign(s)")
+    _send_personal(camps, cfg, conn, dry=args.dry)
+
+
 def cmd_status(args):
     cfg = load_config()
     try:
@@ -359,10 +474,21 @@ def main():
     sub.add_parser("build", help="generate docs/ from drops.db")
     sy = sub.add_parser("sync", help="scheduled full run (fetch/seed/close/digest/build/push)")
     sy.add_argument("--dry", action="store_true", help="no send, no commit/push (print only)")
+    si_cmd = sub.add_parser("steam-import", help="import Steam libraries (mick API + wifey scrape)")
+    si_cmd.add_argument("--owners", default="mick,wifey", help="comma list: mick,wifey")
+    si_cmd.add_argument("--dry", action="store_true", help="no site push")
+    fav = sub.add_parser("favorite", help="manage favorites (add/rm/list)")
+    fav.add_argument("fcmd", nargs="?", default="list", choices=["add", "rm", "list"])
+    fav.add_argument("game", nargs="?", default=None)
+    fav.add_argument("--dry", action="store_true", help="no site push")
+    pe = sub.add_parser("personal", help="24/7 favorites DM check (cron)")
+    pe.add_argument("--dry", action="store_true", help="print only")
     sub.add_parser("status", help="credentials + DB status")
     args = ap.parse_args()
+    _CMD_ALIAS = {"steam-import": "cmd_steam_import"}   # dashed -> func name
+    target = _CMD_ALIAS.get(args.cmd, f"cmd_{args.cmd}")
     try:
-        globals()[f"cmd_{args.cmd}"](args)
+        globals()[target](args)
     except tc.FetchError as e:
         print(f"FETCH ERROR: {e}", file=sys.stderr)
         sys.exit(2)

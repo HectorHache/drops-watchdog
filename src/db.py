@@ -61,6 +61,14 @@ CREATE TABLE IF NOT EXISTS kv_interactions (
   campaign_id   TEXT,
   value         TEXT
 );
+CREATE TABLE IF NOT EXISTS steam_games (
+  appid         INTEGER NOT NULL,
+  name          TEXT NOT NULL,
+  owner         TEXT NOT NULL,             -- mick|wifey
+  created_at    TEXT NOT NULL,
+  PRIMARY KEY (appid, owner)
+);
+CREATE INDEX IF NOT EXISTS idx_steam_name ON steam_games(name);
 CREATE TABLE IF NOT EXISTS meta (k TEXT PRIMARY KEY, v TEXT);
 CREATE INDEX IF NOT EXISTS idx_campaigns_status_end ON campaigns(status, end_at);
 CREATE INDEX IF NOT EXISTS idx_ledger_lookup ON notification_ledger(campaign_id, kind);
@@ -94,9 +102,19 @@ def get_campaigns(conn, statuses=None) -> dict:
     return {r["id"]: dict(r) for r in conn.execute(q, params)}
 
 
+def _end_in_future(end_at) -> bool:
+    if not end_at:
+        return False
+    try:
+        d = datetime.datetime.fromisoformat(str(end_at).replace("Z", "+00:00"))
+    except Exception:
+        return False
+    return d > datetime.datetime.now(datetime.timezone.utc)
+
+
 def upsert_campaign(conn, c: dict) -> str:
     """Insert or update a campaign row. Returns 'inserted' | 'updated'."""
-    existing = conn.execute("SELECT 1 FROM campaigns WHERE id=?", (c["id"],)).fetchone()
+    existing = conn.execute("SELECT status FROM campaigns WHERE id=?", (c["id"],)).fetchone()
     now = now_iso()
     if existing is None:
         conn.execute(
@@ -111,11 +129,22 @@ def upsert_campaign(conn, c: dict) -> str:
         )
         result = "inserted"
     else:
+        # Once CLOSED, never resurrect to an open status unless the feed genuinely
+        # re-opens it (end_at back in the future). Twitch keeps returning ended
+        # campaigns as EXPIRED, which would otherwise flip-flop CLOSED<->EXPIRED
+        # every seed and re-fire close_ended + site pushes each run.
+        feed_status = c["status"]
+        if existing["status"] == "CLOSED":
+            end_ok = _end_in_future(c.get("end_at"))
+            if feed_status in ("ACTIVE", "UPCOMING") and end_ok:
+                pass  # genuine re-open: allow transition back
+            else:
+                feed_status = "CLOSED"   # keep closed (ended or still EXPIRED)
         conn.execute(
             """UPDATE campaigns SET game_id=?, game_name=?, title=?, status=?, start_at=?,
                end_at=?, image_url=?, details_url=?, channels_summary=?, raw_json=?,
                last_seen_at=? WHERE id=?""",
-            (c.get("game_id"), c["game_name"], c["title"], c["status"],
+            (c.get("game_id"), c["game_name"], c["title"], feed_status,
              c["start_at"], c["end_at"], c.get("image_url"), c.get("details_url"),
              c.get("channels_summary"), c.get("raw_json"), now, c["id"]),
         )
@@ -138,6 +167,30 @@ def set_closed(conn, campaign_id, archived_at=None):
     conn.execute("UPDATE campaigns SET status='CLOSED', is_closed=1, archived_at=? WHERE id=?",
                  (archived_at or now_iso(), campaign_id))
     conn.commit()
+
+
+def replace_steam_games(conn, owner: str, games: list[dict]):
+    """Replace one owner's library (import is authoritative per owner)."""
+    conn.execute("DELETE FROM steam_games WHERE owner=?", (owner,))
+    now = now_iso()
+    for g in games:
+        conn.execute(
+            "INSERT OR IGNORE INTO steam_games (appid, name, owner, created_at) VALUES (?,?,?,?)",
+            (int(g.get("appid", 0) or 0), (g.get("name") or "").strip(), owner, now))
+    conn.commit()
+
+
+def get_steam_games(conn, owners: tuple = ("mick",)) -> set[str]:
+    """Owned game NAMES for the given owners (badge matching)."""
+    if not owners:
+        return set()
+    marks = ",".join("?" * len(owners))
+    rows = conn.execute(f"SELECT name FROM steam_games WHERE owner IN ({marks})", owners).fetchall()
+    return {r["name"] for r in rows}
+
+
+def get_steam_count(conn, owner: str) -> int:
+    return conn.execute("SELECT COUNT(*) c FROM steam_games WHERE owner=?", (owner,)).fetchone()["c"]
 
 
 def close_ended(conn) -> int:
