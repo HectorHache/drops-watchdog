@@ -172,6 +172,8 @@ let dataHash = "";
 let fetchedAt = Date.now();      // when the current drops.json was loaded (for "updated ago")
 
 const $ = s => document.querySelector(s);
+// accent-insensitive search ("pokemon" matches "Pokémon")
+const norm = t => String(t ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 const fmtDT = iso => { if(!iso) return "—"; const d = new Date(iso); return d.toLocaleString("en-GB", {weekday:"short", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Madrid"}); };
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
@@ -243,9 +245,9 @@ function visibleCampaigns(){
   if(state.sec === "favs") list = list.filter(c => c.isFavorite);
   if(state.game) list = list.filter(c => c.game === state.game);
   if(state.q){
-    const q = state.q.toLowerCase();
-    list = list.filter(c => c.game.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) ||
-      (c.rewards||[]).some(r => r.name.toLowerCase().includes(q)));
+    const q = norm(state.q);
+    list = list.filter(c => norm(c.game).includes(q) || norm(c.title).includes(q) ||
+      (c.rewards||[]).some(r => norm(r.name).includes(q)));
   }
   const sorters = {
     soon: (a,b) => hoursLeft(a) - hoursLeft(b),

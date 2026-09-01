@@ -10,14 +10,18 @@ Commands:
                        (ledger-marked, delta-only, D3); silent when nothing new
   test                send a fixed test message to the channel + DM (approval gate)
   build               generate docs/ (site) from drops.db
+  sync [--dry]        scheduled run: fetch -> seed -> close ended -> digest -> build
+                       -> commit+push docs/ only when changed (cron entrypoint)
   status              credentials age + DB stats + auth-expiry warning (2FA ≈ 30 days)
 
 Exit codes: 0 ok; 2 fetch/classify error (silent-fail safe: no false alerts).
 """
 import argparse
 import datetime
+import html
 import json
 import os
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -158,7 +162,7 @@ def cmd_dryrun(args):
 
 
 def _send_digest(camps, cfg, conn, dry=False):
-    """Shared: classify -> compose -> (send + ledger-mark). Returns sent or None."""
+    """Shared: classify -> compose -> (send + ledger-mark). Returns (msg, state)."""
     import notify as ntf
     now = datetime.datetime.now(datetime.timezone.utc)
     known = dbm.get_campaigns(conn)
@@ -170,10 +174,10 @@ def _send_digest(camps, cfg, conn, dry=False):
                             ledger_has=lambda cid, kind: dbm.ledger_has(conn, cid, kind))
     if msg is None:
         print("silent run — nothing new (no message sent)")
-        return None
+        return None, state
     if dry:
         print(msg)
-        return msg
+        return msg, state
     token = ntf.bot_token()
     chat = cfg["telegram"]["group_chat_id"]
     if not chat:
@@ -191,7 +195,7 @@ def _send_digest(camps, cfg, conn, dry=False):
     dbm.record_event(conn, "digest_sent", payload={"chars": len(msg), "to": chat})
     print(f"digest sent to {chat} ({len(msg)} chars; new={len(state['new'])}, "
           f"ending24={len(state['ending_24'])}, ended={len(state['ended'])})")
-    return msg
+    return msg, state
 
 
 def cmd_send(args):
@@ -220,6 +224,95 @@ def cmd_test(args):
 
 def cmd_build(args):
     sb.cmd_build(argparse.Namespace(db=str(db_path())))
+
+
+def _git_porcelain(paths=("docs",)) -> str:
+    """Changed files under paths vs HEAD (empty string = nothing changed)."""
+    r = subprocess.run(["git", "status", "--porcelain", "--", *paths],
+                       capture_output=True, text=True, cwd=ROOT)
+    return r.stdout.strip()
+
+
+def commit_on_change(conn, dry=False) -> bool:
+    """Commit + push docs/ ONLY when it changed (respects CF 500-build/month cap)."""
+    dirty = _git_porcelain(("docs",))
+    if not dirty:
+        print("docs/ unchanged — no push (CF build cap respected)")
+        return False
+    print(f"docs/ changed ({len(dirty.splitlines())} file(s)) — committing + pushing")
+    if dry:
+        print("  (--dry: skip commit/push)")
+        return False
+    subprocess.run(["git", "add", "docs"], cwd=ROOT, check=True)
+    subprocess.run(["git", "commit", "-m", f"site: auto-update {dbm.now_iso()}"],
+                   cwd=ROOT, check=True)
+    r = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True,
+                       cwd=ROOT)
+    if r.returncode != 0:
+        print(f"PUSH FAILED: {r.stderr}", file=sys.stderr)
+        _alert(conn, "PUSH_FAILED", f"git push to origin/main failed:\n{r.stderr[-400:]}",
+               throttle_hours=1)
+        return False
+    print("pushed to origin/main — CF Pages auto-deploy triggered")
+    return True
+
+
+def _alert(conn, kind: str, detail: str, throttle_hours: int = 6) -> bool:
+    """Throttled DM alert for non-silent failures (fetch/push). Uses meta watermark."""
+    key = f"last_alert_{kind}"
+    last = dbm.meta_get(conn, key)
+    if last:
+        try:
+            age_h = (time.time() - datetime.datetime.fromisoformat(last).timestamp()) / 3600
+        except Exception:
+            age_h = 99
+        if age_h < throttle_hours:
+            print(f"[alert:{kind}] throttled ({age_h:.1f}h ago) — skip")
+            return False
+    try:
+        token = ntf.bot_token()
+        chat = load_config()["telegram"]["dm_chat_id"]
+        msg = (f"🚨 <b>DROPS WATCHDOG — {html.escape(kind)}</b>\n"
+               f"<pre>{html.escape(str(detail)[:900])}</pre>")
+        ntf.send_digest(token, chat, msg)
+        dbm.meta_set(conn, key, dbm.now_iso())
+        dbm.record_event(conn, "error_alert", payload={"kind": kind})
+        print(f"[alert:{kind}] sent DM to {chat}")
+        return True
+    except Exception as e:
+        print(f"[alert:{kind}] DM send failed: {e}", file=sys.stderr)
+        return False
+
+
+def cmd_sync(args):
+    """Full scheduled run (cron): fetch -> seed -> close ended -> digest -> build -> push."""
+    cfg = load_config()
+    conn = dbm.init_db(db_path())
+    try:
+        camps = tc.fetch_campaigns()
+    except tc.FetchError as e:
+        print(f"FETCH ERROR: {e}", file=sys.stderr)
+        _alert(conn, "FETCH_FAILED", str(e))
+        raise  # main() exits 2 (silent-fail safe for cron)
+    n_new = n_upd = 0
+    for c in camps:
+        r = dbm.upsert_campaign(conn, c)
+        n_new += r == "inserted"
+        n_upd += r == "updated"
+    dbm.meta_set(conn, "last_seed_at", dbm.now_iso())
+    print(f"seeded {len(camps)} campaigns (new={n_new}, updated={n_upd})")
+
+    # close campaigns that have ended (keep rows forever; site History grows)
+    closed = dbm.close_ended(conn)
+    if closed:
+        print(f"closed {closed} ended campaign(s) -> CLOSED + archived_at")
+
+    msg, state = _send_digest(camps, cfg, conn, dry=args.dry)
+
+    sb.cmd_build(argparse.Namespace(db=str(db_path())))
+    commit_on_change(conn, dry=args.dry)
+    print("sync complete")
+
 
 
 def cmd_status(args):
@@ -264,6 +357,8 @@ def main():
     se.add_argument("--dry", action="store_true", help="print digest only, no send")
     sub.add_parser("test", help="fixed test message to channel + DM")
     sub.add_parser("build", help="generate docs/ from drops.db")
+    sy = sub.add_parser("sync", help="scheduled full run (fetch/seed/close/digest/build/push)")
+    sy.add_argument("--dry", action="store_true", help="no send, no commit/push (print only)")
     sub.add_parser("status", help="credentials + DB status")
     args = ap.parse_args()
     try:

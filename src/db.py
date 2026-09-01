@@ -140,6 +140,24 @@ def set_closed(conn, campaign_id, archived_at=None):
     conn.commit()
 
 
+def close_ended(conn) -> int:
+    """Transition rows whose end_at has passed (or status EXPIRED) -> CLOSED + archived_at.
+    Rows are kept forever (history); only the status/archive markers change.
+    Returns count closed. Conservative: never touches ACTIVE/UPCOMING with future end."""
+    now = now_iso()
+    rows = conn.execute(
+        "SELECT id FROM campaigns WHERE status IN ('ACTIVE','UPCOMING','EXPIRED') "
+        "AND (end_at IS NULL OR end_at <= ?)", (now,)).fetchall()
+    for r in rows:
+        conn.execute("UPDATE campaigns SET status='CLOSED', is_closed=1, archived_at=? WHERE id=?",
+                     (now, r["id"]))
+        conn.execute("INSERT OR IGNORE INTO events (ts, kind, campaign_id, payload) VALUES (?,?,?,?)",
+                     (now, "closed", r["id"], None))
+    if rows:
+        conn.commit()
+    return len(rows)
+
+
 # ---------- events / ledger ----------
 
 def record_event(conn, kind, campaign_id=None, payload=None):
