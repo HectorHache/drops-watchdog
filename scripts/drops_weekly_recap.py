@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
+import learning as lrn
 import notify as ntf
 import watchdog as wd
 
@@ -66,7 +67,20 @@ def build_recap(conn) -> str:
     lines.append(f"🎮 Top games:")
     for name, count in top:
         lines.append(f"   ▸ {_esc(name)} — <b>{count}</b>")
-    lines.append("━━━━━━━━━━━━━━━━━━━━━━")
+    # Phase 7: most-interacted games (recency-decayed learning signals)
+    sig = lrn.game_signals(conn)
+    hot = sorted(((g, d["score"], d["favorites"], d["likes"], d["reminds"])
+                  for g, d in sig.items() if d["score"] >= 1),
+                 key=lambda t: -t[1])[:3]
+    if hot:
+        lines.append("🔥 <b>Most interacted:</b>")
+        for g, score, favs, likes, reminds in hot:
+            bits = []
+            if favs: bits.append(f"{favs}⭐")
+            if likes: bits.append(f"{likes}👍")
+            if reminds: bits.append(f"{reminds}🔔")
+            lines.append(f"   ▸ {_esc(g)} — {', '.join(bits)}")
+        lines.append("━━━━━━━━━━━━━━━━━━━━━━")
     lines.append("🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>")
     return "\n".join(lines)
 
