@@ -98,27 +98,36 @@ def _scrape_wifey_games() -> list[dict] | None:
     """ego-browser nodejs: open Steam profile games tab (all, grid), read titles.
     Returns None if the profile/games page couldn't be parsed (login/private)."""
     import subprocess
+    import uuid
+    space = "steam wifey " + uuid.uuid4().hex[:8]   # unique per run — avoids stale-space collisions
     js = r"""
-const task = await useOrCreateTaskSpace('steam wifey import')
+const task = await useOrCreateTaskSpace('{SPACE}')
 await openOrReuseTab('https://steamcommunity.com/profiles/76561198051826838/games/?tab=all', { wait: true, timeout: 30 })
 await wait(5)
 // login-gated or private? Steam shows "Profile is private" or an age gate / sign-in.
 const body = await js(`document.body ? document.body.innerText.slice(0, 1200) : ''`)
 // revamped Steam games page lazy-loads rows on scroll -> scroll to bottom first
-for (let i = 0; i < 8; i++) { await scroll({ dy: 3500 }); await wait(1); }
+// pure-JS scroll (window.scrollBy) — the CDP `scroll()` helper's wheel events
+// time out in a fresh subprocess; scrollBy still triggers Steam's lazy loader
+for (let i = 0; i < 8; i++) { await js(`window.scrollBy(0, 3500)`); await wait(1); }
 await wait(2)
 const titles = await js(`(() => {
-  const out = new Set();
+  const out = new Map();   // name -> appid
+  const skip = ['store page','download','community'];
   document.querySelectorAll('a[href*="/app/"]').forEach(a => {
     const t = (a.textContent || '').trim();
-    if (t && t.length < 100 && !/store page|download|community/i.test(t)) out.add(t);
+    if (!t || t.length >= 100) return;
+    if (skip.some(k => t.toLowerCase().indexOf(k) >= 0)) return;
+    const parts = (a.href || '').split('/app/');
+    const appid = parts.length > 1 ? parseInt(parts[1]) : 0;
+    out.set(t, isNaN(appid) ? 0 : appid);
   });
-  return [...out];
+  return [...out.entries()].map(([name, appid]) => ({name, appid}));
 })()`)
 cliLog('STEAM_BODY: ' + body.replace(/\n+/g, ' | ').slice(0, 400))
 cliLog('STEAM_TITLES: ' + JSON.stringify(titles))
 await completeTaskSpace(task.id, { keep: false })
-"""
+""".replace("{SPACE}", space)
     try:
         r = subprocess.run(["ego-browser", "nodejs"], input=js, capture_output=True,
                            text=True, timeout=120)
@@ -126,17 +135,19 @@ await completeTaskSpace(task.id, { keep: false })
         print(f"[steam] ego-browser subprocess failed: {e}", file=sys.stderr)
         return None
     out = (r.stdout or "") + (r.stderr or "")
-    titles = []
+    games = []
     for line in out.splitlines():
         if line.startswith("STEAM_TITLES: "):
             try:
-                titles = json.loads(line[len("STEAM_TITLES: "):])
+                games = json.loads(line[len("STEAM_TITLES: "):])
             except Exception:
-                titles = []
-    if not titles:
+                games = []
+    if not games:
         print(f"[steam] wifey: no titles parsed. page:\n{(out or '')[-800:]}", file=sys.stderr)
         return None
-    return [{"appid": 0, "name": t.strip()} for t in titles if t.strip()]
+    # normalize: each entry is {"name":..., "appid":...} (or bare name string from older scrape)
+    return [{"appid": int(g.get("appid", 0) or 0), "name": (g.get("name") or g).strip()}
+            for g in games if (g.get("name") or g).strip()]
 
 
 def cmd_import(db: str, owners: str | None = None) -> list[dict]:
