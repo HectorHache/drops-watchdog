@@ -2570,26 +2570,6 @@
    "asset": "assets/536bb94e-143d-471e-a6a3-60c60f0eadd6.png"
   },
   {
-   "id": "d695d039-6bbb-4947-91fd-4fee74a2eb76",
-   "game": "EVE Online",
-   "title": "MOOtivational Stream",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T13:00:00+00:00",
-   "endAt": "2026-09-02T18:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T13:00:46+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d58f52a5-18c1-4b20-90fa-15f86e5f15f1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d695d039-6bbb-4947-91fd-4fee74a2eb76",
-   "rewards": [
-    {
-     "name": "MOOtivation",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d695d039-6bbb-4947-91fd-4fee74a2eb76.png"
-  },
-  {
    "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/2/26",
@@ -2867,6 +2847,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "d695d039-6bbb-4947-91fd-4fee74a2eb76",
+   "game": "EVE Online",
+   "title": "MOOtivational Stream",
+   "startAt": "2026-09-02T13:00:00+00:00",
+   "endAt": "2026-09-02T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "53b85d5e-6b78-49c7-848d-280ce62cc970",
    "game": "Rise Online",
@@ -3280,13 +3268,13 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.88
+   "score": 5.87
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.22
+   "score": 37.2
   },
   "Once Human": {
    "favorites": 1,
