@@ -1970,26 +1970,6 @@
    "asset": "assets/c5383e3e-0a84-4cd8-b073-6f09cb489c74.png"
   },
   {
-   "id": "377c2eb4-276b-4055-931d-ed46a67e58a5",
-   "game": "World of Tanks",
-   "title": "Back in Action #3",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T15:00:00+00:00",
-   "endAt": "2026-09-02T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b4c0b5b-a1b4-4da8-be8c-eb2682944c1f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=377c2eb4-276b-4055-931d-ed46a67e58a5",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/377c2eb4-276b-4055-931d-ed46a67e58a5.jpg"
-  },
-  {
    "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
    "game": "Voyagers of Nera",
    "title": "Happy Birthday Voyagers!",
@@ -2832,9 +2812,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b9375269-631d-4e6d-87c7-036c9ec7f89d.png"
+  },
+  {
+   "id": "e103ef3f-f202-4183-915e-7c057c629e6a",
+   "game": "World of Tanks",
+   "title": "Update 2.4 Drops #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T15:00:00+00:00",
+   "endAt": "2026-09-04T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T15:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e6d10a5d-f70a-483c-945f-f60dddee754a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e103ef3f-f202-4183-915e-7c057c629e6a",
+   "rewards": [
+    {
+     "name": "Drop 1 ",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e103ef3f-f202-4183-915e-7c057c629e6a.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "377c2eb4-276b-4055-931d-ed46a67e58a5",
+   "game": "World of Tanks",
+   "title": "Back in Action #3",
+   "startAt": "2026-08-31T15:00:00+00:00",
+   "endAt": "2026-09-02T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e1bf9724-4dfa-4fba-ad0b-fa70e6dae704",
    "game": "Out of the Park Baseball 27",
@@ -3214,7 +3222,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.37
+   "score": 37.35
   },
   "Once Human": {
    "favorites": 1,
