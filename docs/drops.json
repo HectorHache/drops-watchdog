@@ -886,26 +886,6 @@
    "asset": "assets/9ff2d241-3b92-4f86-b625-1362dbbdbafc.png"
   },
   {
-   "id": "8cfe655c-5209-46e4-ac4a-244cfc7abbbc",
-   "game": "World of Warships",
-   "title": "15.7 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T22:00:00+00:00",
-   "endAt": "2026-09-02T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e4ab3c7-a698-4660-aeac-dfa3d26951f4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8cfe655c-5209-46e4-ac4a-244cfc7abbbc",
-   "rewards": [
-    {
-     "name": "Week 3: gamescom 2026 mission",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8cfe655c-5209-46e4-ac4a-244cfc7abbbc.png"
-  },
-  {
    "id": "751c7c96-b668-4130-a638-9acb33868edb",
    "game": "Plants on Fire",
    "title": "Plants on Fire",
@@ -2784,9 +2764,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/33a2f9db-8e9c-4aa9-bb6c-d9c586813e74.png"
+  },
+  {
+   "id": "d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
+   "game": "World of Warships",
+   "title": "15.7 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T22:00:00+00:00",
+   "endAt": "2026-09-09T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T22:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b8715ef-3ea9-4b2c-9a6a-a5d84dc21f19.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
+   "rewards": [
+    {
+     "name": "Week 4: 250 Community Tokens",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d4e988dd-ac54-40c2-827d-d1e8876c5fc4.png"
   }
  ],
  "archive": [
+  {
+   "id": "8cfe655c-5209-46e4-ac4a-244cfc7abbbc",
+   "game": "World of Warships",
+   "title": "15.7 WOWS Channel Drop",
+   "startAt": "2026-08-26T22:00:00+00:00",
+   "endAt": "2026-09-02T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8ecedc2a-76ec-430a-836c-17bc39a82204",
    "game": "Tanks Blitz",
@@ -3212,13 +3220,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.76
+   "score": 9.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3230,25 +3238,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.11
+   "score": 37.1
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3260,13 +3268,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   }
  },
  "favoriteWeights": {
