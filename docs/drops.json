@@ -2708,6 +2708,130 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/22f595b5-a186-4ffe-92ee-61a43ad63213.png"
+  },
+  {
+   "id": "edb45f6b-e5d0-40c1-8a00-eaced8141a07",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-02T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-02T14:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f3ef4718-6477-49e8-8c6e-27252ee0c6e2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=edb45f6b-e5d0-40c1-8a00-eaced8141a07",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/edb45f6b-e5d0-40c1-8a00-eaced8141a07.png"
+  },
+  {
+   "id": "8ecedc2a-76ec-430a-836c-17bc39a82204",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-02T19:30:59.999+00:00",
+   "firstSeenAt": "2026-09-02T14:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/de343d86-3f35-4e51-84f4-f7a7eb731d12.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8ecedc2a-76ec-430a-836c-17bc39a82204",
+   "rewards": [
+    {
+     "name": "\u041a\u043e\u043d\u0442 4",
+     "minutes": 240
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 5",
+     "minutes": 300
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 1",
+     "minutes": 60
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 2",
+     "minutes": 120
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 3",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8ecedc2a-76ec-430a-836c-17bc39a82204.png"
+  },
+  {
+   "id": "823bb9b1-886a-4efc-a39c-33cbe46e4269",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-04T19:00:59.999+00:00",
+   "firstSeenAt": "2026-09-02T14:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b9ed6f9-3eef-4093-a5bc-e7aebf7d5dd2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=823bb9b1-886a-4efc-a39c-33cbe46e4269",
+   "rewards": [
+    {
+     "name": "\u0410\u0432\u0430\u0442\u0430\u0440\u043a\u0430",
+     "minutes": 780
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/823bb9b1-886a-4efc-a39c-33cbe46e4269.png"
+  },
+  {
+   "id": "b9375269-631d-4e6d-87c7-036c9ec7f89d",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-06T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-02T14:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ff25e20-8296-4592-87a5-f48911ba2045.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b9375269-631d-4e6d-87c7-036c9ec7f89d",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b9375269-631d-4e6d-87c7-036c9ec7f89d.png"
   }
  ],
  "archive": [
@@ -3072,7 +3196,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   },
   "Delta Force": {
    "favorites": 1,
@@ -3084,31 +3208,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.91
+   "score": 5.9
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.4
+   "score": 37.38
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3120,13 +3244,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.8
+   "score": 12.79
   }
  },
  "favoriteWeights": {
