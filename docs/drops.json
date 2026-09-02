@@ -2716,6 +2716,26 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/887d4209-4942-4bce-9558-70c44451ff9c.png"
+  },
+  {
+   "id": "536bb94e-143d-471e-a6a3-60c60f0eadd6",
+   "game": "EVE Online",
+   "title": "Moo",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T12:30:00+00:00",
+   "endAt": "2026-09-03T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T12:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/39456b42-d3b5-408a-b657-3089ad7351ce.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=536bb94e-143d-471e-a6a3-60c60f0eadd6",
+   "rewards": [
+    {
+     "name": "Orca Nautgripur SKIN",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/536bb94e-143d-471e-a6a3-60c60f0eadd6.png"
   }
  ],
  "archive": [
@@ -3070,7 +3090,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.85
+   "score": 9.84
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3082,7 +3102,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.46
+   "score": 37.44
   },
   "Once Human": {
    "favorites": 1,
