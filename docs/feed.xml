@@ -145,13 +145,6 @@
     <pubDate>2026-08-21T05:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Kirka.io — Sterling</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=b3edc86e-62e8-4bb5-ad65-f4789bc31f13</link>
-    <guid isPermaLink="false">b3edc86e-62e8-4bb5-ad65-f4789bc31f13</guid>
-    <description>Sterling — runs 2026-08-24T19:30:00+00:00 → 2026-09-01T23:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-24T19:30:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Dead by Daylight — DbD: Chorus of Sin</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=05a8f884-cb18-4206-93fb-509264b6d5e0</link>
     <guid isPermaLink="false">05a8f884-cb18-4206-93fb-509264b6d5e0</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=76ed891e-61c1-4207-ac23-ae9d036e843c</link>
     <guid isPermaLink="false">76ed891e-61c1-4207-ac23-ae9d036e843c</guid>
     <description>2026 Pokémon World Championships sticker · 2026 Worlds costumed Pikachu License Art · 2025 World Champions’ License Selection Box — runs 2026-08-28T07:00:00+00:00 → 2026-09-07T06:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-08-28T07:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Pokémon Trading Card Game — PXP TCG Panel Rewards</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=3652adfd-9812-4c1d-bffa-7886fa78faae</link>
+    <guid isPermaLink="false">3652adfd-9812-4c1d-bffa-7886fa78faae</guid>
+    <description>PXP TCGL Drops — runs 2026-08-28T07:00:00+00:00 → 2026-09-07T06:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-08-28T07:00:00+00:00</pubDate>
   </item>
 </channel>
