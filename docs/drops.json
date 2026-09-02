@@ -838,30 +838,6 @@
    "asset": "assets/4a750183-d375-48ac-9814-3650bd3a7534.jpg"
   },
   {
-   "id": "68abe2be-5e6d-4a33-805c-be185cfab75b",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 1 - Week 9",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T16:00:00+00:00",
-   "endAt": "2026-09-02T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/787a1798-1382-4bde-b134-48c1dfca4749.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=68abe2be-5e6d-4a33-805c-be185cfab75b",
-   "rewards": [
-    {
-     "name": "10,000 Credits",
-     "minutes": 30
-    },
-    {
-     "name": "300 Tech",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/68abe2be-5e6d-4a33-805c-be185cfab75b.png"
-  },
-  {
    "id": "90589949-1d2e-4161-8def-3aee51e1f721",
    "game": "Resonance: A Plague Tale Legacy",
    "title": "Resonance Launch",
@@ -2832,9 +2808,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e103ef3f-f202-4183-915e-7c057c629e6a.jpg"
+  },
+  {
+   "id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T16:00:00+00:00",
+   "endAt": "2026-09-09T15:58:59.999+00:00",
+   "firstSeenAt": "2026-09-02T16:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb008cdd-2eea-4335-94d8-8369f0a1f3dd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack + M60A3E2 Camo",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c55b5ce6-d992-4d31-a8c7-f039525dfaf7.png"
   }
  ],
  "archive": [
+  {
+   "id": "68abe2be-5e6d-4a33-805c-be185cfab75b",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 1 - Week 9",
+   "startAt": "2026-08-26T16:00:00+00:00",
+   "endAt": "2026-09-02T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "377c2eb4-276b-4055-931d-ed46a67e58a5",
    "game": "World of Tanks",
@@ -3204,7 +3212,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "Delta Force": {
    "favorites": 1,
@@ -3222,25 +3230,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.33
+   "score": 37.31
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3252,13 +3260,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   }
  },
  "favoriteWeights": {
