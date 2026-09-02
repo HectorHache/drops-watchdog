@@ -2606,42 +2606,6 @@
    "asset": "assets/22f595b5-a186-4ffe-92ee-61a43ad63213.png"
   },
   {
-   "id": "8ecedc2a-76ec-430a-836c-17bc39a82204",
-   "game": "Tanks Blitz",
-   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T14:00:00+00:00",
-   "endAt": "2026-09-02T19:30:59.999+00:00",
-   "firstSeenAt": "2026-09-02T14:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/de343d86-3f35-4e51-84f4-f7a7eb731d12.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8ecedc2a-76ec-430a-836c-17bc39a82204",
-   "rewards": [
-    {
-     "name": "\u041a\u043e\u043d\u0442 4",
-     "minutes": 240
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 5",
-     "minutes": 300
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 1",
-     "minutes": 60
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 2",
-     "minutes": 120
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 3",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8ecedc2a-76ec-430a-836c-17bc39a82204.png"
-  },
-  {
    "id": "823bb9b1-886a-4efc-a39c-33cbe46e4269",
    "game": "Tanks Blitz",
    "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444",
@@ -2823,6 +2787,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "8ecedc2a-76ec-430a-836c-17bc39a82204",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 1",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-02T19:30:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fce64bba-2216-4e46-bc06-1457e962e45a",
    "game": "Tanki Online",
@@ -3246,7 +3218,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.78
+   "score": 9.77
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3258,7 +3230,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.19
+   "score": 37.17
   },
   "Once Human": {
    "favorites": 1,
@@ -3282,7 +3254,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.94
+   "score": 2.93
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
