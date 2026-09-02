@@ -2808,6 +2808,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c55b5ce6-d992-4d31-a8c7-f039525dfaf7.png"
+  },
+  {
+   "id": "273782f3-2251-4510-9d8f-920b37f6b7bb",
+   "game": "Krunker",
+   "title": "September Spins Update",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T16:30:00+00:00",
+   "endAt": "2026-09-11T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T17:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ab2e3027-7096-401d-8e19-33ed119eb4d3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=273782f3-2251-4510-9d8f-920b37f6b7bb",
+   "rewards": [
+    {
+     "name": "Purple Flow Assault Rifle",
+     "minutes": 120
+    },
+    {
+     "name": "Purple Flow Shotgun",
+     "minutes": 180
+    },
+    {
+     "name": "Purple Flow Charge Rifle",
+     "minutes": 240
+    },
+    {
+     "name": "Purple Flow Sniper Rifle",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/273782f3-2251-4510-9d8f-920b37f6b7bb.png"
+  },
+  {
+   "id": "fce64bba-2216-4e46-bc06-1457e962e45a",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R2 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T17:00:00+00:00",
+   "endAt": "2026-09-02T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-02T17:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/220725e5-6606-47f9-a63b-2f81a2c0f440.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fce64bba-2216-4e46-bc06-1457e962e45a",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fce64bba-2216-4e46-bc06-1457e962e45a.jpg"
   }
  ],
  "archive": [
@@ -3196,7 +3252,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   },
   "Delta Force": {
    "favorites": 1,
@@ -3214,25 +3270,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.29
+   "score": 37.28
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3244,13 +3300,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.76
+   "score": 12.75
   }
  },
  "favoriteWeights": {
