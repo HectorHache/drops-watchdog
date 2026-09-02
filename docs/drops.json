@@ -602,26 +602,6 @@
    "asset": "assets/e92d0112-0b48-413a-b169-9e24472a0634.png"
   },
   {
-   "id": "b3edc86e-62e8-4bb5-ad65-f4789bc31f13",
-   "game": "Kirka.io",
-   "title": "Sterling",
-   "status": "ACTIVE",
-   "startAt": "2026-08-24T19:30:00+00:00",
-   "endAt": "2026-09-01T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dab10df3-0e25-490f-a294-ffe45a202b3a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b3edc86e-62e8-4bb5-ad65-f4789bc31f13",
-   "rewards": [
-    {
-     "name": "Sterling",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b3edc86e-62e8-4bb5-ad65-f4789bc31f13.png"
-  },
-  {
    "id": "05a8f884-cb18-4206-93fb-509264b6d5e0",
    "game": "Dead by Daylight",
    "title": "DbD: Chorus of Sin",
@@ -1474,42 +1454,6 @@
    "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
   },
   {
-   "id": "abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
-   "game": "Brawlhalla",
-   "title": "Brawlhalla Eternal Sport",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T12:00:00+00:00",
-   "endAt": "2026-09-02T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/38f8e1fc-b726-4bf3-a86a-4fe72f35cc4d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
-   "rewards": [
-    {
-     "name": "Volkov v6 Colors",
-     "minutes": 60
-    },
-    {
-     "name": "Koji v6 Colors",
-     "minutes": 120
-    },
-    {
-     "name": "\"Survivalist\" Title",
-     "minutes": 180
-    },
-    {
-     "name": "Qinghua & BaoBao v7",
-     "minutes": 300
-    },
-    {
-     "name": "Neo City Chakram",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/abfb863d-aeb8-4814-b4e1-0a8f3ad94c31.png"
-  },
-  {
    "id": "385bbec7-f07e-4108-bfc7-58427e4505e9",
    "game": "Shakes and Fidget",
    "title": "S&F Droplets",
@@ -2218,26 +2162,6 @@
    "asset": "assets/b64521c4-a827-4533-a403-6bc3929fb216.png"
   },
   {
-   "id": "f51394f0-0f64-47d5-bfe0-e53e7cecfbc6",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T00:00:00+00:00",
-   "endAt": "2026-09-01T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/505b1043-2ae1-40b8-b83d-e6de98acdf04.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f51394f0-0f64-47d5-bfe0-e53e7cecfbc6",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f51394f0-0f64-47d5-bfe0-e53e7cecfbc6.png"
-  },
-  {
    "id": "0f0f3203-1c8f-4bf1-85d5-e5484bfc822d",
    "game": "Goblin Cleanup",
    "title": "Pool Party Drops",
@@ -2796,9 +2720,117 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138.jpg"
+  },
+  {
+   "id": "3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T00:00:00+00:00",
+   "endAt": "2026-09-02T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T00:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd6e1fc8-9202-4159-8dc6-e2eda997f02c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2.png"
+  },
+  {
+   "id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf",
+   "game": "Wolvesville",
+   "title": "September 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T00:00:00+00:00",
+   "endAt": "2026-09-29T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T00:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/108c6a99-0f66-4df6-a9f7-f2a7d149e2b6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=def0cb17-fb59-46f3-95cd-770eb7f37ccf",
+   "rewards": [
+    {
+     "name": "Twitch hat",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/def0cb17-fb59-46f3-95cd-770eb7f37ccf.png"
+  },
+  {
+   "id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72",
+   "game": "ARKNIGHTS: ENDFIELD",
+   "title": "Wind and Snow Dreamscape",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T02:00:00+00:00",
+   "endAt": "2026-09-30T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T02:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b625f676-63fe-4f97-ae2d-f86f060cf2dd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0ed32bc-7ecb-451b-8b1a-7953847dcb72",
+   "rewards": [
+    {
+     "name": " T-Credit*10000",
+     "minutes": 15
+    },
+    {
+     "name": "I-Combat Record*15",
+     "minutes": 30
+    },
+    {
+     "name": "Arms INSP Set*3",
+     "minutes": 60
+    },
+    {
+     "name": "E-Cognitive Carrier*10",
+     "minutes": 90
+    },
+    {
+     "name": "Oroberyl*150",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e0ed32bc-7ecb-451b-8b1a-7953847dcb72.png"
   }
  ],
  "archive": [
+  {
+   "id": "abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
+   "game": "Brawlhalla",
+   "title": "Brawlhalla Eternal Sport",
+   "startAt": "2026-08-28T12:00:00+00:00",
+   "endAt": "2026-09-02T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b5991427-a280-4d4d-b8c3-fb030176dec7",
+   "game": "Madden NFL 27",
+   "title": "Madden NFL 27 Play A Pro",
+   "startAt": "2026-09-01T23:30:00+00:00",
+   "endAt": "2026-09-02T03:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f51394f0-0f64-47d5-bfe0-e53e7cecfbc6",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-01T00:00:00+00:00",
+   "endAt": "2026-09-01T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b3edc86e-62e8-4bb5-ad65-f4789bc31f13",
+   "game": "Kirka.io",
+   "title": "Sterling",
+   "startAt": "2026-08-24T19:30:00+00:00",
+   "endAt": "2026-09-01T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3a4133e8-36b5-4d71-88be-2531f237d96c",
    "game": "Call of Duty: Modern Warfare 4",
@@ -3048,61 +3080,61 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.98
+   "score": 9.91
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.99
+   "score": 5.95
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.95
+   "score": 37.71
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 3.0
+   "score": 2.98
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.98
+   "score": 12.9
   }
  },
  "favoriteWeights": {
