@@ -2262,46 +2262,6 @@
    "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
   },
   {
-   "id": "08a9b31a-ff37-429d-8817-1b8e42d59fcd",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 1 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T10:00:00+00:00",
-   "endAt": "2026-09-02T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/038653ff-4b6e-40ff-af8b-9d5c5402a061.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=08a9b31a-ff37-429d-8817-1b8e42d59fcd",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/08a9b31a-ff37-429d-8817-1b8e42d59fcd.png"
-  },
-  {
-   "id": "06a1167e-f7a5-4819-84ca-8cd20b95301a",
-   "game": "Albion Online",
-   "title": "Dragonfire 1 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T10:00:00+00:00",
-   "endAt": "2026-09-02T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00512795-dc94-47bd-8c1d-cc56b1d1222c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=06a1167e-f7a5-4819-84ca-8cd20b95301a",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/06a1167e-f7a5-4819-84ca-8cd20b95301a.png"
-  },
-  {
    "id": "95282aea-6696-48b6-af42-f143f0791167",
    "game": "EVE Online",
    "title": "Union Day 2026 Drop 1",
@@ -2748,6 +2708,22 @@
  ],
  "archive": [
   {
+   "id": "08a9b31a-ff37-429d-8817-1b8e42d59fcd",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #2/7",
+   "startAt": "2026-09-01T10:00:00+00:00",
+   "endAt": "2026-09-02T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "06a1167e-f7a5-4819-84ca-8cd20b95301a",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #2/7",
+   "startAt": "2026-09-01T10:00:00+00:00",
+   "endAt": "2026-09-02T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c",
    "game": "Pok\u00e9mon Trading Card Game",
    "title": "2026 WCS TCG Co-Stream",
@@ -3060,7 +3036,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   },
   "Delta Force": {
    "favorites": 1,
@@ -3078,43 +3054,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.56
+   "score": 37.55
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.97
+   "score": 2.96
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.85
+   "score": 12.84
   }
  },
  "favoriteWeights": {
