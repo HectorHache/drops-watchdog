@@ -2274,90 +2274,6 @@
    "asset": "assets/3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf.png"
   },
   {
-   "id": "e1bf9724-4dfa-4fba-ad0b-fa70e6dae704",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/1/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T13:00:00+00:00",
-   "endAt": "2026-09-02T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7116d025-74b8-40d9-bce2-fa930358aae0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e1bf9724-4dfa-4fba-ad0b-fa70e6dae704",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e1bf9724-4dfa-4fba-ad0b-fa70e6dae704.png"
-  },
-  {
-   "id": "84430ba9-5313-4f51-a238-eef01f4c57bf",
-   "game": "Out of the Park Baseball 27",
-   "title": "DrDynastic 9/1/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T13:00:00+00:00",
-   "endAt": "2026-09-02T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b0e18751-8280-4b5f-81ab-ec528489f952.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84430ba9-5313-4f51-a238-eef01f4c57bf",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    },
-    {
-     "name": "6",
-     "minutes": 120
-    },
-    {
-     "name": "7",
-     "minutes": 150
-    },
-    {
-     "name": "8",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/84430ba9-5313-4f51-a238-eef01f4c57bf.png"
-  },
-  {
    "id": "4f140c7d-c750-4c74-96a6-ae8c52fe221a",
    "game": "Rainbow Six Siege",
    "title": "R6S Y11S3",
@@ -2736,9 +2652,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/536bb94e-143d-471e-a6a3-60c60f0eadd6.png"
+  },
+  {
+   "id": "d695d039-6bbb-4947-91fd-4fee74a2eb76",
+   "game": "EVE Online",
+   "title": "MOOtivational Stream",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T13:00:00+00:00",
+   "endAt": "2026-09-02T18:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T13:00:46+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d58f52a5-18c1-4b20-90fa-15f86e5f15f1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d695d039-6bbb-4947-91fd-4fee74a2eb76",
+   "rewards": [
+    {
+     "name": "MOOtivation",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d695d039-6bbb-4947-91fd-4fee74a2eb76.png"
+  },
+  {
+   "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/2/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T13:00:00+00:00",
+   "endAt": "2026-09-03T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T13:00:46+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3469a9ae-8d96-4083-a03b-4000196d66b2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=22f595b5-a186-4ffe-92ee-61a43ad63213",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/22f595b5-a186-4ffe-92ee-61a43ad63213.png"
   }
  ],
  "archive": [
+  {
+   "id": "e1bf9724-4dfa-4fba-ad0b-fa70e6dae704",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/1/26",
+   "startAt": "2026-09-01T13:00:00+00:00",
+   "endAt": "2026-09-02T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "84430ba9-5313-4f51-a238-eef01f4c57bf",
+   "game": "Out of the Park Baseball 27",
+   "title": "DrDynastic 9/1/26",
+   "startAt": "2026-09-01T13:00:00+00:00",
+   "endAt": "2026-09-02T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "28540dcb-38f7-49d3-abb5-505e9cc59b6c",
    "game": "Black Desert",
@@ -3084,7 +3072,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Delta Force": {
    "favorites": 1,
@@ -3102,43 +3090,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.44
+   "score": 37.42
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.96
+   "score": 2.95
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   }
  },
  "favoriteWeights": {
