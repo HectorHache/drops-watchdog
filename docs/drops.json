@@ -2782,30 +2782,6 @@
    "asset": "assets/273782f3-2251-4510-9d8f-920b37f6b7bb.png"
   },
   {
-   "id": "fce64bba-2216-4e46-bc06-1457e962e45a",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R2 (2)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T17:00:00+00:00",
-   "endAt": "2026-09-02T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-02T17:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/220725e5-6606-47f9-a63b-2f81a2c0f440.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fce64bba-2216-4e46-bc06-1457e962e45a",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fce64bba-2216-4e46-bc06-1457e962e45a.jpg"
-  },
-  {
    "id": "f31c5485-e1f9-4335-9320-ec8a6f99192a",
    "game": "Rise Online",
    "title": "ROW Drop 575",
@@ -2847,6 +2823,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "fce64bba-2216-4e46-bc06-1457e962e45a",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R2 (2)",
+   "startAt": "2026-09-02T17:00:00+00:00",
+   "endAt": "2026-09-02T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d695d039-6bbb-4947-91fd-4fee74a2eb76",
    "game": "EVE Online",
@@ -3256,7 +3240,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "Delta Force": {
    "favorites": 1,
@@ -3274,25 +3258,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.2
+   "score": 37.19
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3304,13 +3288,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   }
  },
  "favoriteWeights": {
