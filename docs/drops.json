@@ -818,34 +818,6 @@
    "asset": "assets/454244f1-aeb4-427e-86d9-35b878bfd66a.png"
   },
   {
-   "id": "4b910356-dc7d-4cc0-aa28-f0843e303fff",
-   "game": "Marble Racing Manager",
-   "title": "MrM Fun week",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T12:00:00+00:00",
-   "endAt": "2026-09-02T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b910356-dc7d-4cc0-aa28-f0843e303fff",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Sub Drop 1",
-     "minutes": 0
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 720
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4b910356-dc7d-4cc0-aa28-f0843e303fff.png"
-  },
-  {
    "id": "4a750183-d375-48ac-9814-3650bd3a7534",
    "game": "007 First Light",
    "title": "007 First Light #4",
@@ -2282,26 +2254,6 @@
    "asset": "assets/95282aea-6696-48b6-af42-f143f0791167.jpg"
   },
   {
-   "id": "28540dcb-38f7-49d3-abb5-505e9cc59b6c",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 1)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T12:00:00+00:00",
-   "endAt": "2026-09-02T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/70f78fbe-9461-4d07-9797-30e89b3d9c90.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=28540dcb-38f7-49d3-abb5-505e9cc59b6c",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 1)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/28540dcb-38f7-49d3-abb5-505e9cc59b6c.png"
-  },
-  {
    "id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
    "game": "Skull and Bones",
    "title": "SAB - Platinum god games",
@@ -2744,9 +2696,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/dc20f30f-f868-413e-9f0d-e754ec8d6a61.png"
+  },
+  {
+   "id": "887d4209-4942-4bce-9558-70c44451ff9c",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T12:00:00+00:00",
+   "endAt": "2026-09-03T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-02T12:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d86677d-7a77-4a7c-80ad-f189cf0dac19.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=887d4209-4942-4bce-9558-70c44451ff9c",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 2)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/887d4209-4942-4bce-9558-70c44451ff9c.png"
   }
  ],
  "archive": [
+  {
+   "id": "28540dcb-38f7-49d3-abb5-505e9cc59b6c",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 1)",
+   "startAt": "2026-09-01T12:00:00+00:00",
+   "endAt": "2026-09-02T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4b910356-dc7d-4cc0-aa28-f0843e303fff",
+   "game": "Marble Racing Manager",
+   "title": "MrM Fun week",
+   "startAt": "2026-08-26T12:00:00+00:00",
+   "endAt": "2026-09-02T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "08a9b31a-ff37-429d-8817-1b8e42d59fcd",
    "game": "Albion Online",
@@ -3076,7 +3064,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   },
   "Delta Force": {
    "favorites": 1,
@@ -3088,31 +3076,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.92
+   "score": 5.91
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.47
+   "score": 37.46
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3124,13 +3112,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.82
+   "score": 12.81
   }
  },
  "favoriteWeights": {
