@@ -1274,66 +1274,6 @@
    "asset": "assets/a32d43f5-2c18-4205-9480-d1149b3558d2.png"
   },
   {
-   "id": "f790b2a4-79a9-4308-9aa8-851300893cc7",
-   "game": "Pok\u00e9mon GO",
-   "title": "2026 WCS GO Co-Streamers",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-02T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29bcb76a-ff16-4c2e-88ff-ed43894a1c3b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f790b2a4-79a9-4308-9aa8-851300893cc7",
-   "rewards": [
-    {
-     "name": "World Championships 2026 Pikachu",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f790b2a4-79a9-4308-9aa8-851300893cc7.png"
-  },
-  {
-   "id": "fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c",
-   "game": "Pok\u00e9mon Trading Card Game",
-   "title": "2026 WCS TCG Co-Stream",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-02T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b85117f-e90f-4185-91fa-5fc5bb98ad9d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c",
-   "rewards": [
-    {
-     "name": "'26 WCS TCGL Co-Stream",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c.png"
-  },
-  {
-   "id": "5078dc9a-e17d-4411-ad1e-92f278ff0a1a",
-   "game": "Pok\u00e9mon Champions",
-   "title": "2026 WCS Incineroar",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-02T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1b972807-e5cb-44b0-a5b1-eef769f37ac3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5078dc9a-e17d-4411-ad1e-92f278ff0a1a",
-   "rewards": [
-    {
-     "name": "Incineroar",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5078dc9a-e17d-4411-ad1e-92f278ff0a1a.png"
-  },
-  {
    "id": "0b9dbe08-616c-4603-b0aa-b8d66f8bcae7",
    "game": "Pok\u00e9mon Trading Card Game",
    "title": "2026 WCS TCG Drops",
@@ -1532,26 +1472,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8969a2fd-fe6c-4364-a28f-e70fb013c877.png"
-  },
-  {
-   "id": "15770ea9-97d6-4c06-99c9-dd06d157b673",
-   "game": "Pok\u00e9mon Champions",
-   "title": "2026 WCS VGC Co-Streamers",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T15:30:00+00:00",
-   "endAt": "2026-09-02T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6a9d4dc2-0937-49b0-a3f1-b098d5fd8d8a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=15770ea9-97d6-4c06-99c9-dd06d157b673",
-   "rewards": [
-    {
-     "name": "Quick Coupon x50 (Co-Stream)",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/15770ea9-97d6-4c06-99c9-dd06d157b673.png"
   },
   {
    "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
@@ -2796,9 +2716,69 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e0ed32bc-7ecb-451b-8b1a-7953847dcb72.png"
+  },
+  {
+   "id": "fb0a448f-0ccb-4001-9697-c0175f1a0677",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-02T05:00:00+00:00",
+   "endAt": "2026-09-05T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-02T07:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db6e0131-2176-4444-bfcd-59d87c3ee5cb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb0a448f-0ccb-4001-9697-c0175f1a0677",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fb0a448f-0ccb-4001-9697-c0175f1a0677.png"
   }
  ],
  "archive": [
+  {
+   "id": "fb636dc9-d1f8-44ce-a57c-f3a3f66fa96c",
+   "game": "Pok\u00e9mon Trading Card Game",
+   "title": "2026 WCS TCG Co-Stream",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-02T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5078dc9a-e17d-4411-ad1e-92f278ff0a1a",
+   "game": "Pok\u00e9mon Champions",
+   "title": "2026 WCS Incineroar",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-02T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "15770ea9-97d6-4c06-99c9-dd06d157b673",
+   "game": "Pok\u00e9mon Champions",
+   "title": "2026 WCS VGC Co-Streamers",
+   "startAt": "2026-08-28T15:30:00+00:00",
+   "endAt": "2026-09-02T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f790b2a4-79a9-4308-9aa8-851300893cc7",
+   "game": "Pok\u00e9mon GO",
+   "title": "2026 WCS GO Co-Streamers",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-02T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "abfb863d-aeb8-4814-b4e1-0a8f3ad94c31",
    "game": "Brawlhalla",
@@ -3086,19 +3066,19 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.9
+   "score": 9.89
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.95
+   "score": 5.94
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.65
+   "score": 37.64
   },
   "Once Human": {
    "favorites": 1,
