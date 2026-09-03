@@ -2330,42 +2330,6 @@
    "asset": "assets/fb0a448f-0ccb-4001-9697-c0175f1a0677.png"
   },
   {
-   "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/2/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T13:00:00+00:00",
-   "endAt": "2026-09-03T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T13:00:46+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3469a9ae-8d96-4083-a03b-4000196d66b2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=22f595b5-a186-4ffe-92ee-61a43ad63213",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/22f595b5-a186-4ffe-92ee-61a43ad63213.png"
-  },
-  {
    "id": "823bb9b1-886a-4efc-a39c-33cbe46e4269",
    "game": "Tanks Blitz",
    "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444",
@@ -2784,9 +2748,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/cfbbeb13-f08e-4bda-b11a-ac7d01209647.png"
+  },
+  {
+   "id": "4bc3df29-0e49-478d-9db6-5933d6d2aadf",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/3/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T13:00:00+00:00",
+   "endAt": "2026-09-04T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T13:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8348cd5c-18a5-48ee-9ed6-b04418a5c18a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4bc3df29-0e49-478d-9db6-5933d6d2aadf",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4bc3df29-0e49-478d-9db6-5933d6d2aadf.png"
   }
  ],
  "archive": [
+  {
+   "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/2/26",
+   "startAt": "2026-09-02T13:00:00+00:00",
+   "endAt": "2026-09-03T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "887d4209-4942-4bce-9558-70c44451ff9c",
    "game": "Black Desert",
@@ -3292,43 +3300,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.62
+   "score": 9.61
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.78
+   "score": 5.77
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.58
+   "score": 36.56
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3340,13 +3348,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   }
  },
  "favoriteWeights": {
