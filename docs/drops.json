@@ -2796,6 +2796,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8fa76d92-9395-4d1a-a740-def06042106f.png"
+  },
+  {
+   "id": "6a58f28c-0a10-4387-a826-a73adada17a7",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T17:00:00+00:00",
+   "endAt": "2026-09-04T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T17:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85265861-3edd-43ed-a9a7-7977431d982f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6a58f28c-0a10-4387-a826-a73adada17a7",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6a58f28c-0a10-4387-a826-a73adada17a7.png"
   }
  ],
  "archive": [
@@ -3352,7 +3392,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "Delta Force": {
    "favorites": 1,
@@ -3370,25 +3410,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.44
+   "score": 36.42
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3400,13 +3440,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   }
  },
  "favoriteWeights": {
