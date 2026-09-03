@@ -542,34 +542,6 @@
    "asset": "assets/caafff3e-0899-45cb-8937-d64a70f811a6.png"
   },
   {
-   "id": "19b53cc6-d03b-478d-8497-a87a5e2967e4",
-   "game": "THE FINALS",
-   "title": "DEEP SIGNAL EVENT",
-   "status": "ACTIVE",
-   "startAt": "2026-08-20T10:30:00+00:00",
-   "endAt": "2026-09-03T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c079b88e-a7ac-4240-bf6a-6e882305e9be.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19b53cc6-d03b-478d-8497-a87a5e2967e4",
-   "rewards": [
-    {
-     "name": "Connection Complete Sticker",
-     "minutes": 60
-    },
-    {
-     "name": "Link Established Charm",
-     "minutes": 120
-    },
-    {
-     "name": "Meteor Tip Earrings",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/19b53cc6-d03b-478d-8497-a87a5e2967e4.png"
-  },
-  {
    "id": "e92d0112-0b48-413a-b169-9e24472a0634",
    "game": "The First Descendant",
    "title": "Season 4 Update Drops ",
@@ -2836,6 +2808,14 @@
  ],
  "archive": [
   {
+   "id": "19b53cc6-d03b-478d-8497-a87a5e2967e4",
+   "game": "THE FINALS",
+   "title": "DEEP SIGNAL EVENT",
+   "startAt": "2026-08-20T10:30:00+00:00",
+   "endAt": "2026-09-03T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "d9325f57-34f6-46ee-8695-24f1c5a8e93f",
    "game": "NARAKA: BLADEPOINT",
    "title": "JS1 PARTNER\u21607.30\uff081\uff09",
@@ -3310,7 +3290,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.72
+   "score": 36.71
   },
   "Once Human": {
    "favorites": 1,
