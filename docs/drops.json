@@ -2800,6 +2800,38 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f3d76a78-6adb-4c42-a4d7-95462096ea67.png"
+  },
+  {
+   "id": "a7e8141a-1638-4aaf-b38d-da8b2a8025f0",
+   "game": "UFL",
+   "title": "Sep #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T08:25:00+00:00",
+   "endAt": "2026-09-09T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-03T08:30:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/940337b4-1b9f-4f05-add4-97606c851fe7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a7e8141a-1638-4aaf-b38d-da8b2a8025f0",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a7e8141a-1638-4aaf-b38d-da8b2a8025f0.png"
   }
  ],
  "archive": [
@@ -3260,13 +3292,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.66
+   "score": 9.65
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3278,25 +3310,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.74
+   "score": 36.72
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3308,13 +3340,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.57
+   "score": 12.56
   }
  },
  "favoriteWeights": {
