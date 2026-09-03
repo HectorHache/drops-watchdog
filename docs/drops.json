@@ -486,30 +486,6 @@
    "asset": "assets/a490aaea-7490-4f94-9066-7834653c0899.jpg"
   },
   {
-   "id": "89359282-f4d9-4c03-8a72-3403723b9ca4",
-   "game": "Anno 117: Pax Romana",
-   "title": "Anno 117 DLC2 Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-08-20T10:00:00+00:00",
-   "endAt": "2026-09-03T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=89359282-f4d9-4c03-8a72-3403723b9ca4",
-   "rewards": [
-    {
-     "name": "Medusa logo",
-     "minutes": 120
-    },
-    {
-     "name": "Festive Alder Skin",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/89359282-f4d9-4c03-8a72-3403723b9ca4.png"
-  },
-  {
    "id": "caafff3e-0899-45cb-8937-d64a70f811a6",
    "game": "Honkai Impact 3rd",
    "title": "V9.0 Special Drops",
@@ -968,30 +944,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/3ed94804-99c7-498e-bba2-b63448b3386d.jpg"
-  },
-  {
-   "id": "7d52f54c-0c35-4d63-8cbe-a2014bbabd5c",
-   "game": "World of Warships",
-   "title": "Update 15.7 Drop: Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T16:00:00+00:00",
-   "endAt": "2026-09-03T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce73fcec-f6a5-44ec-bcc5-a1c912ae9dc5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7d52f54c-0c35-4d63-8cbe-a2014bbabd5c",
-   "rewards": [
-    {
-     "name": "Update 15.7 Mission #3",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.7 week #3",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7d52f54c-0c35-4d63-8cbe-a2014bbabd5c.png"
   },
   {
    "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
@@ -2776,9 +2728,117 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ef9c8745-6483-401d-9206-196c1f92a598.png"
+  },
+  {
+   "id": "c1d5db3b-cb48-4f64-95bd-43958b287895",
+   "game": "Crossout",
+   "title": "'New Horizon' Drops I",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-06T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T16:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f82058a-f752-4c0f-a84c-6dc7c3484951.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1d5db3b-cb48-4f64-95bd-43958b287895",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 360
+    },
+    {
+     "name": "7",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c1d5db3b-cb48-4f64-95bd-43958b287895.jpg"
+  },
+  {
+   "id": "e292f2c5-996a-4dc1-ac1f-4c24251d393c",
+   "game": "ZEVENT",
+   "title": "ZEVENT 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-07T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T16:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47165b14-c694-4484-8732-d9a0733a21d2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e292f2c5-996a-4dc1-ac1f-4c24251d393c",
+   "rewards": [
+    {
+     "name": "MegaphoneZ Emote",
+     "minutes": 15
+    },
+    {
+     "name": "ZEVENT 2026 Badge",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e292f2c5-996a-4dc1-ac1f-4c24251d393c.png"
+  },
+  {
+   "id": "8fa76d92-9395-4d1a-a740-def06042106f",
+   "game": "World of Warships",
+   "title": "Update 15.7 Drop: Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-10T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T16:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9261f874-8bcc-410d-9cb1-abd6dae9791b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8fa76d92-9395-4d1a-a740-def06042106f",
+   "rewards": [
+    {
+     "name": "Update 15.7 Mission #4",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Container 15.7 week #4",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8fa76d92-9395-4d1a-a740-def06042106f.png"
   }
  ],
  "archive": [
+  {
+   "id": "7d52f54c-0c35-4d63-8cbe-a2014bbabd5c",
+   "game": "World of Warships",
+   "title": "Update 15.7 Drop: Week 3",
+   "startAt": "2026-08-27T16:00:00+00:00",
+   "endAt": "2026-09-03T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "89359282-f4d9-4c03-8a72-3403723b9ca4",
+   "game": "Anno 117: Pax Romana",
+   "title": "Anno 117 DLC2 Launch",
+   "startAt": "2026-08-20T10:00:00+00:00",
+   "endAt": "2026-09-03T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e92d0112-0b48-413a-b169-9e24472a0634",
    "game": "The First Descendant",
@@ -3308,13 +3368,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3326,25 +3386,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.48
+   "score": 36.46
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3356,13 +3416,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   }
  },
  "favoriteWeights": {
