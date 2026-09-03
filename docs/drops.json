@@ -1106,50 +1106,6 @@
    "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
   },
   {
-   "id": "385bbec7-f07e-4108-bfc7-58427e4505e9",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T14:00:00+00:00",
-   "endAt": "2026-09-03T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9ca3b2d-408c-4b35-a775-dc1838d192d0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=385bbec7-f07e-4108-bfc7-58427e4505e9",
-   "rewards": [
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    },
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/385bbec7-f07e-4108-bfc7-58427e4505e9.png"
-  },
-  {
    "id": "8969a2fd-fe6c-4364-a28f-e70fb013c877",
    "game": "NextWorld2",
    "title": "NW2 SUMMER DROPS #7",
@@ -2884,9 +2840,45 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf.png"
+  },
+  {
+   "id": "bb1a4675-9d6e-4810-9c47-4eae29013ec7",
+   "game": "Warframe",
+   "title": "Prime Time #496",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T22:00:00+00:00",
+   "endAt": "2026-09-04T00:14:59.999+00:00",
+   "firstSeenAt": "2026-09-03T22:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eaa25b40-bd06-4935-b576-fb745a11ab73.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bb1a4675-9d6e-4810-9c47-4eae29013ec7",
+   "rewards": [
+    {
+     "name": "Built Forma",
+     "minutes": 30
+    },
+    {
+     "name": "Dax Portrait",
+     "minutes": 60
+    },
+    {
+     "name": "15 Steel Essence",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/bb1a4675-9d6e-4810-9c47-4eae29013ec7.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "385bbec7-f07e-4108-bfc7-58427e4505e9",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-08-28T14:00:00+00:00",
+   "endAt": "2026-09-03T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ef9c8745-6483-401d-9206-196c1f92a598",
    "game": "Tanks Blitz",
@@ -3464,7 +3456,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "Delta Force": {
    "favorites": 1,
@@ -3476,31 +3468,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.73
+   "score": 5.72
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.27
+   "score": 36.25
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3512,13 +3504,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   }
  },
  "favoriteWeights": {
