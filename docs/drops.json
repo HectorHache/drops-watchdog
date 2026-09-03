@@ -2830,6 +2830,26 @@
    "asset": "assets/6a58f28c-0a10-4387-a826-a73adada17a7.png"
   },
   {
+   "id": "8ac1079f-d1f7-4b3a-9777-11b8314073fd",
+   "game": "Rise Online",
+   "title": "ROW Drop 576",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T17:59:00+00:00",
+   "endAt": "2026-09-04T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-03T19:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bcc8456e-aaee-490d-b859-3eb132f309e1.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8ac1079f-d1f7-4b3a-9777-11b8314073fd",
+   "rewards": [
+    {
+     "name": "ROW Drop 576",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8ac1079f-d1f7-4b3a-9777-11b8314073fd.jpg"
+  },
+  {
    "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
    "game": "WARDOGS",
    "title": "WARDOGS Beta & Launch",
@@ -2852,6 +2872,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/aa82829e-9f3c-4572-a120-39d2eb36729b.png"
+  },
+  {
+   "id": "3b8f64e0-12fd-4c56-bf24-64035c1a9afd",
+   "game": "MARVEL SNAP",
+   "title": "DRAFT PARTY",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T19:00:00+00:00",
+   "endAt": "2026-09-06T18:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T19:00:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/545246cc-0cfb-464a-a968-78a155d7a45c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b8f64e0-12fd-4c56-bf24-64035c1a9afd",
+   "rewards": [
+    {
+     "name": "Two More Tickets",
+     "minutes": 240
+    },
+    {
+     "name": "2 MORE Tickets",
+     "minutes": 360
+    },
+    {
+     "name": "Launch Party Tickets",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/3b8f64e0-12fd-4c56-bf24-64035c1a9afd.png"
   }
  ],
  "archive": [
@@ -3442,7 +3490,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.37
+   "score": 36.35
   },
   "Once Human": {
    "favorites": 1,
