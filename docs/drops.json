@@ -942,42 +942,6 @@
    "asset": "assets/98193e83-2c11-4a0f-831a-d5fbd2651f5d.png"
   },
   {
-   "id": "d9325f57-34f6-46ee-8695-24f1c5a8e93f",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS1 PARTNER\u21607.30\uff081\uff09",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T04:00:00+00:00",
-   "endAt": "2026-09-03T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c4fba0be-1d98-4e07-9b41-646202685757.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d9325f57-34f6-46ee-8695-24f1c5a8e93f",
-   "rewards": [
-    {
-     "name": "Ye Xiu\u00b7Fierce Dungeon",
-     "minutes": 480
-    },
-    {
-     "name": "Serene Treasure Choice Gift",
-     "minutes": 600
-    },
-    {
-     "name": "Tae*500",
-     "minutes": 120
-    },
-    {
-     "name": "Spectral Silk*500",
-     "minutes": 240
-    },
-    {
-     "name": "Outfit Trial Choice Gift",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d9325f57-34f6-46ee-8695-24f1c5a8e93f.png"
-  },
-  {
    "id": "f6e63738-9f19-47e3-8336-9d31482e91ad",
    "game": "FragPunk",
    "title": "S6: Shard Voyagers",
@@ -1008,42 +972,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f6e63738-9f19-47e3-8336-9d31482e91ad.png"
-  },
-  {
-   "id": "edf379ee-bce7-41cb-8c2e-85496f9e2c18",
-   "game": "UFL",
-   "title": "Aug #5",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T08:00:00+00:00",
-   "endAt": "2026-09-02T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86c48744-b745-4bf1-a10d-15dc3cf77b01.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=edf379ee-bce7-41cb-8c2e-85496f9e2c18",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/edf379ee-bce7-41cb-8c2e-85496f9e2c18.png"
   },
   {
    "id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
@@ -2366,26 +2294,6 @@
    "asset": "assets/7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138.jpg"
   },
   {
-   "id": "3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T00:00:00+00:00",
-   "endAt": "2026-09-02T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T00:00:21+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd6e1fc8-9202-4159-8dc6-e2eda997f02c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2.png"
-  },
-  {
    "id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf",
    "game": "Wolvesville",
    "title": "September 2026",
@@ -2784,9 +2692,141 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d4e988dd-ac54-40c2-827d-d1e8876c5fc4.png"
+  },
+  {
+   "id": "17f1cdbe-fc09-4a4b-aece-ed600900e04d",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T00:00:00+00:00",
+   "endAt": "2026-09-03T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T00:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a943fcd9-b00f-4eea-b3c6-665e27389137.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=17f1cdbe-fc09-4a4b-aece-ed600900e04d",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/17f1cdbe-fc09-4a4b-aece-ed600900e04d.png"
+  },
+  {
+   "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
+   "game": "The Blood of Dawnwalker",
+   "title": "Dawnwalker Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T00:00:00+00:00",
+   "endAt": "2026-09-30T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-03T00:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfac58e6-a942-43ea-95f7-73f9bb69242b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b94b19f-17db-4edd-80dd-e2eca81f21df",
+   "rewards": [
+    {
+     "name": "Dawnwalker Launch",
+     "minutes": 60
+    },
+    {
+     "name": "Dawnwalker Supporter",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9b94b19f-17db-4edd-80dd-e2eca81f21df.png"
+  },
+  {
+   "id": "9e8bc1ec-c085-4abb-bbd1-962574b7a55b",
+   "game": "Identity V",
+   "title": "2026 IVC NAEU Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T04:00:00+00:00",
+   "endAt": "2026-09-14T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T04:00:52+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b9be20a-ab6a-4199-b7ab-0ce25cbe721a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9e8bc1ec-c085-4abb-bbd1-962574b7a55b",
+   "rewards": [
+    {
+     "name": "200 Clues",
+     "minutes": 15
+    },
+    {
+     "name": "1000 Golden Apples",
+     "minutes": 45
+    },
+    {
+     "name": "1.98USD NetEase Pay Gift Card",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9e8bc1ec-c085-4abb-bbd1-962574b7a55b.png"
+  },
+  {
+   "id": "f3d76a78-6adb-4c42-a4d7-95462096ea67",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 PARTNER\u21609.3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T04:00:00+00:00",
+   "endAt": "2026-09-30T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T04:00:52+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a193da2-0c04-4a13-9b50-f0f777637724.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f3d76a78-6adb-4c42-a4d7-95462096ea67",
+   "rewards": [
+    {
+     "name": "Serene Treasure Choice Gift",
+     "minutes": 600
+    },
+    {
+     "name": "Spectral Silk*500",
+     "minutes": 240
+    },
+    {
+     "name": "Outfit Trial Choice Gift",
+     "minutes": 360
+    },
+    {
+     "name": "Tae*500",
+     "minutes": 120
+    },
+    {
+     "name": "Anassa Nangong\u00b7Acupuncture",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f3d76a78-6adb-4c42-a4d7-95462096ea67.png"
   }
  ],
  "archive": [
+  {
+   "id": "d9325f57-34f6-46ee-8695-24f1c5a8e93f",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 PARTNER\u21607.30\uff081\uff09",
+   "startAt": "2026-08-27T04:00:00+00:00",
+   "endAt": "2026-09-03T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3bfa29ca-c5f7-4d9b-88a9-ecb1fffd3ec2",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-02T00:00:00+00:00",
+   "endAt": "2026-09-02T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "edf379ee-bce7-41cb-8c2e-85496f9e2c18",
+   "game": "UFL",
+   "title": "Aug #5",
+   "startAt": "2026-08-27T08:00:00+00:00",
+   "endAt": "2026-09-02T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8cfe655c-5209-46e4-ac4a-244cfc7abbbc",
    "game": "World of Warships",
@@ -3220,67 +3260,67 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.75
+   "score": 9.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.85
+   "score": 5.82
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 37.08
+   "score": 36.85
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.93
+   "score": 2.91
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.61
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 22,
   "Delta Force": 19,
-  "LEGO Batman: Legacy of the Dark Knight": 47,
+  "LEGO Batman: Legacy of the Dark Knight": 46,
   "Marvel Rivals": 10,
   "Once Human": 22,
   "Palia": 22,
