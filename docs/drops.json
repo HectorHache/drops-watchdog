@@ -2354,46 +2354,6 @@
    "asset": "assets/273782f3-2251-4510-9d8f-920b37f6b7bb.png"
   },
   {
-   "id": "f31c5485-e1f9-4335-9320-ec8a6f99192a",
-   "game": "Rise Online",
-   "title": "ROW Drop 575",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T17:59:00+00:00",
-   "endAt": "2026-09-03T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-02T18:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dbd22714-c43c-4791-bf1b-f1893e0d4dbb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f31c5485-e1f9-4335-9320-ec8a6f99192a",
-   "rewards": [
-    {
-     "name": "ROW Drop 575",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f31c5485-e1f9-4335-9320-ec8a6f99192a.jpg"
-  },
-  {
-   "id": "33a2f9db-8e9c-4aa9-bb6c-d9c586813e74",
-   "game": "Rise Online",
-   "title": "Mobile Drop 146",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T17:59:00+00:00",
-   "endAt": "2026-09-03T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-02T18:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25d42fa2-8c91-4376-a5f9-e725ff1aad94.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=33a2f9db-8e9c-4aa9-bb6c-d9c586813e74",
-   "rewards": [
-    {
-     "name": "Mobile Drop 146",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/33a2f9db-8e9c-4aa9-bb6c-d9c586813e74.png"
-  },
-  {
    "id": "d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
    "game": "World of Warships",
    "title": "15.7 WOWS Channel Drop",
@@ -2836,9 +2796,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6a58f28c-0a10-4387-a826-a73adada17a7.png"
+  },
+  {
+   "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
+   "game": "WARDOGS",
+   "title": "WARDOGS Beta & Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T18:00:00+00:00",
+   "endAt": "2026-09-30T17:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T18:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ffe5dd89-20be-4578-b78e-f17eaaa0e4c8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa82829e-9f3c-4572-a120-39d2eb36729b",
+   "rewards": [
+    {
+     "name": "WARDOG",
+     "minutes": 30
+    },
+    {
+     "name": "WARLORD",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/aa82829e-9f3c-4572-a120-39d2eb36729b.png"
   }
  ],
  "archive": [
+  {
+   "id": "f31c5485-e1f9-4335-9320-ec8a6f99192a",
+   "game": "Rise Online",
+   "title": "ROW Drop 575",
+   "startAt": "2026-09-02T17:59:00+00:00",
+   "endAt": "2026-09-03T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "33a2f9db-8e9c-4aa9-bb6c-d9c586813e74",
+   "game": "Rise Online",
+   "title": "Mobile Drop 146",
+   "startAt": "2026-09-02T17:59:00+00:00",
+   "endAt": "2026-09-03T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "889a99d2-a6c2-4e6c-8662-677bc7426be5",
    "game": "Madden NFL 27",
@@ -3410,7 +3410,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.41
+   "score": 36.39
   },
   "Once Human": {
    "favorites": 1,
