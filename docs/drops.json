@@ -2864,6 +2864,26 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/3b8f64e0-12fd-4c56-bf24-64035c1a9afd.png"
+  },
+  {
+   "id": "a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 1/4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T21:00:00+00:00",
+   "endAt": "2026-09-04T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-03T21:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f36ac534-b501-4eae-aea6-5ff5652d755c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
+   "rewards": [
+    {
+     "name": "WildFootprintsEffect",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf.png"
   }
  ],
  "archive": [
@@ -3444,7 +3464,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   },
   "Delta Force": {
    "favorites": 1,
@@ -3462,43 +3482,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.3
+   "score": 36.28
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.87
+   "score": 2.86
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.42
+   "score": 12.41
   }
  },
  "favoriteWeights": {
