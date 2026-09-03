@@ -2764,6 +2764,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a7e8141a-1638-4aaf-b38d-da8b2a8025f0.png"
+  },
+  {
+   "id": "5941c76c-91bf-4192-8443-11c4a32b8e3c",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T10:00:00+00:00",
+   "endAt": "2026-09-04T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-03T10:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61a705ff-7fd9-4b1d-8f15-e3ac8e1eb7c2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5941c76c-91bf-4192-8443-11c4a32b8e3c",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5941c76c-91bf-4192-8443-11c4a32b8e3c.png"
+  },
+  {
+   "id": "e40f7313-ebf5-4d3d-98d7-ac0386703a10",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T10:00:00+00:00",
+   "endAt": "2026-09-04T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-03T10:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aca0ea0e-e001-469b-9078-68285695989b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e40f7313-ebf5-4d3d-98d7-ac0386703a10",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e40f7313-ebf5-4d3d-98d7-ac0386703a10.png"
   }
  ],
  "archive": [
@@ -3266,7 +3306,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.69
+   "score": 36.67
   },
   "Once Human": {
    "favorites": 1,
