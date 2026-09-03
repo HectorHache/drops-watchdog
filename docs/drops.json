@@ -2630,42 +2630,6 @@
    "asset": "assets/4bc3df29-0e49-478d-9db6-5933d6d2aadf.png"
   },
   {
-   "id": "ef9c8745-6483-401d-9206-196c1f92a598",
-   "game": "Tanks Blitz",
-   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T14:00:00+00:00",
-   "endAt": "2026-09-03T19:30:59.999+00:00",
-   "firstSeenAt": "2026-09-03T14:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d6abf8e6-ebb4-40b2-8806-3928a99f2b93.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef9c8745-6483-401d-9206-196c1f92a598",
-   "rewards": [
-    {
-     "name": "\u041a\u043e\u043d\u0442 1",
-     "minutes": 60
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 2",
-     "minutes": 120
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 3",
-     "minutes": 180
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 4",
-     "minutes": 240
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ef9c8745-6483-401d-9206-196c1f92a598.png"
-  },
-  {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
    "game": "Coin Pusher Live",
    "title": "Fall 2026 Drops",
@@ -2903,6 +2867,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "ef9c8745-6483-401d-9206-196c1f92a598",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 2",
+   "startAt": "2026-09-03T14:00:00+00:00",
+   "endAt": "2026-09-03T19:30:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f31c5485-e1f9-4335-9320-ec8a6f99192a",
    "game": "Rise Online",
@@ -3472,7 +3444,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "Delta Force": {
    "favorites": 1,
@@ -3484,31 +3456,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.74
+   "score": 5.73
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.34
+   "score": 36.32
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3520,13 +3492,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   }
  },
  "favoriteWeights": {
