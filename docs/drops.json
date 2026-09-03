@@ -2070,26 +2070,6 @@
    "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
   },
   {
-   "id": "95282aea-6696-48b6-af42-f143f0791167",
-   "game": "EVE Online",
-   "title": "Union Day 2026 Drop 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T11:00:00+00:00",
-   "endAt": "2026-09-03T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ca9a187-a470-4e1a-ab93-795f8a6a7fe6.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=95282aea-6696-48b6-af42-f143f0791167",
-   "rewards": [
-    {
-     "name": "Halcyon B-3 Booster",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/95282aea-6696-48b6-af42-f143f0791167.jpg"
-  },
-  {
    "id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
    "game": "Skull and Bones",
    "title": "SAB - Platinum god games",
@@ -2368,26 +2348,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/887d4209-4942-4bce-9558-70c44451ff9c.png"
-  },
-  {
-   "id": "536bb94e-143d-471e-a6a3-60c60f0eadd6",
-   "game": "EVE Online",
-   "title": "Moo",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T12:30:00+00:00",
-   "endAt": "2026-09-03T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T12:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/39456b42-d3b5-408a-b657-3089ad7351ce.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=536bb94e-143d-471e-a6a3-60c60f0eadd6",
-   "rewards": [
-    {
-     "name": "Orca Nautgripur SKIN",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/536bb94e-143d-471e-a6a3-60c60f0eadd6.png"
   },
   {
    "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
@@ -2804,9 +2764,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e40f7313-ebf5-4d3d-98d7-ac0386703a10.png"
+  },
+  {
+   "id": "9d973425-3765-4b74-a204-9e7928a6250a",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T11:00:00+00:00",
+   "endAt": "2026-09-05T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-03T11:01:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2fad84f-163a-455f-b361-fd04e906e937.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9d973425-3765-4b74-a204-9e7928a6250a",
+   "rewards": [
+    {
+     "name": "Concrete Gloss - Limited",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9d973425-3765-4b74-a204-9e7928a6250a.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "536bb94e-143d-471e-a6a3-60c60f0eadd6",
+   "game": "EVE Online",
+   "title": "Moo",
+   "startAt": "2026-09-02T12:30:00+00:00",
+   "endAt": "2026-09-03T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "95282aea-6696-48b6-af42-f143f0791167",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 1",
+   "startAt": "2026-09-01T11:00:00+00:00",
+   "endAt": "2026-09-03T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ec2022aa-2976-4f0e-821b-45d58732213c",
    "game": "Albion Online",
@@ -3288,43 +3284,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.79
+   "score": 5.78
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.65
+   "score": 36.63
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3336,13 +3332,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.54
+   "score": 12.53
   }
  },
  "favoriteWeights": {
