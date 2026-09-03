@@ -2784,6 +2784,66 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4bc3df29-0e49-478d-9db6-5933d6d2aadf.png"
+  },
+  {
+   "id": "889a99d2-a6c2-4e6c-8662-677bc7426be5",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T14:00:00+00:00",
+   "endAt": "2026-09-03T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-03T14:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dd22b458-45ad-4d77-82ad-32d79b49ac45.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=889a99d2-a6c2-4e6c-8662-677bc7426be5",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/889a99d2-a6c2-4e6c-8662-677bc7426be5.png"
+  },
+  {
+   "id": "ef9c8745-6483-401d-9206-196c1f92a598",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T14:00:00+00:00",
+   "endAt": "2026-09-03T19:30:59.999+00:00",
+   "firstSeenAt": "2026-09-03T14:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d6abf8e6-ebb4-40b2-8806-3928a99f2b93.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef9c8745-6483-401d-9206-196c1f92a598",
+   "rewards": [
+    {
+     "name": "\u041a\u043e\u043d\u0442 1",
+     "minutes": 60
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 2",
+     "minutes": 120
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 3",
+     "minutes": 180
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 4",
+     "minutes": 240
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ef9c8745-6483-401d-9206-196c1f92a598.png"
   }
  ],
  "archive": [
@@ -3306,7 +3366,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.61
+   "score": 9.6
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3318,7 +3378,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.55
+   "score": 36.53
   },
   "Once Human": {
    "favorites": 1,
@@ -3342,7 +3402,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.89
+   "score": 2.88
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
