@@ -542,38 +542,6 @@
    "asset": "assets/caafff3e-0899-45cb-8937-d64a70f811a6.png"
   },
   {
-   "id": "e92d0112-0b48-413a-b169-9e24472a0634",
-   "game": "The First Descendant",
-   "title": "Season 4 Update Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-08-21T05:00:00+00:00",
-   "endAt": "2026-09-03T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e92d0112-0b48-413a-b169-9e24472a0634",
-   "rewards": [
-    {
-     "name": "Crystallization Catalyst & Energy Activator",
-     "minutes": 90
-    },
-    {
-     "name": "Gold, Kuiper Shards & Descendant Slot",
-     "minutes": 120
-    },
-    {
-     "name": "Twitch Violet Color Paints",
-     "minutes": 30
-    },
-    {
-     "name": "EXP Boost Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e92d0112-0b48-413a-b169-9e24472a0634.png"
-  },
-  {
    "id": "05a8f884-cb18-4206-93fb-509264b6d5e0",
    "game": "Dead by Daylight",
    "title": "DbD: Chorus of Sin",
@@ -980,42 +948,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5c4b74bc-71ee-4750-94e1-ea54f13ed42b.png"
-  },
-  {
-   "id": "c7f41fc6-9fd5-44ca-913a-c28a4beeb90b",
-   "game": "Tom Clancy's The Division 2",
-   "title": "TCTD2 Y8S3 Red Horizon",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T15:00:00+00:00",
-   "endAt": "2026-09-03T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c7f41fc6-9fd5-44ca-913a-c28a4beeb90b",
-   "rewards": [
-    {
-     "name": "Witness Arm Patch",
-     "minutes": 30
-    },
-    {
-     "name": "Named Item Cache",
-     "minutes": 60
-    },
-    {
-     "name": "Renewal Arm Patch",
-     "minutes": 120
-    },
-    {
-     "name": "Exotic Cache",
-     "minutes": 180
-    },
-    {
-     "name": "Aftermath Weapon Skin",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/c7f41fc6-9fd5-44ca-913a-c28a4beeb90b.png"
   },
   {
    "id": "3ed94804-99c7-498e-bba2-b63448b3386d",
@@ -2848,6 +2780,22 @@
  ],
  "archive": [
   {
+   "id": "e92d0112-0b48-413a-b169-9e24472a0634",
+   "game": "The First Descendant",
+   "title": "Season 4 Update Drops ",
+   "startAt": "2026-08-21T05:00:00+00:00",
+   "endAt": "2026-09-03T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c7f41fc6-9fd5-44ca-913a-c28a4beeb90b",
+   "game": "Tom Clancy's The Division 2",
+   "title": "TCTD2 Y8S3 Red Horizon",
+   "startAt": "2026-08-27T15:00:00+00:00",
+   "endAt": "2026-09-03T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "22f595b5-a186-4ffe-92ee-61a43ad63213",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/2/26",
@@ -3360,43 +3308,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.6
+   "score": 9.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.77
+   "score": 5.76
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.51
+   "score": 36.49
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3408,13 +3356,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.49
+   "score": 12.48
   }
  },
  "favoriteWeights": {
