@@ -2402,42 +2402,6 @@
    "asset": "assets/9d973425-3765-4b74-a204-9e7928a6250a.jpg"
   },
   {
-   "id": "4bc3df29-0e49-478d-9db6-5933d6d2aadf",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/3/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T13:00:00+00:00",
-   "endAt": "2026-09-04T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T13:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8348cd5c-18a5-48ee-9ed6-b04418a5c18a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4bc3df29-0e49-478d-9db6-5933d6d2aadf",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4bc3df29-0e49-478d-9db6-5933d6d2aadf.png"
-  },
-  {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
    "game": "Coin Pusher Live",
    "title": "Fall 2026 Drops",
@@ -3048,9 +3012,97 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/747e6b11-f6a5-4272-b9b4-342aa6f70882.png"
+  },
+  {
+   "id": "506f0cf2-a441-46a5-843f-eaa9d9045d1f",
+   "game": "Hunt Club On Stream",
+   "title": "Labor Day Drops 1 of 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T12:35:31+00:00",
+   "endAt": "2026-09-06T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T13:01:03+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/19269cdf-0cc1-4f02-82ff-120ca0578a8b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=506f0cf2-a441-46a5-843f-eaa9d9045d1f",
+   "rewards": [
+    {
+     "name": "Bronze",
+     "minutes": 60
+    },
+    {
+     "name": "Silver",
+     "minutes": 180
+    },
+    {
+     "name": "Gold",
+     "minutes": 360
+    },
+    {
+     "name": "Extras",
+     "minutes": 480
+    },
+    {
+     "name": "Epic",
+     "minutes": 840
+    },
+    {
+     "name": "Randon + Gold",
+     "minutes": 60
+    },
+    {
+     "name": "Labor Day Token",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/506f0cf2-a441-46a5-843f-eaa9d9045d1f.png"
+  },
+  {
+   "id": "93b68f93-2aee-49cb-b88f-170b6358ad7a",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/4/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T13:00:00+00:00",
+   "endAt": "2026-09-05T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T13:01:03+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4cf55cae-c5cb-41e8-a045-464c214416eb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=93b68f93-2aee-49cb-b88f-170b6358ad7a",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/93b68f93-2aee-49cb-b88f-170b6358ad7a.png"
   }
  ],
  "archive": [
+  {
+   "id": "4bc3df29-0e49-478d-9db6-5933d6d2aadf",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/3/26",
+   "startAt": "2026-09-03T13:00:00+00:00",
+   "endAt": "2026-09-04T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cfbbeb13-f08e-4bda-b11a-ac7d01209647",
    "game": "Black Desert",
@@ -3700,13 +3752,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.4
+   "score": 9.39
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3718,25 +3770,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.75
+   "score": 35.73
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3748,13 +3800,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   }
  },
  "favoriteWeights": {
