@@ -1990,26 +1990,6 @@
    "asset": "assets/fb0a448f-0ccb-4001-9697-c0175f1a0677.png"
   },
   {
-   "id": "823bb9b1-886a-4efc-a39c-33cbe46e4269",
-   "game": "Tanks Blitz",
-   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T14:00:00+00:00",
-   "endAt": "2026-09-04T19:00:59.999+00:00",
-   "firstSeenAt": "2026-09-02T14:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b9ed6f9-3eef-4093-a5bc-e7aebf7d5dd2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=823bb9b1-886a-4efc-a39c-33cbe46e4269",
-   "rewards": [
-    {
-     "name": "\u0410\u0432\u0430\u0442\u0430\u0440\u043a\u0430",
-     "minutes": 780
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/823bb9b1-886a-4efc-a39c-33cbe46e4269.png"
-  },
-  {
    "id": "b9375269-631d-4e6d-87c7-036c9ec7f89d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -2806,42 +2786,6 @@
    "asset": "assets/93b68f93-2aee-49cb-b88f-170b6358ad7a.png"
   },
   {
-   "id": "3f98024d-d13b-4938-9b54-3b61cb09e58f",
-   "game": "Tanks Blitz",
-   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T14:00:00+00:00",
-   "endAt": "2026-09-04T19:00:59.999+00:00",
-   "firstSeenAt": "2026-09-04T14:01:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d012fbe3-9a33-4f12-9af7-cbb2edb582e9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3f98024d-d13b-4938-9b54-3b61cb09e58f",
-   "rewards": [
-    {
-     "name": "\u041a\u043e\u043d\u0442 1",
-     "minutes": 60
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 2",
-     "minutes": 120
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 3",
-     "minutes": 180
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 4",
-     "minutes": 240
-    },
-    {
-     "name": "\u041a\u043e\u043d\u0442 5",
-     "minutes": 270
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3f98024d-d13b-4938-9b54-3b61cb09e58f.png"
-  },
-  {
    "id": "54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 3/3",
@@ -3206,30 +3150,6 @@
    "asset": "assets/ace4dca5-c7be-4423-8e75-c0e0b3a69521.png"
   },
   {
-   "id": "62afc14e-cc34-4b55-b67a-71a03737c10f",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R3 (1)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T17:00:00+00:00",
-   "endAt": "2026-09-04T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-04T17:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/23f4d4a7-c573-441b-ada0-87b15b243b63.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=62afc14e-cc34-4b55-b67a-71a03737c10f",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/62afc14e-cc34-4b55-b67a-71a03737c10f.jpg"
-  },
-  {
    "id": "3a2548f7-1b53-4e25-9e00-f1d26a9a316d",
    "game": "EA Sports College Football 27",
    "title": "CFB 27 Free Play Weekend",
@@ -3351,6 +3271,30 @@
   }
  ],
  "archive": [
+  {
+   "id": "62afc14e-cc34-4b55-b67a-71a03737c10f",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R3 (1)",
+   "startAt": "2026-09-04T17:00:00+00:00",
+   "endAt": "2026-09-04T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "823bb9b1-886a-4efc-a39c-33cbe46e4269",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444",
+   "startAt": "2026-09-02T14:00:00+00:00",
+   "endAt": "2026-09-04T19:00:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3f98024d-d13b-4938-9b54-3b61cb09e58f",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 3",
+   "startAt": "2026-09-04T14:00:00+00:00",
+   "endAt": "2026-09-04T19:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8ac1079f-d1f7-4b3a-9777-11b8314073fd",
    "game": "Rise Online",
@@ -4110,7 +4054,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.34
+   "score": 9.33
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4122,7 +4066,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.52
+   "score": 35.51
   },
   "Once Human": {
    "favorites": 1,
