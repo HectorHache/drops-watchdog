@@ -2418,46 +2418,6 @@
    "asset": "assets/a7e8141a-1638-4aaf-b38d-da8b2a8025f0.png"
   },
   {
-   "id": "5941c76c-91bf-4192-8443-11c4a32b8e3c",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 1 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T10:00:00+00:00",
-   "endAt": "2026-09-04T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-03T10:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61a705ff-7fd9-4b1d-8f15-e3ac8e1eb7c2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5941c76c-91bf-4192-8443-11c4a32b8e3c",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5941c76c-91bf-4192-8443-11c4a32b8e3c.png"
-  },
-  {
-   "id": "e40f7313-ebf5-4d3d-98d7-ac0386703a10",
-   "game": "Albion Online",
-   "title": "Dragonfire 1 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T10:00:00+00:00",
-   "endAt": "2026-09-04T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-03T10:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aca0ea0e-e001-469b-9078-68285695989b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e40f7313-ebf5-4d3d-98d7-ac0386703a10",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e40f7313-ebf5-4d3d-98d7-ac0386703a10.png"
-  },
-  {
    "id": "9d973425-3765-4b74-a204-9e7928a6250a",
    "game": "EVE Online",
    "title": "Union Day 2026 Drop 2",
@@ -2904,9 +2864,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ac5c5df0-1fa6-444e-b267-feb88c319c48.png"
+  },
+  {
+   "id": "e4715b7e-89c2-493b-b80b-6e85526a8a49",
+   "game": "Eternal Return",
+   "title": "S12 ERM DAY1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T09:30:00+00:00",
+   "endAt": "2026-09-04T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T09:30:49+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f703e714-292f-4ec7-b00a-f668f88d18ce.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e4715b7e-89c2-493b-b80b-6e85526a8a49",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e4715b7e-89c2-493b-b80b-6e85526a8a49.png"
   }
  ],
  "archive": [
+  {
+   "id": "5941c76c-91bf-4192-8443-11c4a32b8e3c",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #4/7",
+   "startAt": "2026-09-03T10:00:00+00:00",
+   "endAt": "2026-09-04T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e40f7313-ebf5-4d3d-98d7-ac0386703a10",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #4/7",
+   "startAt": "2026-09-03T10:00:00+00:00",
+   "endAt": "2026-09-04T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "812ec00b-52f4-4fb9-8387-3a26ca1104d7",
    "game": "Marvel Rivals",
@@ -3524,13 +3528,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.43
+   "score": 9.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3542,25 +3546,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.87
+   "score": 35.85
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3572,13 +3576,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.27
+   "score": 12.26
   }
  },
  "favoriteWeights": {
