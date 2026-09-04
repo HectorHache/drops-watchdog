@@ -2814,34 +2814,6 @@
    "asset": "assets/83b45ee6-2817-4512-9d2b-d09afa900d00.jpg"
   },
   {
-   "id": "7bc84f00-b7e0-49f2-9100-3f8c540767ed",
-   "game": "Conqueror's Blade",
-   "title": "CB 7 anni Welcome",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T10:30:00+00:00",
-   "endAt": "2026-09-04T15:29:59.999+00:00",
-   "firstSeenAt": "2026-09-04T10:31:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b785685-44f5-4d09-86e7-009558f5cfb6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bc84f00-b7e0-49f2-9100-3f8c540767ed",
-   "rewards": [
-    {
-     "name": "\u734e\u52f5 1-15\u5206\u9418",
-     "minutes": 15
-    },
-    {
-     "name": "\u734e\u52f5 1-30\u5206\u9418",
-     "minutes": 30
-    },
-    {
-     "name": "\u734e\u52f5 1-60\u5206\u9418",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7bc84f00-b7e0-49f2-9100-3f8c540767ed.png"
-  },
-  {
    "id": "f018e359-7334-42c3-b945-bbc519a41481",
    "game": "Freestyle Football 2",
    "title": "Prime OBT Drops",
@@ -3323,6 +3295,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "7bc84f00-b7e0-49f2-9100-3f8c540767ed",
+   "game": "Conqueror's Blade",
+   "title": "CB 7 anni Welcome",
+   "startAt": "2026-09-04T10:30:00+00:00",
+   "endAt": "2026-09-04T15:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8037f40f-4902-49a2-8ce1-8a8bfd5b432d",
    "game": "Mir Korabley",
@@ -4012,7 +3992,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   },
   "Delta Force": {
    "favorites": 1,
@@ -4030,43 +4010,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.66
+   "score": 35.64
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.82
+   "score": 2.81
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.2
+   "score": 12.19
   }
  },
  "favoriteWeights": {
