@@ -1074,38 +1074,6 @@
    "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
   },
   {
-   "id": "a61fe9af-414f-4736-beb0-aa978591bd79",
-   "game": "MARVEL Contest of Champions",
-   "title": "August Week 5",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T17:00:00+00:00",
-   "endAt": "2026-09-04T16:44:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a61fe9af-414f-4736-beb0-aa978591bd79",
-   "rewards": [
-    {
-     "name": "Drop 1 - 5x Energy & 3x Level 2 Revives",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - PRG Gated Rank Up Gem",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 3 - PRG Gated Ascension Materials",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4 - PRG Gated Signature Stones",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a61fe9af-414f-4736-beb0-aa978591bd79.png"
-  },
-  {
    "id": "a6333c5e-a293-4730-bd7c-a87af365511f",
    "game": "Blade & Soul NEO",
    "title": "B&S NEO Reignited Drops",
@@ -2426,46 +2394,6 @@
    "asset": "assets/8fa76d92-9395-4d1a-a740-def06042106f.png"
   },
   {
-   "id": "6a58f28c-0a10-4387-a826-a73adada17a7",
-   "game": "Madden NFL 27",
-   "title": "Madden Live",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T17:00:00+00:00",
-   "endAt": "2026-09-04T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T17:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85265861-3edd-43ed-a9a7-7977431d982f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6a58f28c-0a10-4387-a826-a73adada17a7",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6a58f28c-0a10-4387-a826-a73adada17a7.png"
-  },
-  {
    "id": "8ac1079f-d1f7-4b3a-9777-11b8314073fd",
    "game": "Rise Online",
    "title": "ROW Drop 576",
@@ -3280,9 +3208,125 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/09b7ea3c-50d0-483b-85d7-4d1fe6a7505e.png"
+  },
+  {
+   "id": "ace4dca5-c7be-4423-8e75-c0e0b3a69521",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Livestream",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T16:55:00+00:00",
+   "endAt": "2026-09-04T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T17:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ace4dca5-c7be-4423-8e75-c0e0b3a69521",
+   "rewards": [
+    {
+     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
+     "minutes": 15
+    },
+    {
+     "name": "Drop 2 - 3x Rebirth Crystals",
+     "minutes": 20
+    },
+    {
+     "name": "Drop 3 - PRG Gated Hero Crystal",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 4 - 2x Observance",
+     "minutes": 45
+    },
+    {
+     "name": "Drop 5 - PRG Gated Ascension Materials",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ace4dca5-c7be-4423-8e75-c0e0b3a69521.png"
+  },
+  {
+   "id": "62afc14e-cc34-4b55-b67a-71a03737c10f",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R3 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T17:00:00+00:00",
+   "endAt": "2026-09-04T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-04T17:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/23f4d4a7-c573-441b-ada0-87b15b243b63.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=62afc14e-cc34-4b55-b67a-71a03737c10f",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/62afc14e-cc34-4b55-b67a-71a03737c10f.jpg"
+  },
+  {
+   "id": "3a2548f7-1b53-4e25-9e00-f1d26a9a316d",
+   "game": "EA Sports College Football 27",
+   "title": "CFB 27 Free Play Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T17:00:00+00:00",
+   "endAt": "2026-09-08T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T17:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30542d40-725e-4c4f-bdd9-66c4cadc1aa9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a2548f7-1b53-4e25-9e00-f1d26a9a316d",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Super Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3a2548f7-1b53-4e25-9e00-f1d26a9a316d.png"
   }
  ],
  "archive": [
+  {
+   "id": "6a58f28c-0a10-4387-a826-a73adada17a7",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "startAt": "2026-09-03T17:00:00+00:00",
+   "endAt": "2026-09-04T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a61fe9af-414f-4736-beb0-aa978591bd79",
+   "game": "MARVEL Contest of Champions",
+   "title": "August Week 5",
+   "startAt": "2026-08-28T17:00:00+00:00",
+   "endAt": "2026-09-04T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "db73db8f-0376-4bb4-b146-9cde0e37cf8d",
    "game": "EA Sports College Football 27",
@@ -4022,7 +4066,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.61
+   "score": 35.59
   },
   "Once Human": {
    "favorites": 1,
