@@ -2928,6 +2928,62 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/83b45ee6-2817-4512-9d2b-d09afa900d00.jpg"
+  },
+  {
+   "id": "7bc84f00-b7e0-49f2-9100-3f8c540767ed",
+   "game": "Conqueror's Blade",
+   "title": "CB 7 anni Welcome",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:30:00+00:00",
+   "endAt": "2026-09-04T15:29:59.999+00:00",
+   "firstSeenAt": "2026-09-04T10:31:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b785685-44f5-4d09-86e7-009558f5cfb6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bc84f00-b7e0-49f2-9100-3f8c540767ed",
+   "rewards": [
+    {
+     "name": "\u734e\u52f5 1-15\u5206\u9418",
+     "minutes": 15
+    },
+    {
+     "name": "\u734e\u52f5 1-30\u5206\u9418",
+     "minutes": 30
+    },
+    {
+     "name": "\u734e\u52f5 1-60\u5206\u9418",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7bc84f00-b7e0-49f2-9100-3f8c540767ed.png"
+  },
+  {
+   "id": "f018e359-7334-42c3-b945-bbc519a41481",
+   "game": "Freestyle Football 2",
+   "title": "Prime OBT Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:30:00+00:00",
+   "endAt": "2026-09-08T00:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T10:31:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1d6750bb-a395-4f09-b3a1-743ba65d88e2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f018e359-7334-42c3-b945-bbc519a41481",
+   "rewards": [
+    {
+     "name": "30min",
+     "minutes": 30
+    },
+    {
+     "name": "60min",
+     "minutes": 60
+    },
+    {
+     "name": "120min",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f018e359-7334-42c3-b945-bbc519a41481.png"
   }
  ],
  "archive": [
@@ -3572,7 +3628,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Delta Force": {
    "favorites": 1,
@@ -3590,25 +3646,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.83
+   "score": 35.82
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3620,13 +3676,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   }
  },
  "favoriteWeights": {
