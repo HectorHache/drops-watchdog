@@ -2974,26 +2974,6 @@
    "asset": "assets/52f8c4a5-1cd5-4c72-95ec-7d6962616fec.png"
   },
   {
-   "id": "91be4f06-46fb-46a5-88be-5bbe90d89106",
-   "game": "Black Desert",
-   "title": "[ASIA] Crossplay 3rd ann",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T11:00:00+00:00",
-   "endAt": "2026-09-04T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T11:01:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/22a6ea6f-8baa-4429-a6f4-8eace89a4926.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91be4f06-46fb-46a5-88be-5bbe90d89106",
-   "rewards": [
-    {
-     "name": "30 min",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/91be4f06-46fb-46a5-88be-5bbe90d89106.jpg"
-  },
-  {
    "id": "747e6b11-f6a5-4272-b9b4-342aa6f70882",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 4)",
@@ -3092,9 +3072,153 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/93b68f93-2aee-49cb-b88f-170b6358ad7a.png"
+  },
+  {
+   "id": "3f98024d-d13b-4938-9b54-3b61cb09e58f",
+   "game": "Tanks Blitz",
+   "title": "\u041b\u0411\u041f 4 \u041f\u043b\u0435\u0439-\u043e\u0444\u0444 \u0414\u0435\u043d\u044c 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T14:00:00+00:00",
+   "endAt": "2026-09-04T19:00:59.999+00:00",
+   "firstSeenAt": "2026-09-04T14:01:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d012fbe3-9a33-4f12-9af7-cbb2edb582e9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3f98024d-d13b-4938-9b54-3b61cb09e58f",
+   "rewards": [
+    {
+     "name": "\u041a\u043e\u043d\u0442 1",
+     "minutes": 60
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 2",
+     "minutes": 120
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 3",
+     "minutes": 180
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 4",
+     "minutes": 240
+    },
+    {
+     "name": "\u041a\u043e\u043d\u0442 5",
+     "minutes": 270
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3f98024d-d13b-4938-9b54-3b61cb09e58f.png"
+  },
+  {
+   "id": "54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T14:00:00+00:00",
+   "endAt": "2026-09-06T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-04T14:01:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64f30fac-559e-469b-a48f-0f17206af62f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d.png"
+  },
+  {
+   "id": "5745990b-ede0-4b6f-a3a1-789d1b913d5a",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T14:00:00+00:00",
+   "endAt": "2026-09-10T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-04T14:01:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/358590ec-b9e9-4303-b57f-97173e5760e1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5745990b-ede0-4b6f-a3a1-789d1b913d5a",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5745990b-ede0-4b6f-a3a1-789d1b913d5a.png"
   }
  ],
  "archive": [
+  {
+   "id": "91be4f06-46fb-46a5-88be-5bbe90d89106",
+   "game": "Black Desert",
+   "title": "[ASIA] Crossplay 3rd ann",
+   "startAt": "2026-09-04T11:00:00+00:00",
+   "endAt": "2026-09-04T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4bc3df29-0e49-478d-9db6-5933d6d2aadf",
    "game": "Out of the Park Baseball 27",
@@ -3752,13 +3876,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.39
+   "score": 9.38
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3770,25 +3894,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.71
+   "score": 35.69
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3800,13 +3924,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.22
+   "score": 12.21
   }
  },
  "favoriteWeights": {
