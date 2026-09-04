@@ -2912,6 +2912,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
+  },
+  {
+   "id": "ac5c5df0-1fa6-444e-b267-feb88c319c48",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T08:00:00+00:00",
+   "endAt": "2026-09-05T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T08:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea0dd80b-d4b0-4085-9e67-6cfeba15747a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac5c5df0-1fa6-444e-b267-feb88c319c48",
+   "rewards": [
+    {
+     "name": "Sushi Nessie Gun Charm",
+     "minutes": 60
+    },
+    {
+     "name": "APEX Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ac5c5df0-1fa6-444e-b267-feb88c319c48.png"
   }
  ],
  "archive": [
@@ -3524,7 +3548,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   },
   "Delta Force": {
    "favorites": 1,
@@ -3542,43 +3566,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.92
+   "score": 35.9
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.84
+   "score": 2.83
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.29
+   "score": 12.28
   }
  },
  "favoriteWeights": {
