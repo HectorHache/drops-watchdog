@@ -1514,46 +1514,6 @@
    "asset": "assets/255103de-421f-4720-91fa-92b25fe0467a.png"
   },
   {
-   "id": "8037f40f-4902-49a2-8ce1-8a8bfd5b432d",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.8 #4",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T14:00:00+00:00",
-   "endAt": "2026-09-04T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0dcbedb-c56c-4707-bbed-f3c750f2e1e0.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8037f40f-4902-49a2-8ce1-8a8bfd5b432d",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8037f40f-4902-49a2-8ce1-8a8bfd5b432d.jpg"
-  },
-  {
-   "id": "af763899-d449-4c09-ab9b-27fb1d48f4c4",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.8: \u0427\u0430\u0441\u0442\u044c 4",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T14:00:00+00:00",
-   "endAt": "2026-09-04T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1424ac07-b6d0-4987-bd81-95449a4c1f42.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=af763899-d449-4c09-ab9b-27fb1d48f4c4",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.8 #4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/af763899-d449-4c09-ab9b-27fb1d48f4c4.jpg"
-  },
-  {
    "id": "c5383e3e-0a84-4cd8-b073-6f09cb489c74",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 1/3",
@@ -2164,26 +2124,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b9375269-631d-4e6d-87c7-036c9ec7f89d.png"
-  },
-  {
-   "id": "e103ef3f-f202-4183-915e-7c057c629e6a",
-   "game": "World of Tanks",
-   "title": "Update 2.4 Drops #1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T15:00:00+00:00",
-   "endAt": "2026-09-04T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T15:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e6d10a5d-f70a-483c-945f-f60dddee754a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e103ef3f-f202-4183-915e-7c057c629e6a",
-   "rewards": [
-    {
-     "name": "Drop 1 ",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e103ef3f-f202-4183-915e-7c057c629e6a.jpg"
   },
   {
    "id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
@@ -3232,9 +3172,181 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/db73db8f-0376-4bb4-b146-9cde0e37cf8d.png"
+  },
+  {
+   "id": "a6c00c77-7d10-4654-a8a5-18a83654507d",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-05T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c230dbba-2a41-4e3a-863f-beee0cacd58a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a6c00c77-7d10-4654-a8a5-18a83654507d",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a6c00c77-7d10-4654-a8a5-18a83654507d.jpg"
+  },
+  {
+   "id": "3894588c-1643-4642-ba80-e9c3d4132489",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 04.09.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-06T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/26d587ad-7f2e-4271-9ce1-e2a90a5e7323.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3894588c-1643-4642-ba80-e9c3d4132489",
+   "rewards": [
+    {
+     "name": "20 000 credits 04.09",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 04.09",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 04.09",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 04.09",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 04.09",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 04.09",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3894588c-1643-4642-ba80-e9c3d4132489.png"
+  },
+  {
+   "id": "1b975a1a-ad97-4010-8244-34e4de466947",
+   "game": "World of Tanks",
+   "title": "J\u00e4ger MouzAkrobat",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13efef9b-33c4-4e81-baa2-5ec4247acf6f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b975a1a-ad97-4010-8244-34e4de466947",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1b975a1a-ad97-4010-8244-34e4de466947.png"
+  },
+  {
+   "id": "ac7c3239-e465-418e-97ce-4e937b2d0b77",
+   "game": "World of Tanks",
+   "title": "J\u00e4ger Mailand",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/450b21dc-ee77-4869-91da-0108309278c1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac7c3239-e465-418e-97ce-4e937b2d0b77",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ac7c3239-e465-418e-97ce-4e937b2d0b77.png"
+  },
+  {
+   "id": "c1426e42-3877-44a6-a422-8e7e75ca56aa",
+   "game": "World of Tanks",
+   "title": "First Deployment #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/05e666f8-d0b9-42d8-8108-b26e21334a4e.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1426e42-3877-44a6-a422-8e7e75ca56aa",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c1426e42-3877-44a6-a422-8e7e75ca56aa.jpg"
+  },
+  {
+   "id": "9165080b-f268-43b5-9561-f5516a1b2fdb",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-11T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/908d5e21-bab8-46ad-b1f1-901d79da6a6c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9165080b-f268-43b5-9561-f5516a1b2fdb",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "8037f40f-4902-49a2-8ce1-8a8bfd5b432d",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.8 #4",
+   "startAt": "2026-08-31T14:00:00+00:00",
+   "endAt": "2026-09-04T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "af763899-d449-4c09-ab9b-27fb1d48f4c4",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.8: \u0427\u0430\u0441\u0442\u044c 4",
+   "startAt": "2026-08-31T14:00:00+00:00",
+   "endAt": "2026-09-04T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e103ef3f-f202-4183-915e-7c057c629e6a",
+   "game": "World of Tanks",
+   "title": "Update 2.4 Drops #1",
+   "startAt": "2026-09-02T15:00:00+00:00",
+   "endAt": "2026-09-04T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "91be4f06-46fb-46a5-88be-5bbe90d89106",
    "game": "Black Desert",
@@ -3900,13 +4012,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.38
+   "score": 9.37
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3918,25 +4030,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.68
+   "score": 35.66
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3948,13 +4060,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   }
  },
  "favoriteWeights": {
