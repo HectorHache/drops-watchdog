@@ -1074,46 +1074,6 @@
    "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
   },
   {
-   "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 263",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T16:00:00+00:00",
-   "endAt": "2026-09-04T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20d833e7-d2dc-483e-b5f9-7069079ff320.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e897784-10bd-437c-a813-40d1b2e5569a",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 240
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 4",
-     "minutes": 480
-    },
-    {
-     "name": "DROP 5",
-     "minutes": 600
-    },
-    {
-     "name": "DROP - SUBS",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8e897784-10bd-437c-a813-40d1b2e5569a.png"
-  },
-  {
    "id": "a61fe9af-414f-4736-beb0-aa978591bd79",
    "game": "MARVEL Contest of Champions",
    "title": "August Week 5",
@@ -2714,34 +2674,6 @@
    "asset": "assets/ac5c5df0-1fa6-444e-b267-feb88c319c48.png"
   },
   {
-   "id": "e4715b7e-89c2-493b-b80b-6e85526a8a49",
-   "game": "Eternal Return",
-   "title": "S12 ERM DAY1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T09:30:00+00:00",
-   "endAt": "2026-09-04T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T09:30:49+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f703e714-292f-4ec7-b00a-f668f88d18ce.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e4715b7e-89c2-493b-b80b-6e85526a8a49",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e4715b7e-89c2-493b-b80b-6e85526a8a49.png"
-  },
-  {
    "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
    "game": "Albion Online",
    "title": "Dragonfire 1 - #5/7",
@@ -3292,9 +3224,105 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
+  },
+  {
+   "id": "ed9254f4-53c5-490c-b001-224bf56676da",
+   "game": "Dofus",
+   "title": "ZEvent 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-06T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T16:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2721c2c9-66c8-41e8-ad81-ad7d863faedc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ed9254f4-53c5-490c-b001-224bf56676da",
+   "rewards": [
+    {
+     "name": "Jeton Ocre",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ed9254f4-53c5-490c-b001-224bf56676da.png"
+  },
+  {
+   "id": "46c07a3c-2113-4495-9ccb-00750e211d70",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 264",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T16:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b7d8d4f-c437-4202-be0c-81a37bf4e9a2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46c07a3c-2113-4495-9ccb-00750e211d70",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 240
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 360
+    },
+    {
+     "name": "DROP SUBS",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/46c07a3c-2113-4495-9ccb-00750e211d70.png"
+  },
+  {
+   "id": "09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-08T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T16:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f085a1c1-a4f0-4b41-852a-85ba90f38e6a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
+   "rewards": [
+    {
+     "name": "5 x1.25 Silver Boosters",
+     "minutes": 120
+    },
+    {
+     "name": "Camo Voucher",
+     "minutes": 240
+    },
+    {
+     "name": "Modern Armor Blobs Camo",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/09b7ea3c-50d0-483b-85d7-4d1fe6a7505e.png"
   }
  ],
  "archive": [
+  {
+   "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 263",
+   "startAt": "2026-08-28T16:00:00+00:00",
+   "endAt": "2026-09-04T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e4715b7e-89c2-493b-b80b-6e85526a8a49",
+   "game": "Eternal Return",
+   "title": "S12 ERM DAY1",
+   "startAt": "2026-09-04T09:30:00+00:00",
+   "endAt": "2026-09-04T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7bc84f00-b7e0-49f2-9100-3f8c540767ed",
    "game": "Conqueror's Blade",
@@ -4010,7 +4038,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.64
+   "score": 35.63
   },
   "Once Human": {
    "favorites": 1,
