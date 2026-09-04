@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "812ec00b-52f4-4fb9-8387-3a26ca1104d7",
-   "game": "Marvel Rivals",
-   "title": "Season 9.5 Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-07T12:00:00+00:00",
-   "endAt": "2026-09-04T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/518e60e5-e45c-4aa0-8c7f-666c402d8719.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=812ec00b-52f4-4fb9-8387-3a26ca1104d7",
-   "rewards": [
-    {
-     "name": "Elsa Bloodstone\u300cWill of Galacta\u300dSpray",
-     "minutes": 30
-    },
-    {
-     "name": "Elsa Bloodstone\u300cWill of Galacta\u300dNameplate",
-     "minutes": 60
-    },
-    {
-     "name": "Elsa Bloodstone\u300cSpot of Tea\u300dEmotes",
-     "minutes": 120
-    },
-    {
-     "name": "Elsa Bloodstone\u300cWill of Galacta\u300dCostume",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/812ec00b-52f4-4fb9-8387-3a26ca1104d7.png"
-  },
-  {
    "id": "47172f4c-ad4a-4155-a20c-6e440102ff38",
    "game": "Predecessor",
    "title": "Aegis of Dawn Drops \u2694\ufe0f",
@@ -2940,6 +2908,14 @@
  ],
  "archive": [
   {
+   "id": "812ec00b-52f4-4fb9-8387-3a26ca1104d7",
+   "game": "Marvel Rivals",
+   "title": "Season 9.5 Twitch Drops",
+   "startAt": "2026-08-07T12:00:00+00:00",
+   "endAt": "2026-09-04T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "6ef33712-0087-4d04-a631-3c03c63435e8",
    "game": "Warframe",
    "title": "Prime Time #496 Raid",
@@ -3548,7 +3524,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   },
   "Delta Force": {
    "favorites": 1,
@@ -3560,31 +3536,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.67
+   "score": 5.66
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.88
+   "score": 35.87
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3596,13 +3572,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.28
+   "score": 12.27
   }
  },
  "favoriteWeights": {
