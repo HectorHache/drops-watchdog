@@ -3308,6 +3308,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/37d8111b-4dd1-42d3-912c-2290e9a242dd.png"
+  },
+  {
+   "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T18:30:00+00:00",
+   "endAt": "2026-09-11T16:44:59.999+00:00",
+   "firstSeenAt": "2026-09-04T18:30:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=57d28902-3e1f-4430-8414-2a6b714e56ba",
+   "rewards": [
+    {
+     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3 - PRG Gated Rank-Up Gem Crystal",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4 - 1x Observance",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5 - PRG Gated Ascension Materials",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 6 - PRG Gated Signature Stones",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/57d28902-3e1f-4430-8414-2a6b714e56ba.png"
   }
  ],
  "archive": [
@@ -4070,7 +4110,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.35
+   "score": 9.34
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4082,7 +4122,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.56
+   "score": 35.54
   },
   "Once Human": {
    "favorites": 1,
