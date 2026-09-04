@@ -3114,42 +3114,6 @@
    "asset": "assets/09b7ea3c-50d0-483b-85d7-4d1fe6a7505e.png"
   },
   {
-   "id": "ace4dca5-c7be-4423-8e75-c0e0b3a69521",
-   "game": "MARVEL Contest of Champions",
-   "title": "September Livestream",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T16:55:00+00:00",
-   "endAt": "2026-09-04T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T17:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ace4dca5-c7be-4423-8e75-c0e0b3a69521",
-   "rewards": [
-    {
-     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
-     "minutes": 15
-    },
-    {
-     "name": "Drop 2 - 3x Rebirth Crystals",
-     "minutes": 20
-    },
-    {
-     "name": "Drop 3 - PRG Gated Hero Crystal",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 4 - 2x Observance",
-     "minutes": 45
-    },
-    {
-     "name": "Drop 5 - PRG Gated Ascension Materials",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ace4dca5-c7be-4423-8e75-c0e0b3a69521.png"
-  },
-  {
    "id": "3a2548f7-1b53-4e25-9e00-f1d26a9a316d",
    "game": "EA Sports College Football 27",
    "title": "CFB 27 Free Play Weekend",
@@ -3268,9 +3232,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/57d28902-3e1f-4430-8414-2a6b714e56ba.png"
+  },
+  {
+   "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
+   "game": "Path of Exile 2",
+   "title": "0.5.5 Launch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T20:00:00+00:00",
+   "endAt": "2026-09-11T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T20:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f7b6fdb-5217-49ad-8638-807b517e118d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c00d237b-f273-4baf-9ea3-17e8d0a4be11",
+   "rewards": [
+    {
+     "name": "Blade of the Champion Pet",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
   }
  ],
  "archive": [
+  {
+   "id": "ace4dca5-c7be-4423-8e75-c0e0b3a69521",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Livestream",
+   "startAt": "2026-09-04T16:55:00+00:00",
+   "endAt": "2026-09-04T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "62afc14e-cc34-4b55-b67a-71a03737c10f",
    "game": "Tanki Online",
@@ -4048,7 +4040,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   },
   "Delta Force": {
    "favorites": 1,
@@ -4060,31 +4052,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.61
+   "score": 5.6
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.51
+   "score": 35.49
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4096,13 +4088,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.15
+   "score": 12.14
   }
  },
  "favoriteWeights": {
