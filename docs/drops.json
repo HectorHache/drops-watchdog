@@ -2984,6 +2984,70 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f018e359-7334-42c3-b945-bbc519a41481.png"
+  },
+  {
+   "id": "52f8c4a5-1cd5-4c72-95ec-7d6962616fec",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:45:00+00:00",
+   "endAt": "2026-09-04T20:54:59.999+00:00",
+   "firstSeenAt": "2026-09-04T11:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/99d41a4b-92c1-475f-97ab-cc4ecff325e2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52f8c4a5-1cd5-4c72-95ec-7d6962616fec",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_7",
+     "minutes": 420
+    },
+    {
+     "name": "reward_stream_crate_1",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_2",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_3",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_4",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_5",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_6",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/52f8c4a5-1cd5-4c72-95ec-7d6962616fec.png"
+  },
+  {
+   "id": "91be4f06-46fb-46a5-88be-5bbe90d89106",
+   "game": "Black Desert",
+   "title": "[ASIA] Crossplay 3rd ann",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T11:00:00+00:00",
+   "endAt": "2026-09-04T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T11:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/22a6ea6f-8baa-4429-a6f4-8eace89a4926.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91be4f06-46fb-46a5-88be-5bbe90d89106",
+   "rewards": [
+    {
+     "name": "30 min",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/91be4f06-46fb-46a5-88be-5bbe90d89106.jpg"
   }
  ],
  "archive": [
@@ -3634,19 +3698,19 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.66
+   "score": 5.65
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.82
+   "score": 35.8
   },
   "Once Human": {
    "favorites": 1,
