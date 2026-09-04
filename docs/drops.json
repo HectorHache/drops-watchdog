@@ -3054,30 +3054,6 @@
    "asset": "assets/5745990b-ede0-4b6f-a3a1-789d1b913d5a.png"
   },
   {
-   "id": "db73db8f-0376-4bb4-b146-9cde0e37cf8d",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Rundown",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T14:30:00+00:00",
-   "endAt": "2026-09-04T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-04T14:30:11+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb838a99-5617-472c-ad7f-d95d502bb8a8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=db73db8f-0376-4bb4-b146-9cde0e37cf8d",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/db73db8f-0376-4bb4-b146-9cde0e37cf8d.png"
-  },
-  {
    "id": "a6c00c77-7d10-4654-a8a5-18a83654507d",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #1",
@@ -3307,6 +3283,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "db73db8f-0376-4bb4-b146-9cde0e37cf8d",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-09-04T14:30:00+00:00",
+   "endAt": "2026-09-04T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
    "game": "Marbles on Stream",
@@ -4020,43 +4004,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.37
+   "score": 9.36
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.63
+   "score": 5.62
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.63
+   "score": 35.61
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4068,13 +4052,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   }
  },
  "favoriteWeights": {
