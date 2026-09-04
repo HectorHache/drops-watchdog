@@ -2402,26 +2402,6 @@
    "asset": "assets/9d973425-3765-4b74-a204-9e7928a6250a.jpg"
   },
   {
-   "id": "cfbbeb13-f08e-4bda-b11a-ac7d01209647",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 3)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T12:00:00+00:00",
-   "endAt": "2026-09-04T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T12:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8429925-b29c-42f1-8dc5-2a25e1951079.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cfbbeb13-f08e-4bda-b11a-ac7d01209647",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 3)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/cfbbeb13-f08e-4bda-b11a-ac7d01209647.png"
-  },
-  {
    "id": "4bc3df29-0e49-478d-9db6-5933d6d2aadf",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/3/26",
@@ -3048,9 +3028,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/91be4f06-46fb-46a5-88be-5bbe90d89106.jpg"
+  },
+  {
+   "id": "747e6b11-f6a5-4272-b9b4-342aa6f70882",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 4)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T12:00:00+00:00",
+   "endAt": "2026-09-05T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T12:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76a5fb08-8016-430c-9cfd-03a91c84a367.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=747e6b11-f6a5-4272-b9b4-342aa6f70882",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 4)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/747e6b11-f6a5-4272-b9b4-342aa6f70882.png"
   }
  ],
  "archive": [
+  {
+   "id": "cfbbeb13-f08e-4bda-b11a-ac7d01209647",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 3)",
+   "startAt": "2026-09-03T12:00:00+00:00",
+   "endAt": "2026-09-04T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8969a2fd-fe6c-4364-a28f-e70fb013c877",
    "game": "NextWorld2",
@@ -3692,13 +3700,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3710,25 +3718,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.78
+   "score": 35.76
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3740,13 +3748,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.24
+   "score": 12.23
   }
  },
  "favoriteWeights": {
