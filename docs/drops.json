@@ -2426,26 +2426,6 @@
    "asset": "assets/3b8f64e0-12fd-4c56-bf24-64035c1a9afd.png"
   },
   {
-   "id": "a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
-   "game": "Path of Exile",
-   "title": "PoE1 ExileCon 1/4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T21:00:00+00:00",
-   "endAt": "2026-09-04T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T21:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f36ac534-b501-4eae-aea6-5ff5652d755c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
-   "rewards": [
-    {
-     "name": "WildFootprintsEffect",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf.png"
-  },
-  {
    "id": "e8506d11-e613-460a-b26f-20e2433e8ac6",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -2640,50 +2620,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f018e359-7334-42c3-b945-bbc519a41481.png"
-  },
-  {
-   "id": "52f8c4a5-1cd5-4c72-95ec-7d6962616fec",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T10:45:00+00:00",
-   "endAt": "2026-09-04T20:54:59.999+00:00",
-   "firstSeenAt": "2026-09-04T11:01:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/99d41a4b-92c1-475f-97ab-cc4ecff325e2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52f8c4a5-1cd5-4c72-95ec-7d6962616fec",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_7",
-     "minutes": 420
-    },
-    {
-     "name": "reward_stream_crate_1",
-     "minutes": 60
-    },
-    {
-     "name": "reward_stream_crate_2",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_3",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_4",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_5",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_6",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/52f8c4a5-1cd5-4c72-95ec-7d6962616fec.png"
   },
   {
    "id": "747e6b11-f6a5-4272-b9b4-342aa6f70882",
@@ -3291,6 +3227,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 1/4",
+   "startAt": "2026-09-03T21:00:00+00:00",
+   "endAt": "2026-09-04T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "52f8c4a5-1cd5-4c72-95ec-7d6962616fec",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "startAt": "2026-09-04T10:45:00+00:00",
+   "endAt": "2026-09-04T20:54:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ace4dca5-c7be-4423-8e75-c0e0b3a69521",
    "game": "MARVEL Contest of Champions",
@@ -4076,13 +4028,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.33
+   "score": 9.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4094,25 +4046,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.47
+   "score": 35.46
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4124,13 +4076,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   }
  },
  "favoriteWeights": {
