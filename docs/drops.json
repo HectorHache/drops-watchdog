@@ -2330,26 +2330,6 @@
    "asset": "assets/d4e988dd-ac54-40c2-827d-d1e8876c5fc4.png"
   },
   {
-   "id": "17f1cdbe-fc09-4a4b-aece-ed600900e04d",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T00:00:00+00:00",
-   "endAt": "2026-09-03T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T00:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a943fcd9-b00f-4eea-b3c6-665e27389137.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=17f1cdbe-fc09-4a4b-aece-ed600900e04d",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/17f1cdbe-fc09-4a4b-aece-ed600900e04d.png"
-  },
-  {
    "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
    "game": "The Blood of Dawnwalker",
    "title": "Dawnwalker Launch",
@@ -2770,6 +2750,26 @@
    "asset": "assets/8ac1079f-d1f7-4b3a-9777-11b8314073fd.jpg"
   },
   {
+   "id": "00747f85-3d1f-4be3-a101-1b797abc9f32",
+   "game": "Rise Online",
+   "title": "Mobile Drop 147",
+   "status": "ACTIVE",
+   "startAt": "2026-09-03T17:59:00+00:00",
+   "endAt": "2026-09-04T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-03T23:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5694c728-ef21-4029-8e0f-00632bf6b8aa.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=00747f85-3d1f-4be3-a101-1b797abc9f32",
+   "rewards": [
+    {
+     "name": "Mobile Drop 147",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/00747f85-3d1f-4be3-a101-1b797abc9f32.png"
+  },
+  {
    "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
    "game": "WARDOGS",
    "title": "WARDOGS Beta & Launch",
@@ -2842,35 +2842,103 @@
    "asset": "assets/a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf.png"
   },
   {
-   "id": "bb1a4675-9d6e-4810-9c47-4eae29013ec7",
-   "game": "Warframe",
-   "title": "Prime Time #496",
+   "id": "e8506d11-e613-460a-b26f-20e2433e8ac6",
+   "game": "The Quinfall",
+   "title": "September Drops",
    "status": "ACTIVE",
-   "startAt": "2026-09-03T22:00:00+00:00",
-   "endAt": "2026-09-04T00:14:59.999+00:00",
-   "firstSeenAt": "2026-09-03T22:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eaa25b40-bd06-4935-b576-fb745a11ab73.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bb1a4675-9d6e-4810-9c47-4eae29013ec7",
+   "startAt": "2026-09-04T00:00:00+00:00",
+   "endAt": "2026-09-04T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T01:30:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98454bc3-8868-4aec-acdc-e44140baa45a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e8506d11-e613-460a-b26f-20e2433e8ac6",
    "rewards": [
     {
-     "name": "Built Forma",
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e8506d11-e613-460a-b26f-20e2433e8ac6.png"
+  },
+  {
+   "id": "ac5e786e-e9bf-49e9-a550-0b1f075a1818",
+   "game": "Onimusha: Way of the Sword",
+   "title": "Onimusha Armament",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T04:00:00+00:00",
+   "endAt": "2026-09-18T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T04:00:50+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28c80dd3-f032-47f4-89a4-31d50655bd3f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac5e786e-e9bf-49e9-a550-0b1f075a1818",
+   "rewards": [
+    {
+     "name": "Onimusha Armament",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ac5e786e-e9bf-49e9-a550-0b1f075a1818.png"
+  },
+  {
+   "id": "2627f082-1448-4a4b-a721-41e942aa5bc6",
+   "game": "The First Descendant",
+   "title": "Conquest Mode Drops ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T05:00:00+00:00",
+   "endAt": "2026-09-30T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T05:01:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2627f082-1448-4a4b-a721-41e942aa5bc6",
+   "rewards": [
+    {
+     "name": "Twitch Violet Color Paints",
      "minutes": 30
     },
     {
-     "name": "Dax Portrait",
+     "name": "EXP Boost Pack",
      "minutes": 60
     },
     {
-     "name": "15 Steel Essence",
+     "name": "Crystallization Catalyst & Energy Activator",
      "minutes": 90
+    },
+    {
+     "name": "Gold, Kuiper Shards & Superheated Material",
+     "minutes": 120
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/bb1a4675-9d6e-4810-9c47-4eae29013ec7.jpg"
+   "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   }
  ],
  "archive": [
+  {
+   "id": "6ef33712-0087-4d04-a631-3c03c63435e8",
+   "game": "Warframe",
+   "title": "Prime Time #496 Raid",
+   "startAt": "2026-09-04T00:00:00+00:00",
+   "endAt": "2026-09-04T01:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bb1a4675-9d6e-4810-9c47-4eae29013ec7",
+   "game": "Warframe",
+   "title": "Prime Time #496",
+   "startAt": "2026-09-03T22:00:00+00:00",
+   "endAt": "2026-09-04T00:14:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "17f1cdbe-fc09-4a4b-aece-ed600900e04d",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-03T00:00:00+00:00",
+   "endAt": "2026-09-03T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "385bbec7-f07e-4108-bfc7-58427e4505e9",
    "game": "Shakes and Fidget",
@@ -3456,61 +3524,61 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.72
+   "score": 5.69
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 36.23
+   "score": 36.01
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.86
+   "score": 2.84
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.32
   }
  },
  "favoriteWeights": {
