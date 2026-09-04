@@ -1074,42 +1074,6 @@
    "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
   },
   {
-   "id": "8969a2fd-fe6c-4364-a28f-e70fb013c877",
-   "game": "NextWorld2",
-   "title": "NW2 SUMMER DROPS #7",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T14:00:00+00:00",
-   "endAt": "2026-09-04T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2e1d3a2-92d2-454f-a02f-cb8ce4cf5026.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8969a2fd-fe6c-4364-a28f-e70fb013c877",
-   "rewards": [
-    {
-     "name": "Gladi\u00e1tor K\u00f6peny (100 db)",
-     "minutes": 120
-    },
-    {
-     "name": "Gladi\u00e1tor Gy\u0171r\u0171 (1 db)",
-     "minutes": 300
-    },
-    {
-     "name": "Twitch \u00c9rme (1 db)",
-     "minutes": 600
-    },
-    {
-     "name": "Twitch F\u00f3kusz (1 db)",
-     "minutes": 840
-    },
-    {
-     "name": "Next L\u00e1da Var\u00e1zslat",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8969a2fd-fe6c-4364-a28f-e70fb013c877.png"
-  },
-  {
    "id": "8e897784-10bd-437c-a813-40d1b2e5569a",
    "game": "Marbles on Stream",
    "title": "Marble Day 263",
@@ -2892,9 +2856,89 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e4715b7e-89c2-493b-b80b-6e85526a8a49.png"
+  },
+  {
+   "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-05T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-04T10:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/630348e0-5966-4d77-aac7-3cced23e0970.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7c0f9738-ca49-4f4d-96e7-a24ae48d80cc.png"
+  },
+  {
+   "id": "fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-05T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-04T10:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6bb92798-42c5-4538-803b-285dfee29c21.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2.png"
+  },
+  {
+   "id": "83b45ee6-2817-4512-9d2b-d09afa900d00",
+   "game": "Delta Force",
+   "title": "Season Meltdown Weekends",
+   "status": "ACTIVE",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-06T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-04T10:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b66f996-fcae-4e53-b39d-6c02a1f35347.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83b45ee6-2817-4512-9d2b-d09afa900d00",
+   "rewards": [
+    {
+     "name": "2x Merit Card (1 Match)",
+     "minutes": 30
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "C Card - C Graffiti",
+     "minutes": 90
+    },
+    {
+     "name": "Ops Challenge Supply Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/83b45ee6-2817-4512-9d2b-d09afa900d00.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "8969a2fd-fe6c-4364-a28f-e70fb013c877",
+   "game": "NextWorld2",
+   "title": "NW2 SUMMER DROPS #7",
+   "startAt": "2026-08-28T14:00:00+00:00",
+   "endAt": "2026-09-04T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5941c76c-91bf-4192-8443-11c4a32b8e3c",
    "game": "Albion Online",
@@ -3546,7 +3590,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.85
+   "score": 35.83
   },
   "Once Human": {
    "favorites": 1,
