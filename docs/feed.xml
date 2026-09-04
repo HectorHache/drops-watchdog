@@ -5,13 +5,6 @@
   <link>https://drops.hache.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Marvel Rivals — Season 9.5 Twitch Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=812ec00b-52f4-4fb9-8387-3a26ca1104d7</link>
-    <guid isPermaLink="false">812ec00b-52f4-4fb9-8387-3a26ca1104d7</guid>
-    <description>Elsa Bloodstone「Will of Galacta」Spray · Elsa Bloodstone「Will of Galacta」Nameplate · Elsa Bloodstone「Spot of Tea」Emotes · Elsa Bloodstone「Will of Galacta」Costume — runs 2026-08-07T12:00:00+00:00 → 2026-09-04T08:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-07T12:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Predecessor — Aegis of Dawn Drops ⚔️</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=47172f4c-ad4a-4155-a20c-6e440102ff38</link>
     <guid isPermaLink="false">47172f4c-ad4a-4155-a20c-6e440102ff38</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">c000c894-58ae-4b2b-bf19-265f8d529737</guid>
     <description>1 Day of Premium · 100 UP's · Tactical Consumables Set — runs 2026-08-31T00:00:00+00:00 → 2026-09-06T23:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-08-31T00:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>NARAKA: BLADEPOINT — JS1 Weekly 8.31</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=c523e70f-98d4-4432-b67e-2c500d3c770c</link>
+    <guid isPermaLink="false">c523e70f-98d4-4432-b67e-2c500d3c770c</guid>
+    <description>Special Random Gift — runs 2026-08-31T04:00:00+00:00 → 2026-09-07T03:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-08-31T04:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
