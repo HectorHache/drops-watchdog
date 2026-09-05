@@ -3344,6 +3344,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
+  },
+  {
+   "id": "55178946-43e3-464f-bf3f-996fcafcde19",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R3 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T17:00:00+00:00",
+   "endAt": "2026-09-05T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T17:00:57+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4c84e5d0-37f6-4a1c-855b-0a3208be8cdf.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=55178946-43e3-464f-bf3f-996fcafcde19",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/55178946-43e3-464f-bf3f-996fcafcde19.jpg"
   }
  ],
  "archive": [
@@ -4253,13 +4277,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.84
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 35.04
+   "score": 35.02
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4271,25 +4295,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.8
+   "score": 34.78
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.84
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.84
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.84
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4313,7 +4337,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.84
   }
  },
  "favoriteWeights": {
