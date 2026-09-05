@@ -3278,26 +3278,6 @@
    "asset": "assets/fb1b38fa-ce3b-45be-a20e-14657e05c5bf.jpg"
   },
   {
-   "id": "46eb6d79-11da-4104-a71a-b97e04264472",
-   "game": "Warframe",
-   "title": "Community Drops #213",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T11:30:00+00:00",
-   "endAt": "2026-09-05T13:29:59.999+00:00",
-   "firstSeenAt": "2026-09-05T11:30:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/daa54f38-ae94-4609-8d46-f04d6e5739fa.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46eb6d79-11da-4104-a71a-b97e04264472",
-   "rewards": [
-    {
-     "name": "Domestik Carrion Drone",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/46eb6d79-11da-4104-a71a-b97e04264472.jpg"
-  },
-  {
    "id": "32a1ef54-7df7-4b89-bddb-afb08cb9aa5c",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 5)",
@@ -3355,6 +3335,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "46eb6d79-11da-4104-a71a-b97e04264472",
+   "game": "Warframe",
+   "title": "Community Drops #213",
+   "startAt": "2026-09-05T11:30:00+00:00",
+   "endAt": "2026-09-05T13:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "93b68f93-2aee-49cb-b88f-170b6358ad7a",
    "game": "Out of the Park Baseball 27",
@@ -4245,13 +4233,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.93
+   "score": 24.92
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 35.15
+   "score": 35.14
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4263,31 +4251,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.91
+   "score": 34.9
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.93
+   "score": 24.92
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.93
+   "score": 24.92
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.93
+   "score": 24.92
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.76
+   "score": 2.75
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -4299,13 +4287,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.93
+   "score": 24.92
   }
  },
  "favoriteWeights": {
