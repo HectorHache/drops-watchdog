@@ -3196,6 +3196,78 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1f834e95-1f91-469d-bfdc-034ad3481593.png"
+  },
+  {
+   "id": "a7323877-30f2-47fc-88ae-6514542e7255",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-06T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T10:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a03295c2-8731-4b63-b164-59b869f5a098.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a7323877-30f2-47fc-88ae-6514542e7255",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a7323877-30f2-47fc-88ae-6514542e7255.png"
+  },
+  {
+   "id": "a8ed7a31-5be0-4224-96d7-af6521126dda",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-06T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T10:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6817ec83-d5c9-45d2-80ee-312521f5b0d0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8ed7a31-5be0-4224-96d7-af6521126dda",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a8ed7a31-5be0-4224-96d7-af6521126dda.png"
+  },
+  {
+   "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
+   "game": "War Thunder",
+   "title": "Pro League Major III",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-07T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T10:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f76d0848-173d-4d92-92cc-670cee77f368.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f317cb2d-b892-4aab-b554-23aa997d329d",
+   "rewards": [
+    {
+     "name": "5 Backups",
+     "minutes": 60
+    },
+    {
+     "name": "1 Day of Premium",
+     "minutes": 180
+    },
+    {
+     "name": "\u201cAngry Eyes\u201d decal",
+     "minutes": 300
+    },
+    {
+     "name": "T34-57 \u201cThunder Beast\u201d camouflage",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f317cb2d-b892-4aab-b554-23aa997d329d.jpg"
   }
  ],
  "archive": [
@@ -4062,7 +4134,7 @@
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4074,7 +4146,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.03
+   "score": 35.01
   },
   "Once Human": {
    "favorites": 1,
@@ -4098,7 +4170,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.77
+   "score": 2.76
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
