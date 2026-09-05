@@ -4098,7 +4098,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.08
+   "score": 35.07
   },
   "Once Human": {
    "favorites": 1,
@@ -4138,14 +4138,14 @@
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 22,
+  "ARC Raiders": 21,
   "Delta Force": 19,
   "LEGO Batman: Legacy of the Dark Knight": 45,
   "Marvel Rivals": 10,
-  "Once Human": 22,
-  "Palia": 22,
-  "Predecessor": 22,
-  "Tom Clancy's The Division 2": 22,
-  "Where Winds Meet": 22
+  "Once Human": 21,
+  "Palia": 21,
+  "Predecessor": 21,
+  "Tom Clancy's The Division 2": 21,
+  "Where Winds Meet": 21
  }
 }
