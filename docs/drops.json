@@ -2446,26 +2446,6 @@
    "asset": "assets/f018e359-7334-42c3-b945-bbc519a41481.png"
   },
   {
-   "id": "747e6b11-f6a5-4272-b9b4-342aa6f70882",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 4)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T12:00:00+00:00",
-   "endAt": "2026-09-05T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T12:00:56+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76a5fb08-8016-430c-9cfd-03a91c84a367.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=747e6b11-f6a5-4272-b9b4-342aa6f70882",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 4)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/747e6b11-f6a5-4272-b9b4-342aa6f70882.png"
-  },
-  {
    "id": "506f0cf2-a441-46a5-843f-eaa9d9045d1f",
    "game": "Hunt Club On Stream",
    "title": "Labor Day Drops 1 of 2",
@@ -3350,11 +3330,39 @@
     }
    ],
    "inSteamLibrary": true,
-   "isFavorite": false,
+   "isFavorite": true,
    "asset": "assets/46eb6d79-11da-4104-a71a-b97e04264472.jpg"
+  },
+  {
+   "id": "32a1ef54-7df7-4b89-bddb-afb08cb9aa5c",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 5)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T12:00:00+00:00",
+   "endAt": "2026-09-06T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T12:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ef304164-7633-4912-bcb3-f3c4ded85a1e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=32a1ef54-7df7-4b89-bddb-afb08cb9aa5c",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 5)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/32a1ef54-7df7-4b89-bddb-afb08cb9aa5c.png"
   }
  ],
  "archive": [
+  {
+   "id": "747e6b11-f6a5-4272-b9b4-342aa6f70882",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 4)",
+   "startAt": "2026-09-04T12:00:00+00:00",
+   "endAt": "2026-09-05T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9e51c96d-5adc-4dde-be70-f12777c80aeb",
    "game": "SMITE 2",
@@ -4221,20 +4229,21 @@
   "Palia",
   "Predecessor",
   "Tom Clancy's The Division 2",
+  "Warframe",
   "Where Winds Meet"
  ],
  "signals": {
   "ARC Raiders": {
-   "favorites": 1,
-   "likes": 1,
+   "favorites": 2,
+   "likes": 2,
    "reminds": 0,
-   "score": 11.96
+   "score": 24.96
   },
   "Delta Force": {
-   "favorites": 1,
-   "likes": 0,
+   "favorites": 3,
+   "likes": 2,
    "reminds": 0,
-   "score": 9.19
+   "score": 35.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4246,25 +4255,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.96
+   "score": 34.95
   },
   "Once Human": {
-   "favorites": 1,
-   "likes": 1,
+   "favorites": 2,
+   "likes": 2,
    "reminds": 0,
-   "score": 11.96
+   "score": 24.96
   },
   "Palia": {
-   "favorites": 1,
-   "likes": 1,
+   "favorites": 2,
+   "likes": 2,
    "reminds": 0,
-   "score": 11.96
+   "score": 24.96
   },
   "Predecessor": {
-   "favorites": 1,
-   "likes": 1,
+   "favorites": 2,
+   "likes": 2,
    "reminds": 0,
-   "score": 11.96
+   "score": 24.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4278,22 +4287,29 @@
    "reminds": 0,
    "score": 11.96
   },
-  "Where Winds Meet": {
+  "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.96
+   "score": 13.0
+  },
+  "Where Winds Meet": {
+   "favorites": 2,
+   "likes": 2,
+   "reminds": 0,
+   "score": 24.96
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 21,
-  "Delta Force": 19,
+  "ARC Raiders": 34,
+  "Delta Force": 45,
   "LEGO Batman: Legacy of the Dark Knight": 44,
   "Marvel Rivals": 10,
-  "Once Human": 21,
-  "Palia": 21,
-  "Predecessor": 21,
+  "Once Human": 34,
+  "Palia": 34,
+  "Predecessor": 34,
   "Tom Clancy's The Division 2": 21,
-  "Where Winds Meet": 21
+  "Warframe": 22,
+  "Where Winds Meet": 34
  }
 }
