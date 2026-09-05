@@ -3050,34 +3050,6 @@
    "asset": "assets/eed2190b-a9c8-4457-9fa7-2b6821ffb4a2.jpg"
   },
   {
-   "id": "1f834e95-1f91-469d-bfdc-034ad3481593",
-   "game": "Eternal Return",
-   "title": "S12 ERM DAY2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T07:30:00+00:00",
-   "endAt": "2026-09-05T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T07:31:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8a782601-c5a3-4e4e-8f4c-6890bf2e0930.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1f834e95-1f91-469d-bfdc-034ad3481593",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1f834e95-1f91-469d-bfdc-034ad3481593.png"
-  },
-  {
    "id": "a7323877-30f2-47fc-88ae-6514542e7255",
    "game": "Albion Online",
    "title": "AOCP Flamescale 1 - #6/7",
@@ -3335,6 +3307,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "1f834e95-1f91-469d-bfdc-034ad3481593",
+   "game": "Eternal Return",
+   "title": "S12 ERM DAY2",
+   "startAt": "2026-09-05T07:30:00+00:00",
+   "endAt": "2026-09-05T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "46eb6d79-11da-4104-a71a-b97e04264472",
    "game": "Warframe",
@@ -4233,13 +4213,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.9
+   "score": 24.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 35.1
+   "score": 35.09
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4251,25 +4231,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.86
+   "score": 34.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.9
+   "score": 24.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.9
+   "score": 24.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.9
+   "score": 24.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4281,19 +4261,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.93
+   "score": 11.92
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.97
+   "score": 12.96
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.9
+   "score": 24.88
   }
  },
  "favoriteWeights": {
