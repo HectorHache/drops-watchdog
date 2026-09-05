@@ -3078,42 +3078,6 @@
    "asset": "assets/57d28902-3e1f-4430-8414-2a6b714e56ba.png"
   },
   {
-   "id": "a1de6b63-2662-499d-a422-834b14fb0ddc",
-   "game": "MLB The Show 26",
-   "title": "Sept26 PS+ 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T19:30:00+00:00",
-   "endAt": "2026-09-05T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-04T20:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc746765-2f39-4838-9c84-e52d92fba074.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a1de6b63-2662-499d-a422-834b14fb0ddc",
-   "rewards": [
-    {
-     "name": "Twitch Pack 1",
-     "minutes": 60
-    },
-    {
-     "name": "Twitch Pack 2",
-     "minutes": 120
-    },
-    {
-     "name": "Twitch Pack 3",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Pack 4",
-     "minutes": 240
-    },
-    {
-     "name": "Twitch Pack 5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a1de6b63-2662-499d-a422-834b14fb0ddc.jpg"
-  },
-  {
    "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
    "game": "Path of Exile 2",
    "title": "0.5.5 Launch Drops",
@@ -3208,9 +3172,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/897385d3-6900-427f-8b70-d90ab68e928e.png"
+  },
+  {
+   "id": "eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
+   "game": "MLB The Show 26",
+   "title": "Sept26 PS+ 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T07:00:00+00:00",
+   "endAt": "2026-09-06T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-05T07:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea83913e-b7a7-4bfc-835b-fb0c24f5c4c9.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
+   "rewards": [
+    {
+     "name": "Twith Pack 1",
+     "minutes": 60
+    },
+    {
+     "name": "Twitch Pack 2",
+     "minutes": 120
+    },
+    {
+     "name": "Twitch Pack 3",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Pack 4",
+     "minutes": 240
+    },
+    {
+     "name": "Twitch Pack 5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/eed2190b-a9c8-4457-9fa7-2b6821ffb4a2.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "a1de6b63-2662-499d-a422-834b14fb0ddc",
+   "game": "MLB The Show 26",
+   "title": "Sept26 PS+ 1",
+   "startAt": "2026-09-04T19:30:00+00:00",
+   "endAt": "2026-09-05T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fb0a448f-0ccb-4001-9697-c0175f1a0677",
    "game": "Rainbow Six Siege",
@@ -4044,43 +4052,43 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.55
+   "score": 5.54
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.13
+   "score": 35.12
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4092,13 +4100,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 12.01
   }
  },
  "favoriteWeights": {
