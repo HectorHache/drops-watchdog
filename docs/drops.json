@@ -3368,6 +3368,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/55178946-43e3-464f-bf3f-996fcafcde19.jpg"
+  },
+  {
+   "id": "3e838897-2c97-4c32-ae05-851797c48842",
+   "game": "Overwatch",
+   "title": "CAH Championship Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T17:30:00+00:00",
+   "endAt": "2026-09-07T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T17:30:24+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a134aa49-c82d-4155-a4c3-2fa45ec9ae46.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e838897-2c97-4c32-ae05-851797c48842",
+   "rewards": [
+    {
+     "name": "Pachimonarch Spray",
+     "minutes": 60
+    },
+    {
+     "name": "Battle Pass Tier Skip",
+     "minutes": 120
+    },
+    {
+     "name": "Purple Reign Name Card",
+     "minutes": 180
+    },
+    {
+     "name": "Sugar Hop Spray",
+     "minutes": 240
+    },
+    {
+     "name": "Boba Buddy Icon",
+     "minutes": 300
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3e838897-2c97-4c32-ae05-851797c48842.png"
   }
  ],
  "archive": [
@@ -4277,13 +4317,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.84
+   "score": 24.82
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 35.02
+   "score": 35.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4295,49 +4335,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.78
+   "score": 34.76
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.84
+   "score": 24.82
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.84
+   "score": 24.82
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.84
+   "score": 24.82
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.75
+   "score": 2.74
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.93
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.84
+   "score": 24.82
   }
  },
  "favoriteWeights": {
