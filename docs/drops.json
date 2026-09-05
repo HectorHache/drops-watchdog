@@ -1150,50 +1150,6 @@
    "asset": "assets/678cc286-9652-4890-9007-af05240cee99.png"
   },
   {
-   "id": "9e51c96d-5adc-4dde-be70-f12777c80aeb",
-   "game": "SMITE 2",
-   "title": "August Week 5 - Ishtar!",
-   "status": "ACTIVE",
-   "startAt": "2026-08-29T11:00:00+00:00",
-   "endAt": "2026-09-05T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f25c01e9-4358-4068-b8b0-f2e9f3ab4d6e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9e51c96d-5adc-4dde-be70-f12777c80aeb",
-   "rewards": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Rose Warrior Ishtar",
-     "minutes": 600
-    },
-    {
-     "name": "Market Coins Bundle 6",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coins Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9e51c96d-5adc-4dde-be70-f12777c80aeb.png"
-  },
-  {
    "id": "99335e2c-370b-4ca8-ba84-891e01002112",
    "game": "War Robots: Frontiers",
    "title": "Tooth and Claw",
@@ -2200,26 +2156,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a7e8141a-1638-4aaf-b38d-da8b2a8025f0.png"
-  },
-  {
-   "id": "9d973425-3765-4b74-a204-9e7928a6250a",
-   "game": "EVE Online",
-   "title": "Union Day 2026 Drop 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T11:00:00+00:00",
-   "endAt": "2026-09-05T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-03T11:01:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2fad84f-163a-455f-b361-fd04e906e937.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9d973425-3765-4b74-a204-9e7928a6250a",
-   "rewards": [
-    {
-     "name": "Concrete Gloss - Limited",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9d973425-3765-4b74-a204-9e7928a6250a.jpg"
   },
   {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
@@ -3268,9 +3204,133 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f317cb2d-b892-4aab-b554-23aa997d329d.jpg"
+  },
+  {
+   "id": "911fdb26-0902-4f8e-bf2d-4089388cd9f7",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T10:45:00+00:00",
+   "endAt": "2026-09-05T20:54:59.999+00:00",
+   "firstSeenAt": "2026-09-05T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7d4da10-c6aa-4336-bc1b-2192458aff87.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=911fdb26-0902-4f8e-bf2d-4089388cd9f7",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_8",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_9",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_10",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_11",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_12",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_13",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_14",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/911fdb26-0902-4f8e-bf2d-4089388cd9f7.png"
+  },
+  {
+   "id": "e0f32d32-421f-4d48-8f48-b059dcbc8573",
+   "game": "EVE Online",
+   "title": "ATXXII Preliminaries W2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T11:00:00+00:00",
+   "endAt": "2026-09-07T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/48501dbc-0995-4e9f-999e-4722e51935be.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0f32d32-421f-4d48-8f48-b059dcbc8573",
+   "rewards": [
+    {
+     "name": "Lethal Navy Metallic",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e0f32d32-421f-4d48-8f48-b059dcbc8573.png"
+  },
+  {
+   "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
+   "game": "SMITE 2",
+   "title": "Sept Week 1 - Ishtar!",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T11:00:00+00:00",
+   "endAt": "2026-09-12T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-05T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e63c481-4220-4378-af2e-20d4daa6b7c1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3dd44cfb-a324-4566-b677-6deb9f3b22a3",
+   "rewards": [
+    {
+     "name": "Market Coin Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coin Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coin Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coin Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Rose Warrior Ishtar",
+     "minutes": 600
+    },
+    {
+     "name": "Market Coin Bundle 6",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coin Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3dd44cfb-a324-4566-b677-6deb9f3b22a3.png"
   }
  ],
  "archive": [
+  {
+   "id": "9e51c96d-5adc-4dde-be70-f12777c80aeb",
+   "game": "SMITE 2",
+   "title": "August Week 5 - Ishtar!",
+   "startAt": "2026-08-29T11:00:00+00:00",
+   "endAt": "2026-09-05T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9d973425-3765-4b74-a204-9e7928a6250a",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 2",
+   "startAt": "2026-09-03T11:00:00+00:00",
+   "endAt": "2026-09-05T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
    "game": "Albion Online",
@@ -4140,13 +4200,13 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.53
+   "score": 5.52
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.0
+   "score": 34.98
   },
   "Once Human": {
    "favorites": 1,
