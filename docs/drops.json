@@ -3304,6 +3304,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d04eb915-44b4-4cdf-af2e-1c6b131478fa.png"
+  },
+  {
+   "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
+   "game": "Sid Meier's Civilization VII",
+   "title": "Civ VII Pax Livestream",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T16:30:00+00:00",
+   "endAt": "2026-10-03T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T16:30:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/caa65159-c9f7-4d00-b8f2-a9ee35fed36a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf82818f-dba3-48fc-88c3-7472f577547e",
+   "rewards": [
+    {
+     "name": "Cavalry Banner",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bf82818f-dba3-48fc-88c3-7472f577547e.png"
+  },
+  {
+   "id": "a82abb82-628f-4df5-a2bb-5df8cc373983",
+   "game": "Sid Meier's Civilization VII",
+   "title": "Civ VII PAX 26 Livestream",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T16:30:00+00:00",
+   "endAt": "2026-10-03T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T16:30:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41d417d4-d1c0-4eb0-92ff-ee09c14d3d85.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a82abb82-628f-4df5-a2bb-5df8cc373983",
+   "rewards": [
+    {
+     "name": "Exploration Age Banner",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   }
  ],
  "archive": [
@@ -4213,43 +4253,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.86
+   "score": 24.85
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 35.05
+   "score": 35.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.5
+   "score": 5.49
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.81
+   "score": 34.8
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.86
+   "score": 24.85
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.86
+   "score": 24.85
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.86
+   "score": 24.85
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4261,19 +4301,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.86
+   "score": 24.85
   }
  },
  "favoriteWeights": {
