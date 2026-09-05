@@ -1962,34 +1962,6 @@
    "asset": "assets/e0ed32bc-7ecb-451b-8b1a-7953847dcb72.png"
   },
   {
-   "id": "fb0a448f-0ccb-4001-9697-c0175f1a0677",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T05:00:00+00:00",
-   "endAt": "2026-09-05T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-02T07:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db6e0131-2176-4444-bfcd-59d87c3ee5cb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb0a448f-0ccb-4001-9697-c0175f1a0677",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fb0a448f-0ccb-4001-9697-c0175f1a0677.png"
-  },
-  {
    "id": "b9375269-631d-4e6d-87c7-036c9ec7f89d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -2426,26 +2398,6 @@
    "asset": "assets/3b8f64e0-12fd-4c56-bf24-64035c1a9afd.png"
   },
   {
-   "id": "e8506d11-e613-460a-b26f-20e2433e8ac6",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T00:00:00+00:00",
-   "endAt": "2026-09-04T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T01:30:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98454bc3-8868-4aec-acdc-e44140baa45a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e8506d11-e613-460a-b26f-20e2433e8ac6",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e8506d11-e613-460a-b26f-20e2433e8ac6.png"
-  },
-  {
    "id": "ac5e786e-e9bf-49e9-a550-0b1f075a1818",
    "game": "Onimusha: Way of the Sword",
    "title": "Onimusha Armament",
@@ -2496,30 +2448,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
-  },
-  {
-   "id": "ac5c5df0-1fa6-444e-b267-feb88c319c48",
-   "game": "Apex Legends",
-   "title": "ALGS Split 2 PL MD 7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T08:00:00+00:00",
-   "endAt": "2026-09-05T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T08:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea0dd80b-d4b0-4085-9e67-6cfeba15747a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac5c5df0-1fa6-444e-b267-feb88c319c48",
-   "rewards": [
-    {
-     "name": "Sushi Nessie Gun Charm",
-     "minutes": 60
-    },
-    {
-     "name": "APEX Pack",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/ac5c5df0-1fa6-444e-b267-feb88c319c48.png"
   },
   {
    "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
@@ -2820,26 +2748,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5745990b-ede0-4b6f-a3a1-789d1b913d5a.png"
-  },
-  {
-   "id": "a6c00c77-7d10-4654-a8a5-18a83654507d",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T15:00:00+00:00",
-   "endAt": "2026-09-05T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c230dbba-2a41-4e3a-863f-beee0cacd58a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a6c00c77-7d10-4654-a8a5-18a83654507d",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a6c00c77-7d10-4654-a8a5-18a83654507d.jpg"
   },
   {
    "id": "3894588c-1643-4642-ba80-e9c3d4132489",
@@ -3224,9 +3132,117 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
+  },
+  {
+   "id": "df9ff895-ee33-4f97-a0ee-9b39ba3fbb33",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T00:00:00+00:00",
+   "endAt": "2026-09-05T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T00:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/468db5bc-7fea-4da1-9bf2-5de209bb9dda.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=df9ff895-ee33-4f97-a0ee-9b39ba3fbb33",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/df9ff895-ee33-4f97-a0ee-9b39ba3fbb33.png"
+  },
+  {
+   "id": "d5fec9b5-1441-46e0-bdb3-c66e4be35e8a",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 8",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T04:00:00+00:00",
+   "endAt": "2026-09-06T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-05T04:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/725e6882-37a6-451f-b033-80d911e60859.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d5fec9b5-1441-46e0-bdb3-c66e4be35e8a",
+   "rewards": [
+    {
+     "name": "Sushi Nessie Gun Charm",
+     "minutes": 60
+    },
+    {
+     "name": "APEX Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d5fec9b5-1441-46e0-bdb3-c66e4be35e8a.png"
+  },
+  {
+   "id": "897385d3-6900-427f-8b70-d90ab68e928e",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T05:00:00+00:00",
+   "endAt": "2026-09-07T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-05T05:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/203b9637-9425-4af7-a8ab-bb491d504e2e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=897385d3-6900-427f-8b70-d90ab68e928e",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/897385d3-6900-427f-8b70-d90ab68e928e.png"
   }
  ],
  "archive": [
+  {
+   "id": "fb0a448f-0ccb-4001-9697-c0175f1a0677",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026",
+   "startAt": "2026-09-02T05:00:00+00:00",
+   "endAt": "2026-09-05T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ac5c5df0-1fa6-444e-b267-feb88c319c48",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 7",
+   "startAt": "2026-09-04T08:00:00+00:00",
+   "endAt": "2026-09-05T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a6c00c77-7d10-4654-a8a5-18a83654507d",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #1",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-05T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e8506d11-e613-460a-b26f-20e2433e8ac6",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-04T00:00:00+00:00",
+   "endAt": "2026-09-04T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a6d28f1e-8dc5-4fe8-b9c9-01697e1fd5bf",
    "game": "Path of Exile",
@@ -4028,61 +4044,61 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.31
+   "score": 9.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.59
+   "score": 5.56
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.4
+   "score": 35.18
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.8
+   "score": 2.78
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.04
   }
  },
  "favoriteWeights": {
