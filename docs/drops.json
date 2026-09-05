@@ -2450,46 +2450,6 @@
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
   {
-   "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
-   "game": "Albion Online",
-   "title": "Dragonfire 1 - #5/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T10:00:00+00:00",
-   "endAt": "2026-09-05T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-04T10:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/630348e0-5966-4d77-aac7-3cced23e0970.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7c0f9738-ca49-4f4d-96e7-a24ae48d80cc.png"
-  },
-  {
-   "id": "fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 1 - #5/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T10:00:00+00:00",
-   "endAt": "2026-09-05T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-04T10:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6bb92798-42c5-4538-803b-285dfee29c21.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2.png"
-  },
-  {
    "id": "83b45ee6-2817-4512-9d2b-d09afa900d00",
    "game": "Delta Force",
    "title": "Season Meltdown Weekends",
@@ -3239,6 +3199,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "7c0f9738-ca49-4f4d-96e7-a24ae48d80cc",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #5/7",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-05T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fec3c875-fef9-4bc8-88aa-2ba0bb7c33c2",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #5/7",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-05T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a1de6b63-2662-499d-a422-834b14fb0ddc",
    "game": "MLB The Show 26",
@@ -4080,7 +4056,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   },
   "Delta Force": {
    "favorites": 1,
@@ -4098,25 +4074,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 35.05
+   "score": 35.03
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4128,13 +4104,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.99
+   "score": 11.98
   }
  },
  "favoriteWeights": {
