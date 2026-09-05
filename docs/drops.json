@@ -3082,50 +3082,6 @@
    "asset": "assets/f317cb2d-b892-4aab-b554-23aa997d329d.jpg"
   },
   {
-   "id": "911fdb26-0902-4f8e-bf2d-4089388cd9f7",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T10:45:00+00:00",
-   "endAt": "2026-09-05T20:54:59.999+00:00",
-   "firstSeenAt": "2026-09-05T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7d4da10-c6aa-4336-bc1b-2192458aff87.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=911fdb26-0902-4f8e-bf2d-4089388cd9f7",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_8",
-     "minutes": 60
-    },
-    {
-     "name": "reward_stream_crate_9",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_10",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_11",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_12",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_13",
-     "minutes": 360
-    },
-    {
-     "name": "reward_stream_crate_14",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/911fdb26-0902-4f8e-bf2d-4089388cd9f7.png"
-  },
-  {
    "id": "e0f32d32-421f-4d48-8f48-b059dcbc8573",
    "game": "EVE Online",
    "title": "ATXXII Preliminaries W2",
@@ -3415,6 +3371,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "911fdb26-0902-4f8e-bf2d-4089388cd9f7",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "startAt": "2026-09-05T10:45:00+00:00",
+   "endAt": "2026-09-05T20:54:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "55178946-43e3-464f-bf3f-996fcafcde19",
    "game": "Tanki Online",
@@ -4345,13 +4309,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.75
+   "score": 24.74
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.9
+   "score": 34.88
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4363,25 +4327,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.66
+   "score": 34.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.75
+   "score": 24.74
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.75
+   "score": 24.74
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.75
+   "score": 24.74
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4393,7 +4357,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.86
+   "score": 11.85
   },
   "Warframe": {
    "favorites": 1,
@@ -4405,7 +4369,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.75
+   "score": 24.74
   }
  },
  "favoriteWeights": {
