@@ -3312,6 +3312,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3dd44cfb-a324-4566-b677-6deb9f3b22a3.png"
+  },
+  {
+   "id": "fb1b38fa-ce3b-45be-a20e-14657e05c5bf",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T11:02:00+00:00",
+   "endAt": "2026-09-09T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-05T11:30:39+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60023177-9934-4cd8-a22f-2c4193545cb4.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb1b38fa-ce3b-45be-a20e-14657e05c5bf",
+   "rewards": [
+    {
+     "name": "Shuttle Cold Wind SKIN",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fb1b38fa-ce3b-45be-a20e-14657e05c5bf.jpg"
+  },
+  {
+   "id": "46eb6d79-11da-4104-a71a-b97e04264472",
+   "game": "Warframe",
+   "title": "Community Drops #213",
+   "status": "ACTIVE",
+   "startAt": "2026-09-05T11:30:00+00:00",
+   "endAt": "2026-09-05T13:29:59.999+00:00",
+   "firstSeenAt": "2026-09-05T11:30:39+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/daa54f38-ae94-4609-8d46-f04d6e5739fa.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46eb6d79-11da-4104-a71a-b97e04264472",
+   "rewards": [
+    {
+     "name": "Domestik Carrion Drone",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/46eb6d79-11da-4104-a71a-b97e04264472.jpg"
   }
  ],
  "archive": [
@@ -4188,13 +4228,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   },
   "Delta Force": {
    "favorites": 1,
    "likes": 0,
    "reminds": 0,
-   "score": 9.2
+   "score": 9.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4206,25 +4246,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.98
+   "score": 34.96
   },
   "Once Human": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   },
   "Palia": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   },
   "Predecessor": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4236,13 +4276,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   },
   "Where Winds Meet": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.97
+   "score": 11.96
   }
  },
  "favoriteWeights": {
