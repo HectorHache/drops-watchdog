@@ -33,13 +33,24 @@ class TestDb(unittest.TestCase):
     def test_upsert_and_read(self):
         r = dbm.upsert_campaign(self.conn, self._camp())
         self.assertEqual(r, "inserted")
-        r = dbm.upsert_campaign(self.conn, self._camp())
-        self.assertEqual(r, "updated")
         camps = dbm.get_campaigns(self.conn)
         self.assertEqual(len(camps), 1)
         row = camps["c1"]
         self.assertEqual(row["game_name"], "Game One")
+        # Fresh INSERT stamps both columns from one now_iso() call -> identical
+        # (deterministic; no second-boundary race possible on this branch).
         self.assertEqual(row["first_seen_at"], row["last_seen_at"])
+        first_seen = row["first_seen_at"]
+
+        r = dbm.upsert_campaign(self.conn, self._camp())
+        self.assertEqual(r, "updated")
+        row = dbm.get_campaigns(self.conn)["c1"]
+        # UPDATE refreshes last_seen_at only; first_seen_at is immutable. On a
+        # slow runner the two calls may straddle a UTC-second boundary, so only
+        # order/immutability are guaranteed here -- never exact equality.
+        self.assertEqual(row["first_seen_at"], first_seen)
+        self.assertGreaterEqual(row["last_seen_at"], row["first_seen_at"])
+
         rewards = self.conn.execute("SELECT name FROM rewards WHERE campaign_id='c1' ORDER BY sort").fetchall()
         self.assertEqual([x["name"] for x in rewards], ["Skin A", "Skin B"])
 
