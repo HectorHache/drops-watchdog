@@ -2138,50 +2138,6 @@
    "asset": "assets/1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f.png"
   },
   {
-   "id": "c1d5db3b-cb48-4f64-95bd-43958b287895",
-   "game": "Crossout",
-   "title": "'New Horizon' Drops I",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T16:00:00+00:00",
-   "endAt": "2026-09-06T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T16:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f82058a-f752-4c0f-a84c-6dc7c3484951.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1d5db3b-cb48-4f64-95bd-43958b287895",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 360
-    },
-    {
-     "name": "7",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c1d5db3b-cb48-4f64-95bd-43958b287895.jpg"
-  },
-  {
    "id": "e292f2c5-996a-4dc1-ac1f-4c24251d393c",
    "game": "ZEVENT",
    "title": "ZEVENT 2026",
@@ -3348,9 +3304,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b1b27f69-bf27-47d5-865d-ee77cdf1044b.png"
+  },
+  {
+   "id": "2433257b-00c1-45c0-af20-39e42b77b3e3",
+   "game": "Halo Infinite",
+   "title": "LVT Halo Pro League-SEP6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T16:00:00+00:00",
+   "endAt": "2026-09-07T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T16:00:11+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2bd41c99-ff08-4adb-9952-1b72ca4144f0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2433257b-00c1-45c0-af20-39e42b77b3e3",
+   "rewards": [
+    {
+     "name": "Anderson Nights Visor",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/2433257b-00c1-45c0-af20-39e42b77b3e3.png"
+  },
+  {
+   "id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf",
+   "game": "Crossout",
+   "title": "'New Horizon' Drops II",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T16:00:00+00:00",
+   "endAt": "2026-09-10T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T16:00:11+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ebac1c56-9791-4838-b5c8-7e8f5bf83d27.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dadf9c86-4a1c-4de0-a079-49c1e2005edf",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 360
+    },
+    {
+     "name": "7",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/dadf9c86-4a1c-4de0-a079-49c1e2005edf.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "c1d5db3b-cb48-4f64-95bd-43958b287895",
+   "game": "Crossout",
+   "title": "'New Horizon' Drops I",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-06T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "085ada5a-5869-4b2c-9823-9cc8d62362cf",
    "game": "Eternal Return",
@@ -4393,13 +4421,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.27
+   "score": 34.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4411,25 +4439,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.03
+   "score": 34.02
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4447,13 +4475,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.66
+   "score": 12.65
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   }
  },
  "favoriteWeights": {
