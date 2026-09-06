@@ -3170,34 +3170,6 @@
    "asset": "assets/b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17.jpg"
   },
   {
-   "id": "085ada5a-5869-4b2c-9823-9cc8d62362cf",
-   "game": "Eternal Return",
-   "title": "S12 ERM DAY3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T07:30:00+00:00",
-   "endAt": "2026-09-06T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T07:30:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba424927-48fc-463a-bcd0-3357cc41a7d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=085ada5a-5869-4b2c-9823-9cc8d62362cf",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/085ada5a-5869-4b2c-9823-9cc8d62362cf.png"
-  },
-  {
    "id": "df6b176c-12d2-447f-b921-70b91485b45d",
    "game": "Albion Online",
    "title": "AOCP Flamescale 1 - #7/7",
@@ -3280,26 +3252,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/34299797-ced5-473c-8add-c14c3463bf8b.png"
-  },
-  {
-   "id": "414a204a-b43c-4751-9228-bf8a4a5a6dd3",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "9.6 Naraka weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T11:00:00+00:00",
-   "endAt": "2026-09-06T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T11:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a7dc3a7-45bc-42cc-a318-e7ea08e4e9fb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=414a204a-b43c-4751-9228-bf8a4a5a6dd3",
-   "rewards": [
-    {
-     "name": "Naraka Weekend Gift Official Event Gift",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/414a204a-b43c-4751-9228-bf8a4a5a6dd3.png"
   },
   {
    "id": "82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8",
@@ -3399,6 +3351,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "085ada5a-5869-4b2c-9823-9cc8d62362cf",
+   "game": "Eternal Return",
+   "title": "S12 ERM DAY3",
+   "startAt": "2026-09-06T07:30:00+00:00",
+   "endAt": "2026-09-06T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "414a204a-b43c-4751-9228-bf8a4a5a6dd3",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "9.6 Naraka weekend",
+   "startAt": "2026-09-06T11:00:00+00:00",
+   "endAt": "2026-09-06T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d04eb915-44b4-4cdf-af2e-1c6b131478fa",
    "game": "Out of the Park Baseball 27",
@@ -4425,13 +4393,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.33
+   "score": 24.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.3
+   "score": 34.28
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4443,25 +4411,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.07
+   "score": 34.05
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.33
+   "score": 24.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.33
+   "score": 24.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.33
+   "score": 24.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4485,7 +4453,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.33
+   "score": 24.32
   }
  },
  "favoriteWeights": {
