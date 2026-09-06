@@ -770,38 +770,6 @@
    "asset": "assets/9ff2d241-3b92-4f86-b625-1362dbbdbafc.png"
   },
   {
-   "id": "751c7c96-b668-4130-a638-9acb33868edb",
-   "game": "Plants on Fire",
-   "title": "Plants on Fire",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T02:00:00+00:00",
-   "endAt": "2026-09-06T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/179e97fd-41cf-4cbe-912e-ac1bc72f9ef1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=751c7c96-b668-4130-a638-9acb33868edb",
-   "rewards": [
-    {
-     "name": "10 Recruit Tokens",
-     "minutes": 120
-    },
-    {
-     "name": "1,000 Gold",
-     "minutes": 60
-    },
-    {
-     "name": "Exclusive Profile",
-     "minutes": 240
-    },
-    {
-     "name": "Legendary Harvest Pot",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/751c7c96-b668-4130-a638-9acb33868edb.png"
-  },
-  {
    "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
    "game": "Lords Mobile",
    "title": "Twitch Drops",
@@ -1108,26 +1076,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a6333c5e-a293-4730-bd7c-a87af365511f.png"
-  },
-  {
-   "id": "d985bdab-7bd3-41f6-8d24-8d002ba29ff6",
-   "game": "Kirka.io",
-   "title": "Cipher",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T19:30:00+00:00",
-   "endAt": "2026-09-05T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f5b50b91-454c-41e0-8077-8b381cc68aea.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d985bdab-7bd3-41f6-8d24-8d002ba29ff6",
-   "rewards": [
-    {
-     "name": "Cipher",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d985bdab-7bd3-41f6-8d24-8d002ba29ff6.png"
   },
   {
    "id": "678cc286-9652-4890-9007-af05240cee99",
@@ -2898,54 +2846,6 @@
    "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
   },
   {
-   "id": "df9ff895-ee33-4f97-a0ee-9b39ba3fbb33",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T00:00:00+00:00",
-   "endAt": "2026-09-05T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T00:01:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/468db5bc-7fea-4da1-9bf2-5de209bb9dda.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=df9ff895-ee33-4f97-a0ee-9b39ba3fbb33",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/df9ff895-ee33-4f97-a0ee-9b39ba3fbb33.png"
-  },
-  {
-   "id": "d5fec9b5-1441-46e0-bdb3-c66e4be35e8a",
-   "game": "Apex Legends",
-   "title": "ALGS Split 2 PL MD 8",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T04:00:00+00:00",
-   "endAt": "2026-09-06T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T04:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/725e6882-37a6-451f-b033-80d911e60859.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d5fec9b5-1441-46e0-bdb3-c66e4be35e8a",
-   "rewards": [
-    {
-     "name": "Sushi Nessie Gun Charm",
-     "minutes": 60
-    },
-    {
-     "name": "APEX Pack",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/d5fec9b5-1441-46e0-bdb3-c66e4be35e8a.png"
-  },
-  {
    "id": "897385d3-6900-427f-8b70-d90ab68e928e",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 1",
@@ -3342,35 +3242,95 @@
    "asset": "assets/e10781c5-3d14-41fb-9422-7a391f1b2e18.png"
   },
   {
-   "id": "0db986cf-6724-43c4-bccd-2235f7ec83ec",
-   "game": "Eternal Return",
-   "title": "ERCS S12 P1 LCQ",
+   "id": "f4f50238-ed3d-4a4c-8532-8f5014c8338c",
+   "game": "The Quinfall",
+   "title": "September Drops",
    "status": "ACTIVE",
-   "startAt": "2026-09-05T19:00:00+00:00",
-   "endAt": "2026-09-06T02:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T19:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bedb520f-c777-4d10-8848-839d88a4b7ae.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0db986cf-6724-43c4-bccd-2235f7ec83ec",
+   "startAt": "2026-09-06T00:00:00+00:00",
+   "endAt": "2026-09-06T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T00:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce51deae-23f2-4d33-844e-0cc7569b4e14.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f4f50238-ed3d-4a4c-8532-8f5014c8338c",
    "rewards": [
     {
-     "name": "DROPS TOKEN",
-     "minutes": 60
+     "name": "Twitch Reward Chest",
+     "minutes": 150
     },
     {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
+     "name": "Twitch Reward Chest",
+     "minutes": 300
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/0db986cf-6724-43c4-bccd-2235f7ec83ec.png"
+   "asset": "assets/f4f50238-ed3d-4a4c-8532-8f5014c8338c.png"
+  },
+  {
+   "id": "cadd3fbf-f0a5-4929-b240-1c212f25866b",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 9",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T04:00:00+00:00",
+   "endAt": "2026-09-07T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T04:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b551a79a-0aa7-4541-8cb5-24de865cf0b1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cadd3fbf-f0a5-4929-b240-1c212f25866b",
+   "rewards": [
+    {
+     "name": "Sushi Nessie Gun Charm",
+     "minutes": 60
+    },
+    {
+     "name": "APEX Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/cadd3fbf-f0a5-4929-b240-1c212f25866b.png"
   }
  ],
  "archive": [
+  {
+   "id": "0db986cf-6724-43c4-bccd-2235f7ec83ec",
+   "game": "Eternal Return",
+   "title": "ERCS S12 P1 LCQ",
+   "startAt": "2026-09-05T19:00:00+00:00",
+   "endAt": "2026-09-06T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "751c7c96-b668-4130-a638-9acb33868edb",
+   "game": "Plants on Fire",
+   "title": "Plants on Fire",
+   "startAt": "2026-08-27T02:00:00+00:00",
+   "endAt": "2026-09-06T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d5fec9b5-1441-46e0-bdb3-c66e4be35e8a",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 8",
+   "startAt": "2026-09-05T04:00:00+00:00",
+   "endAt": "2026-09-06T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "df9ff895-ee33-4f97-a0ee-9b39ba3fbb33",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-05T00:00:00+00:00",
+   "endAt": "2026-09-05T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d985bdab-7bd3-41f6-8d24-8d002ba29ff6",
+   "game": "Kirka.io",
+   "title": "Cipher",
+   "startAt": "2026-08-28T19:30:00+00:00",
+   "endAt": "2026-09-05T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "911fdb26-0902-4f8e-bf2d-4089388cd9f7",
    "game": "Standoff 2",
@@ -4309,67 +4269,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.55
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.83
+   "score": 34.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.46
+   "score": 5.43
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.6
+   "score": 34.38
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.55
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.55
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.55
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.73
+   "score": 2.71
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.84
+   "score": 11.76
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.87
+   "score": 12.79
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.55
   }
  },
  "favoriteWeights": {
