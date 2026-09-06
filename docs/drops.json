@@ -3218,34 +3218,6 @@
    "asset": "assets/dadf9c86-4a1c-4de0-a079-49c1e2005edf.jpg"
   },
   {
-   "id": "465fda64-4761-40c5-b31e-38ec96525f55",
-   "game": "Rocket League",
-   "title": "CRL League Play",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T16:30:00+00:00",
-   "endAt": "2026-09-06T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-06T16:30:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b2c9d81-3786-43a3-bfb8-fe2855ac38d5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=465fda64-4761-40c5-b31e-38ec96525f55",
-   "rewards": [
-    {
-     "name": "RLCS Very Rare Drop",
-     "minutes": 30
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 60
-    },
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/465fda64-4761-40c5-b31e-38ec96525f55.png"
-  },
-  {
    "id": "20015862-06d1-4f1a-b693-b158b0ea217c",
    "game": "Rise Online",
    "title": "ROW Drop 579",
@@ -3315,6 +3287,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "465fda64-4761-40c5-b31e-38ec96525f55",
+   "game": "Rocket League",
+   "title": "CRL League Play",
+   "startAt": "2026-09-06T16:30:00+00:00",
+   "endAt": "2026-09-06T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3894588c-1643-4642-ba80-e9c3d4132489",
    "game": "Caliber",
@@ -4413,43 +4393,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.18
+   "score": 24.16
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.09
+   "score": 34.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.35
+   "score": 5.34
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.85
+   "score": 33.84
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.18
+   "score": 24.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.18
+   "score": 24.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.18
+   "score": 24.16
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4473,7 +4453,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.18
+   "score": 24.16
   }
  },
  "favoriteWeights": {
