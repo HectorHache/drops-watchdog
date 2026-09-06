@@ -2874,46 +2874,6 @@
    "asset": "assets/897385d3-6900-427f-8b70-d90ab68e928e.png"
   },
   {
-   "id": "a7323877-30f2-47fc-88ae-6514542e7255",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 1 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T10:00:00+00:00",
-   "endAt": "2026-09-06T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-05T10:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a03295c2-8731-4b63-b164-59b869f5a098.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a7323877-30f2-47fc-88ae-6514542e7255",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a7323877-30f2-47fc-88ae-6514542e7255.png"
-  },
-  {
-   "id": "a8ed7a31-5be0-4224-96d7-af6521126dda",
-   "game": "Albion Online",
-   "title": "Dragonfire 1 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T10:00:00+00:00",
-   "endAt": "2026-09-06T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-05T10:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6817ec83-d5c9-45d2-80ee-312521f5b0d0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8ed7a31-5be0-4224-96d7-af6521126dda",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a8ed7a31-5be0-4224-96d7-af6521126dda.png"
-  },
-  {
    "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
    "game": "War Thunder",
    "title": "Pro League Major III",
@@ -3339,6 +3299,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "a7323877-30f2-47fc-88ae-6514542e7255",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 1 - #6/7",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-06T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a8ed7a31-5be0-4224-96d7-af6521126dda",
+   "game": "Albion Online",
+   "title": "Dragonfire 1 - #6/7",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-06T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
    "game": "MLB The Show 26",
@@ -4325,43 +4301,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.46
+   "score": 24.44
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.48
+   "score": 34.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.41
+   "score": 5.4
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.25
+   "score": 34.23
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.46
+   "score": 24.44
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.46
+   "score": 24.44
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.46
+   "score": 24.44
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4373,19 +4349,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.46
+   "score": 24.44
   }
  },
  "favoriteWeights": {
