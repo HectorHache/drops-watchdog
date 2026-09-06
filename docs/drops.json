@@ -2982,46 +2982,6 @@
    "asset": "assets/3e838897-2c97-4c32-ae05-851797c48842.png"
   },
   {
-   "id": "d8e515f1-649c-47c6-9b09-44bbf05d3e12",
-   "game": "Rise Online",
-   "title": "Mobile Drop 149",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T17:59:00+00:00",
-   "endAt": "2026-09-06T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-05T18:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d60141d7-20e3-40a8-ba2f-ca58a696c4d1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d8e515f1-649c-47c6-9b09-44bbf05d3e12",
-   "rewards": [
-    {
-     "name": "Mobile Drop 149",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d8e515f1-649c-47c6-9b09-44bbf05d3e12.png"
-  },
-  {
-   "id": "e10781c5-3d14-41fb-9422-7a391f1b2e18",
-   "game": "Rise Online",
-   "title": "ROW Drop 578",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T17:59:00+00:00",
-   "endAt": "2026-09-06T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-05T18:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a20a2254-d9fa-42ed-9ab7-f76715dab737.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e10781c5-3d14-41fb-9422-7a391f1b2e18",
-   "rewards": [
-    {
-     "name": "ROW Drop 578",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e10781c5-3d14-41fb-9422-7a391f1b2e18.png"
-  },
-  {
    "id": "f4f50238-ed3d-4a4c-8532-8f5014c8338c",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3164,50 +3124,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c296c380-61d2-41e6-a461-fe2cfbec0233.png"
-  },
-  {
-   "id": "34299797-ced5-473c-8add-c14c3463bf8b",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T10:45:00+00:00",
-   "endAt": "2026-09-06T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T11:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/97c72008-5fb3-4d9e-9aa4-02a1ef231c77.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=34299797-ced5-473c-8add-c14c3463bf8b",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_16",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_17",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_18",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_19",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_20",
-     "minutes": 360
-    },
-    {
-     "name": "reward_stream_crate_21",
-     "minutes": 420
-    },
-    {
-     "name": "reward_stream_crate_15",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/34299797-ced5-473c-8add-c14c3463bf8b.png"
   },
   {
    "id": "82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8",
@@ -3396,9 +3312,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/465fda64-4761-40c5-b31e-38ec96525f55.png"
+  },
+  {
+   "id": "20015862-06d1-4f1a-b693-b158b0ea217c",
+   "game": "Rise Online",
+   "title": "ROW Drop 579",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T17:59:00+00:00",
+   "endAt": "2026-09-07T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-06T18:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98707c2b-19e0-4ba9-9546-84ad3170c2e6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20015862-06d1-4f1a-b693-b158b0ea217c",
+   "rewards": [
+    {
+     "name": "ROW Drop 579",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/20015862-06d1-4f1a-b693-b158b0ea217c.jpg"
+  },
+  {
+   "id": "2b091931-e1ce-4239-a7ae-37e96c9ec03b",
+   "game": "Rise Online",
+   "title": "Mobile Drop 150",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T17:59:00+00:00",
+   "endAt": "2026-09-07T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-06T18:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c33c0a66-c66c-4157-977f-3ce968cf7788.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b091931-e1ce-4239-a7ae-37e96c9ec03b",
+   "rewards": [
+    {
+     "name": "Mobile Drop 150",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2b091931-e1ce-4239-a7ae-37e96c9ec03b.png"
   }
  ],
  "archive": [
+  {
+   "id": "34299797-ced5-473c-8add-c14c3463bf8b",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "startAt": "2026-09-06T10:45:00+00:00",
+   "endAt": "2026-09-06T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d8e515f1-649c-47c6-9b09-44bbf05d3e12",
+   "game": "Rise Online",
+   "title": "Mobile Drop 149",
+   "startAt": "2026-09-05T17:59:00+00:00",
+   "endAt": "2026-09-06T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e10781c5-3d14-41fb-9422-7a391f1b2e18",
+   "game": "Rise Online",
+   "title": "ROW Drop 578",
+   "startAt": "2026-09-05T17:59:00+00:00",
+   "endAt": "2026-09-06T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c1d5db3b-cb48-4f64-95bd-43958b287895",
    "game": "Crossout",
@@ -4449,13 +4429,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.26
+   "score": 24.25
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.2
+   "score": 34.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4467,25 +4447,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.97
+   "score": 33.95
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.26
+   "score": 24.25
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.26
+   "score": 24.25
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.26
+   "score": 24.25
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4503,13 +4483,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.63
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.26
+   "score": 24.25
   }
  },
  "favoriteWeights": {
