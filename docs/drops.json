@@ -3266,6 +3266,26 @@
    "asset": "assets/f4f50238-ed3d-4a4c-8532-8f5014c8338c.png"
   },
   {
+   "id": "9b86cdad-631c-4fc9-bff8-ce1c13e75444",
+   "game": "Kirka.io",
+   "title": "Spore",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T01:31:24+00:00",
+   "endAt": "2026-09-12T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-06T06:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/787e71f9-14c5-4ea7-87f2-0fab979b411b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b86cdad-631c-4fc9-bff8-ce1c13e75444",
+   "rewards": [
+    {
+     "name": "Spore",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9b86cdad-631c-4fc9-bff8-ce1c13e75444.png"
+  },
+  {
    "id": "cadd3fbf-f0a5-4929-b240-1c212f25866b",
    "game": "Apex Legends",
    "title": "ALGS Split 2 PL MD 9",
@@ -4269,43 +4289,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.54
+   "score": 24.53
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.6
+   "score": 34.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.43
+   "score": 5.42
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.36
+   "score": 34.35
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.54
+   "score": 24.53
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.54
+   "score": 24.53
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.54
+   "score": 24.53
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4317,7 +4337,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.76
+   "score": 11.75
   },
   "Warframe": {
    "favorites": 1,
@@ -4329,7 +4349,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.54
+   "score": 24.53
   }
  },
  "favoriteWeights": {
