@@ -3308,6 +3308,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17.jpg"
+  },
+  {
+   "id": "085ada5a-5869-4b2c-9823-9cc8d62362cf",
+   "game": "Eternal Return",
+   "title": "S12 ERM DAY3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T07:30:00+00:00",
+   "endAt": "2026-09-06T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T07:30:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba424927-48fc-463a-bcd0-3357cc41a7d2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=085ada5a-5869-4b2c-9823-9cc8d62362cf",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/085ada5a-5869-4b2c-9823-9cc8d62362cf.png"
   }
  ],
  "archive": [
@@ -4297,13 +4325,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.5
+   "score": 24.49
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.55
+   "score": 34.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4315,25 +4343,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.31
+   "score": 34.3
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.5
+   "score": 24.49
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.5
+   "score": 24.49
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.5
+   "score": 24.49
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4345,7 +4373,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.74
+   "score": 11.73
   },
   "Warframe": {
    "favorites": 1,
@@ -4357,7 +4385,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.5
+   "score": 24.49
   }
  },
  "favoriteWeights": {
