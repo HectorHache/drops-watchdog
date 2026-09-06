@@ -2394,50 +2394,6 @@
    "asset": "assets/f018e359-7334-42c3-b945-bbc519a41481.png"
   },
   {
-   "id": "506f0cf2-a441-46a5-843f-eaa9d9045d1f",
-   "game": "Hunt Club On Stream",
-   "title": "Labor Day Drops 1 of 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T12:35:31+00:00",
-   "endAt": "2026-09-06T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T13:01:03+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/19269cdf-0cc1-4f02-82ff-120ca0578a8b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=506f0cf2-a441-46a5-843f-eaa9d9045d1f",
-   "rewards": [
-    {
-     "name": "Bronze",
-     "minutes": 60
-    },
-    {
-     "name": "Silver",
-     "minutes": 180
-    },
-    {
-     "name": "Gold",
-     "minutes": 360
-    },
-    {
-     "name": "Extras",
-     "minutes": 480
-    },
-    {
-     "name": "Epic",
-     "minutes": 840
-    },
-    {
-     "name": "Randon + Gold",
-     "minutes": 60
-    },
-    {
-     "name": "Labor Day Token",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/506f0cf2-a441-46a5-843f-eaa9d9045d1f.png"
-  },
-  {
    "id": "54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 3/3",
@@ -3336,9 +3292,121 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c296c380-61d2-41e6-a461-fe2cfbec0233.png"
+  },
+  {
+   "id": "34299797-ced5-473c-8add-c14c3463bf8b",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T10:45:00+00:00",
+   "endAt": "2026-09-06T17:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T11:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/97c72008-5fb3-4d9e-9aa4-02a1ef231c77.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=34299797-ced5-473c-8add-c14c3463bf8b",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_16",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_17",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_18",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_19",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_20",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_21",
+     "minutes": 420
+    },
+    {
+     "name": "reward_stream_crate_15",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/34299797-ced5-473c-8add-c14c3463bf8b.png"
+  },
+  {
+   "id": "414a204a-b43c-4751-9228-bf8a4a5a6dd3",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "9.6 Naraka weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T11:00:00+00:00",
+   "endAt": "2026-09-06T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T11:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a7dc3a7-45bc-42cc-a318-e7ea08e4e9fb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=414a204a-b43c-4751-9228-bf8a4a5a6dd3",
+   "rewards": [
+    {
+     "name": "Naraka Weekend Gift Official Event Gift",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/414a204a-b43c-4751-9228-bf8a4a5a6dd3.png"
+  },
+  {
+   "id": "82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8",
+   "game": "Hunt Club On Stream",
+   "title": "Labor Day Drops 2 of 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T11:00:00+00:00",
+   "endAt": "2026-09-08T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-06T11:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c20edeb4-7560-4531-9f1a-1eba5d0c6333.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8",
+   "rewards": [
+    {
+     "name": "Gold",
+     "minutes": 240
+    },
+    {
+     "name": "Random",
+     "minutes": 360
+    },
+    {
+     "name": "Legendary",
+     "minutes": 900
+    },
+    {
+     "name": "Epic",
+     "minutes": 540
+    },
+    {
+     "name": "Labor Day Sub",
+     "minutes": 0
+    },
+    {
+     "name": "Silver",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8.png"
   }
  ],
  "archive": [
+  {
+   "id": "506f0cf2-a441-46a5-843f-eaa9d9045d1f",
+   "game": "Hunt Club On Stream",
+   "title": "Labor Day Drops 1 of 2",
+   "startAt": "2026-09-04T12:35:31+00:00",
+   "endAt": "2026-09-06T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a7323877-30f2-47fc-88ae-6514542e7255",
    "game": "Albion Online",
@@ -4341,13 +4409,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.43
+   "score": 34.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4359,25 +4427,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.2
+   "score": 34.18
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4389,7 +4457,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.7
+   "score": 11.69
   },
   "Warframe": {
    "favorites": 1,
@@ -4401,7 +4469,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   }
  },
  "favoriteWeights": {
