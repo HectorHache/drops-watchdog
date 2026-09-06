@@ -2874,42 +2874,6 @@
    "asset": "assets/897385d3-6900-427f-8b70-d90ab68e928e.png"
   },
   {
-   "id": "eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
-   "game": "MLB The Show 26",
-   "title": "Sept26 PS+ 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T07:00:00+00:00",
-   "endAt": "2026-09-06T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-05T07:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea83913e-b7a7-4bfc-835b-fb0c24f5c4c9.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
-   "rewards": [
-    {
-     "name": "Twith Pack 1",
-     "minutes": 60
-    },
-    {
-     "name": "Twitch Pack 2",
-     "minutes": 120
-    },
-    {
-     "name": "Twitch Pack 3",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Pack 4",
-     "minutes": 240
-    },
-    {
-     "name": "Twitch Pack 5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eed2190b-a9c8-4457-9fa7-2b6821ffb4a2.jpg"
-  },
-  {
    "id": "a7323877-30f2-47fc-88ae-6514542e7255",
    "game": "Albion Online",
    "title": "AOCP Flamescale 1 - #6/7",
@@ -3308,9 +3272,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/cadd3fbf-f0a5-4929-b240-1c212f25866b.png"
+  },
+  {
+   "id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
+   "game": "MLB The Show 26",
+   "title": "Sept26 PS+ 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-06T07:00:00+00:00",
+   "endAt": "2026-09-07T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-06T07:01:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfff3a23-0746-4637-901a-1a8d3e3cc637.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
+   "rewards": [
+    {
+     "name": "Twitch Pack 1",
+     "minutes": 60
+    },
+    {
+     "name": "Twitch Pack 2",
+     "minutes": 120
+    },
+    {
+     "name": "Twitch Pack 3",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Pack 4",
+     "minutes": 240
+    },
+    {
+     "name": "Twitch Pack 5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "eed2190b-a9c8-4457-9fa7-2b6821ffb4a2",
+   "game": "MLB The Show 26",
+   "title": "Sept26 PS+ 2",
+   "startAt": "2026-09-05T07:00:00+00:00",
+   "endAt": "2026-09-06T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0db986cf-6724-43c4-bccd-2235f7ec83ec",
    "game": "Eternal Return",
@@ -4289,13 +4297,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.51
+   "score": 24.5
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.57
+   "score": 34.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4307,25 +4315,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 34.33
+   "score": 34.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.51
+   "score": 24.5
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.51
+   "score": 24.5
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.51
+   "score": 24.5
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4343,13 +4351,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.77
+   "score": 12.76
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.51
+   "score": 24.5
   }
  },
  "favoriteWeights": {
