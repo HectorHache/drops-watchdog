@@ -1802,74 +1802,6 @@
    "asset": "assets/5745990b-ede0-4b6f-a3a1-789d1b913d5a.png"
   },
   {
-   "id": "1b975a1a-ad97-4010-8244-34e4de466947",
-   "game": "World of Tanks",
-   "title": "J\u00e4ger MouzAkrobat",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T15:00:00+00:00",
-   "endAt": "2026-09-07T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13efef9b-33c4-4e81-baa2-5ec4247acf6f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b975a1a-ad97-4010-8244-34e4de466947",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1b975a1a-ad97-4010-8244-34e4de466947.png"
-  },
-  {
-   "id": "ac7c3239-e465-418e-97ce-4e937b2d0b77",
-   "game": "World of Tanks",
-   "title": "J\u00e4ger Mailand",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T15:00:00+00:00",
-   "endAt": "2026-09-07T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/450b21dc-ee77-4869-91da-0108309278c1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac7c3239-e465-418e-97ce-4e937b2d0b77",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ac7c3239-e465-418e-97ce-4e937b2d0b77.png"
-  },
-  {
-   "id": "c1426e42-3877-44a6-a422-8e7e75ca56aa",
-   "game": "World of Tanks",
-   "title": "First Deployment #1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T15:00:00+00:00",
-   "endAt": "2026-09-07T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/05e666f8-d0b9-42d8-8108-b26e21334a4e.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1426e42-3877-44a6-a422-8e7e75ca56aa",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c1426e42-3877-44a6-a422-8e7e75ca56aa.jpg"
-  },
-  {
    "id": "9165080b-f268-43b5-9561-f5516a1b2fdb",
    "game": "Mir Korabley",
    "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 1",
@@ -2652,9 +2584,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/b6581084-0574-452c-9c00-d881d4fea78e.png"
+  },
+  {
+   "id": "e4388bac-505a-4c92-9c80-af3cc9a27c7f",
+   "game": "World of Tanks",
+   "title": "First Deployment #2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T15:00:00+00:00",
+   "endAt": "2026-09-11T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T15:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2316f6b-9219-415f-9ace-8718cc517176.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e4388bac-505a-4c92-9c80-af3cc9a27c7f",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e4388bac-505a-4c92-9c80-af3cc9a27c7f.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "1b975a1a-ad97-4010-8244-34e4de466947",
+   "game": "World of Tanks",
+   "title": "J\u00e4ger MouzAkrobat",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ac7c3239-e465-418e-97ce-4e937b2d0b77",
+   "game": "World of Tanks",
+   "title": "J\u00e4ger Mailand",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c1426e42-3877-44a6-a422-8e7e75ca56aa",
+   "game": "World of Tanks",
+   "title": "First Deployment #1",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-07T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3ed94804-99c7-498e-bba2-b63448b3386d",
    "game": "HITMAN World of Assassination",
@@ -4051,43 +4027,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.77
+   "score": 23.75
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.52
+   "score": 33.49
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.26
+   "score": 5.25
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.29
+   "score": 33.26
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.77
+   "score": 23.75
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.77
+   "score": 23.75
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.77
+   "score": 23.75
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4099,19 +4075,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.39
+   "score": 11.38
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.77
+   "score": 23.75
   }
  },
  "favoriteWeights": {
