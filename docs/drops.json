@@ -2118,46 +2118,6 @@
    "asset": "assets/dadf9c86-4a1c-4de0-a079-49c1e2005edf.jpg"
   },
   {
-   "id": "20015862-06d1-4f1a-b693-b158b0ea217c",
-   "game": "Rise Online",
-   "title": "ROW Drop 579",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T17:59:00+00:00",
-   "endAt": "2026-09-07T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-06T18:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98707c2b-19e0-4ba9-9546-84ad3170c2e6.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20015862-06d1-4f1a-b693-b158b0ea217c",
-   "rewards": [
-    {
-     "name": "ROW Drop 579",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/20015862-06d1-4f1a-b693-b158b0ea217c.jpg"
-  },
-  {
-   "id": "2b091931-e1ce-4239-a7ae-37e96c9ec03b",
-   "game": "Rise Online",
-   "title": "Mobile Drop 150",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T17:59:00+00:00",
-   "endAt": "2026-09-07T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-06T18:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c33c0a66-c66c-4157-977f-3ce968cf7788.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b091931-e1ce-4239-a7ae-37e96c9ec03b",
-   "rewards": [
-    {
-     "name": "Mobile Drop 150",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2b091931-e1ce-4239-a7ae-37e96c9ec03b.png"
-  },
-  {
    "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 1",
@@ -2640,9 +2600,89 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e4388bac-505a-4c92-9c80-af3cc9a27c7f.jpg"
+  },
+  {
+   "id": "6064dd8d-b9fe-4593-a690-b315490f70c1",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R4 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T17:00:00+00:00",
+   "endAt": "2026-09-07T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-07T17:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d6578715-f948-4182-b3c0-f40fa7246f6d.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6064dd8d-b9fe-4593-a690-b315490f70c1",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6064dd8d-b9fe-4593-a690-b315490f70c1.jpg"
+  },
+  {
+   "id": "8e469836-d87b-4759-b24b-c4feba165f16",
+   "game": "Rise Online",
+   "title": "Mobile Drop 151",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T17:59:00+00:00",
+   "endAt": "2026-09-08T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-07T18:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81346b06-565a-4835-8cf7-12ef72bcc1e4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e469836-d87b-4759-b24b-c4feba165f16",
+   "rewards": [
+    {
+     "name": "Mobile Drop 151",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8e469836-d87b-4759-b24b-c4feba165f16.png"
+  },
+  {
+   "id": "81571f82-5997-4e22-9477-2d8057cea495",
+   "game": "Rise Online",
+   "title": "ROW Drop 580",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T17:59:00+00:00",
+   "endAt": "2026-09-08T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-07T18:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4c0c0268-f69b-4834-972f-924d9cb0d1aa.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=81571f82-5997-4e22-9477-2d8057cea495",
+   "rewards": [
+    {
+     "name": "ROW Drop 580",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/81571f82-5997-4e22-9477-2d8057cea495.png"
   }
  ],
  "archive": [
+  {
+   "id": "20015862-06d1-4f1a-b693-b158b0ea217c",
+   "game": "Rise Online",
+   "title": "ROW Drop 579",
+   "startAt": "2026-09-06T17:59:00+00:00",
+   "endAt": "2026-09-07T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2b091931-e1ce-4239-a7ae-37e96c9ec03b",
+   "game": "Rise Online",
+   "title": "Mobile Drop 150",
+   "startAt": "2026-09-06T17:59:00+00:00",
+   "endAt": "2026-09-07T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
    "game": "Voyagers of Nera",
@@ -4071,43 +4111,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.73
+   "score": 23.68
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.45
+   "score": 33.39
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.25
+   "score": 5.24
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.22
+   "score": 33.16
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.73
+   "score": 23.68
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.73
+   "score": 23.68
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.73
+   "score": 23.68
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4119,19 +4159,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.37
+   "score": 11.34
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.36
+   "score": 12.34
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.73
+   "score": 23.68
   }
  },
  "favoriteWeights": {
