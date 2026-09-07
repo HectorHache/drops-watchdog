@@ -3,7 +3,7 @@
 import datetime
 import html
 from zoneinfo import ZoneInfo
-
+import matcher as mt
 
 def parse_dt(ts: str | None):
     if not ts:
@@ -86,10 +86,62 @@ def _hours_left(end, now) -> str:
     return f"{h}h {m:02d}m"
 
 
+def _fmt_mins(m: int) -> str:
+    if m <= 0:
+        return "0m"
+    h, rem = m // 60, m % 60
+    if h and rem:
+        return f"{h}h {rem}m"
+    if h:
+        return f"{h}h"
+    return f"{rem}m"
+
+
+def calc_feasibility(c: dict, now: datetime.datetime) -> dict:
+    """Calculate watch time feasibility for a campaign against remaining time."""
+    rewards = c.get("rewards") or []
+    total_req_mins = sum(r.get("required_minutes", 0) for r in rewards)
+    end = parse_dt(c.get("end_at"))
+    if not end or end <= now:
+        remaining_mins = 0
+    else:
+        remaining_mins = int((end - now).total_seconds() // 60)
+
+    if total_req_mins == 0:
+        return {
+            "feasible": True,
+            "required_minutes": 0,
+            "remaining_minutes": remaining_mins,
+            "buffer_minutes": remaining_mins,
+            "status": "ok",
+            "note": None,
+        }
+
+    feasible = remaining_mins >= total_req_mins
+    buffer_mins = remaining_mins - total_req_mins
+
+    if not feasible:
+        note = f"⚠️ Impossible: needs {_fmt_mins(total_req_mins)}, only {_fmt_mins(remaining_mins)} left"
+        status = "impossible"
+    elif buffer_mins < 90:
+        note = f"⏰ Tight window: needs {_fmt_mins(total_req_mins)} ({_fmt_mins(buffer_mins)} buffer)"
+        status = "tight"
+    else:
+        note = f"✅ Claimable ({_fmt_mins(buffer_mins)} buffer)"
+        status = "ok"
+
+    return {
+        "feasible": feasible,
+        "required_minutes": total_req_mins,
+        "remaining_minutes": remaining_mins,
+        "buffer_minutes": buffer_mins,
+        "status": status,
+        "note": note,
+    }
+
+
 def _esc(s) -> str:
     return html.escape(str(s or ""), quote=False)
-
-
 def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
                    favorites: set | None = None, cap: int = 3800,
                    ledger_has=None) -> str | None:
@@ -122,17 +174,21 @@ def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
         for c in ending24:
             end = parse_dt(c["end_at"])
             left = _hours_left(end, now)
-            fav = "⭐ " if favorites and c["game_name"] in favorites else ""
+            fav = "⭐ " if favorites and mt.is_favorite_match(c["game_name"], favorites) else ""
             lines.append(
                 f"⏳ {fav}<b>{_esc(c['game_name'])}</b> — <u>{_esc(c['title'])}</u> "
                 f"ends {_esc(fmt_dt(end, tz_name))} ({left} left)"
             )
+            feas = calc_feasibility(c, now)
+            if feas["status"] == "impossible":
+                lines.append(f"   {_esc(feas['note'])}")
+            elif feas["status"] == "tight":
+                lines.append(f"   <i>{_esc(feas['note'])}</i>")
             names = _esc(" · ".join(r["name"] for r in c.get("rewards", [])[:4]))
             if names:
                 lines.append(f"   🏆 {names}")
             lines.append(f"   🔗 <a href=\"{_esc(c['details_url'])}\">Open drop</a>")
         lines.append("")
-
     if new:
         lines.append(f"✨ <b>NEW ({len(new)})</b>")
         for c in new:
@@ -184,3 +240,44 @@ def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
             total += add
         msg = "\n".join(kept).rstrip() + f"\n…+ more on <a href=\"https://drops.hache.app\">drops.hache.app</a>"
     return msg
+def compose_digests_multipart(state: dict, now: datetime.datetime, tz_name: str,
+                              favorites: set | None = None, cap: int = 3800,
+                              ledger_has=None) -> list[str]:
+    """Multi-part safe digest composer. When entries exceed cap, splits into
+    clean Part 1/N, Part 2/N chunks with intact tags."""
+    msg = compose_digest(state, now, tz_name, favorites=favorites, cap=999999, ledger_has=ledger_has)
+    if not msg:
+        return []
+    if len(msg) <= cap:
+        return [msg]
+
+    # Split lines across chunks
+    raw_lines = msg.split("\n")
+    chunks = []
+    current_chunk = []
+    current_len = 0
+
+    header = raw_lines[0] if raw_lines else "🎮 <b>TWITCH DROPS WATCHDOG</b>"
+    divider = "━━━━━━━━━━━━━━━━━━━━━━"
+
+    for ln in raw_lines:
+        line_len = len(ln) + 1
+        if current_len + line_len > cap - 120 and current_chunk:
+            chunks.append("\n".join(current_chunk))
+            current_chunk = [f"{header} <i>(cont.)</i>", divider, ln]
+            current_len = len(current_chunk[0]) + len(divider) + line_len + 2
+        else:
+            current_chunk.append(ln)
+            current_len += line_len
+
+    if current_chunk:
+        chunks.append("\n".join(current_chunk))
+
+    # Add (Part X/Y) annotations
+    total = len(chunks)
+    if total > 1:
+        annotated = []
+        for i, ch in enumerate(chunks, 1):
+            annotated.append(f"<b>[Part {i}/{total}]</b>\n{ch}")
+        return annotated
+    return chunks

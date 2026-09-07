@@ -294,12 +294,22 @@ function visibleCampaigns(){
 function badge(c){
   const pills = [];
   if(isNewCamp(c)) pills.push(el("span", {class:"pill new", text:"NEW"}));
-  if(hoursLeft(c) <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
-  else if(hoursLeft(c) <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
+  const hl = hoursLeft(c);
+  if(hl <= 24) pills.push(el("span", {class:"pill u24", text:"<24H"}));
+  else if(hl <= 48) pills.push(el("span", {class:"pill u48", text:"<48H"}));
   if(c.isFavorite) pills.push(el("span", {class:"pill fav", text:"⭐ FAV"}));
   const sig = (DATA.signals||{})[c.game]||{};
   if(sig.score >= 8) pills.push(el("span", {class:"pill hot", text:"🔥 " + Math.round(sig.score)}));
   if(c.inSteamLibrary) pills.push(el("span", {class:"pill lib", text:"🎮 LIB"}));
+
+  // Feasibility check: alert if watch minutes exceed remaining time
+  const totalMin = (c.rewards||[]).reduce((a,r) => a + (r.minutes||0), 0);
+  if(totalMin > 0 && hl > 0){
+    const remMin = hl * 60;
+    if(remMin < totalMin){
+      pills.push(el("span", {class:"pill u24", style:"background:rgba(255,50,50,0.25);border-color:#ff4444;", text:"⚠️ IMPOSSIBLE", title:`Requires ${Math.round(totalMin/60)}h watch time, but only ${Math.round(remMin/60)}h remaining`}));
+    }
+  }
   return pills;
 }
 function fallbackArt(c){

@@ -32,12 +32,12 @@ sys.path.insert(0, str(ROOT / "src"))
 import db as dbm
 import kv as kvm
 import learning as lrn
+import matcher as mt
 import notify as ntf
 import site_builder as sb
 import steam_import as si
 import twitch_client as tc
 import watchdog as wd
-
 CONFIG = None
 
 
@@ -172,21 +172,22 @@ def _send_digest(camps, cfg, conn, dry=False):
     state = wd.classify(known, camps, now,
                         h24=cfg["watchdog"]["ending_24h_hours"],
                         h48=cfg["watchdog"]["ending_48h_hours"])
-    msg = wd.compose_digest(state, now, cfg["timezone"], get_favorites(conn),
-                            cap=cfg["watchdog"]["message_cap_chars"],
-                            ledger_has=lambda cid, kind: dbm.ledger_has(conn, cid, kind))
-    if msg is None:
+    messages = wd.compose_digests_multipart(state, now, cfg["timezone"], get_favorites(conn),
+                                           cap=cfg["watchdog"]["message_cap_chars"],
+                                           ledger_has=lambda cid, kind: dbm.ledger_has(conn, cid, kind))
+    if not messages:
         print("silent run — nothing new (no message sent)")
         return None, state
     if dry:
-        print(msg)
-        return msg, state
+        for m in messages:
+            print(m)
+        return messages[0], state
     token = ntf.bot_token()
     chat = cfg["telegram"]["group_chat_id"]
     if not chat:
         raise SystemExit("telegram.group_chat_id not configured")
-    ntf.send_digest(token, chat, msg)
-    # mark ledger ONLY after successful send (dedupe; retry on failure)
+    for m in messages:
+        ntf.send_digest(token, chat, m)
     for c in state["new"]:
         dbm.ledger_add(conn, c["id"], "NEW_CAMPAIGN", "telegram:channel")
     for c in state["ending_24"]:
@@ -408,10 +409,10 @@ def _send_personal(camps, cfg, conn, dry=False):
                         h48=cfg["watchdog"]["ending_48h_hours"])
     picks = []
     for c in state["new"]:
-        if c["game_name"] in favorites and not dbm.ledger_has(conn, c["id"], "PERSONAL_NEW"):
+        if mt.is_favorite_match(c["game_name"], favorites) and not dbm.ledger_has(conn, c["id"], "PERSONAL_NEW"):
             picks.append((c, "PERSONAL_NEW", "NEW DROP"))
     for c in state["ending_24"]:
-        if c["game_name"] in favorites and not dbm.ledger_has(conn, c["id"], "PERSONAL_24H"):
+        if mt.is_favorite_match(c["game_name"], favorites) and not dbm.ledger_has(conn, c["id"], "PERSONAL_24H"):
             picks.append((c, "PERSONAL_24H", "ENDING <24H"))
     if not picks:
         print("no favorite alerts to send (silent)")
@@ -423,6 +424,11 @@ def _send_personal(camps, cfg, conn, dry=False):
         lines.append(f"🚨 <b>{wd._esc(tag)}</b> — <b>{wd._esc(c['game_name'])}</b> — <i>{wd._esc(c['title'])}</i>")
         if end:
             lines.append(f"   ⏳ ends {wd._esc(wd.fmt_dt(end, cfg['timezone']))} ({left} left)")
+        feas = wd.calc_feasibility(c, now)
+        if feas["status"] == "impossible":
+            lines.append(f"   {wd._esc(feas['note'])}")
+        elif feas["status"] == "tight":
+            lines.append(f"   <i>{wd._esc(feas['note'])}</i>")
         names = wd._esc(" · ".join(r["name"] for r in c.get("rewards", [])[:3]))
         if names:
             lines.append(f"   🏆 {names}")
