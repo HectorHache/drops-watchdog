@@ -3938,6 +3938,8 @@
  ],
  "favorites": [
   "ARC Raiders",
+  "Counter-Strike 2",
+  "DayZ",
   "Delta Force",
   "LEGO Batman: Legacy of the Dark Knight",
   "Marvel Rivals",
@@ -3953,7 +3955,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.87
+   "score": 23.86
   },
   "Delta Force": {
    "favorites": 3,
@@ -3977,19 +3979,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.87
+   "score": 23.86
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.87
+   "score": 23.86
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.87
+   "score": 23.86
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4013,11 +4015,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.87
+   "score": 23.86
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 33,
+  "Counter-Strike 2": 10,
+  "DayZ": 10,
   "Delta Force": 43,
   "LEGO Batman: Legacy of the Dark Knight": 43,
   "Marvel Rivals": 10,
