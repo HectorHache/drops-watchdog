@@ -926,46 +926,6 @@
    "asset": "assets/99335e2c-370b-4ca8-ba84-891e01002112.png"
   },
   {
-   "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
-   "game": "Voyagers of Nera",
-   "title": "Happy Birthday Voyagers!",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T16:00:00+00:00",
-   "endAt": "2026-09-07T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72fa0633-7cf0-4d3f-937d-cb77620681cf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=552d4954-a736-42b2-aab9-8031c7bc5a1a",
-   "rewards": [
-    {
-     "name": "Twitch Mana Flare",
-     "minutes": 30
-    },
-    {
-     "name": "Twitch Diving Knife",
-     "minutes": 45
-    },
-    {
-     "name": "Infused Stone Skimmer",
-     "minutes": 60
-    },
-    {
-     "name": "Twitch Sail",
-     "minutes": 90
-    },
-    {
-     "name": "Infused Watering Can",
-     "minutes": 120
-    },
-    {
-     "name": "Infused Stone Glider",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/552d4954-a736-42b2-aab9-8031c7bc5a1a.png"
-  },
-  {
    "id": "b64521c4-a827-4533-a403-6bc3929fb216",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 1",
@@ -2502,6 +2462,82 @@
    "asset": "assets/3d2a77a0-aba3-4073-a0b2-e36209aa42a2.png"
   },
   {
+   "id": "63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 18",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-14T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T16:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dd391e24-285d-4cb9-80f6-98c06cf854d7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 90
+    },
+    {
+     "name": "2",
+     "minutes": 180
+    },
+    {
+     "name": "3",
+     "minutes": 270
+    },
+    {
+     "name": "4",
+     "minutes": 360
+    },
+    {
+     "name": "5",
+     "minutes": 450
+    },
+    {
+     "name": "6",
+     "minutes": 540
+    },
+    {
+     "name": "7",
+     "minutes": 630
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5.png"
+  },
+  {
+   "id": "59f94828-8767-4156-a11c-c142e202cf33",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 18",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-14T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T16:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52903d44-486f-4e2d-8bd6-5f836e292888.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=59f94828-8767-4156-a11c-c142e202cf33",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 120
+    },
+    {
+     "name": "2",
+     "minutes": 240
+    },
+    {
+     "name": "3",
+     "minutes": 360
+    },
+    {
+     "name": "4",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/59f94828-8767-4156-a11c-c142e202cf33.png"
+  },
+  {
    "id": "6c2c96b5-5e0c-443e-a263-38d3cf8ec0d3",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #2",
@@ -2607,6 +2643,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
+   "game": "Voyagers of Nera",
+   "title": "Happy Birthday Voyagers!",
+   "startAt": "2026-08-31T16:00:00+00:00",
+   "endAt": "2026-09-07T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1b975a1a-ad97-4010-8244-34e4de466947",
    "game": "World of Tanks",
@@ -4027,13 +4071,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.74
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.49
+   "score": 33.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4045,37 +4089,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.26
+   "score": 33.24
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.74
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.74
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.74
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.63
+   "score": 2.62
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.38
+   "score": 11.37
   },
   "Warframe": {
    "favorites": 1,
@@ -4087,7 +4131,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.74
   }
  },
  "favoriteWeights": {
