@@ -215,13 +215,6 @@
     <pubDate>2026-08-29T12:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Voyagers of Nera — Happy Birthday Voyagers!</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=552d4954-a736-42b2-aab9-8031c7bc5a1a</link>
-    <guid isPermaLink="false">552d4954-a736-42b2-aab9-8031c7bc5a1a</guid>
-    <description>Twitch Mana Flare · Twitch Diving Knife · Infused Stone Skimmer · Twitch Sail · Infused Watering Can · Infused Stone Glider — runs 2026-08-31T16:00:00+00:00 → 2026-09-07T15:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-31T16:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>MARVEL Strike Force — MSF | September Week 1</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=b64521c4-a827-4533-a403-6bc3929fb216</link>
     <guid isPermaLink="false">b64521c4-a827-4533-a403-6bc3929fb216</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">d4e988dd-ac54-40c2-827d-d1e8876c5fc4</guid>
     <description>Week 4: 250 Community Tokens — runs 2026-09-02T22:00:00+00:00 → 2026-09-09T21:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-02T22:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>The Blood of Dawnwalker — Dawnwalker Launch</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=9b94b19f-17db-4edd-80dd-e2eca81f21df</link>
+    <guid isPermaLink="false">9b94b19f-17db-4edd-80dd-e2eca81f21df</guid>
+    <description>Dawnwalker Launch · Dawnwalker Supporter — runs 2026-09-03T00:00:00+00:00 → 2026-09-30T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-03T00:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
