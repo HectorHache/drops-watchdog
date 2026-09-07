@@ -130,34 +130,6 @@
    "asset": "assets/e221678f-3391-402d-8819-fd1783894746.png"
   },
   {
-   "id": "e7a34dde-0b5c-44cd-ac88-2525e49648fb",
-   "game": "North Hunt",
-   "title": "North Hunt 1.0 Release",
-   "status": "ACTIVE",
-   "startAt": "2026-08-17T05:00:00+00:00",
-   "endAt": "2026-09-06T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4872483-d98a-4684-bf98-0185fba345b5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e7a34dde-0b5c-44cd-ac88-2525e49648fb",
-   "rewards": [
-    {
-     "name": "01 Drop",
-     "minutes": 15
-    },
-    {
-     "name": "02 Drop",
-     "minutes": 60
-    },
-    {
-     "name": "03 Drop",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e7a34dde-0b5c-44cd-ac88-2525e49648fb.png"
-  },
-  {
    "id": "4c219285-bcf7-422a-9e2e-1603ced3d10c",
    "game": "DRAGON BALL GEKISHIN SQUADRA",
    "title": "SQUADRA SEASON 6.2 Drops",
@@ -1170,74 +1142,6 @@
    "asset": "assets/6f5cb838-8c0f-4095-82d8-b335dd3712c5.png"
   },
   {
-   "id": "6c8043e5-3d85-46ba-87d1-c770c4108f3d",
-   "game": "ChatTDT: Tower Defense Twitch",
-   "title": "[Re-Drop] Tree Tower Skin",
-   "status": "ACTIVE",
-   "startAt": "2026-08-30T18:14:13+00:00",
-   "endAt": "2026-09-06T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c58e423-f88b-4683-91f3-ee1fb04872bd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6c8043e5-3d85-46ba-87d1-c770c4108f3d",
-   "rewards": [
-    {
-     "name": "Tree Tower Skin [Standard]",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6c8043e5-3d85-46ba-87d1-c770c4108f3d.png"
-  },
-  {
-   "id": "c000c894-58ae-4b2b-bf19-265f8d529737",
-   "game": "Modern Warships",
-   "title": "Weekly Supply Drops #31",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T00:00:00+00:00",
-   "endAt": "2026-09-06T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d5252416-4beb-4e00-b0c7-e56ffd917552.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c000c894-58ae-4b2b-bf19-265f8d529737",
-   "rewards": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c000c894-58ae-4b2b-bf19-265f8d529737.png"
-  },
-  {
-   "id": "c523e70f-98d4-4432-b67e-2c500d3c770c",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS1 Weekly 8.31",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T04:00:00+00:00",
-   "endAt": "2026-09-07T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d4502e3d-af7c-49b5-9d4f-b2edcaa8fd7b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c523e70f-98d4-4432-b67e-2c500d3c770c",
-   "rewards": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c523e70f-98d4-4432-b67e-2c500d3c770c.png"
-  },
-  {
    "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
    "game": "Out of the Park Baseball 27",
    "title": "Laptophound 17",
@@ -2018,30 +1922,6 @@
    "asset": "assets/1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f.png"
   },
   {
-   "id": "e292f2c5-996a-4dc1-ac1f-4c24251d393c",
-   "game": "ZEVENT",
-   "title": "ZEVENT 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T16:00:00+00:00",
-   "endAt": "2026-09-07T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T16:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47165b14-c694-4484-8732-d9a0733a21d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e292f2c5-996a-4dc1-ac1f-4c24251d393c",
-   "rewards": [
-    {
-     "name": "MegaphoneZ Emote",
-     "minutes": 15
-    },
-    {
-     "name": "ZEVENT 2026 Badge",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e292f2c5-996a-4dc1-ac1f-4c24251d393c.png"
-  },
-  {
    "id": "8fa76d92-9395-4d1a-a740-def06042106f",
    "game": "World of Warships",
    "title": "Update 15.7 Drop: Week 4",
@@ -2140,38 +2020,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
-  },
-  {
-   "id": "83b45ee6-2817-4512-9d2b-d09afa900d00",
-   "game": "Delta Force",
-   "title": "Season Meltdown Weekends",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T10:00:00+00:00",
-   "endAt": "2026-09-06T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T10:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b66f996-fcae-4e53-b39d-6c02a1f35347.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83b45ee6-2817-4512-9d2b-d09afa900d00",
-   "rewards": [
-    {
-     "name": "2x Merit Card (1 Match)",
-     "minutes": 30
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "C Card - C Graffiti",
-     "minutes": 90
-    },
-    {
-     "name": "Ops Challenge Supply Pack",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/83b45ee6-2817-4512-9d2b-d09afa900d00.jpg"
   },
   {
    "id": "f018e359-7334-42c3-b945-bbc519a41481",
@@ -2334,26 +2182,6 @@
    "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
   },
   {
-   "id": "ed9254f4-53c5-490c-b001-224bf56676da",
-   "game": "ZEVENT",
-   "title": "ZEvent 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T16:00:00+00:00",
-   "endAt": "2026-09-06T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T16:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2721c2c9-66c8-41e8-ad81-ad7d863faedc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ed9254f4-53c5-490c-b001-224bf56676da",
-   "rewards": [
-    {
-     "name": "Jeton Ocre",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ed9254f4-53c5-490c-b001-224bf56676da.png"
-  },
-  {
    "id": "46c07a3c-2113-4495-9ccb-00750e211d70",
    "game": "Marbles on Stream",
    "title": "Marble Day 264",
@@ -2514,34 +2342,6 @@
    "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
   },
   {
-   "id": "897385d3-6900-427f-8b70-d90ab68e928e",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T05:00:00+00:00",
-   "endAt": "2026-09-07T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-05T05:00:45+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/203b9637-9425-4af7-a8ab-bb491d504e2e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=897385d3-6900-427f-8b70-d90ab68e928e",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/897385d3-6900-427f-8b70-d90ab68e928e.png"
-  },
-  {
    "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
    "game": "War Thunder",
    "title": "Pro League Major III",
@@ -2698,70 +2498,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "3e838897-2c97-4c32-ae05-851797c48842",
-   "game": "Overwatch",
-   "title": "CAH Championship Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T17:30:00+00:00",
-   "endAt": "2026-09-07T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T17:30:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a134aa49-c82d-4155-a4c3-2fa45ec9ae46.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e838897-2c97-4c32-ae05-851797c48842",
-   "rewards": [
-    {
-     "name": "Pachimonarch Spray",
-     "minutes": 60
-    },
-    {
-     "name": "Battle Pass Tier Skip",
-     "minutes": 120
-    },
-    {
-     "name": "Purple Reign Name Card",
-     "minutes": 180
-    },
-    {
-     "name": "Sugar Hop Spray",
-     "minutes": 240
-    },
-    {
-     "name": "Boba Buddy Icon",
-     "minutes": 300
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3e838897-2c97-4c32-ae05-851797c48842.png"
-  },
-  {
-   "id": "f4f50238-ed3d-4a4c-8532-8f5014c8338c",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T00:00:00+00:00",
-   "endAt": "2026-09-06T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T00:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce51deae-23f2-4d33-844e-0cc7569b4e14.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f4f50238-ed3d-4a4c-8532-8f5014c8338c",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f4f50238-ed3d-4a4c-8532-8f5014c8338c.png"
-  },
-  {
    "id": "9b86cdad-631c-4fc9-bff8-ce1c13e75444",
    "game": "Kirka.io",
    "title": "Spore",
@@ -2780,30 +2516,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9b86cdad-631c-4fc9-bff8-ce1c13e75444.png"
-  },
-  {
-   "id": "cadd3fbf-f0a5-4929-b240-1c212f25866b",
-   "game": "Apex Legends",
-   "title": "ALGS Split 2 PL MD 9",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T04:00:00+00:00",
-   "endAt": "2026-09-07T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T04:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b551a79a-0aa7-4541-8cb5-24de865cf0b1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cadd3fbf-f0a5-4929-b240-1c212f25866b",
-   "rewards": [
-    {
-     "name": "Sushi Nessie Gun Charm",
-     "minutes": 60
-    },
-    {
-     "name": "APEX Pack",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/cadd3fbf-f0a5-4929-b240-1c212f25866b.png"
   },
   {
    "id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
@@ -2978,26 +2690,6 @@
    "asset": "assets/b1b27f69-bf27-47d5-865d-ee77cdf1044b.png"
   },
   {
-   "id": "2433257b-00c1-45c0-af20-39e42b77b3e3",
-   "game": "Halo Infinite",
-   "title": "LVT Halo Pro League-SEP6",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T16:00:00+00:00",
-   "endAt": "2026-09-07T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T16:00:11+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2bd41c99-ff08-4adb-9952-1b72ca4144f0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2433257b-00c1-45c0-af20-39e42b77b3e3",
-   "rewards": [
-    {
-     "name": "Anderson Nights Visor",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/2433257b-00c1-45c0-af20-39e42b77b3e3.png"
-  },
-  {
    "id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf",
    "game": "Crossout",
    "title": "'New Horizon' Drops II",
@@ -3082,35 +2774,219 @@
    "asset": "assets/2b091931-e1ce-4239-a7ae-37e96c9ec03b.png"
   },
   {
-   "id": "9c02aec8-1288-496e-a5ef-4dc2005b6c1e",
-   "game": "Eternal Return",
-   "title": "ERCS S12 P1 Finals",
+   "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 1",
    "status": "ACTIVE",
-   "startAt": "2026-09-06T19:00:00+00:00",
-   "endAt": "2026-09-07T02:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T19:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5eac2623-00fe-4b29-afc3-3aced15ce66a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9c02aec8-1288-496e-a5ef-4dc2005b6c1e",
+   "startAt": "2026-09-07T00:00:00+00:00",
+   "endAt": "2026-09-13T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T00:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d4b37c59-5cdb-4b67-bc89-90cc08c0c089.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75b83719-7a21-4c95-b16e-651a0b60026c",
    "rewards": [
     {
-     "name": "DROPS TOKEN",
+     "name": "2x Dungeon Key",
      "minutes": 60
     },
     {
-     "name": "DROPS TOKEN",
+     "name": "3x Arena Ticket",
+     "minutes": 90
+    },
+    {
+     "name": "100x Crystal",
      "minutes": 120
     },
     {
-     "name": "DROPS TOKEN",
-     "minutes": 180
+     "name": "32x Thirst for Adventure",
+     "minutes": 30
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/9c02aec8-1288-496e-a5ef-4dc2005b6c1e.png"
+   "asset": "assets/75b83719-7a21-4c95-b16e-651a0b60026c.png"
+  },
+  {
+   "id": "1d4cd712-c1e5-4059-9b88-a08b642ee87c",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #32",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T00:00:00+00:00",
+   "endAt": "2026-09-13T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-07T00:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4cee002c-2b1e-4abe-95ef-4469b19e5bbe.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1d4cd712-c1e5-4059-9b88-a08b642ee87c",
+   "rewards": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1d4cd712-c1e5-4059-9b88-a08b642ee87c.png"
+  },
+  {
+   "id": "67a01754-5344-4815-9b30-db305e4e1de1",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 Weekly 9.7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T04:00:00+00:00",
+   "endAt": "2026-09-14T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T04:01:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d47e171-c1e9-4328-bfa9-31fc4b7ea8ad.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=67a01754-5344-4815-9b30-db305e4e1de1",
+   "rewards": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/67a01754-5344-4815-9b30-db305e4e1de1.png"
+  },
+  {
+   "id": "69545e1a-30da-40bf-afc3-465aa035048c",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T05:00:00+00:00",
+   "endAt": "2026-09-09T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-07T05:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a6fbfa03-68f1-42e4-be0c-6e7393191f4d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=69545e1a-30da-40bf-afc3-465aa035048c",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/69545e1a-30da-40bf-afc3-465aa035048c.png"
   }
  ],
  "archive": [
+  {
+   "id": "897385d3-6900-427f-8b70-d90ab68e928e",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 1",
+   "startAt": "2026-09-05T05:00:00+00:00",
+   "endAt": "2026-09-07T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c523e70f-98d4-4432-b67e-2c500d3c770c",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 Weekly 8.31",
+   "startAt": "2026-08-31T04:00:00+00:00",
+   "endAt": "2026-09-07T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e292f2c5-996a-4dc1-ac1f-4c24251d393c",
+   "game": "ZEVENT",
+   "title": "ZEVENT 2026",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-07T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3e838897-2c97-4c32-ae05-851797c48842",
+   "game": "Overwatch",
+   "title": "CAH Championship Finals",
+   "startAt": "2026-09-05T17:30:00+00:00",
+   "endAt": "2026-09-07T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9c02aec8-1288-496e-a5ef-4dc2005b6c1e",
+   "game": "Eternal Return",
+   "title": "ERCS S12 P1 Finals",
+   "startAt": "2026-09-06T19:00:00+00:00",
+   "endAt": "2026-09-07T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cadd3fbf-f0a5-4929-b240-1c212f25866b",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 9",
+   "startAt": "2026-09-06T04:00:00+00:00",
+   "endAt": "2026-09-07T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2433257b-00c1-45c0-af20-39e42b77b3e3",
+   "game": "Halo Infinite",
+   "title": "LVT Halo Pro League-SEP6",
+   "startAt": "2026-09-06T16:00:00+00:00",
+   "endAt": "2026-09-07T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6c8043e5-3d85-46ba-87d1-c770c4108f3d",
+   "game": "ChatTDT: Tower Defense Twitch",
+   "title": "[Re-Drop] Tree Tower Skin",
+   "startAt": "2026-08-30T18:14:13+00:00",
+   "endAt": "2026-09-06T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "83b45ee6-2817-4512-9d2b-d09afa900d00",
+   "game": "Delta Force",
+   "title": "Season Meltdown Weekends",
+   "startAt": "2026-09-04T10:00:00+00:00",
+   "endAt": "2026-09-06T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f4f50238-ed3d-4a4c-8532-8f5014c8338c",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-06T00:00:00+00:00",
+   "endAt": "2026-09-06T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e7a34dde-0b5c-44cd-ac88-2525e49648fb",
+   "game": "North Hunt",
+   "title": "North Hunt 1.0 Release",
+   "startAt": "2026-08-17T05:00:00+00:00",
+   "endAt": "2026-09-06T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c000c894-58ae-4b2b-bf19-265f8d529737",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #31",
+   "startAt": "2026-08-31T00:00:00+00:00",
+   "endAt": "2026-09-06T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ed9254f4-53c5-490c-b001-224bf56676da",
+   "game": "ZEVENT",
+   "title": "ZEvent 2026",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-06T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "36a8fac7-6588-45fc-8544-19eef52dac2a",
    "game": "Mobile Dungeon",
@@ -4249,79 +4125,79 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.14
+   "score": 23.99
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 34.04
+   "score": 33.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.34
+   "score": 5.3
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.81
+   "score": 33.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.14
+   "score": 23.99
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.14
+   "score": 23.99
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.14
+   "score": 23.99
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.67
+   "score": 2.65
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.57
+   "score": 11.49
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.58
+   "score": 12.5
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 24.14
+   "score": 23.99
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 34,
-  "Delta Force": 44,
+  "ARC Raiders": 33,
+  "Delta Force": 43,
   "LEGO Batman: Legacy of the Dark Knight": 43,
   "Marvel Rivals": 10,
-  "Once Human": 34,
-  "Palia": 34,
-  "Predecessor": 34,
+  "Once Human": 33,
+  "Palia": 33,
+  "Predecessor": 33,
   "Tom Clancy's The Division 2": 21,
   "Warframe": 22,
-  "Where Winds Meet": 34
+  "Where Winds Meet": 33
  }
 }
