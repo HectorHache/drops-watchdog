@@ -213,7 +213,7 @@ def cmd_build(args):
 
     (DOCS / "drops.json").write_text(json.dumps(data, indent=1))
     (DOCS / "_headers").write_text(HEADERS)
-
+    (DOCS / "CNAME").write_text("drops.hache.app\n")
     if TEMPLATE.exists():
         # deterministic: index.html is byte-identical to the template on every build
         (DOCS / "index.html").write_text(TEMPLATE.read_text())
