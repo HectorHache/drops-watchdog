@@ -894,182 +894,6 @@
    "asset": "assets/a32d43f5-2c18-4205-9480-d1149b3558d2.png"
   },
   {
-   "id": "0b9dbe08-616c-4603-b0aa-b8d66f8bcae7",
-   "game": "Pok\u00e9mon Trading Card Game",
-   "title": "2026 WCS TCG Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-07T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb873deb-0a1f-4e1c-9893-8e2b22f51f5f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b9dbe08-616c-4603-b0aa-b8d66f8bcae7",
-   "rewards": [
-    {
-     "name": "Mega Zeraora ex Playset",
-     "minutes": 45
-    },
-    {
-     "name": "2026 Pok\u00e9mon World Championships Crate",
-     "minutes": 60
-    },
-    {
-     "name": "Pitch Black Booster Packs x6",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0b9dbe08-616c-4603-b0aa-b8d66f8bcae7.png"
-  },
-  {
-   "id": "3f647f40-7675-46d9-85df-9039c0dc949e",
-   "game": "Pok\u00e9mon GO",
-   "title": "2026 WCS GO Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-07T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87fed35e-f523-4feb-a553-85471e572e6b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3f647f40-7675-46d9-85df-9039c0dc949e",
-   "rewards": [
-    {
-     "name": "2025 World Champion's Timed Research",
-     "minutes": 60
-    },
-    {
-     "name": "Team Building: Great League Bonus Timed Research",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3f647f40-7675-46d9-85df-9039c0dc949e.png"
-  },
-  {
-   "id": "76ed891e-61c1-4207-ac23-ae9d036e843c",
-   "game": "Pok\u00e9mon UNITE",
-   "title": "2026 WCS UNITE Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f85aba36-4850-4db9-bef2-6e5310809ff6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76ed891e-61c1-4207-ac23-ae9d036e843c",
-   "rewards": [
-    {
-     "name": "2026 Pok\u00e9mon World Championships sticker",
-     "minutes": 15
-    },
-    {
-     "name": "2026 Worlds costumed Pikachu License Art",
-     "minutes": 30
-    },
-    {
-     "name": "2025 World Champions\u2019 License Selection Box",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/76ed891e-61c1-4207-ac23-ae9d036e843c.png"
-  },
-  {
-   "id": "3652adfd-9812-4c1d-bffa-7886fa78faae",
-   "game": "Pok\u00e9mon Trading Card Game",
-   "title": "PXP TCG Panel Rewards",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/80d12d51-abfe-4255-a461-c0bc819dd3e7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3652adfd-9812-4c1d-bffa-7886fa78faae",
-   "rewards": [
-    {
-     "name": "PXP TCGL Drops",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3652adfd-9812-4c1d-bffa-7886fa78faae.png"
-  },
-  {
-   "id": "3efcfc9b-93e7-4057-b343-9f3d86d22b39",
-   "game": "Pok\u00e9mon Trading Card Game",
-   "title": "PXP & 26 WCS TCGP",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T07:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/620dfa74-fafc-4544-b72b-a36d8c438c7b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3efcfc9b-93e7-4057-b343-9f3d86d22b39",
-   "rewards": [
-    {
-     "name": "PXP & 26WCS TCGP Hourglasses",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3efcfc9b-93e7-4057-b343-9f3d86d22b39.png"
-  },
-  {
-   "id": "a6333c5e-a293-4730-bd7c-a87af365511f",
-   "game": "Blade & Soul NEO",
-   "title": "B&S NEO Reignited Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T17:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be0d4cc6-a7a9-4bc6-847b-a0bac0b529a8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a6333c5e-a293-4730-bd7c-a87af365511f",
-   "rewards": [
-    {
-     "name": "Darkstorm Portrait Chest x2",
-     "minutes": 120
-    },
-    {
-     "name": "Heroic Insignia Chest x5",
-     "minutes": 240
-    },
-    {
-     "name": "Darkstorm Portrait Chest x4",
-     "minutes": 360
-    },
-    {
-     "name": "Heroic Special Insignia Chest x2",
-     "minutes": 480
-    },
-    {
-     "name": "Bound Heroic Skill Book Selection Chest x1",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a6333c5e-a293-4730-bd7c-a87af365511f.png"
-  },
-  {
-   "id": "678cc286-9652-4890-9007-af05240cee99",
-   "game": "Pok\u00e9mon GO",
-   "title": "PXP GO Panel Reward",
-   "status": "ACTIVE",
-   "startAt": "2026-08-29T07:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85114307-5600-4f4d-ae07-9f0de6d866f7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=678cc286-9652-4890-9007-af05240cee99",
-   "rewards": [
-    {
-     "name": "PXP Pok\u00e9mon GO TR",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/678cc286-9652-4890-9007-af05240cee99.png"
-  },
-  {
    "id": "99335e2c-370b-4ca8-ba84-891e01002112",
    "game": "War Robots: Frontiers",
    "title": "Tooth and Claw",
@@ -1120,26 +944,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/99335e2c-370b-4ca8-ba84-891e01002112.png"
-  },
-  {
-   "id": "6f5cb838-8c0f-4095-82d8-b335dd3712c5",
-   "game": "Pok\u00e9mon Champions",
-   "title": "2026 WCS VGC Finals Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-30T15:30:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03d566e2-f563-4145-9e25-2ea88f3624d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6f5cb838-8c0f-4095-82d8-b335dd3712c5",
-   "rewards": [
-    {
-     "name": "Training Ticket x5",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6f5cb838-8c0f-4095-82d8-b335dd3712c5.png"
   },
   {
    "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
@@ -2182,38 +1986,6 @@
    "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
   },
   {
-   "id": "46c07a3c-2113-4495-9ccb-00750e211d70",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 264",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T16:00:00+00:00",
-   "endAt": "2026-09-07T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T16:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b7d8d4f-c437-4202-be0c-81a37bf4e9a2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46c07a3c-2113-4495-9ccb-00750e211d70",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 240
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 360
-    },
-    {
-     "name": "DROP SUBS",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/46c07a3c-2113-4495-9ccb-00750e211d70.png"
-  },
-  {
    "id": "09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
    "game": "World of Tanks Console",
    "title": "Mayhem Weekend 6",
@@ -2516,42 +2288,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9b86cdad-631c-4fc9-bff8-ce1c13e75444.png"
-  },
-  {
-   "id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
-   "game": "MLB The Show 26",
-   "title": "Sept26 PS+ 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T07:00:00+00:00",
-   "endAt": "2026-09-07T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-06T07:01:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfff3a23-0746-4637-901a-1a8d3e3cc637.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
-   "rewards": [
-    {
-     "name": "Twitch Pack 1",
-     "minutes": 60
-    },
-    {
-     "name": "Twitch Pack 2",
-     "minutes": 120
-    },
-    {
-     "name": "Twitch Pack 3",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Pack 4",
-     "minutes": 240
-    },
-    {
-     "name": "Twitch Pack 5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17.jpg"
   },
   {
    "id": "df6b176c-12d2-447f-b921-70b91485b45d",
@@ -2883,6 +2619,86 @@
   }
  ],
  "archive": [
+  {
+   "id": "76ed891e-61c1-4207-ac23-ae9d036e843c",
+   "game": "Pok\u00e9mon UNITE",
+   "title": "2026 WCS UNITE Drops",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6f5cb838-8c0f-4095-82d8-b335dd3712c5",
+   "game": "Pok\u00e9mon Champions",
+   "title": "2026 WCS VGC Finals Drops",
+   "startAt": "2026-08-30T15:30:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a6333c5e-a293-4730-bd7c-a87af365511f",
+   "game": "Blade & Soul NEO",
+   "title": "B&S NEO Reignited Drops",
+   "startAt": "2026-08-28T17:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3652adfd-9812-4c1d-bffa-7886fa78faae",
+   "game": "Pok\u00e9mon Trading Card Game",
+   "title": "PXP TCG Panel Rewards",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3efcfc9b-93e7-4057-b343-9f3d86d22b39",
+   "game": "Pok\u00e9mon Trading Card Game",
+   "title": "PXP & 26 WCS TCGP",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "678cc286-9652-4890-9007-af05240cee99",
+   "game": "Pok\u00e9mon GO",
+   "title": "PXP GO Panel Reward",
+   "startAt": "2026-08-29T07:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "46c07a3c-2113-4495-9ccb-00750e211d70",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 264",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-07T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0b9dbe08-616c-4603-b0aa-b8d66f8bcae7",
+   "game": "Pok\u00e9mon Trading Card Game",
+   "title": "2026 WCS TCG Drops",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-07T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3f647f40-7675-46d9-85df-9039c0dc949e",
+   "game": "Pok\u00e9mon GO",
+   "title": "2026 WCS GO Drops",
+   "startAt": "2026-08-28T07:00:00+00:00",
+   "endAt": "2026-09-07T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17",
+   "game": "MLB The Show 26",
+   "title": "Sept26 PS+ 3",
+   "startAt": "2026-09-06T07:00:00+00:00",
+   "endAt": "2026-09-07T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "897385d3-6900-427f-8b70-d90ab68e928e",
    "game": "Rainbow Six Siege",
@@ -4125,43 +3941,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.96
+   "score": 23.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.78
+   "score": 33.76
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.3
+   "score": 5.29
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.55
+   "score": 33.53
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.96
+   "score": 23.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.96
+   "score": 23.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.96
+   "score": 23.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4173,19 +3989,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.48
+   "score": 11.47
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.48
+   "score": 12.47
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.96
+   "score": 23.94
   }
  },
  "favoriteWeights": {
