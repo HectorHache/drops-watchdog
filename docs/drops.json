@@ -926,30 +926,6 @@
    "asset": "assets/99335e2c-370b-4ca8-ba84-891e01002112.png"
   },
   {
-   "id": "b64521c4-a827-4533-a403-6bc3929fb216",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | September Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T21:00:00+00:00",
-   "endAt": "2026-09-07T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c6a290e-8bb3-4785-b7b1-90590aea21b5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b64521c4-a827-4533-a403-6bc3929fb216",
-   "rewards": [
-    {
-     "name": "1M Gold",
-     "minutes": 60
-    },
-    {
-     "name": "100 L4 Training Modules",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b64521c4-a827-4533-a403-6bc3929fb216.png"
-  },
-  {
    "id": "0f0f3203-1c8f-4bf1-85d5-e5484bfc822d",
    "game": "Goblin Cleanup",
    "title": "Pool Party Drops",
@@ -2660,9 +2636,41 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c5ecb8d2-2b81-4ee4-a358-1816e6e5e0c3.png"
+  },
+  {
+   "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T21:00:00+00:00",
+   "endAt": "2026-09-14T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T21:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/537c138c-f263-4033-9536-dd6e9d1ce344.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=31f77cbd-c88a-4d20-985e-afcafa123980",
+   "rewards": [
+    {
+     "name": "1M Gold",
+     "minutes": 60
+    },
+    {
+     "name": "100 L4 Training Modules",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/31f77cbd-c88a-4d20-985e-afcafa123980.png"
   }
  ],
  "archive": [
+  {
+   "id": "b64521c4-a827-4533-a403-6bc3929fb216",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 1",
+   "startAt": "2026-08-31T21:00:00+00:00",
+   "endAt": "2026-09-07T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6064dd8d-b9fe-4593-a690-b315490f70c1",
    "game": "Tanki Online",
@@ -4115,43 +4123,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.61
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.32
+   "score": 33.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.23
+   "score": 5.22
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.1
+   "score": 33.07
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.61
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.61
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.61
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4163,19 +4171,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.32
+   "score": 11.31
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.31
+   "score": 12.3
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.61
   }
  },
  "favoriteWeights": {
