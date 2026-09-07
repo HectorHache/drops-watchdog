@@ -71,7 +71,12 @@ def _ego_mint_js(tmp_path: str) -> str:
 import fs from 'fs'
 const task = await useOrCreateTaskSpace('drops watchdog mint')
 try {{
-  await openOrReuseTab('https://www.twitch.tv/', {{ wait: true, timeout: 30 }})
+  const initialTabs = await listTabs().catch(() => []);
+  if (initialTabs && initialTabs.length > 0) {{
+    await gotoUrl('https://www.twitch.tv/').catch(() => openOrReuseTab('https://www.twitch.tv/', {{ wait: true, timeout: 30 }}));
+  }} else {{
+    await openOrReuseTab('https://www.twitch.tv/', {{ wait: true, timeout: 30 }});
+  }}
   await cdp('Page.enable', {{}}).catch(()=>{{}})
   await cdp('Page.addScriptToEvaluateOnNewDocument', {{ source: String.raw`
     (() => {{
@@ -83,7 +88,7 @@ try {{
         try {{
           const url = typeof args[0] === 'string' ? args[0] : (args[0] && args[0].url) || '';
           if (url.includes('/integrity')) {{
-            p.then(r => r.clone().json().then(j => {{ if (j.token) window.__dropsInteg.push(j.token); }})).catch(()=>{{}});
+            p.then(r => r.clone().json().then(j => {{ if (j.token) window.__dropsInteg.push(j.token); }})) .catch(()=>{{}});
           }}
         }} catch(e){{}}
         return p;
@@ -98,7 +103,13 @@ try {{
 }} catch(e) {{
   cliLog('MINT:ERR ' + e.message)
 }} finally {{
-  try {{ await completeTaskSpace(task.id, {{ keep: false }}) }} catch(e){{}}
+  try {{
+    const tabs = await listTabs().catch(() => []);
+    for (const t of tabs) {{
+      await closeTab(t.id).catch(() => {{}});
+    }}
+    await completeTaskSpace(task.id, {{ keep: false }}).catch(() => {{}});
+  }} catch(e){{}}
 }}
 """
 
@@ -107,6 +118,14 @@ def mint_integrity(timeout: int = 45) -> str | None:
     """Mint a browser-grade integrity token via ego-browser. Returns token or None."""
     if TMP_TOKEN.exists():
         TMP_TOKEN.unlink()
+    # Keep ego lite running hidden without stealing macOS focus
+    try:
+        subprocess.run(["open", "-j", "-g", "-a", "/Applications/ego lite.app"],
+                       capture_output=True, timeout=5)
+        subprocess.run(["osascript", "-e", 'tell application "System Events" to set visible of process "ego lite" to false'],
+                       capture_output=True, timeout=5)
+    except Exception:
+        pass
     js = _ego_mint_js(str(TMP_TOKEN))
     try:
         proc = subprocess.run(
@@ -115,6 +134,12 @@ def mint_integrity(timeout: int = 45) -> str | None:
     except (subprocess.TimeoutExpired, FileNotFoundError) as e:
         print(f"[mint] ego-browser unavailable: {e}", file=sys.stderr)
         return None
+    finally:
+        try:
+            subprocess.run(["osascript", "-e", 'tell application "System Events" to set visible of process "ego lite" to false'],
+                           capture_output=True, timeout=5)
+        except Exception:
+            pass
     if proc.returncode != 0:
         print(f"[mint] ego-browser rc={proc.returncode}: {proc.stderr[:200]}", file=sys.stderr)
         return None
@@ -129,7 +154,6 @@ def mint_integrity(timeout: int = 45) -> str | None:
         print(f"[mint] no token file: {e}", file=sys.stderr)
         return None
 
-
 def _post(url, headers, body=None):
     req = urllib.request.Request(url, data=body or b"{}", method="POST", headers=headers)
     try:
@@ -142,8 +166,8 @@ def _post(url, headers, body=None):
             return {"_http": e.code}
 
 
-def get_integrity_token(creds, reuse_min: int = 20) -> str:
-    """Fresh browser-minted token, falling back to a stored fresh one."""
+def get_integrity_token(creds, reuse_min: int = 1440) -> str:
+    """Fresh browser-minted token, falling back to a stored fresh one (24h reuse default)."""
     stored = creds.get("web_integrity_token")
     stored_ts = float(creds.get("web_integrity_minted_at") or 0)
     if stored and time.time() - stored_ts < reuse_min * 60:

@@ -10,7 +10,7 @@ watchdog:
 
 auth:
   max_age_days: 25            # Twitch 2FA sessions ≈ 30 days -> warn before expiry
-  integrity_reuse_min: 20     # reuse minted integrity token if younger than this
+  integrity_reuse_min: 1440   # reuse minted integrity token if younger than 24 hours
 
 telegram:
   dm_chat_id: "2350638"       # Mick's DM (Héctor)
