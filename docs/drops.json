@@ -2114,38 +2114,6 @@
    "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
   },
   {
-   "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
-   "game": "War Thunder",
-   "title": "Pro League Major III",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T10:00:00+00:00",
-   "endAt": "2026-09-07T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T10:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f76d0848-173d-4d92-92cc-670cee77f368.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f317cb2d-b892-4aab-b554-23aa997d329d",
-   "rewards": [
-    {
-     "name": "5 Backups",
-     "minutes": 60
-    },
-    {
-     "name": "1 Day of Premium",
-     "minutes": 180
-    },
-    {
-     "name": "\u201cAngry Eyes\u201d decal",
-     "minutes": 300
-    },
-    {
-     "name": "T34-57 \u201cThunder Beast\u201d camouflage",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f317cb2d-b892-4aab-b554-23aa997d329d.jpg"
-  },
-  {
    "id": "e0f32d32-421f-4d48-8f48-b059dcbc8573",
    "game": "EVE Online",
    "title": "ATXXII Preliminaries W2",
@@ -2596,9 +2564,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/69545e1a-30da-40bf-afc3-465aa035048c.png"
+  },
+  {
+   "id": "e71144f4-090b-4ec1-bf51-542dd0eddb99",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T10:00:00+00:00",
+   "endAt": "2026-09-08T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-07T10:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f641a8fd-e33f-496e-b5c8-7de252fe4e53.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e71144f4-090b-4ec1-bf51-542dd0eddb99",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e71144f4-090b-4ec1-bf51-542dd0eddb99.png"
+  },
+  {
+   "id": "8addf9ca-191b-4589-b4d1-51dff65778c6",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T10:00:00+00:00",
+   "endAt": "2026-09-08T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-07T10:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25e0dcb3-d6f0-4059-ad2a-26b71d689518.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8addf9ca-191b-4589-b4d1-51dff65778c6",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8addf9ca-191b-4589-b4d1-51dff65778c6.png"
   }
  ],
  "archive": [
+  {
+   "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
+   "game": "War Thunder",
+   "title": "Pro League Major III",
+   "startAt": "2026-09-05T10:00:00+00:00",
+   "endAt": "2026-09-07T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "df6b176c-12d2-447f-b921-70b91485b45d",
    "game": "Albion Online",
@@ -3937,13 +3953,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.89
+   "score": 23.87
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.68
+   "score": 33.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3955,25 +3971,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.45
+   "score": 33.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.89
+   "score": 23.87
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.89
+   "score": 23.87
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.89
+   "score": 23.87
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3997,7 +4013,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.89
+   "score": 23.87
   }
  },
  "favoriteWeights": {
