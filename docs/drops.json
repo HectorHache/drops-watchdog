@@ -2570,6 +2570,26 @@
    "asset": "assets/1d4cd712-c1e5-4059-9b88-a08b642ee87c.png"
   },
   {
+   "id": "74f9439a-0059-4583-99c1-ae23c0c8e795",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T00:00:00+00:00",
+   "endAt": "2026-09-07T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T08:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d578597a-8456-4a6f-9c1e-99992bdb6723.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=74f9439a-0059-4583-99c1-ae23c0c8e795",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/74f9439a-0059-4583-99c1-ae23c0c8e795.png"
+  },
+  {
    "id": "67a01754-5344-4815-9b30-db305e4e1de1",
    "game": "NARAKA: BLADEPOINT",
    "title": "JS1 Weekly 9.7",
@@ -3941,13 +3961,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.93
+   "score": 23.92
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.74
+   "score": 33.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3959,49 +3979,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.51
+   "score": 33.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.93
+   "score": 23.92
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.93
+   "score": 23.92
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.93
+   "score": 23.92
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.65
+   "score": 2.64
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.47
+   "score": 11.46
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.47
+   "score": 12.46
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.93
+   "score": 23.92
   }
  },
  "favoriteWeights": {
