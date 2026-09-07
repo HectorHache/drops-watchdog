@@ -21,8 +21,8 @@ sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
 import learning as lrn
+import matcher as mt
 import watchdog as wd
-
 DOCS = ROOT / "docs"
 ASSETS = DOCS / "assets"
 TZ_NAME = "Europe/Madrid"
@@ -105,8 +105,8 @@ def build_drops_json(conn, cfg) -> dict:
             "rewards": rewards,
         }
         if active:
-            entry["inSteamLibrary"] = c["game_name"] in steam_games
-            entry["isFavorite"] = c["game_name"] in favorites
+            entry["inSteamLibrary"] = mt.is_owned_match(c["game_name"], steam_games)
+            entry["isFavorite"] = mt.is_favorite_match(c["game_name"], favorites)
             campaigns.append(entry)
         else:
             archive.append({

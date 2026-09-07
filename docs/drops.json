@@ -1197,7 +1197,7 @@
      "minutes": 60
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/796bdad1-10fd-4294-8277-6783723e14ff.png"
   },
@@ -1217,7 +1217,7 @@
      "minutes": 0
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/7d64c672-6183-425b-92e2-57546404f25c.png"
   },
@@ -1593,7 +1593,7 @@
      "minutes": 0
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/9b94b19f-17db-4edd-80dd-e2eca81f21df.png"
   },
@@ -1821,7 +1821,7 @@
      "minutes": 120
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
@@ -2173,7 +2173,7 @@
      "minutes": 840
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/3dd44cfb-a324-4566-b677-6deb9f3b22a3.png"
   },
@@ -2213,7 +2213,7 @@
      "minutes": 30
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/bf82818f-dba3-48fc-88c3-7472f577547e.png"
   },
@@ -2233,7 +2233,7 @@
      "minutes": 15
     }
    ],
-   "inSteamLibrary": false,
+   "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
@@ -3961,7 +3961,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.65
+   "score": 33.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3973,7 +3973,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.42
+   "score": 33.41
   },
   "Once Human": {
    "favorites": 2,
