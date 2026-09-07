@@ -946,82 +946,6 @@
    "asset": "assets/99335e2c-370b-4ca8-ba84-891e01002112.png"
   },
   {
-   "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
-   "game": "Out of the Park Baseball 27",
-   "title": "Laptophound 17",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T13:00:00+00:00",
-   "endAt": "2026-09-07T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b4d4e36d-f89c-4733-a287-c0040d1590a9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 120
-    },
-    {
-     "name": "2",
-     "minutes": 240
-    },
-    {
-     "name": "3",
-     "minutes": 360
-    },
-    {
-     "name": "4",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1d5dbe4f-36c4-4dd1-a793-dd182fac3512.png"
-  },
-  {
-   "id": "255103de-421f-4720-91fa-92b25fe0467a",
-   "game": "Out of the Park Baseball 27",
-   "title": "Official 17",
-   "status": "ACTIVE",
-   "startAt": "2026-08-31T13:00:00+00:00",
-   "endAt": "2026-09-07T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec3480a6-a7d9-407a-af28-f64d3cb4b6c3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=255103de-421f-4720-91fa-92b25fe0467a",
-   "rewards": [
-    {
-     "name": "4",
-     "minutes": 360
-    },
-    {
-     "name": "5",
-     "minutes": 450
-    },
-    {
-     "name": "6",
-     "minutes": 540
-    },
-    {
-     "name": "7",
-     "minutes": 630
-    },
-    {
-     "name": "1",
-     "minutes": 90
-    },
-    {
-     "name": "2",
-     "minutes": 180
-    },
-    {
-     "name": "3",
-     "minutes": 270
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/255103de-421f-4720-91fa-92b25fe0467a.png"
-  },
-  {
    "id": "552d4954-a736-42b2-aab9-8031c7bc5a1a",
    "game": "Voyagers of Nera",
    "title": "Happy Birthday Voyagers!",
@@ -2278,42 +2202,6 @@
    "asset": "assets/82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8.png"
   },
   {
-   "id": "b1b27f69-bf27-47d5-865d-ee77cdf1044b",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/6/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T13:00:00+00:00",
-   "endAt": "2026-09-07T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T13:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6b812039-8e55-4f7b-89b3-9318c21e3f9e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1b27f69-bf27-47d5-865d-ee77cdf1044b",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b1b27f69-bf27-47d5-865d-ee77cdf1044b.png"
-  },
-  {
    "id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf",
    "game": "Crossout",
    "title": "'New Horizon' Drops II",
@@ -2584,9 +2472,149 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/f867dd64-b7c8-4a6a-b385-ba756c381f1e.png"
+  },
+  {
+   "id": "950d0eb9-ba69-4597-8568-81b896485e2c",
+   "game": "Out of the Park Baseball 27",
+   "title": "EVCinNYC 9/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-08T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T13:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/89a02deb-fbba-42c6-8fa9-276bac591122.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=950d0eb9-ba69-4597-8568-81b896485e2c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "6",
+     "minutes": 120
+    },
+    {
+     "name": "7",
+     "minutes": 150
+    },
+    {
+     "name": "8",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/950d0eb9-ba69-4597-8568-81b896485e2c.png"
+  },
+  {
+   "id": "55f1d7d7-d72d-4733-9678-2e194793fbc1",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-08T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T13:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6b95bae-9f07-4b62-80a2-20eb6873b454.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=55f1d7d7-d72d-4733-9678-2e194793fbc1",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/55f1d7d7-d72d-4733-9678-2e194793fbc1.png"
+  },
+  {
+   "id": "3d2a77a0-aba3-4073-a0b2-e36209aa42a2",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-08T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T13:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/50502ed2-d9f6-4bc2-97d8-0ccad863fa77.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3d2a77a0-aba3-4073-a0b2-e36209aa42a2",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3d2a77a0-aba3-4073-a0b2-e36209aa42a2.png"
   }
  ],
  "archive": [
+  {
+   "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 17",
+   "startAt": "2026-08-31T13:00:00+00:00",
+   "endAt": "2026-09-07T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "255103de-421f-4720-91fa-92b25fe0467a",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 17",
+   "startAt": "2026-08-31T13:00:00+00:00",
+   "endAt": "2026-09-07T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b1b27f69-bf27-47d5-865d-ee77cdf1044b",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/6/26",
+   "startAt": "2026-09-06T13:00:00+00:00",
+   "endAt": "2026-09-07T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a94d51d1-6bc8-4ef7-b11d-c7fde8bd9f80",
    "game": "Black Desert",
@@ -3951,43 +3979,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.82
+   "score": 23.79
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.58
+   "score": 33.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.27
+   "score": 5.26
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.35
+   "score": 33.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.82
+   "score": 23.79
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.82
+   "score": 23.79
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.82
+   "score": 23.79
   },
   "THE FINALS": {
    "favorites": 0,
@@ -3999,19 +4027,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.41
+   "score": 11.4
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.41
+   "score": 12.4
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.82
+   "score": 23.79
   }
  },
  "favoriteWeights": {
