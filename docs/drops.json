@@ -834,26 +834,6 @@
    "asset": "assets/5c4b74bc-71ee-4750-94e1-ea54f13ed42b.png"
   },
   {
-   "id": "3ed94804-99c7-498e-bba2-b63448b3386d",
-   "game": "HITMAN World of Assassination",
-   "title": "The Herbalist #1",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T15:00:00+00:00",
-   "endAt": "2026-09-07T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db7e13f2-9a16-41d4-81f6-ae6ed9fc7b14.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3ed94804-99c7-498e-bba2-b63448b3386d",
-   "rewards": [
-    {
-     "name": "Purple Streak Proximity Explosive",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/3ed94804-99c7-498e-bba2-b63448b3386d.jpg"
-  },
-  {
    "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
    "game": "Infinity Nikki",
    "title": "V2.9 Infinity Nikki",
@@ -2588,9 +2568,101 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3d2a77a0-aba3-4073-a0b2-e36209aa42a2.png"
+  },
+  {
+   "id": "6c2c96b5-5e0c-443e-a263-38d3cf8ec0d3",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T14:00:00+00:00",
+   "endAt": "2026-09-08T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a50f3920-26e2-43d6-a7a6-1c2c86b0c56c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6c2c96b5-5e0c-443e-a263-38d3cf8ec0d3",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6c2c96b5-5e0c-443e-a263-38d3cf8ec0d3.jpg"
+  },
+  {
+   "id": "0e143bca-9a05-43ca-8e78-430f27352814",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 1/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-07T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d7db088b-b822-41fc-951b-46693352406a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e143bca-9a05-43ca-8e78-430f27352814",
+   "rewards": [
+    {
+     "name": "Smith Package",
+     "minutes": 120
+    },
+    {
+     "name": "Time Jump Package",
+     "minutes": 150
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 180
+    },
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Potion Package",
+     "minutes": 30
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 60
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0e143bca-9a05-43ca-8e78-430f27352814.png"
+  },
+  {
+   "id": "b6581084-0574-452c-9c00-d881d4fea78e",
+   "game": "HITMAN World of Assassination",
+   "title": "The Herbalist #2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-07T14:00:00+00:00",
+   "endAt": "2026-09-22T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-07T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b64fc8b8-1110-4686-a4b3-56b6543ae61e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b6581084-0574-452c-9c00-d881d4fea78e",
+   "rewards": [
+    {
+     "name": "The Purple Bat",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b6581084-0574-452c-9c00-d881d4fea78e.png"
   }
  ],
  "archive": [
+  {
+   "id": "3ed94804-99c7-498e-bba2-b63448b3386d",
+   "game": "HITMAN World of Assassination",
+   "title": "The Herbalist #1",
+   "startAt": "2026-08-27T15:00:00+00:00",
+   "endAt": "2026-09-07T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512",
    "game": "Out of the Park Baseball 27",
@@ -3979,13 +4051,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.77
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.55
+   "score": 33.52
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -3997,25 +4069,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.32
+   "score": 33.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.77
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.77
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.77
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4027,19 +4099,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.4
+   "score": 11.39
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.38
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.77
   }
  },
  "favoriteWeights": {
