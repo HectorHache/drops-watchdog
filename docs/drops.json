@@ -2114,26 +2114,6 @@
    "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
   },
   {
-   "id": "e0f32d32-421f-4d48-8f48-b059dcbc8573",
-   "game": "EVE Online",
-   "title": "ATXXII Preliminaries W2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T11:00:00+00:00",
-   "endAt": "2026-09-07T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-05T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/48501dbc-0995-4e9f-999e-4722e51935be.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0f32d32-421f-4d48-8f48-b059dcbc8573",
-   "rewards": [
-    {
-     "name": "Lethal Navy Metallic",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e0f32d32-421f-4d48-8f48-b059dcbc8573.png"
-  },
-  {
    "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
    "game": "SMITE 2",
    "title": "Sept Week 1 - Ishtar!",
@@ -2607,6 +2587,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "e0f32d32-421f-4d48-8f48-b059dcbc8573",
+   "game": "EVE Online",
+   "title": "ATXXII Preliminaries W2",
+   "startAt": "2026-09-05T11:00:00+00:00",
+   "endAt": "2026-09-07T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f317cb2d-b892-4aab-b554-23aa997d329d",
    "game": "War Thunder",
@@ -3955,43 +3943,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.86
+   "score": 23.84
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 33.64
+   "score": 33.61
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.28
+   "score": 5.27
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 33.41
+   "score": 33.39
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.86
+   "score": 23.84
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.86
+   "score": 23.84
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.86
+   "score": 23.84
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4003,19 +3991,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.43
+   "score": 11.42
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.43
+   "score": 12.42
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.86
+   "score": 23.84
   }
  },
  "favoriteWeights": {
