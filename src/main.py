@@ -182,22 +182,38 @@ def _send_digest(camps, cfg, conn, dry=False):
         print(msg)
         return msg, state
     token = ntf.bot_token()
-    chat = cfg["telegram"]["group_chat_id"]
-    if not chat:
-        raise SystemExit("telegram.group_chat_id not configured")
-    ntf.send_digest(token, chat, msg)
-    # mark ledger ONLY after successful send (dedupe; retry on failure)
-    for c in state["new"]:
-        dbm.ledger_add(conn, c["id"], "NEW_CAMPAIGN", "telegram:channel")
-    for c in state["ending_24"]:
-        dbm.ledger_add(conn, c["id"], "ENDING_24H", "telegram:channel")
-    for c in state["ended"]:
-        dbm.ledger_add(conn, c["id"], "ENDED", "telegram:channel")
-    for c in state["changed"]:
-        dbm.ledger_add(conn, c["id"], "CHANGED", "telegram:channel")
-    dbm.record_event(conn, "digest_sent", payload={"chars": len(msg), "to": chat})
-    print(f"digest sent to {chat} ({len(msg)} chars; new={len(state['new'])}, "
-          f"ending24={len(state['ending_24'])}, ended={len(state['ended'])})")
+    dm_chat = cfg["telegram"].get("dm_chat_id")
+    group_chat = cfg["telegram"].get("group_chat_id")
+    targets = []
+    if dm_chat:
+        targets.append(("DM", dm_chat))
+    if group_chat and group_chat != dm_chat:
+        targets.append(("channel", group_chat))
+    if not targets:
+        raise SystemExit("Neither telegram.dm_chat_id nor telegram.group_chat_id configured")
+
+    delivered_count = 0
+    for label, target_id in targets:
+        try:
+            ntf.send_digest(token, target_id, msg)
+            delivered_count += 1
+            print(f"digest sent to {label} ({target_id})")
+        except Exception as e:
+            print(f"failed sending digest to {label} ({target_id}): {e}", file=sys.stderr)
+
+    if delivered_count > 0:
+        # mark ledger ONLY after at least one successful send (dedupe; retry on failure)
+        for c in state["new"]:
+            dbm.ledger_add(conn, c["id"], "NEW_CAMPAIGN", "telegram:digest")
+        for c in state["ending_24"]:
+            dbm.ledger_add(conn, c["id"], "ENDING_24H", "telegram:digest")
+        for c in state["ended"]:
+            dbm.ledger_add(conn, c["id"], "ENDED", "telegram:digest")
+        for c in state["changed"]:
+            dbm.ledger_add(conn, c["id"], "CHANGED", "telegram:digest")
+        dbm.record_event(conn, "digest_sent", payload={"chars": len(msg), "targets": delivered_count})
+        print(f"digest delivery complete ({len(msg)} chars; new={len(state['new'])}, "
+              f"ending24={len(state['ending_24'])}, ended={len(state['ended'])})")
     return msg, state
 
 
@@ -344,6 +360,16 @@ def cmd_steam_import(args):
     except Exception as e:
         print(f"[steam] site refresh skipped: {e}", file=sys.stderr)
     return results
+def cmd_steam_pick(args):
+    """List or auto-seed favorites from Mick's most-played Steam titles."""
+    conn = dbm.init_db(db_path())
+    si.cmd_steam_pick(conn, auto_hours=args.auto, limit=args.limit)
+    if args.auto is not None:
+        try:
+            sb.cmd_build(argparse.Namespace(db=str(db_path())))
+            commit_on_change(conn, dry=args.dry)
+        except Exception as e:
+            print(f"[steam-pick] site refresh skipped: {e}", file=sys.stderr)
 
 
 def cmd_favorite(args):
@@ -504,6 +530,10 @@ def main():
     si_cmd = sub.add_parser("steam-import", help="import Steam libraries (mick API + wifey scrape)")
     si_cmd.add_argument("--owners", default="mick,wifey", help="comma list: mick,wifey")
     si_cmd.add_argument("--dry", action="store_true", help="no site push")
+    sp = sub.add_parser("steam-pick", help="view or auto-seed favorites from Steam playtime")
+    sp.add_argument("--auto", type=float, default=None, help="auto-favorite all games with >= N hours playtime")
+    sp.add_argument("--limit", type=int, default=40, help="max games to display (default: 40)")
+    sp.add_argument("--dry", action="store_true", help="no site push")
     fav = sub.add_parser("favorite", help="manage favorites (add/rm/list)")
     fav.add_argument("fcmd", nargs="?", default="list", choices=["add", "rm", "list"])
     fav.add_argument("game", nargs="?", default=None)
@@ -512,7 +542,7 @@ def main():
     pe.add_argument("--dry", action="store_true", help="print only")
     sub.add_parser("status", help="credentials + DB status")
     args = ap.parse_args()
-    _CMD_ALIAS = {"steam-import": "cmd_steam_import"}   # dashed -> func name
+    _CMD_ALIAS = {"steam-import": "cmd_steam_import", "steam-pick": "cmd_steam_pick"}   # dashed -> func name
     target = _CMD_ALIAS.get(args.cmd, f"cmd_{args.cmd}")
     try:
         globals()[target](args)

@@ -65,6 +65,8 @@ CREATE TABLE IF NOT EXISTS steam_games (
   appid         INTEGER NOT NULL,
   name          TEXT NOT NULL,
   owner         TEXT NOT NULL,             -- mick|wifey
+  playtime_forever_min INTEGER DEFAULT 0,
+  playtime_2weeks_min  INTEGER DEFAULT 0,
   created_at    TEXT NOT NULL,
   PRIMARY KEY (appid, owner)
 );
@@ -82,6 +84,12 @@ def init_db(path: Path) -> sqlite3.Connection:
     conn.execute("PRAGMA journal_mode=WAL")
     conn.execute("PRAGMA busy_timeout=15000")
     conn.executescript(SCHEMA)
+    # migrations for existing tables
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(steam_games)").fetchall()}
+    if cols and "playtime_forever_min" not in cols:
+        conn.execute("ALTER TABLE steam_games ADD COLUMN playtime_forever_min INTEGER DEFAULT 0")
+    if cols and "playtime_2weeks_min" not in cols:
+        conn.execute("ALTER TABLE steam_games ADD COLUMN playtime_2weeks_min INTEGER DEFAULT 0")
     conn.commit()
     return conn
 
@@ -175,10 +183,22 @@ def replace_steam_games(conn, owner: str, games: list[dict]):
     now = now_iso()
     for g in games:
         conn.execute(
-            "INSERT OR IGNORE INTO steam_games (appid, name, owner, created_at) VALUES (?,?,?,?)",
-            (int(g.get("appid", 0) or 0), (g.get("name") or "").strip(), owner, now))
+            "INSERT OR IGNORE INTO steam_games (appid, name, owner, playtime_forever_min, playtime_2weeks_min, created_at) "
+            "VALUES (?,?,?,?,?,?)",
+            (int(g.get("appid", 0) or 0), (g.get("name") or "").strip(), owner,
+             int(g.get("playtime_forever", 0) or g.get("playtime_forever_min", 0) or 0),
+             int(g.get("playtime_2weeks", 0) or g.get("playtime_2weeks_min", 0) or 0),
+             now))
     conn.commit()
 
+
+def get_steam_played_games(conn, owner: str = "mick", min_minutes: int = 0) -> list[sqlite3.Row]:
+    """Return played games for owner, sorted by playtime_forever_min descending."""
+    return conn.execute(
+        "SELECT appid, name, playtime_forever_min, playtime_2weeks_min, created_at "
+        "FROM steam_games WHERE owner=? AND playtime_forever_min > ? "
+        "ORDER BY playtime_forever_min DESC",
+        (owner, min_minutes)).fetchall()
 
 def get_steam_games(conn, owners: tuple = ("mick",)) -> set[str]:
     """Owned game NAMES for the given owners (badge matching)."""

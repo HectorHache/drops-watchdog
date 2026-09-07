@@ -66,9 +66,12 @@ def get_owned_games(steamid: str, key: str, timeout: int = 60) -> list[dict]:
            f"?key={key}&steamid={steamid}&include_appinfo=1&include_played_free_games=1")
     r = _get(url, timeout=timeout)
     games = (r.get("response") or {}).get("games", [])
-    return [{"appid": int(g.get("appid", 0)), "name": (g.get("name") or "").strip()}
-            for g in games if g.get("name")]
-
+    return [{
+        "appid": int(g.get("appid", 0)),
+        "name": (g.get("name") or "").strip(),
+        "playtime_forever": int(g.get("playtime_forever", 0) or 0),
+        "playtime_2weeks": int(g.get("playtime_2weeks", 0) or 0),
+    } for g in games if g.get("name")]
 
 def import_mick(conn) -> dict:
     """Mick via API — full library (names only; we only need game names for badges)."""
@@ -78,9 +81,9 @@ def import_mick(conn) -> dict:
         raise SteamError(f"vanity '{MICK_VANITY}' not resolvable")
     games = get_owned_games(sid, key)
     dbm.replace_steam_games(conn, "mick", games)
-    print(f"[steam] mick ({sid}): {len(games)} games imported")
-    return {"owner": "mick", "steamid": sid, "count": len(games), "source": "api"}
-
+    played_count = sum(1 for g in games if g.get("playtime_forever", 0) > 0)
+    print(f"[steam] mick ({sid}): {len(games)} games imported ({played_count} with playtime)")
+    return {"owner": "mick", "steamid": sid, "count": len(games), "played": played_count, "source": "api"}
 
 def import_wifey(conn) -> dict:
     """Wifey via authenticated browser scrape (friend-shared). Uses ego-browser
@@ -167,3 +170,49 @@ def cmd_import(db: str, owners: str | None = None) -> list[dict]:
 if __name__ == "__main__":
     cmd_import(sys.argv[1] if len(sys.argv) > 1 else str(ROOT / "data" / "drops.db"),
                sys.argv[2] if len(sys.argv) > 2 else None)
+def get_top_played(conn, min_hours: float = 0.0, limit: int = 50) -> list[dict]:
+    """Get Mick's top played games from DB."""
+    min_mins = int(min_hours * 60)
+    rows = dbm.get_steam_played_games(conn, "mick", min_minutes=min_mins)
+    out = []
+    for r in rows[:limit]:
+        out.append({
+            "appid": r["appid"],
+            "name": r["name"],
+            "hours": round(r["playtime_forever_min"] / 60.0, 1),
+            "hours_2weeks": round(r["playtime_2weeks_min"] / 60.0, 1),
+        })
+    return out
+
+
+def cmd_steam_pick(conn, auto_hours: float | None = None, limit: int = 40):
+    """List or auto-seed favorites from Mick's most-played Steam titles."""
+    top = get_top_played(conn, min_hours=0.5, limit=limit)
+    if not top:
+        print("[steam-pick] No played games found in DB. Run 'python3 src/main.py steam-import' first.")
+        return
+
+    current_favs = {r["game_name"] for r in conn.execute("SELECT game_name FROM favorites")}
+
+    if auto_hours is not None:
+        added = 0
+        for g in top:
+            if g["hours"] >= auto_hours and g["name"] not in current_favs:
+                conn.execute(
+                    "INSERT OR IGNORE INTO favorites (game_name, weight, instant_alert, source, created_at) "
+                    "VALUES (?,10,1,'steam_playtime',?)", (g["name"], dbm.now_iso()))
+                added += 1
+                current_favs.add(g["name"])
+        conn.commit()
+        print(f"⭐ Auto-favorited {added} game(s) with >= {auto_hours}h playtime!")
+
+    print(f"\n🎮 Mick's Top Played Steam Games (Total: {len(top)} shown):")
+    print("━" * 58)
+    for i, g in enumerate(top, 1):
+        is_fav = "⭐ [FAV]" if g["name"] in current_favs else "  [   ]"
+        recent = f" (+{g['hours_2weeks']}h recent)" if g["hours_2weeks"] > 0 else ""
+        print(f"{i:2d}. {is_fav} {g['name']:<35} {g['hours']:>6.1f} hrs{recent}")
+    print("━" * 58)
+    print(f"Total current favorites: {len(current_favs)}")
+    print("Tip: Add any game with:  python3 src/main.py favorite add \"<Game Name>\"")
+    print("     Auto-seed with:     python3 src/main.py steam-pick --auto 20")
