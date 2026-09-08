@@ -2,26 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a",
-   "game": "World of Warcraft",
-   "title": "Sorcerer's Grassy Garb",
-   "status": "ACTIVE",
-   "startAt": "2026-08-11T17:00:00+00:00",
-   "endAt": "2026-09-08T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/947bb6bc-4b0e-47f2-8112-c6d61fb59962.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a",
-   "rewards": [
-    {
-     "name": "Ensemble: Sorcerer's Grassy Garb",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a.png"
-  },
-  {
    "id": "9bdebdf9-91c0-4ebb-a929-95861608d905",
    "game": "Cash is King!",
    "title": "Demo Release 0.3",
@@ -392,42 +372,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/55e4bee5-9ac5-4af9-97fa-4906e6468120.png"
-  },
-  {
-   "id": "5584d321-57de-48df-823b-bb9d18435f2c",
-   "game": "Splinterlands",
-   "title": "September Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-08-25T17:00:00+00:00",
-   "endAt": "2026-09-08T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d9ae990-e444-42ea-8aab-0e29d51699cc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5584d321-57de-48df-823b-bb9d18435f2c",
-   "rewards": [
-    {
-     "name": "1000 Glint",
-     "minutes": 180
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 360
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 540
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 720
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5584d321-57de-48df-823b-bb9d18435f2c.png"
   },
   {
    "id": "0f1b1514-fe01-4f81-8fea-d35049d204cd",
@@ -2756,9 +2700,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/13682449-bc5c-403b-8d43-7cfda29fec70.png"
+  },
+  {
+   "id": "b23998e0-a1d9-4883-8fb0-5c177ab3f164",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R4 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T17:00:00+00:00",
+   "endAt": "2026-09-08T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-08T17:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6cbb72f9-fc69-438c-baab-3e3e251fa9fc.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b23998e0-a1d9-4883-8fb0-5c177ab3f164",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b23998e0-a1d9-4883-8fb0-5c177ab3f164.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "5584d321-57de-48df-823b-bb9d18435f2c",
+   "game": "Splinterlands",
+   "title": "September Week 1",
+   "startAt": "2026-08-25T17:00:00+00:00",
+   "endAt": "2026-09-08T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a",
+   "game": "World of Warcraft",
+   "title": "Sorcerer's Grassy Garb",
+   "startAt": "2026-08-11T17:00:00+00:00",
+   "endAt": "2026-09-08T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "05a8f884-cb18-4206-93fb-509264b6d5e0",
    "game": "Dead by Daylight",
@@ -4387,43 +4371,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.16
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.69
+   "score": 32.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.13
+   "score": 5.12
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.47
+   "score": 32.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.16
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4435,19 +4419,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.11
+   "score": 11.1
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.08
+   "score": 12.07
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.16
   }
  },
  "favoriteWeights": {

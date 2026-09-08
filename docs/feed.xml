@@ -5,13 +5,6 @@
   <link>https://drops.hache.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>World of Warcraft — Sorcerer's Grassy Garb</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a</link>
-    <guid isPermaLink="false">8ac3cc4f-870f-4f72-a6e7-f9aebd1f8d5a</guid>
-    <description>Ensemble: Sorcerer's Grassy Garb — runs 2026-08-11T17:00:00+00:00 → 2026-09-08T16:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-11T17:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Cash is King! — Demo Release 0.3</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=9bdebdf9-91c0-4ebb-a929-95861608d905</link>
     <guid isPermaLink="false">9bdebdf9-91c0-4ebb-a929-95861608d905</guid>
@@ -94,13 +87,6 @@
     <guid isPermaLink="false">55e4bee5-9ac5-4af9-97fa-4906e6468120</guid>
     <description>NBA 2K27 Season 1 Code (45m) · NBA 2K27 Season 1 Code (2hr) · NBA 2K27 Season 1 Code (4hr) — runs 2026-08-25T16:00:00+00:00 → 2026-09-22T15:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-08-25T16:00:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Splinterlands — September Week 1</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=5584d321-57de-48df-823b-bb9d18435f2c</link>
-    <guid isPermaLink="false">5584d321-57de-48df-823b-bb9d18435f2c</guid>
-    <description>1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint — runs 2026-08-25T17:00:00+00:00 → 2026-09-08T16:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-25T17:00:00+00:00</pubDate>
   </item>
   <item>
     <title>Once Human — Console Launch Drops</title>
@@ -353,6 +339,20 @@
     <guid isPermaLink="false">5745990b-ede0-4b6f-a3a1-789d1b913d5a</guid>
     <description>Gilded Package · Construction Package · Arcane Package · Soul Taker Package · Fortification Package · Smith Package — runs 2026-09-04T14:00:00+00:00 → 2026-09-10T21:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-04T14:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Mir Korabley — Обновление 26.9: Часть 1</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=9165080b-f268-43b5-9561-f5516a1b2fdb</link>
+    <guid isPermaLink="false">9165080b-f268-43b5-9561-f5516a1b2fdb</guid>
+    <description>Награды в эфире 26.9 #1 — runs 2026-09-04T15:00:00+00:00 → 2026-09-11T14:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-04T15:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>MARVEL Contest of Champions — September Week 1</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=57d28902-3e1f-4430-8414-2a6b714e56ba</link>
+    <guid isPermaLink="false">57d28902-3e1f-4430-8414-2a6b714e56ba</guid>
+    <description>Drop 1 - 5x Energy &amp; 3x L2 Revives · Drop 2 - 1x Observance · Drop 3 - PRG Gated Rank-Up Gem Crystal · Drop 4 - 1x Observance · Drop 5 - PRG Gated Ascension Materials · Drop 6 - PRG Gated Signature Stones — runs 2026-09-04T18:30:00+00:00 → 2026-09-11T16:44:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-04T18:30:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
