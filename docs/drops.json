@@ -1618,34 +1618,6 @@
    "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
   },
   {
-   "id": "09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
-   "game": "World of Tanks Console",
-   "title": "Mayhem Weekend 6",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T16:00:00+00:00",
-   "endAt": "2026-09-08T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T16:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f085a1c1-a4f0-4b41-852a-85ba90f38e6a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
-   "rewards": [
-    {
-     "name": "5 x1.25 Silver Boosters",
-     "minutes": 120
-    },
-    {
-     "name": "Camo Voucher",
-     "minutes": 240
-    },
-    {
-     "name": "Modern Armor Blobs Camo",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/09b7ea3c-50d0-483b-85d7-4d1fe6a7505e.png"
-  },
-  {
    "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 1",
@@ -2560,9 +2532,241 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/de253dac-3f0e-4a55-8daf-432da97ef8da.png"
+  },
+  {
+   "id": "0ea81c31-1547-485f-83c2-f93656dfa0fd",
+   "game": "Night Crows",
+   "title": "NC DROPS_SSS (26_SEP)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T09:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f87a34f3-8ad2-4e2b-9c35-2c87c2e26bed.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ea81c31-1547-485f-83c2-f93656dfa0fd",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpg"
+  },
+  {
+   "id": "e813f285-2992-4e0e-9b75-c20c2ec539a4",
+   "game": "Night Crows",
+   "title": "NC DROPS ALL (26_SEP)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T09:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0df8a958-847c-4c97-8403-8f06b992f561.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e813f285-2992-4e0e-9b75-c20c2ec539a4",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpg"
+  },
+  {
+   "id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_ALL (26_SEP)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T09:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61a01cc7-9ba3-40a7-afe0-7e8d8ab91250.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1c6330d1-3e5c-48a9-a07f-ee1058fe9765",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpg"
+  },
+  {
+   "id": "771ba310-56c6-4a12-94d2-a9deeca752e1",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_SSS (26_SEP)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T09:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f91e7633-d502-425a-9bc9-bbd6b5aabb09.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=771ba310-56c6-4a12-94d2-a9deeca752e1",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/771ba310-56c6-4a12-94d2-a9deeca752e1.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "09b7ea3c-50d0-483b-85d7-4d1fe6a7505e",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 6",
+   "startAt": "2026-09-04T16:00:00+00:00",
+   "endAt": "2026-09-08T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b3bf7ef1-3d9a-4438-8ef9-9fd6f8e92e26",
    "game": "GunZ: The Duel",
@@ -4095,43 +4299,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.36
+   "score": 23.35
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.94
+   "score": 32.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.17
+   "score": 5.16
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.72
+   "score": 32.7
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.36
+   "score": 23.35
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.36
+   "score": 23.35
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.36
+   "score": 23.35
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4149,13 +4353,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.17
+   "score": 12.16
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.36
+   "score": 23.35
   }
  },
  "favoriteWeights": {
