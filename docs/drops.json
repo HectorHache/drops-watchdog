@@ -2458,6 +2458,26 @@
    "asset": "assets/1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95.png"
   },
   {
+   "id": "72c07412-ffee-4c3d-b46d-ded8c8626aab",
+   "game": "Solasta II",
+   "title": "Solasta II Game Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T10:30:52+00:00",
+   "endAt": "2026-09-29T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T16:30:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8a92dc59-639f-4235-88f9-00c9f765983d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=72c07412-ffee-4c3d-b46d-ded8c8626aab",
+   "rewards": [
+    {
+     "name": "Solasta 2 Multiplayer",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/72c07412-ffee-4c3d-b46d-ded8c8626aab.png"
+  },
+  {
    "id": "c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 8)",
@@ -2672,6 +2692,70 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
+  },
+  {
+   "id": "1060f184-4e9e-4600-9ab3-743c2ddc609e",
+   "game": "World of Tanks Console",
+   "title": "Rush the Stage Act 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T15:30:00+00:00",
+   "endAt": "2026-09-08T18:29:59.999+00:00",
+   "firstSeenAt": "2026-09-08T15:30:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2b670d6c-8a2e-4014-80fa-82cb124c52a1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1060f184-4e9e-4600-9ab3-743c2ddc609e",
+   "rewards": [
+    {
+     "name": "Lets Rock Camo Set ",
+     "minutes": 90
+    },
+    {
+     "name": "2 Fire Sounds Emblems",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1060f184-4e9e-4600-9ab3-743c2ddc609e.png"
+  },
+  {
+   "id": "240ff349-6b1c-4f70-8e34-261a4da21d17",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T16:00:00+00:00",
+   "endAt": "2026-09-08T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T16:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0a4d9bf-222e-42cb-8815-a1f7f24225a9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=240ff349-6b1c-4f70-8e34-261a4da21d17",
+   "rewards": [
+    {
+     "name": "Violet Hold Pack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/240ff349-6b1c-4f70-8e34-261a4da21d17.png"
+  },
+  {
+   "id": "13682449-bc5c-403b-8d43-7cfda29fec70",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Start",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T16:00:00+00:00",
+   "endAt": "2026-09-08T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T16:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5ceb6fdb-4960-4bd2-8f2d-93f5a11ee26b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=13682449-bc5c-403b-8d43-7cfda29fec70",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/13682449-bc5c-403b-8d43-7cfda29fec70.png"
   }
  ],
  "archive": [
@@ -4303,13 +4387,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.22
+   "score": 23.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.74
+   "score": 32.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4321,49 +4405,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.51
+   "score": 32.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.22
+   "score": 23.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.22
+   "score": 23.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.22
+   "score": 23.18
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.57
+   "score": 2.56
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.12
+   "score": 11.11
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.09
+   "score": 12.08
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.22
+   "score": 23.18
   }
  },
  "favoriteWeights": {
