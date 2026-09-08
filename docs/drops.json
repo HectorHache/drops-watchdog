@@ -1926,38 +1926,6 @@
    "asset": "assets/69545e1a-30da-40bf-afc3-465aa035048c.png"
   },
   {
-   "id": "3d2a77a0-aba3-4073-a0b2-e36209aa42a2",
-   "game": "Marbles on Stream",
-   "title": "MarbleFest - Sept'26-Day1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T13:00:00+00:00",
-   "endAt": "2026-09-08T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T13:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/50502ed2-d9f6-4bc2-97d8-0ccad863fa77.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3d2a77a0-aba3-4073-a0b2-e36209aa42a2",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3d2a77a0-aba3-4073-a0b2-e36209aa42a2.png"
-  },
-  {
    "id": "63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5",
    "game": "Out of the Park Baseball 27",
    "title": "Official 18",
@@ -2672,9 +2640,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9f24bc3f-9794-4245-89c8-93c55bec9a4e.png"
+  },
+  {
+   "id": "30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T14:00:00+00:00",
+   "endAt": "2026-09-09T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T14:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ad9d446e-afe9-45f5-a4a6-d34bdefedde3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30dd6dfa-ac46-46bf-80d7-c2823993c8ec.png"
   }
  ],
  "archive": [
+  {
+   "id": "3d2a77a0-aba3-4073-a0b2-e36209aa42a2",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day1",
+   "startAt": "2026-09-07T13:00:00+00:00",
+   "endAt": "2026-09-08T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "950d0eb9-ba69-4597-8568-81b896485e2c",
    "game": "Out of the Park Baseball 27",
@@ -4271,13 +4279,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.23
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.78
+   "score": 32.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4289,25 +4297,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.56
+   "score": 32.53
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.23
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.23
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.23
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4319,19 +4327,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.14
+   "score": 11.13
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.23
   }
  },
  "favoriteWeights": {
