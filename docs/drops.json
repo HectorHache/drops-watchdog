@@ -1934,46 +1934,6 @@
    "asset": "assets/e4388bac-505a-4c92-9c80-af3cc9a27c7f.jpg"
   },
   {
-   "id": "8e469836-d87b-4759-b24b-c4feba165f16",
-   "game": "Rise Online",
-   "title": "Mobile Drop 151",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T17:59:00+00:00",
-   "endAt": "2026-09-08T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-07T18:00:45+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81346b06-565a-4835-8cf7-12ef72bcc1e4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e469836-d87b-4759-b24b-c4feba165f16",
-   "rewards": [
-    {
-     "name": "Mobile Drop 151",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8e469836-d87b-4759-b24b-c4feba165f16.png"
-  },
-  {
-   "id": "81571f82-5997-4e22-9477-2d8057cea495",
-   "game": "Rise Online",
-   "title": "ROW Drop 580",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T17:59:00+00:00",
-   "endAt": "2026-09-08T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-07T18:00:45+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4c0c0268-f69b-4834-972f-924d9cb0d1aa.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=81571f82-5997-4e22-9477-2d8057cea495",
-   "rewards": [
-    {
-     "name": "ROW Drop 580",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/81571f82-5997-4e22-9477-2d8057cea495.png"
-  },
-  {
    "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 2",
@@ -2638,30 +2598,6 @@
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
   },
   {
-   "id": "1060f184-4e9e-4600-9ab3-743c2ddc609e",
-   "game": "World of Tanks Console",
-   "title": "Rush the Stage Act 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T15:30:00+00:00",
-   "endAt": "2026-09-08T18:29:59.999+00:00",
-   "firstSeenAt": "2026-09-08T15:30:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2b670d6c-8a2e-4014-80fa-82cb124c52a1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1060f184-4e9e-4600-9ab3-743c2ddc609e",
-   "rewards": [
-    {
-     "name": "Lets Rock Camo Set ",
-     "minutes": 90
-    },
-    {
-     "name": "2 Fire Sounds Emblems",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1060f184-4e9e-4600-9ab3-743c2ddc609e.png"
-  },
-  {
    "id": "240ff349-6b1c-4f70-8e34-261a4da21d17",
    "game": "Hearthstone",
    "title": "HS Worlds 26 Groups Day 1",
@@ -2702,31 +2638,79 @@
    "asset": "assets/13682449-bc5c-403b-8d43-7cfda29fec70.png"
   },
   {
-   "id": "b23998e0-a1d9-4883-8fb0-5c177ab3f164",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R4 (2)",
+   "id": "7b72cafd-0561-4bce-b12c-5b06fc68cad7",
+   "game": "Rise Online",
+   "title": "Mobile Drop 152",
    "status": "ACTIVE",
-   "startAt": "2026-09-08T17:00:00+00:00",
-   "endAt": "2026-09-08T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-08T17:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6cbb72f9-fc69-438c-baab-3e3e251fa9fc.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b23998e0-a1d9-4883-8fb0-5c177ab3f164",
+   "startAt": "2026-09-08T17:59:00+00:00",
+   "endAt": "2026-09-09T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-08T18:00:54+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8831780-1134-46c0-9bea-be5af0f2ef6b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b72cafd-0561-4bce-b12c-5b06fc68cad7",
    "rewards": [
     {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
+     "name": "Mobile Drop 152",
+     "minutes": 240
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/b23998e0-a1d9-4883-8fb0-5c177ab3f164.jpg"
+   "asset": "assets/7b72cafd-0561-4bce-b12c-5b06fc68cad7.png"
+  },
+  {
+   "id": "da448cba-0ece-4b6e-8143-75f5e4b9b41e",
+   "game": "Rise Online",
+   "title": "ROW Drop 581",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T17:59:00+00:00",
+   "endAt": "2026-09-09T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-08T18:00:54+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0a451f87-9585-4aa2-8d85-d0e42d3bd226.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=da448cba-0ece-4b6e-8143-75f5e4b9b41e",
+   "rewards": [
+    {
+     "name": "ROW Drop 581",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/da448cba-0ece-4b6e-8143-75f5e4b9b41e.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "b23998e0-a1d9-4883-8fb0-5c177ab3f164",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R4 (2)",
+   "startAt": "2026-09-08T17:00:00+00:00",
+   "endAt": "2026-09-08T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1060f184-4e9e-4600-9ab3-743c2ddc609e",
+   "game": "World of Tanks Console",
+   "title": "Rush the Stage Act 2",
+   "startAt": "2026-09-08T15:30:00+00:00",
+   "endAt": "2026-09-08T18:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8e469836-d87b-4759-b24b-c4feba165f16",
+   "game": "Rise Online",
+   "title": "Mobile Drop 151",
+   "startAt": "2026-09-07T17:59:00+00:00",
+   "endAt": "2026-09-08T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "81571f82-5997-4e22-9477-2d8057cea495",
+   "game": "Rise Online",
+   "title": "ROW Drop 580",
+   "startAt": "2026-09-07T17:59:00+00:00",
+   "endAt": "2026-09-08T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5584d321-57de-48df-823b-bb9d18435f2c",
    "game": "Splinterlands",
@@ -4371,43 +4355,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.12
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.66
+   "score": 32.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.12
+   "score": 5.11
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.43
+   "score": 32.37
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.12
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.12
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.12
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4419,19 +4403,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.1
+   "score": 11.07
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.07
+   "score": 12.04
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.12
   }
  },
  "favoriteWeights": {
