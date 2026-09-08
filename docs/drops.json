@@ -134,38 +134,6 @@
    "asset": "assets/57c84a37-de55-4de4-ba40-331029d9cab7.png"
   },
   {
-   "id": "ac46850b-745e-45d2-b7b3-494c17e30127",
-   "game": "Mahjong Soul",
-   "title": "26.8 Summer Event",
-   "status": "ACTIVE",
-   "startAt": "2026-08-19T03:00:00+00:00",
-   "endAt": "2026-09-08T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b27ec98a-2149-4cf1-9cf2-ba2b2966032d.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac46850b-745e-45d2-b7b3-494c17e30127",
-   "rewards": [
-    {
-     "name": "Reward 1",
-     "minutes": 15
-    },
-    {
-     "name": "Reward 2",
-     "minutes": 30
-    },
-    {
-     "name": "Reward 3",
-     "minutes": 60
-    },
-    {
-     "name": "Reward 4",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ac46850b-745e-45d2-b7b3-494c17e30127.jpg"
-  },
-  {
    "id": "94084529-b24c-4d1a-9863-e815865f16f5",
    "game": "Blue Protocol: Star Resonance",
    "title": "Season 3 Special Drops",
@@ -2680,6 +2648,14 @@
  ],
  "archive": [
   {
+   "id": "ac46850b-745e-45d2-b7b3-494c17e30127",
+   "game": "Mahjong Soul",
+   "title": "26.8 Summer Event",
+   "startAt": "2026-08-19T03:00:00+00:00",
+   "endAt": "2026-09-08T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "b23998e0-a1d9-4883-8fb0-5c177ab3f164",
    "game": "Tanki Online",
    "title": "WMR2 2026 R4 (2)",
@@ -4355,43 +4331,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.09
+   "score": 23.08
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.56
+   "score": 32.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.11
+   "score": 5.1
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.34
+   "score": 32.33
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.09
+   "score": 23.08
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.09
+   "score": 23.08
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.09
+   "score": 23.08
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4409,13 +4385,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.03
+   "score": 12.02
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.09
+   "score": 23.08
   }
  },
  "favoriteWeights": {
