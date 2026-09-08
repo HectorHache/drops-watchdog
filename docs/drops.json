@@ -1926,26 +1926,6 @@
    "asset": "assets/69545e1a-30da-40bf-afc3-465aa035048c.png"
   },
   {
-   "id": "f867dd64-b7c8-4a6a-b385-ba756c381f1e",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 7)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T12:00:00+00:00",
-   "endAt": "2026-09-08T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T12:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56473214-99eb-4c6a-bb02-c15459f1cc9c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f867dd64-b7c8-4a6a-b385-ba756c381f1e",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 7)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/f867dd64-b7c8-4a6a-b385-ba756c381f1e.png"
-  },
-  {
    "id": "950d0eb9-ba69-4597-8568-81b896485e2c",
    "game": "Out of the Park Baseball 27",
    "title": "EVCinNYC 9/7/26",
@@ -2688,9 +2668,69 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95.png"
+  },
+  {
+   "id": "c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 8)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T12:00:00+00:00",
+   "endAt": "2026-09-09T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T12:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c47e5c4c-1090-4f33-a8da-6e361a50f5e9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 8)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d.png"
+  },
+  {
+   "id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
+   "game": "Grand Theft Auto V",
+   "title": "nopixel V",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T12:00:00+00:00",
+   "endAt": "2026-09-30T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-08T12:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/800525f2-bd33-4e00-9a94-f84f66770eeb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
+   "rewards": [
+    {
+     "name": "GTA$250K",
+     "minutes": 60
+    },
+    {
+     "name": "GTA$250K",
+     "minutes": 120
+    },
+    {
+     "name": "Burger Shot Tracksuit",
+     "minutes": 360
+    },
+    {
+     "name": "GTA$1M",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "f867dd64-b7c8-4a6a-b385-ba756c381f1e",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 7)",
+   "startAt": "2026-09-07T12:00:00+00:00",
+   "endAt": "2026-09-08T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "82586b2d-3d8b-42fa-b9c5-6a4b4e6fe4c8",
    "game": "Hunt Club On Stream",
@@ -4263,13 +4303,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.3
+   "score": 23.27
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.85
+   "score": 32.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4281,49 +4321,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.62
+   "score": 32.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.3
+   "score": 23.27
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.3
+   "score": 23.27
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.3
+   "score": 23.27
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.58
+   "score": 2.57
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.15
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.12
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.3
+   "score": 23.27
   }
  },
  "favoriteWeights": {
