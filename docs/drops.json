@@ -1054,34 +1054,6 @@
    "asset": "assets/4f140c7d-c750-4c74-96a6-ae8c52fe221a.png"
   },
   {
-   "id": "086f67a6-8db3-4e9e-92a2-6be857335056",
-   "game": "World of Tanks Console",
-   "title": "Masters of Mayhem Week 6",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T15:00:00+00:00",
-   "endAt": "2026-09-08T09:57:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/71c4de0c-c018-4fea-8e08-fcbbbcb052bf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=086f67a6-8db3-4e9e-92a2-6be857335056",
-   "rewards": [
-    {
-     "name": "10 Enhanced Med Kits",
-     "minutes": 120
-    },
-    {
-     "name": "4 x3 Vehicle XP Boosters",
-     "minutes": 240
-    },
-    {
-     "name": "2 x6 Commander XP Boosters",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/086f67a6-8db3-4e9e-92a2-6be857335056.png"
-  },
-  {
    "id": "b007b04a-ac60-4f4e-8d82-d9be40a74dd1",
    "game": "RavenQuest",
    "title": "September 01",
@@ -2716,9 +2688,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/771ba310-56c6-4a12-94d2-a9deeca752e1.jpg"
+  },
+  {
+   "id": "52a9edc4-ce3f-4368-a001-53ced269f5e7",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T10:00:00+00:00",
+   "endAt": "2026-09-09T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-08T10:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b158eb67-8d2c-4c4d-bb75-8c36712800ae.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52a9edc4-ce3f-4368-a001-53ced269f5e7",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/52a9edc4-ce3f-4368-a001-53ced269f5e7.png"
+  },
+  {
+   "id": "1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T10:00:00+00:00",
+   "endAt": "2026-09-09T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-08T10:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9efd2df-498e-4848-9225-d88e8bd1cfbd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95.png"
   }
  ],
  "archive": [
+  {
+   "id": "086f67a6-8db3-4e9e-92a2-6be857335056",
+   "game": "World of Tanks Console",
+   "title": "Masters of Mayhem Week 6",
+   "startAt": "2026-09-01T15:00:00+00:00",
+   "endAt": "2026-09-08T09:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e71144f4-090b-4ec1-bf51-542dd0eddb99",
    "game": "Albion Online",
@@ -4275,13 +4295,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.34
+   "score": 23.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.91
+   "score": 32.88
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4293,25 +4313,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.69
+   "score": 32.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.34
+   "score": 23.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.34
+   "score": 23.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.34
+   "score": 23.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4323,19 +4343,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.16
+   "score": 12.15
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.34
+   "score": 23.32
   }
  },
  "favoriteWeights": {
