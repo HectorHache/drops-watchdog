@@ -3,7 +3,7 @@
 
 Provides an in-CLI interactive session to browse played Steam games, search,
 toggle/batch-select favorites, auto-seed by hours, and sync changes to drops.db
-and the public drops.hache.app site. Stdlib only.
+and the public drops.hector.app site. Stdlib only.
 """
 import os
 import re
@@ -144,7 +144,7 @@ class SteamFavoritesPicker:
 
         print()
         print(f"{CLR_PURPLE_BOLD}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓{CLR_RESET}")
-        print(f"{CLR_PURPLE_BOLD}┃{CLR_RESET}  🎮 {CLR_BOLD}MICK'S STEAM FAVORITES SELECTOR{CLR_RESET} ── {CLR_CYAN}drops.hache.app{CLR_RESET}        {CLR_PURPLE_BOLD}┃{CLR_RESET}")
+        print(f"{CLR_PURPLE_BOLD}┃{CLR_RESET}  🎮 {CLR_BOLD}MICK'S STEAM FAVORITES SELECTOR{CLR_RESET} ── {CLR_CYAN}drops.hector.app{CLR_RESET}        {CLR_PURPLE_BOLD}┃{CLR_RESET}")
         print(f"{CLR_PURPLE_BOLD}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫{CLR_RESET}")
         status_line = (f"  Total Played: {CLR_BOLD}{total_played}{CLR_RESET}  │  "
                        f"Favorites: {CLR_GOLD}{total_favs}{CLR_RESET}{CLR_AMBER}{dirty_flag}{CLR_RESET}  │  "
