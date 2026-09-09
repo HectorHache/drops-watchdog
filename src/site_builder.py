@@ -184,7 +184,7 @@ def build_feed(data: dict) -> str:
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0">\n<channel>\n'
         "  <title>Twitch Drops Watchdog</title>\n"
-        "  <link>https://drops.hache.app</link>\n"
+        "  <link>https://drops.hector.app</link>\n"
         "  <description>Active Twitch drop campaigns with rewards and countdowns</description>\n"
         + "\n".join(items) + "\n</channel>\n</rss>\n"
     )
@@ -213,7 +213,7 @@ def cmd_build(args):
 
     (DOCS / "drops.json").write_text(json.dumps(data, indent=1))
     (DOCS / "_headers").write_text(HEADERS)
-    (DOCS / "CNAME").write_text("drops.hache.app\n")
+    (DOCS / "CNAME").write_text("drops.hector.app\n")
     if TEMPLATE.exists():
         # deterministic: index.html is byte-identical to the template on every build
         (DOCS / "index.html").write_text(TEMPLATE.read_text())
