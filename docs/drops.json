@@ -2202,38 +2202,6 @@
    "asset": "assets/4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c.jpg"
   },
   {
-   "id": "30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
-   "game": "Marbles on Stream",
-   "title": "MarbleFest - Sept'26-Day2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T14:00:00+00:00",
-   "endAt": "2026-09-09T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T14:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ad9d446e-afe9-45f5-a4a6-d34bdefedde3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/30dd6dfa-ac46-46bf-80d7-c2823993c8ec.png"
-  },
-  {
    "id": "8a4038d8-0d66-4f61-bece-12da577e87af",
    "game": "World of Tanks Console",
    "title": "Masters of Mayhem Week 7",
@@ -2624,9 +2592,113 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5ff97138-e8fe-4667-aeba-af4bbfda75d1.png"
+  },
+  {
+   "id": "3e1d96de-8166-415a-a738-6a888c8c9cfc",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-10T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T14:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5eada1b5-00f6-4b7e-a37c-d2a640480b29.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e1d96de-8166-415a-a738-6a888c8c9cfc",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3e1d96de-8166-415a-a738-6a888c8c9cfc.jpg"
+  },
+  {
+   "id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-10T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T14:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86a399d6-1ae7-40ee-821f-bdffdd0685c9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f91a5cf6-2bca-4dbe-9eef-cb30a1b23727.png"
+  },
+  {
+   "id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-09T14:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c35807bd-8933-42ad-bd68-40b0b2436a8f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20dffd3a-9175-4ad3-8766-134c0cfb3f58",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/20dffd3a-9175-4ad3-8766-134c0cfb3f58.png"
   }
  ],
  "archive": [
+  {
+   "id": "30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day2",
+   "startAt": "2026-09-08T14:00:00+00:00",
+   "endAt": "2026-09-09T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9f24bc3f-9794-4245-89c8-93c55bec9a4e",
    "game": "Out of the Park Baseball 27",
@@ -4423,13 +4495,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.72
+   "score": 22.7
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.03
+   "score": 32.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4441,25 +4513,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.82
+   "score": 31.79
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.72
+   "score": 22.7
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.72
+   "score": 22.7
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.72
+   "score": 22.7
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4471,19 +4543,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.88
+   "score": 10.87
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.84
+   "score": 11.82
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.72
+   "score": 22.7
   }
  },
  "favoriteWeights": {
