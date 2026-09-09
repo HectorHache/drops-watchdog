@@ -942,30 +942,6 @@
    "asset": "assets/e0ed32bc-7ecb-451b-8b1a-7953847dcb72.png"
   },
   {
-   "id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T16:00:00+00:00",
-   "endAt": "2026-09-09T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-02T16:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb008cdd-2eea-4335-94d8-8369f0a1f3dd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack + M60A3E2 Camo",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c55b5ce6-d992-4d31-a8c7-f039525dfaf7.png"
-  },
-  {
    "id": "273782f3-2251-4510-9d8f-920b37f6b7bb",
    "game": "Krunker",
    "title": "September Spins Update",
@@ -2688,9 +2664,109 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/20dffd3a-9175-4ad3-8766-134c0cfb3f58.png"
+  },
+  {
+   "id": "47d06308-2684-4a77-b693-fcc056d4fee3",
+   "game": "For Honor",
+   "title": "Warrior's Den Sep 26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T15:50:00+00:00",
+   "endAt": "2026-09-09T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T16:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/860e8b5a-b736-4976-aa45-7dd635daa9a0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=47d06308-2684-4a77-b693-fcc056d4fee3",
+   "rewards": [
+    {
+     "name": "Tier 1",
+     "minutes": 30
+    },
+    {
+     "name": "Tier 2",
+     "minutes": 60
+    },
+    {
+     "name": "Tier 3",
+     "minutes": 90
+    },
+    {
+     "name": "Tier 4",
+     "minutes": 120
+    },
+    {
+     "name": "Tier 5",
+     "minutes": 150
+    },
+    {
+     "name": "Tier 6",
+     "minutes": 180
+    },
+    {
+     "name": "Tier 7",
+     "minutes": 210
+    },
+    {
+     "name": "Tier 8",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/47d06308-2684-4a77-b693-fcc056d4fee3.jpg"
+  },
+  {
+   "id": "e758eae0-d7fb-4da3-8a26-7df1b172ec37",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T16:00:00+00:00",
+   "endAt": "2026-09-09T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T16:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5700dca1-0f7e-401f-81a9-7ca3ba99104d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e758eae0-d7fb-4da3-8a26-7df1b172ec37",
+   "rewards": [
+    {
+     "name": "Violet Hold Pack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e758eae0-d7fb-4da3-8a26-7df1b172ec37.png"
+  },
+  {
+   "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T16:00:00+00:00",
+   "endAt": "2026-09-16T15:58:59.999+00:00",
+   "firstSeenAt": "2026-09-09T16:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4b29df2-04cb-4a9f-b184-6bc326097ec0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7.png"
   }
  ],
  "archive": [
+  {
+   "id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 1",
+   "startAt": "2026-09-02T16:00:00+00:00",
+   "endAt": "2026-09-09T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "30dd6dfa-ac46-46bf-80d7-c2823993c8ec",
    "game": "Marbles on Stream",
@@ -4495,13 +4571,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.68
+   "score": 22.65
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.97
+   "score": 31.94
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4513,49 +4589,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.76
+   "score": 31.72
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.68
+   "score": 22.65
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.68
+   "score": 22.65
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.68
+   "score": 22.65
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.51
+   "score": 2.5
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.86
+   "score": 10.85
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.68
+   "score": 22.65
   }
  },
  "favoriteWeights": {
