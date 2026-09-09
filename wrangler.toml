@@ -1,0 +1,7 @@
+# drops-watchdog site -> hector-drops Worker (static assets from docs/).
+# Custom domain (drops.hector.app) is attached in CF; no routes managed from CI.
+name = "hector-drops"
+compatibility_date = "2026-09-08"
+workers_dev = true
+
+assets = { directory = "./docs" }
