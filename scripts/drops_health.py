@@ -5,7 +5,7 @@ Checks, every run:
   - last successful seed age (staleness: Hermes/Mac down, gateway gap)
   - Twitch auth age vs 25-day max (2FA ~30-day session)
   - recent fetch failures (3+ consecutive)
-  - site reachability (drops.hache.app + drops-watchdog.pages.dev)
+  - site reachability (drops.hector.app + drops-watchdog.pages.dev)
   - DB integrity (campaigns/events counts sane)
 
 Cron: hermes cron create "0 9 * * 1" --name drops-health
@@ -81,7 +81,7 @@ def check(conn) -> list[str]:
         issues.append(f"⚠️ {errs} fetch/error events in 48h — check Twitch auth/rate-limit")
 
     # 4) site reachability
-    for name, url in (("drops.hache.app", "https://drops.hache.app/"),
+    for name, url in (("drops.hector.app", "https://drops.hector.app/"),
                       ("pages.dev", "https://drops-watchdog.pages.dev/")):
         if not _reachable(url):
             issues.append(f"⚠️ Site DOWN: {name}")
