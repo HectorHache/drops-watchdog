@@ -229,13 +229,6 @@
     <pubDate>2026-09-02T02:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>World of Tanks: HEAT — HEAT Season 2 - Week 1</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=c55b5ce6-d992-4d31-a8c7-f039525dfaf7</link>
-    <guid isPermaLink="false">c55b5ce6-d992-4d31-a8c7-f039525dfaf7</guid>
-    <description>Vehicle XP Booster · Booster Pack + M60A3E2 Camo — runs 2026-09-02T16:00:00+00:00 → 2026-09-09T15:58:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-02T16:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Krunker — September Spins Update</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=273782f3-2251-4510-9d8f-920b37f6b7bb</link>
     <guid isPermaLink="false">273782f3-2251-4510-9d8f-920b37f6b7bb</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=bf82818f-dba3-48fc-88c3-7472f577547e</link>
     <guid isPermaLink="false">bf82818f-dba3-48fc-88c3-7472f577547e</guid>
     <description>Cavalry Banner — runs 2026-09-05T16:30:00+00:00 → 2026-10-03T16:29:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-05T16:30:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Sid Meier's Civilization VII — Civ VII PAX 26 Livestream</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=a82abb82-628f-4df5-a2bb-5df8cc373983</link>
+    <guid isPermaLink="false">a82abb82-628f-4df5-a2bb-5df8cc373983</guid>
+    <description>Exploration Age Banner — runs 2026-09-05T16:30:00+00:00 → 2026-10-03T16:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-05T16:30:00+00:00</pubDate>
   </item>
 </channel>
