@@ -217,7 +217,7 @@ def cmd_test(args):
         "━━━━━━━━━━━━━━━━━━━━━━\n"
         "✅ Channel delivery works!\n"
         "📅 This is the <b>Phase 2 approval test</b>.\n"
-        "🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>"
+        "🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>"
     )
     for label, chat in (("channel", cfg["telegram"]["group_chat_id"]),
                         ("DM", cfg["telegram"]["dm_chat_id"])):
@@ -434,7 +434,7 @@ def _send_personal(camps, cfg, conn, dry=False):
             lines.append(f"   🏆 {names}")
         lines.append(f"   🔗 <a href=\"{wd._esc(c['details_url'])}\">Open drop</a>")
     lines.append("━━━━━━━━━━━━━━━━━━━━━━")
-    lines.append(f"🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>")
+    lines.append(f"🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>")
     msg = "\n".join(lines)
     if dry:
         print(msg)

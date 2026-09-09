@@ -226,7 +226,7 @@ def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
         lines.append("")
 
     lines.append("━━━━━━━━━━━━━━━━━━━━━━")
-    lines.append(f"📊 {state['active_count']} active · 🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>")
+    lines.append(f"📊 {state['active_count']} active · 🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>")
     # cap: keep whole LINES only (tags never span lines in this composer, so a
     # newline boundary can never cut a tag -> Telegram HTML always parses)
     msg = "\n".join(lines)
@@ -238,7 +238,7 @@ def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
                 break
             kept.append(ln)
             total += add
-        msg = "\n".join(kept).rstrip() + f"\n…+ more on <a href=\"https://drops.hache.app\">drops.hache.app</a>"
+        msg = "\n".join(kept).rstrip() + f"\n…+ more on <a href=\"https://drops.hector.app\">drops.hector.app</a>"
     return msg
 def compose_digests_multipart(state: dict, now: datetime.datetime, tz_name: str,
                               favorites: set | None = None, cap: int = 3800,

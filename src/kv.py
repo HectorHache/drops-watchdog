@@ -7,7 +7,7 @@ local SQLite DB each sync, so the watchdog can act on them with zero always-on
 server (KV is the round-trip bus).
 
 Pulls:
-  GET https://drops.hache.app/api/interactions?since=<last_pulled_ts>
+  GET https://drops.hector.app/api/interactions?since=<last_pulled_ts>
 Applies:
   - favorite(campaignId) -> upsert into favorites (game_name = that campaign's game)
   - remind(campaignId)   -> recorded in kv_interactions (personal-alert path reads it)
@@ -24,7 +24,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
 
-DEFAULT_ENDPOINT = "https://drops.hache.app/api/interactions"
+DEFAULT_ENDPOINT = "https://drops.hector.app/api/interactions"
 
 
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}

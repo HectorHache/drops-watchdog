@@ -18,4 +18,4 @@ telegram:
   bot_token_env: TELEGRAM_BOT_TOKEN  # read from heimdall profile .env at send time
 
 site:
-  base_url: https://drops.hache.app
+  base_url: https://drops.hector.app
