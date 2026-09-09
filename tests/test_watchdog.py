@@ -110,7 +110,7 @@ class TestCompose(unittest.TestCase):
         self.assertIn("ENDING &lt;24H (2)", msg)
         self.assertIn("ENDED (1)", msg)
         self.assertIn("Delta Force", msg)
-        self.assertIn("drops.hache.app", msg)
+        self.assertIn("drops.hector.app", msg)
 
     def test_cap(self):
         camps = load_fixture_campaigns()
