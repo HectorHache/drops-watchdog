@@ -2274,46 +2274,6 @@
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
   },
   {
-   "id": "7b72cafd-0561-4bce-b12c-5b06fc68cad7",
-   "game": "Rise Online",
-   "title": "Mobile Drop 152",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T17:59:00+00:00",
-   "endAt": "2026-09-09T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-08T18:00:54+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8831780-1134-46c0-9bea-be5af0f2ef6b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b72cafd-0561-4bce-b12c-5b06fc68cad7",
-   "rewards": [
-    {
-     "name": "Mobile Drop 152",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7b72cafd-0561-4bce-b12c-5b06fc68cad7.png"
-  },
-  {
-   "id": "da448cba-0ece-4b6e-8143-75f5e4b9b41e",
-   "game": "Rise Online",
-   "title": "ROW Drop 581",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T17:59:00+00:00",
-   "endAt": "2026-09-09T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-08T18:00:54+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0a451f87-9585-4aa2-8d85-d0e42d3bd226.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=da448cba-0ece-4b6e-8143-75f5e4b9b41e",
-   "rewards": [
-    {
-     "name": "ROW Drop 581",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/da448cba-0ece-4b6e-8143-75f5e4b9b41e.jpg"
-  },
-  {
    "id": "8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -2759,6 +2719,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "7b72cafd-0561-4bce-b12c-5b06fc68cad7",
+   "game": "Rise Online",
+   "title": "Mobile Drop 152",
+   "startAt": "2026-09-08T17:59:00+00:00",
+   "endAt": "2026-09-09T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "da448cba-0ece-4b6e-8143-75f5e4b9b41e",
+   "game": "Rise Online",
+   "title": "ROW Drop 581",
+   "startAt": "2026-09-08T17:59:00+00:00",
+   "endAt": "2026-09-09T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7",
    "game": "World of Tanks: HEAT",
@@ -4571,13 +4547,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.91
+   "score": 31.9
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4589,25 +4565,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.69
+   "score": 31.68
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4625,13 +4601,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.78
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   }
  },
  "favoriteWeights": {
