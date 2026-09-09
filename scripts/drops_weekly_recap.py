@@ -81,7 +81,7 @@ def build_recap(conn) -> str:
             if reminds: bits.append(f"{reminds}🔔")
             lines.append(f"   ▸ {_esc(g)} — {', '.join(bits)}")
         lines.append("━━━━━━━━━━━━━━━━━━━━━━")
-    lines.append("🌐 <a href=\"https://drops.hache.app\">drops.hache.app</a>")
+    lines.append("🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>")
     return "\n".join(lines)
 
 
