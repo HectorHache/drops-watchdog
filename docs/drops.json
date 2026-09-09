@@ -554,42 +554,6 @@
    "asset": "assets/f6e63738-9f19-47e3-8336-9d31482e91ad.png"
   },
   {
-   "id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
-   "game": "Crystal of Atlan",
-   "title": "New class & New collab",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T10:00:00+00:00",
-   "endAt": "2026-09-09T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8463f8b-b06a-40e6-950d-3f16d046f29b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
-   "rewards": [
-    {
-     "name": "15min_Prismadium x20",
-     "minutes": 15
-    },
-    {
-     "name": "30min_Bound Gold x500k",
-     "minutes": 60
-    },
-    {
-     "name": "60min_Spare Part Supply Box x20",
-     "minutes": 60
-    },
-    {
-     "name": "120min_Enhancement Funds x1,000k",
-     "minutes": 120
-    },
-    {
-     "name": "180min_Potent Catalyst x1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5c4b74bc-71ee-4750-94e1-ea54f13ed42b.png"
-  },
-  {
    "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
    "game": "Infinity Nikki",
    "title": "V2.9 Infinity Nikki",
@@ -2572,9 +2536,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png"
+  },
+  {
+   "id": "a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T10:00:00+00:00",
+   "endAt": "2026-09-10T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-09T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9bc9944-ed8b-4387-9233-1478d0c1a02a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6.png"
+  },
+  {
+   "id": "ef4f1efc-7379-4783-825b-e8270266af29",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T10:00:00+00:00",
+   "endAt": "2026-09-10T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-09T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41dd63b3-2ca2-4ff8-a7d5-7989994a5a5f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef4f1efc-7379-4783-825b-e8270266af29",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ef4f1efc-7379-4783-825b-e8270266af29.png"
   }
  ],
  "archive": [
+  {
+   "id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
+   "game": "Crystal of Atlan",
+   "title": "New class & New collab",
+   "startAt": "2026-08-27T10:00:00+00:00",
+   "endAt": "2026-09-09T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "52a9edc4-ce3f-4368-a001-53ced269f5e7",
    "game": "Albion Online",
@@ -4339,13 +4351,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.16
+   "score": 32.13
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4357,25 +4369,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.94
+   "score": 31.91
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4387,19 +4399,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.93
+   "score": 10.92
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.88
+   "score": 11.87
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   }
  },
  "favoriteWeights": {
