@@ -170,42 +170,6 @@
    "asset": "assets/94084529-b24c-4d1a-9863-e815865f16f5.png"
   },
   {
-   "id": "42fa626c-57c5-45f0-88fe-25e29819cd62",
-   "game": "Brawlhalla",
-   "title": "Brawlhalla Q&B Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-19T14:00:00+00:00",
-   "endAt": "2026-09-09T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fae9dd4b-242f-4090-9898-876d4ef19f4e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=42fa626c-57c5-45f0-88fe-25e29819cd62",
-   "rewards": [
-    {
-     "name": "Artemis Esports v7",
-     "minutes": 30
-    },
-    {
-     "name": "Fait CCv2 Color",
-     "minutes": 60
-    },
-    {
-     "name": "Priya CCv2 Color",
-     "minutes": 120
-    },
-    {
-     "name": "Ragnir CCv2 Color",
-     "minutes": 180
-    },
-    {
-     "name": "Qinghua & BaoBao",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/42fa626c-57c5-45f0-88fe-25e29819cd62.png"
-  },
-  {
    "id": "c7936644-f76f-4bc6-a540-a415a56c4712",
    "game": "Where Winds Meet",
    "title": "Where Wind Meet Sept",
@@ -1714,34 +1678,6 @@
    "asset": "assets/67a01754-5344-4815-9b30-db305e4e1de1.png"
   },
   {
-   "id": "69545e1a-30da-40bf-afc3-465aa035048c",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T05:00:00+00:00",
-   "endAt": "2026-09-09T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-07T05:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a6fbfa03-68f1-42e4-be0c-6e7393191f4d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=69545e1a-30da-40bf-afc3-465aa035048c",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/69545e1a-30da-40bf-afc3-465aa035048c.png"
-  },
-  {
    "id": "63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5",
    "game": "Out of the Park Baseball 27",
    "title": "Official 18",
@@ -1924,26 +1860,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/31f77cbd-c88a-4d20-985e-afcafa123980.png"
-  },
-  {
-   "id": "5b37feea-b71f-403a-9df6-f4be0d00c30c",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T00:00:00+00:00",
-   "endAt": "2026-09-08T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T00:01:02+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd7eb0d6-1381-4af8-9481-3dff46cad61b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5b37feea-b71f-403a-9df6-f4be0d00c30c",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5b37feea-b71f-403a-9df6-f4be0d00c30c.png"
   },
   {
    "id": "b7bcd558-6964-461c-a1a0-503eeba1871e",
@@ -2566,46 +2482,6 @@
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
   },
   {
-   "id": "240ff349-6b1c-4f70-8e34-261a4da21d17",
-   "game": "Hearthstone",
-   "title": "HS Worlds 26 Groups Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T16:00:00+00:00",
-   "endAt": "2026-09-08T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T16:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0a4d9bf-222e-42cb-8815-a1f7f24225a9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=240ff349-6b1c-4f70-8e34-261a4da21d17",
-   "rewards": [
-    {
-     "name": "Violet Hold Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/240ff349-6b1c-4f70-8e34-261a4da21d17.png"
-  },
-  {
-   "id": "13682449-bc5c-403b-8d43-7cfda29fec70",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 1 Start",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T16:00:00+00:00",
-   "endAt": "2026-09-08T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T16:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5ceb6fdb-4960-4bd2-8f2d-93f5a11ee26b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=13682449-bc5c-403b-8d43-7cfda29fec70",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/13682449-bc5c-403b-8d43-7cfda29fec70.png"
-  },
-  {
    "id": "7b72cafd-0561-4bce-b12c-5b06fc68cad7",
    "game": "Rise Online",
    "title": "Mobile Drop 152",
@@ -2644,9 +2520,129 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/da448cba-0ece-4b6e-8143-75f5e4b9b41e.jpg"
+  },
+  {
+   "id": "8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T00:00:00+00:00",
+   "endAt": "2026-09-09T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T00:00:53+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e08c2c58-2abe-423e-a4a0-fa51513e6107.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8fcdfdeb-8f86-4849-a517-9e2e47ef84de.png"
+  },
+  {
+   "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
+   "game": "Zenless Zone Zero",
+   "title": "V3.2 Zenless Zone Zero",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T02:00:00+00:00",
+   "endAt": "2026-09-30T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T02:01:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
+   "rewards": [
+    {
+     "name": "\u4e01\u5c3c*12000",
+     "minutes": 15
+    },
+    {
+     "name": "\u8d44\u6df1\u8c03\u67e5\u5458\u8bb0\u5f55*2",
+     "minutes": 30
+    },
+    {
+     "name": "\u97f3\u64ce\u80fd\u6e90\u6a21\u5757*3",
+     "minutes": 45
+    },
+    {
+     "name": "\u90a6\u5e03\u7cfb\u7edf\u63a7\u4ef6*2",
+     "minutes": 60
+    },
+    {
+     "name": "\u83f2\u6797*50",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png"
   }
  ],
  "archive": [
+  {
+   "id": "65b918af-6df1-4158-9a7b-3b3aa6d9e6c6",
+   "game": "Halo Infinite",
+   "title": "Forge Showcase-SEP8",
+   "startAt": "2026-09-08T22:00:00+00:00",
+   "endAt": "2026-09-09T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "69545e1a-30da-40bf-afc3-465aa035048c",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 2",
+   "startAt": "2026-09-07T05:00:00+00:00",
+   "endAt": "2026-09-09T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "42fa626c-57c5-45f0-88fe-25e29819cd62",
+   "game": "Brawlhalla",
+   "title": "Brawlhalla Q&B Drops",
+   "startAt": "2026-08-19T14:00:00+00:00",
+   "endAt": "2026-09-09T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5583638b-fcc6-49a8-a035-cb6ad03d1660",
+   "game": "Madden NFL 27",
+   "title": "In The Huddle",
+   "startAt": "2026-09-09T00:00:00+00:00",
+   "endAt": "2026-09-09T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "08f9e598-a53d-45f3-9510-12a5c789ef58",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-09-08T22:30:00+00:00",
+   "endAt": "2026-09-09T01:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5b37feea-b71f-403a-9df6-f4be0d00c30c",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-08T00:00:00+00:00",
+   "endAt": "2026-09-08T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "240ff349-6b1c-4f70-8e34-261a4da21d17",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 1",
+   "startAt": "2026-09-08T16:00:00+00:00",
+   "endAt": "2026-09-08T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "13682449-bc5c-403b-8d43-7cfda29fec70",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Start",
+   "startAt": "2026-09-08T16:00:00+00:00",
+   "endAt": "2026-09-08T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ac46850b-745e-45d2-b7b3-494c17e30127",
    "game": "Mahjong Soul",
@@ -4331,81 +4327,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.08
+   "score": 22.86
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.55
+   "score": 32.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.1
+   "score": 5.06
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 32.33
+   "score": 32.02
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.08
+   "score": 22.86
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.08
+   "score": 22.86
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.08
+   "score": 22.86
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.55
+   "score": 2.53
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.06
+   "score": 10.95
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 12.02
+   "score": 11.91
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 23.08
+   "score": 22.86
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 33,
+  "ARC Raiders": 32,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 42,
   "LEGO Batman: Legacy of the Dark Knight": 42,
   "Marvel Rivals": 10,
-  "Once Human": 33,
-  "Palia": 33,
-  "Predecessor": 33,
-  "Tom Clancy's The Division 2": 21,
-  "Warframe": 22,
-  "Where Winds Meet": 33
+  "Once Human": 32,
+  "Palia": 32,
+  "Predecessor": 32,
+  "Tom Clancy's The Division 2": 20,
+  "Warframe": 21,
+  "Where Winds Meet": 32
  }
 }
