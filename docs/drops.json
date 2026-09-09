@@ -1438,26 +1438,6 @@
    "asset": "assets/3dd44cfb-a324-4566-b677-6deb9f3b22a3.png"
   },
   {
-   "id": "fb1b38fa-ce3b-45be-a20e-14657e05c5bf",
-   "game": "EVE Online",
-   "title": "Union Day 2026 Drop 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T11:02:00+00:00",
-   "endAt": "2026-09-09T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-05T11:30:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60023177-9934-4cd8-a22f-2c4193545cb4.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb1b38fa-ce3b-45be-a20e-14657e05c5bf",
-   "rewards": [
-    {
-     "name": "Shuttle Cold Wind SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fb1b38fa-ce3b-45be-a20e-14657e05c5bf.jpg"
-  },
-  {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
    "title": "Civ VII Pax Livestream",
@@ -2576,9 +2556,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ef4f1efc-7379-4783-825b-e8270266af29.png"
+  },
+  {
+   "id": "45079eca-91c8-4743-b842-ac8dd0c1dd07",
+   "game": "World of Tanks",
+   "title": "Dakillzor Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T11:00:00+00:00",
+   "endAt": "2026-09-09T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T11:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3db8dd8-52b2-4b64-ae93-6fa581f6deee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45079eca-91c8-4743-b842-ac8dd0c1dd07",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/45079eca-91c8-4743-b842-ac8dd0c1dd07.png"
+  },
+  {
+   "id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T11:02:00+00:00",
+   "endAt": "2026-09-13T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T11:30:39+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76cd5fd2-7be5-4edf-9e56-56120151d6c7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
+   "rewards": [
+    {
+     "name": "2500 EverMarks",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/91f3c658-5d3f-4ad1-85e0-bab63b1a34c1.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "fb1b38fa-ce3b-45be-a20e-14657e05c5bf",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 3",
+   "startAt": "2026-09-05T11:02:00+00:00",
+   "endAt": "2026-09-09T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b",
    "game": "Crystal of Atlan",
@@ -4351,43 +4379,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.79
+   "score": 22.76
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 32.13
+   "score": 32.1
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 5.04
+   "score": 5.03
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.91
+   "score": 31.88
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.79
+   "score": 22.76
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.79
+   "score": 22.76
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.79
+   "score": 22.76
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4399,19 +4427,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.87
+   "score": 11.86
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.79
+   "score": 22.76
   }
  },
  "favoriteWeights": {
