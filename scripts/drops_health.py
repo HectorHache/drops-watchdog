@@ -82,7 +82,7 @@ def check(conn) -> list[str]:
 
     # 4) site reachability
     for name, url in (("drops.hector.app", "https://drops.hector.app/"),
-                      ("pages.dev", "https://drops-watchdog.pages.dev/")):
+                      ("pages.dev", "https://hector-drops.pages.dev/")):
         if not _reachable(url):
             issues.append(f"⚠️ Site DOWN: {name}")
 
