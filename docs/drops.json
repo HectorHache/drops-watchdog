@@ -1378,50 +1378,6 @@
    "asset": "assets/9b86cdad-631c-4fc9-bff8-ce1c13e75444.png"
   },
   {
-   "id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf",
-   "game": "Crossout",
-   "title": "'New Horizon' Drops II",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T16:00:00+00:00",
-   "endAt": "2026-09-10T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-06T16:00:11+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ebac1c56-9791-4838-b5c8-7e8f5bf83d27.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dadf9c86-4a1c-4de0-a079-49c1e2005edf",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 360
-    },
-    {
-     "name": "7",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/dadf9c86-4a1c-4de0-a079-49c1e2005edf.jpg"
-  },
-  {
    "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 1",
@@ -2814,30 +2770,6 @@
    "asset": "assets/b62dd239-45f2-4eb7-8d26-10d4c773a838.png"
   },
   {
-   "id": "4dd5f6c4-e7b5-4ec6-8f42-a824fd9918dc",
-   "game": "Madden NFL 27",
-   "title": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T14:00:00+00:00",
-   "endAt": "2026-09-10T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-10T14:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cc52178a-ac9e-47d2-92c0-5624312ff763.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4dd5f6c4-e7b5-4ec6-8f42-a824fd9918dc",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4dd5f6c4-e7b5-4ec6-8f42-a824fd9918dc.png"
-  },
-  {
    "id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 1",
@@ -2860,9 +2792,145 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0ff7b58a-7b48-4d82-8e14-f833a5ba9195.png"
+  },
+  {
+   "id": "d49c950e-dcb8-4866-80b4-cd1ce3c758bf",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-09-10T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b08ee3e2-bd35-48ad-9cba-d74032f9055c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d49c950e-dcb8-4866-80b4-cd1ce3c758bf",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d49c950e-dcb8-4866-80b4-cd1ce3c758bf.png"
+  },
+  {
+   "id": "636139d9-1ea2-428d-8eae-75fd69720775",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-09-11T00:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9e0fb2c-1d1a-4fed-9a11-079f0512fb45.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=636139d9-1ea2-428d-8eae-75fd69720775",
+   "rewards": [
+    {
+     "name": "Violet Hold Pack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/636139d9-1ea2-428d-8eae-75fd69720775.png"
+  },
+  {
+   "id": "6c1160a5-10df-40bc-934a-eae97437b3ab",
+   "game": "WARDOGS",
+   "title": "Early Access 0.1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-09-14T02:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T16:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/090b6794-28c6-43b2-b69a-73b0d8f41ff7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6c1160a5-10df-40bc-934a-eae97437b3ab",
+   "rewards": [
+    {
+     "name": "EA_0_1_Gold_Drop_01",
+     "minutes": 300
+    },
+    {
+     "name": "EA_0_1_Gold_Drop_02",
+     "minutes": 420
+    },
+    {
+     "name": "EA_0_1_Gold_Drop_03",
+     "minutes": 540
+    },
+    {
+     "name": "EA_0_1_Bronze_Drop_01",
+     "minutes": 15
+    },
+    {
+     "name": "EA_0_1_Silver_Drop_02",
+     "minutes": 660
+    },
+    {
+     "name": "EA_0_1_Bronze_Drop_02",
+     "minutes": 60
+    },
+    {
+     "name": "EA_0_1_Gold_Drop_04",
+     "minutes": 780
+    },
+    {
+     "name": "EA_0_1_Silver_Drop_01",
+     "minutes": 120
+    },
+    {
+     "name": "EA_0_1_Gold_Drop_05",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6c1160a5-10df-40bc-934a-eae97437b3ab.png"
+  },
+  {
+   "id": "788b1110-d24f-46d5-9659-badfa6acc93c",
+   "game": "For Honor",
+   "title": "Entire Directory Sep 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-10-01T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T16:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28a73529-1a6d-4cc4-8595-9b22a54bb8c0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=788b1110-d24f-46d5-9659-badfa6acc93c",
+   "rewards": [
+    {
+     "name": "Tier 1",
+     "minutes": 60
+    },
+    {
+     "name": "Tier 2",
+     "minutes": 120
+    },
+    {
+     "name": "Tier 3",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/788b1110-d24f-46d5-9659-badfa6acc93c.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "4dd5f6c4-e7b5-4ec6-8f42-a824fd9918dc",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-09-10T14:00:00+00:00",
+   "endAt": "2026-09-10T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf",
+   "game": "Crossout",
+   "title": "'New Horizon' Drops II",
+   "startAt": "2026-09-06T16:00:00+00:00",
+   "endAt": "2026-09-10T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9bdebdf9-91c0-4ebb-a929-95861608d905",
    "game": "Cash is King!",
@@ -4811,43 +4879,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.14
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.24
+   "score": 31.21
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.9
+   "score": 4.89
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.03
+   "score": 31.0
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.14
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.14
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.14
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4859,19 +4927,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.62
+   "score": 10.61
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.14
   }
  },
  "favoriteWeights": {
@@ -4879,7 +4947,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 41,
-  "LEGO Batman: Legacy of the Dark Knight": 41,
+  "LEGO Batman: Legacy of the Dark Knight": 40,
   "Marvel Rivals": 10,
   "Once Human": 32,
   "Palia": 32,
