@@ -2,26 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "9bdebdf9-91c0-4ebb-a929-95861608d905",
-   "game": "Cash is King!",
-   "title": "Demo Release 0.3",
-   "status": "ACTIVE",
-   "startAt": "2026-08-13T13:00:00+00:00",
-   "endAt": "2026-09-10T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00ed5118-e545-4a7a-89a6-0d66122ac937.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9bdebdf9-91c0-4ebb-a929-95861608d905",
-   "rewards": [
-    {
-     "name": "Dance Elite 2000",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9bdebdf9-91c0-4ebb-a929-95861608d905.jpg"
-  },
-  {
    "id": "e221678f-3391-402d-8819-fd1783894746",
    "game": "Don't Starve Together",
    "title": "Bugburst Waterballoon",
@@ -2318,74 +2298,6 @@
    "asset": "assets/91f3c658-5d3f-4ad1-85e0-bab63b1a34c1.jpg"
   },
   {
-   "id": "5ff97138-e8fe-4667-aeba-af4bbfda75d1",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/9/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T13:00:00+00:00",
-   "endAt": "2026-09-10T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T13:00:49+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/015f00d6-0e69-4dec-9f6d-872dc5e0be68.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5ff97138-e8fe-4667-aeba-af4bbfda75d1",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5ff97138-e8fe-4667-aeba-af4bbfda75d1.png"
-  },
-  {
-   "id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
-   "game": "Marbles on Stream",
-   "title": "MarbleFest - Sept'26-Day3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T14:00:00+00:00",
-   "endAt": "2026-09-10T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T14:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86a399d6-1ae7-40ee-821f-bdffdd0685c9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f91a5cf6-2bca-4dbe-9eef-cb30a1b23727.png"
-  },
-  {
    "id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -2796,9 +2708,137 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/7ab1b3b0-9c61-49f9-8d14-3faef536dc63.png"
+  },
+  {
+   "id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T13:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/899ba255-74ea-4b12-8c65-c161476377d2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fe0fc844-5df4-42e4-b020-1e7bbb2f81a5.png"
+  },
+  {
+   "id": "5e687ba1-a332-4595-816e-dc1bf515dd66",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/10/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T13:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/67b2439a-505e-4010-9ef5-64fef1df8a09.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5e687ba1-a332-4595-816e-dc1bf515dd66",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5e687ba1-a332-4595-816e-dc1bf515dd66.png"
+  },
+  {
+   "id": "b62dd239-45f2-4eb7-8d26-10d4c773a838",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T13:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6188e653-6633-483e-8c07-bc8869bfe006.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b62dd239-45f2-4eb7-8d26-10d4c773a838",
+   "rewards": [
+    {
+     "name": "Day 1 - Drop 3",
+     "minutes": 60
+    },
+    {
+     "name": "Day 1 - Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Day 1 - Drop 5",
+     "minutes": 180
+    },
+    {
+     "name": "Day 1 - Drop 1",
+     "minutes": 15
+    },
+    {
+     "name": "Day 1 - Drop 2",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b62dd239-45f2-4eb7-8d26-10d4c773a838.png"
   }
  ],
  "archive": [
+  {
+   "id": "9bdebdf9-91c0-4ebb-a929-95861608d905",
+   "game": "Cash is King!",
+   "title": "Demo Release 0.3",
+   "startAt": "2026-08-13T13:00:00+00:00",
+   "endAt": "2026-09-10T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5ff97138-e8fe-4667-aeba-af4bbfda75d1",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/9/26",
+   "startAt": "2026-09-09T13:00:00+00:00",
+   "endAt": "2026-09-10T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day3",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-10T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "eb063be1-efc1-4f63-82b5-c5a3fc414a28",
    "game": "Black Desert",
@@ -4723,13 +4763,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.22
+   "score": 22.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.33
+   "score": 31.3
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4741,49 +4781,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.12
+   "score": 31.09
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.22
+   "score": 22.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.22
+   "score": 22.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.22
+   "score": 22.2
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.46
+   "score": 2.45
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.58
+   "score": 11.56
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.22
+   "score": 22.2
   }
  },
  "favoriteWeights": {
