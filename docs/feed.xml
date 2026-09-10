@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Cash is King! — Demo Release 0.3</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=9bdebdf9-91c0-4ebb-a929-95861608d905</link>
-    <guid isPermaLink="false">9bdebdf9-91c0-4ebb-a929-95861608d905</guid>
-    <description>Dance Elite 2000 — runs 2026-08-13T13:00:00+00:00 → 2026-09-10T12:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-13T13:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Don't Starve Together — Bugburst Waterballoon</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=e221678f-3391-402d-8819-fd1783894746</link>
     <guid isPermaLink="false">e221678f-3391-402d-8819-fd1783894746</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=75b83719-7a21-4c95-b16e-651a0b60026c</link>
     <guid isPermaLink="false">75b83719-7a21-4c95-b16e-651a0b60026c</guid>
     <description>2x Dungeon Key · 3x Arena Ticket · 100x Crystal · 32x Thirst for Adventure — runs 2026-09-07T00:00:00+00:00 → 2026-09-13T21:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Modern Warships — Weekly Supply Drops #32</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=1d4cd712-c1e5-4059-9b88-a08b642ee87c</link>
+    <guid isPermaLink="false">1d4cd712-c1e5-4059-9b88-a08b642ee87c</guid>
+    <description>1 Day of Premium · 100 UP's · Tactical Consumables Set — runs 2026-09-07T00:00:00+00:00 → 2026-09-13T23:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-07T00:00:00+00:00</pubDate>
   </item>
 </channel>
