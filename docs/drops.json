@@ -2554,26 +2554,6 @@
    "asset": "assets/58092c7b-251d-4493-8ef0-521dfb2026b9.png"
   },
   {
-   "id": "ecc28914-e853-42f6-92f6-f80b5f567d63",
-   "game": "Halo: The Master Chief Collection",
-   "title": "HaloMCC ClassicNight-SEP9",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T19:00:00+00:00",
-   "endAt": "2026-09-10T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T19:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a65b143e-b0d3-4b8a-beb1-2d123e6994e6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ecc28914-e853-42f6-92f6-f80b5f567d63",
-   "rewards": [
-    {
-     "name": "Legendary II Nameplate",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ecc28914-e853-42f6-92f6-f80b5f567d63.png"
-  },
-  {
    "id": "59863b78-3fa5-4609-9584-08e43420aba0",
    "game": "Kirka.io",
    "title": "Madness",
@@ -2668,9 +2648,101 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a4d527a7-2764-4cbe-a483-520408251683.png"
+  },
+  {
+   "id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e",
+   "game": "World of Warships",
+   "title": "15.8 Salt for Subs #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T06:00:00+00:00",
+   "endAt": "2026-09-17T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T06:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/976e5af4-e0c5-4093-bb6b-ab53ab9b65bc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3fda61e2-5f57-4af7-92c8-56795d6b1f9e",
+   "rewards": [
+    {
+     "name": "Salt for Subs #1",
+     "minutes": 0
+    },
+    {
+     "name": "Salt for Subs #2",
+     "minutes": 0
+    },
+    {
+     "name": "Salt for Subs #3",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png"
+  },
+  {
+   "id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T06:00:00+00:00",
+   "endAt": "2026-09-17T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T06:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e0d3db5-2fdf-4ad8-9ba5-69246d2c8699.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bb8e3c61-a2b7-4d11-9f60-1f79160b3418",
+   "rewards": [
+    {
+     "name": "Worth Their Salt Week 1",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bb8e3c61-a2b7-4d11-9f60-1f79160b3418.png"
+  },
+  {
+   "id": "ce649625-7dae-4946-b60a-1b78285c4833",
+   "game": "DRAGON BALL GEKISHIN SQUADRA",
+   "title": "SQUADRA SEASON 7 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T06:00:00+00:00",
+   "endAt": "2026-10-08T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T06:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f30f0847-de5f-43a1-95b1-d9673fa5aabb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ce649625-7dae-4946-b60a-1b78285c4833",
+   "rewards": [
+    {
+     "name": "P7G-Capsule \u00d75",
+     "minutes": 30
+    },
+    {
+     "name": "Exclusive Icon",
+     "minutes": 60
+    },
+    {
+     "name": "Zeni \u00d77,000",
+     "minutes": 120
+    },
+    {
+     "name": "P7G-Capsule \u00d710",
+     "minutes": 180
+    },
+    {
+     "name": "Exclusive Skin",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ce649625-7dae-4946-b60a-1b78285c4833.png"
   }
  ],
  "archive": [
+  {
+   "id": "ecc28914-e853-42f6-92f6-f80b5f567d63",
+   "game": "Halo: The Master Chief Collection",
+   "title": "HaloMCC ClassicNight-SEP9",
+   "startAt": "2026-09-09T19:00:00+00:00",
+   "endAt": "2026-09-10T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8fa76d92-9395-4d1a-a740-def06042106f",
    "game": "World of Warships",
@@ -4563,43 +4635,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.37
+   "score": 22.36
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.55
+   "score": 31.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.95
+   "score": 4.94
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.33
+   "score": 31.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.37
+   "score": 22.36
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.37
+   "score": 22.36
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.37
+   "score": 22.36
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4611,7 +4683,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.72
+   "score": 10.71
   },
   "Warframe": {
    "favorites": 1,
@@ -4623,7 +4695,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.37
+   "score": 22.36
   }
  },
  "favoriteWeights": {
