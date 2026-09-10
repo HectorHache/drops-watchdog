@@ -974,26 +974,6 @@
    "asset": "assets/273782f3-2251-4510-9d8f-920b37f6b7bb.png"
   },
   {
-   "id": "d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
-   "game": "World of Warships",
-   "title": "15.7 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T22:00:00+00:00",
-   "endAt": "2026-09-09T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T22:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b8715ef-3ea9-4b2c-9a6a-a5d84dc21f19.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
-   "rewards": [
-    {
-     "name": "Week 4: 250 Community Tokens",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d4e988dd-ac54-40c2-827d-d1e8876c5fc4.png"
-  },
-  {
    "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
    "game": "The Blood of Dawnwalker",
    "title": "Dawnwalker Launch",
@@ -1082,38 +1062,6 @@
    "asset": "assets/f3d76a78-6adb-4c42-a4d7-95462096ea67.png"
   },
   {
-   "id": "a7e8141a-1638-4aaf-b38d-da8b2a8025f0",
-   "game": "UFL",
-   "title": "Sep #1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T08:25:00+00:00",
-   "endAt": "2026-09-09T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-03T08:30:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/940337b4-1b9f-4f05-add4-97606c851fe7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a7e8141a-1638-4aaf-b38d-da8b2a8025f0",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a7e8141a-1638-4aaf-b38d-da8b2a8025f0.png"
-  },
-  {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
    "game": "Coin Pusher Live",
    "title": "Fall 2026 Drops",
@@ -1144,30 +1092,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f.png"
-  },
-  {
-   "id": "8fa76d92-9395-4d1a-a740-def06042106f",
-   "game": "World of Warships",
-   "title": "Update 15.7 Drop: Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T16:00:00+00:00",
-   "endAt": "2026-09-10T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T16:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9261f874-8bcc-410d-9cb1-abd6dae9791b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8fa76d92-9395-4d1a-a740-def06042106f",
-   "rewards": [
-    {
-     "name": "Update 15.7 Mission #4",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.7 week #4",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8fa76d92-9395-4d1a-a740-def06042106f.png"
   },
   {
    "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
@@ -2274,26 +2198,6 @@
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
   },
   {
-   "id": "8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T00:00:00+00:00",
-   "endAt": "2026-09-09T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T00:00:53+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e08c2c58-2abe-423e-a4a0-fa51513e6107.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8fcdfdeb-8f86-4849-a517-9e2e47ef84de.png"
-  },
-  {
    "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
    "game": "Zenless Zone Zero",
    "title": "V3.2 Zenless Zone Zero",
@@ -2434,26 +2338,6 @@
    "asset": "assets/ef4f1efc-7379-4783-825b-e8270266af29.png"
   },
   {
-   "id": "45079eca-91c8-4743-b842-ac8dd0c1dd07",
-   "game": "World of Tanks",
-   "title": "Dakillzor Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T11:00:00+00:00",
-   "endAt": "2026-09-09T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T11:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3db8dd8-52b2-4b64-ae93-6fa581f6deee.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45079eca-91c8-4743-b842-ac8dd0c1dd07",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/45079eca-91c8-4743-b842-ac8dd0c1dd07.png"
-  },
-  {
    "id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
    "game": "EVE Online",
    "title": "Union Day 2026 Drop 4",
@@ -2530,26 +2414,6 @@
    "asset": "assets/5ff97138-e8fe-4667-aeba-af4bbfda75d1.png"
   },
   {
-   "id": "3e1d96de-8166-415a-a738-6a888c8c9cfc",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T14:00:00+00:00",
-   "endAt": "2026-09-10T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T14:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5eada1b5-00f6-4b7e-a37c-d2a640480b29.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e1d96de-8166-415a-a738-6a888c8c9cfc",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3e1d96de-8166-415a-a738-6a888c8c9cfc.jpg"
-  },
-  {
    "id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727",
    "game": "Marbles on Stream",
    "title": "MarbleFest - Sept'26-Day3",
@@ -2624,26 +2488,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/20dffd3a-9175-4ad3-8766-134c0cfb3f58.png"
-  },
-  {
-   "id": "e758eae0-d7fb-4da3-8a26-7df1b172ec37",
-   "game": "Hearthstone",
-   "title": "HS Worlds 26 Groups Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T16:00:00+00:00",
-   "endAt": "2026-09-09T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T16:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5700dca1-0f7e-401f-81a9-7ca3ba99104d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e758eae0-d7fb-4da3-8a26-7df1b172ec37",
-   "rewards": [
-    {
-     "name": "Violet Hold Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e758eae0-d7fb-4da3-8a26-7df1b172ec37.png"
   },
   {
    "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
@@ -2728,9 +2572,161 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ecc28914-e853-42f6-92f6-f80b5f567d63.png"
+  },
+  {
+   "id": "59863b78-3fa5-4609-9584-08e43420aba0",
+   "game": "Kirka.io",
+   "title": "Madness",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T21:07:29+00:00",
+   "endAt": "2026-09-16T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-10T01:30:39+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ee087da-fd4f-4ed2-ab4d-b4e5dc1b6ea2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=59863b78-3fa5-4609-9584-08e43420aba0",
+   "rewards": [
+    {
+     "name": "Madness",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/59863b78-3fa5-4609-9584-08e43420aba0.png"
+  },
+  {
+   "id": "1a70d4b3-0ae2-4191-98cd-c21ae1946cc8",
+   "game": "World of Warships",
+   "title": "15.8 Mystery Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-09T22:00:00+00:00",
+   "endAt": "2026-09-16T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-09T22:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ea62aa9-22c6-4d0e-992d-8fafce0f4c61.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1a70d4b3-0ae2-4191-98cd-c21ae1946cc8",
+   "rewards": [
+    {
+     "name": "15.8 Mystery Drop",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1a70d4b3-0ae2-4191-98cd-c21ae1946cc8.png"
+  },
+  {
+   "id": "77d32ba4-f7aa-446d-a56c-2d2391df9335",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T00:00:00+00:00",
+   "endAt": "2026-09-10T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T00:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f7467d9-2acf-4425-b811-85935268e0b3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77d32ba4-f7aa-446d-a56c-2d2391df9335",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/77d32ba4-f7aa-446d-a56c-2d2391df9335.png"
+  },
+  {
+   "id": "a4d527a7-2764-4cbe-a483-520408251683",
+   "game": "Modern Warships",
+   "title": "MW: Neural Supremacy",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T00:00:00+00:00",
+   "endAt": "2026-09-29T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-10T00:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eee0523a-e15e-40ec-a565-3b63b11ef858.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a4d527a7-2764-4cbe-a483-520408251683",
+   "rewards": [
+    {
+     "name": "2 Days of Premium",
+     "minutes": 60
+    },
+    {
+     "name": "Advanced Consumables",
+     "minutes": 120
+    },
+    {
+     "name": "200 UP's",
+     "minutes": 180
+    },
+    {
+     "name": "15 Authorization Keys",
+     "minutes": 240
+    },
+    {
+     "name": "Camo Great Serpent",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a4d527a7-2764-4cbe-a483-520408251683.png"
   }
  ],
  "archive": [
+  {
+   "id": "8fa76d92-9395-4d1a-a740-def06042106f",
+   "game": "World of Warships",
+   "title": "Update 15.7 Drop: Week 4",
+   "startAt": "2026-09-03T16:00:00+00:00",
+   "endAt": "2026-09-10T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3e1d96de-8166-415a-a738-6a888c8c9cfc",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #3",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-10T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8fcdfdeb-8f86-4849-a517-9e2e47ef84de",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-09T00:00:00+00:00",
+   "endAt": "2026-09-09T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a7e8141a-1638-4aaf-b38d-da8b2a8025f0",
+   "game": "UFL",
+   "title": "Sep #1",
+   "startAt": "2026-09-03T08:25:00+00:00",
+   "endAt": "2026-09-09T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "45079eca-91c8-4743-b842-ac8dd0c1dd07",
+   "game": "World of Tanks",
+   "title": "Dakillzor Drops",
+   "startAt": "2026-09-09T11:00:00+00:00",
+   "endAt": "2026-09-09T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e758eae0-d7fb-4da3-8a26-7df1b172ec37",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 2",
+   "startAt": "2026-09-09T16:00:00+00:00",
+   "endAt": "2026-09-09T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d4e988dd-ac54-40c2-827d-d1e8876c5fc4",
+   "game": "World of Warships",
+   "title": "15.7 WOWS Channel Drop",
+   "startAt": "2026-09-02T22:00:00+00:00",
+   "endAt": "2026-09-09T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "47d06308-2684-4a77-b693-fcc056d4fee3",
    "game": "For Honor",
@@ -4567,67 +4563,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.37
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.79
+   "score": 31.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.99
+   "score": 4.95
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.57
+   "score": 31.33
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.37
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.37
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.37
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.49
+   "score": 2.47
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.8
+   "score": 10.72
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.74
+   "score": 11.65
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.37
   }
  },
  "favoriteWeights": {
