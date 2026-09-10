@@ -2882,30 +2882,6 @@
    "asset": "assets/788b1110-d24f-46d5-9659-badfa6acc93c.jpg"
   },
   {
-   "id": "30f3a433-ae4b-4bca-bb1e-971cdb67c9c8",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R5 (1)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T17:00:00+00:00",
-   "endAt": "2026-09-10T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-10T17:00:02+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eaf43aa8-8e08-4934-8a6e-908cecfe2ee7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30f3a433-ae4b-4bca-bb1e-971cdb67c9c8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/30f3a433-ae4b-4bca-bb1e-971cdb67c9c8.jpg"
-  },
-  {
    "id": "214153f3-689c-4ff3-a5b8-59407477c4df",
    "game": "GOALS",
    "title": "GOALS - 10-13 September",
@@ -3035,6 +3011,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "30f3a433-ae4b-4bca-bb1e-971cdb67c9c8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R5 (1)",
+   "startAt": "2026-09-10T17:00:00+00:00",
+   "endAt": "2026-09-10T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "38fb241f-2ed4-4726-a8b5-b1886432bd39",
    "game": "Rise Online",
@@ -5023,13 +5007,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.08
+   "score": 22.07
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.14
+   "score": 31.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5041,25 +5025,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.93
+   "score": 30.91
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.08
+   "score": 22.07
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.08
+   "score": 22.07
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.08
+   "score": 22.07
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5071,7 +5055,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   },
   "Warframe": {
    "favorites": 1,
@@ -5083,7 +5067,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.08
+   "score": 22.07
   }
  },
  "favoriteWeights": {
