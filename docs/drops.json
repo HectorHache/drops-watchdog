@@ -2,34 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "e221678f-3391-402d-8819-fd1783894746",
-   "game": "Don't Starve Together",
-   "title": "Bugburst Waterballoon",
-   "status": "ACTIVE",
-   "startAt": "2026-08-13T17:00:00+00:00",
-   "endAt": "2026-09-10T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcbbb03a-8827-4d55-b308-c40d7a0ff698.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e221678f-3391-402d-8819-fd1783894746",
-   "rewards": [
-    {
-     "name": "Profile Icon",
-     "minutes": 30
-    },
-    {
-     "name": "Portrait Frame",
-     "minutes": 90
-    },
-    {
-     "name": "Belonging",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/e221678f-3391-402d-8819-fd1783894746.png"
-  },
-  {
    "id": "3595f84e-98bc-423d-9853-30dcebbf7481",
    "game": "Skull and Bones",
    "title": "Skull and Bones - Y3S2",
@@ -2134,6 +2106,42 @@
    "asset": "assets/becc65e0-e3fe-4125-9601-15e32f9f16f6.png"
   },
   {
+   "id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812",
+   "game": "Splinterlands",
+   "title": "September Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T17:00:00+00:00",
+   "endAt": "2026-09-22T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T17:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/383e3bec-7435-46d7-9fdc-4309c25f0aa0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e8f6e3c6-acc1-41da-9204-fe204cc2a812",
+   "rewards": [
+    {
+     "name": "1000 Glint",
+     "minutes": 180
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 360
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 540
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 720
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e8f6e3c6-acc1-41da-9204-fe204cc2a812.png"
+  },
+  {
    "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
    "game": "Zenless Zone Zero",
    "title": "V3.2 Zenless Zone Zero",
@@ -2912,9 +2920,129 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/788b1110-d24f-46d5-9659-badfa6acc93c.jpg"
+  },
+  {
+   "id": "30f3a433-ae4b-4bca-bb1e-971cdb67c9c8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R5 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T17:00:00+00:00",
+   "endAt": "2026-09-10T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-10T17:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eaf43aa8-8e08-4934-8a6e-908cecfe2ee7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30f3a433-ae4b-4bca-bb1e-971cdb67c9c8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30f3a433-ae4b-4bca-bb1e-971cdb67c9c8.jpg"
+  },
+  {
+   "id": "214153f3-689c-4ff3-a5b8-59407477c4df",
+   "game": "GOALS",
+   "title": "GOALS - 10-13 September",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T17:00:00+00:00",
+   "endAt": "2026-09-13T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-10T17:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/598ae29a-daaa-4d34-9a3a-067c2bd9ad98.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=214153f3-689c-4ff3-a5b8-59407477c4df",
+   "rewards": [
+    {
+     "name": "Common+ Pack -1 Player",
+     "minutes": 60
+    },
+    {
+     "name": "Uncommon+ Pack -1 Player",
+     "minutes": 120
+    },
+    {
+     "name": "Common+ Pack -2 Players",
+     "minutes": 180
+    },
+    {
+     "name": "Uncommon+ Pack -2 Players",
+     "minutes": 240
+    },
+    {
+     "name": "Common+ Pack -3 Players",
+     "minutes": 330
+    },
+    {
+     "name": "Uncommon+ Pack -3 Players",
+     "minutes": 420
+    },
+    {
+     "name": "Common+ Pack -4 Players",
+     "minutes": 510
+    },
+    {
+     "name": "Uncommon+ Pack -4 Players",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/214153f3-689c-4ff3-a5b8-59407477c4df.png"
+  },
+  {
+   "id": "5a48536b-bd6c-4723-b95f-8db9b65ef713",
+   "game": "Madden NFL 27",
+   "title": "Madden Free Play Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T17:00:00+00:00",
+   "endAt": "2026-09-14T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T17:00:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c62d160-c552-4351-9fab-3e927e9bd5d2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5a48536b-bd6c-4723-b95f-8db9b65ef713",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Super Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   }
  ],
  "archive": [
+  {
+   "id": "e221678f-3391-402d-8819-fd1783894746",
+   "game": "Don't Starve Together",
+   "title": "Bugburst Waterballoon",
+   "startAt": "2026-08-13T17:00:00+00:00",
+   "endAt": "2026-09-10T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4dd5f6c4-e7b5-4ec6-8f42-a824fd9918dc",
    "game": "Madden NFL 27",
@@ -4879,13 +5007,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.14
+   "score": 22.12
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.21
+   "score": 31.18
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -4897,25 +5025,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 31.0
+   "score": 30.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.14
+   "score": 22.12
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.14
+   "score": 22.12
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.14
+   "score": 22.12
   },
   "THE FINALS": {
    "favorites": 0,
@@ -4927,19 +5055,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.61
+   "score": 10.6
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.52
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.14
+   "score": 22.12
   }
  },
  "favoriteWeights": {

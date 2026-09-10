@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Don't Starve Together — Bugburst Waterballoon</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=e221678f-3391-402d-8819-fd1783894746</link>
-    <guid isPermaLink="false">e221678f-3391-402d-8819-fd1783894746</guid>
-    <description>Profile Icon · Portrait Frame · Belonging — runs 2026-08-13T17:00:00+00:00 → 2026-09-10T16:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-13T17:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Skull and Bones — Skull and Bones - Y3S2</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=3595f84e-98bc-423d-9853-30dcebbf7481</link>
     <guid isPermaLink="false">3595f84e-98bc-423d-9853-30dcebbf7481</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">67a01754-5344-4815-9b30-db305e4e1de1</guid>
     <description>Special Random Gift — runs 2026-09-07T04:00:00+00:00 → 2026-09-14T03:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-07T04:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Out of the Park Baseball 27 — Official 18</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5</link>
+    <guid isPermaLink="false">63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5</guid>
+    <description>1 · 2 · 3 · 4 · 5 · 6 — runs 2026-09-07T13:00:00+00:00 → 2026-09-14T12:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-07T13:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
