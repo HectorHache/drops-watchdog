@@ -36,11 +36,8 @@ Hermes cron job `twitch-drops-sync` (`b9870369ed3a`), schedule `0,30 7-23,0 * * 
 data changed → commit-on-change push keeps CF Pages under the 500 builds/month cap.
 Error alerts (fetch/push failure) → DM, throttled 6h via `meta` watermark.
 
-## Secrets (gitignored, chmod 600)
-- `.logTw` — Twitch web auth-token + integrity token + device headers (throwaway account)
-- `.steamMine` — Steam API key (Phase 5, bare 32-hex or JSON)
 
 ## Notes
 - Twitch gql is login-gated: auth = browser-minted `Client-Integrity` token (Kasada) + web `auth-token`, refreshed via a quick ego-browser visit per run.
 - 2FA session ≈ 30 days → `status` warns; re-login on expiry (~2 min).
-- Plan: `260901-drops-plan.md` (canonical) · recon: `docs_research/`
+- Recon: `docs_research/`
