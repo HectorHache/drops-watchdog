@@ -3008,6 +3008,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9849bce3-8af6-48f2-8a0e-632adebd9e8f.jpg"
+  },
+  {
+   "id": "8a782101-a1b3-4d58-8835-374455319c4c",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 2/4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-10T21:00:00+00:00",
+   "endAt": "2026-09-11T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-10T21:01:02+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f9e007b9-3ba1-4d0c-9eb7-26d2b9a04991.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8a782101-a1b3-4d58-8835-374455319c4c",
+   "rewards": [
+    {
+     "name": "Scavenger Helmet",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/8a782101-a1b3-4d58-8835-374455319c4c.png"
   }
  ],
  "archive": [
@@ -5007,43 +5027,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.05
+   "score": 22.03
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.09
+   "score": 31.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.88
+   "score": 4.87
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.88
+   "score": 30.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.05
+   "score": 22.03
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.05
+   "score": 22.03
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.05
+   "score": 22.03
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5055,19 +5075,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.49
+   "score": 11.48
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.05
+   "score": 22.03
   }
  },
  "favoriteWeights": {
