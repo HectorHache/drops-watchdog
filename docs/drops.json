@@ -2326,26 +2326,6 @@
    "asset": "assets/1a70d4b3-0ae2-4191-98cd-c21ae1946cc8.png"
   },
   {
-   "id": "77d32ba4-f7aa-446d-a56c-2d2391df9335",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T00:00:00+00:00",
-   "endAt": "2026-09-10T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T00:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f7467d9-2acf-4425-b811-85935268e0b3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77d32ba4-f7aa-446d-a56c-2d2391df9335",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/77d32ba4-f7aa-446d-a56c-2d2391df9335.png"
-  },
-  {
    "id": "a4d527a7-2764-4cbe-a483-520408251683",
    "game": "Modern Warships",
    "title": "MW: Neural Supremacy",
@@ -2718,46 +2698,6 @@
    "asset": "assets/0ff7b58a-7b48-4d82-8e14-f833a5ba9195.png"
   },
   {
-   "id": "d49c950e-dcb8-4866-80b4-cd1ce3c758bf",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 1 Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T16:00:00+00:00",
-   "endAt": "2026-09-10T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b08ee3e2-bd35-48ad-9cba-d74032f9055c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d49c950e-dcb8-4866-80b4-cd1ce3c758bf",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d49c950e-dcb8-4866-80b4-cd1ce3c758bf.png"
-  },
-  {
-   "id": "636139d9-1ea2-428d-8eae-75fd69720775",
-   "game": "Hearthstone",
-   "title": "HS Worlds 26 Groups Day 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T16:00:00+00:00",
-   "endAt": "2026-09-11T00:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9e0fb2c-1d1a-4fed-9a11-079f0512fb45.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=636139d9-1ea2-428d-8eae-75fd69720775",
-   "rewards": [
-    {
-     "name": "Violet Hold Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/636139d9-1ea2-428d-8eae-75fd69720775.png"
-  },
-  {
    "id": "6c1160a5-10df-40bc-934a-eae97437b3ab",
    "game": "WARDOGS",
    "title": "Early Access 0.1",
@@ -2984,9 +2924,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/8a782101-a1b3-4d58-8835-374455319c4c.png"
+  },
+  {
+   "id": "e1cd9250-bf5c-4156-8550-1768e3194724",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T00:00:00+00:00",
+   "endAt": "2026-09-11T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T00:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/345c4106-a14e-419e-9819-5f5bc0c224d0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e1cd9250-bf5c-4156-8550-1768e3194724",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e1cd9250-bf5c-4156-8550-1768e3194724.png"
   }
  ],
  "archive": [
+  {
+   "id": "636139d9-1ea2-428d-8eae-75fd69720775",
+   "game": "Hearthstone",
+   "title": "HS Worlds 26 Groups Day 3",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-09-11T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "77d32ba4-f7aa-446d-a56c-2d2391df9335",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-10T00:00:00+00:00",
+   "endAt": "2026-09-10T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d49c950e-dcb8-4866-80b4-cd1ce3c758bf",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 2",
+   "startAt": "2026-09-10T16:00:00+00:00",
+   "endAt": "2026-09-10T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5745990b-ede0-4b6f-a3a1-789d1b913d5a",
    "game": "Shakes and Fidget",
@@ -4991,81 +4975,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.01
+   "score": 21.86
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 31.03
+   "score": 30.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.87
+   "score": 4.83
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.82
+   "score": 30.61
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.01
+   "score": 21.86
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.01
+   "score": 21.86
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.01
+   "score": 21.86
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.43
+   "score": 2.42
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.47
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.47
+   "score": 11.39
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 22.01
+   "score": 21.86
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 32,
+  "ARC Raiders": 31,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 41,
+  "Delta Force": 40,
   "LEGO Batman: Legacy of the Dark Knight": 40,
   "Marvel Rivals": 10,
-  "Once Human": 32,
-  "Palia": 32,
-  "Predecessor": 32,
+  "Once Human": 31,
+  "Palia": 31,
+  "Predecessor": 31,
   "Tom Clancy's The Division 2": 20,
   "Warframe": 21,
-  "Where Winds Meet": 32
+  "Where Winds Meet": 31
  }
 }
