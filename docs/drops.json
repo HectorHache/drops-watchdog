@@ -2622,46 +2622,6 @@
    "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   },
   {
-   "id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c",
-   "game": "Rise Online",
-   "title": "Mobile Drop 154",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T17:59:00+00:00",
-   "endAt": "2026-09-11T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-10T18:00:11+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/09b7b9ad-df37-4dd8-b96b-d41323e56734.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ff06764-fdbc-4eeb-8d15-4d72ae014f3c",
-   "rewards": [
-    {
-     "name": "Mobile Drop 154",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4ff06764-fdbc-4eeb-8d15-4d72ae014f3c.png"
-  },
-  {
-   "id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f",
-   "game": "Rise Online",
-   "title": "ROW Drop 583",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T17:59:00+00:00",
-   "endAt": "2026-09-11T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-10T18:00:11+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0c155657-c663-4483-8f5f-4c3bbc92afa8.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9849bce3-8af6-48f2-8a0e-632adebd9e8f",
-   "rewards": [
-    {
-     "name": "ROW Drop 583",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9849bce3-8af6-48f2-8a0e-632adebd9e8f.jpg"
-  },
-  {
    "id": "8a782101-a1b3-4d58-8835-374455319c4c",
    "game": "Path of Exile",
    "title": "PoE1 ExileCon 2/4",
@@ -3328,9 +3288,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1.png"
+  },
+  {
+   "id": "610ec154-354a-4fd0-a68b-f243e3109480",
+   "game": "Rise Online",
+   "title": "Mobile Drop 155",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:59:00+00:00",
+   "endAt": "2026-09-12T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-11T18:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c68ad911-8a1f-4cef-824d-3be8f45ee29d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=610ec154-354a-4fd0-a68b-f243e3109480",
+   "rewards": [
+    {
+     "name": "Mobile Drop 155",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/610ec154-354a-4fd0-a68b-f243e3109480.png"
+  },
+  {
+   "id": "90f94803-172f-4cec-890a-2f632dcfb079",
+   "game": "Rise Online",
+   "title": "ROW Drop 584",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:59:00+00:00",
+   "endAt": "2026-09-12T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-11T18:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/571736e3-76e8-43a7-ae51-f7775c9b77cb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=90f94803-172f-4cec-890a-2f632dcfb079",
+   "rewards": [
+    {
+     "name": "ROW Drop 584",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/90f94803-172f-4cec-890a-2f632dcfb079.png"
   }
  ],
  "archive": [
+  {
+   "id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c",
+   "game": "Rise Online",
+   "title": "Mobile Drop 154",
+   "startAt": "2026-09-10T17:59:00+00:00",
+   "endAt": "2026-09-11T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f",
+   "game": "Rise Online",
+   "title": "ROW Drop 583",
+   "startAt": "2026-09-10T17:59:00+00:00",
+   "endAt": "2026-09-11T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
    "game": "MARVEL Contest of Champions",
@@ -5439,43 +5455,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.61
+   "score": 21.59
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.47
+   "score": 30.44
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.78
+   "score": 4.77
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.26
+   "score": 30.23
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.61
+   "score": 21.59
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.61
+   "score": 21.59
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.61
+   "score": 21.59
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5487,19 +5503,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.26
+   "score": 11.25
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.61
+   "score": 21.59
   }
  },
  "favoriteWeights": {
