@@ -3170,30 +3170,6 @@
    "asset": "assets/91b30f57-19d2-4433-b7c3-1e1039c23026.png"
   },
   {
-   "id": "de783060-9a10-40be-8f3a-c84ac35331f8",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R5 (2)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T17:00:00+00:00",
-   "endAt": "2026-09-11T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-11T17:00:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64a99797-b481-4b91-8528-1a14643df05c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de783060-9a10-40be-8f3a-c84ac35331f8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/de783060-9a10-40be-8f3a-c84ac35331f8.jpg"
-  },
-  {
    "id": "3c326fa0-daf6-4334-ba70-2d27b0691e21",
    "game": "EA Sports College Football 27",
    "title": "CFB Live",
@@ -3331,6 +3307,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "de783060-9a10-40be-8f3a-c84ac35331f8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R5 (2)",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-11T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c",
    "game": "Rise Online",
@@ -5455,13 +5439,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.58
+   "score": 21.57
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.43
+   "score": 30.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5473,37 +5457,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.22
+   "score": 30.2
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.58
+   "score": 21.57
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.58
+   "score": 21.57
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.58
+   "score": 21.57
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.39
+   "score": 2.38
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   },
   "Warframe": {
    "favorites": 1,
@@ -5515,7 +5499,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.58
+   "score": 21.57
   }
  },
  "favoriteWeights": {
