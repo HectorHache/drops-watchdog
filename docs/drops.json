@@ -1122,46 +1122,6 @@
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
   {
-   "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
-   "game": "MARVEL Contest of Champions",
-   "title": "September Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T18:30:00+00:00",
-   "endAt": "2026-09-11T16:44:59.999+00:00",
-   "firstSeenAt": "2026-09-04T18:30:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=57d28902-3e1f-4430-8414-2a6b714e56ba",
-   "rewards": [
-    {
-     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - 1x Observance",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3 - PRG Gated Rank-Up Gem Crystal",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4 - 1x Observance",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5 - PRG Gated Ascension Materials",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 6 - PRG Gated Signature Stones",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/57d28902-3e1f-4430-8414-2a6b714e56ba.png"
-  },
-  {
    "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
    "game": "Path of Exile 2",
    "title": "0.5.5 Launch Drops",
@@ -3248,9 +3208,137 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/91b30f57-19d2-4433-b7c3-1e1039c23026.png"
+  },
+  {
+   "id": "de783060-9a10-40be-8f3a-c84ac35331f8",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R5 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-11T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-11T17:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64a99797-b481-4b91-8528-1a14643df05c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de783060-9a10-40be-8f3a-c84ac35331f8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/de783060-9a10-40be-8f3a-c84ac35331f8.jpg"
+  },
+  {
+   "id": "3c326fa0-daf6-4334-ba70-2d27b0691e21",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-12T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T17:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4b2c9c19-01a2-4858-95ad-d22bf20e8aaa.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c326fa0-daf6-4334-ba70-2d27b0691e21",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 240
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3c326fa0-daf6-4334-ba70-2d27b0691e21.png"
+  },
+  {
+   "id": "b9a06b09-c07f-4390-8271-913c215b64f1",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 2 - CCP",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-18T16:44:59.999+00:00",
+   "firstSeenAt": "2026-09-11T17:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b9a06b09-c07f-4390-8271-913c215b64f1",
+   "rewards": [
+    {
+     "name": "CCP Drop 1 - PRG Gated Rank-Up Gem Crystal",
+     "minutes": 120
+    },
+    {
+     "name": "CCP Drop 2 - 1x Observance",
+     "minutes": 180
+    },
+    {
+     "name": "CCP Drop 3 - PRG Gated Ascension Materials",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b9a06b09-c07f-4390-8271-913c215b64f1.png"
+  },
+  {
+   "id": "1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-18T16:44:59.999+00:00",
+   "firstSeenAt": "2026-09-11T17:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1",
+   "rewards": [
+    {
+     "name": "Drop 1 - 3x Rebirth Crystals",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3 - PRG Gated Hero Crystal",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1.png"
   }
  ],
  "archive": [
+  {
+   "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 1",
+   "startAt": "2026-09-04T18:30:00+00:00",
+   "endAt": "2026-09-11T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
    "game": "EA Sports College Football 27",
@@ -5351,13 +5439,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.61
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.5
+   "score": 30.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5369,25 +5457,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.29
+   "score": 30.26
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.61
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.61
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.61
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5399,19 +5487,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.27
+   "score": 11.26
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.61
   }
  },
  "favoriteWeights": {
