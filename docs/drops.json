@@ -2510,110 +2510,6 @@
    "asset": "assets/c8b36b61-cd45-447f-9be3-09e02ff85007.png"
   },
   {
-   "id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
-   "game": "Marbles on Stream",
-   "title": "MarbleFest - Sept'26-Day4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T13:00:00+00:00",
-   "endAt": "2026-09-11T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T13:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/899ba255-74ea-4b12-8c65-c161476377d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fe0fc844-5df4-42e4-b020-1e7bbb2f81a5.png"
-  },
-  {
-   "id": "5e687ba1-a332-4595-816e-dc1bf515dd66",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/10/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T13:00:00+00:00",
-   "endAt": "2026-09-11T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T13:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/67b2439a-505e-4010-9ef5-64fef1df8a09.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5e687ba1-a332-4595-816e-dc1bf515dd66",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5e687ba1-a332-4595-816e-dc1bf515dd66.png"
-  },
-  {
-   "id": "b62dd239-45f2-4eb7-8d26-10d4c773a838",
-   "game": "No Man's Sky",
-   "title": "Cosmos - Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T13:00:00+00:00",
-   "endAt": "2026-09-11T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T13:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6188e653-6633-483e-8c07-bc8869bfe006.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b62dd239-45f2-4eb7-8d26-10d4c773a838",
-   "rewards": [
-    {
-     "name": "Day 1 - Drop 3",
-     "minutes": 60
-    },
-    {
-     "name": "Day 1 - Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Day 1 - Drop 5",
-     "minutes": 180
-    },
-    {
-     "name": "Day 1 - Drop 1",
-     "minutes": 15
-    },
-    {
-     "name": "Day 1 - Drop 2",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b62dd239-45f2-4eb7-8d26-10d4c773a838.png"
-  },
-  {
    "id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 1",
@@ -3016,9 +2912,137 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
+  },
+  {
+   "id": "f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T13:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a3049a3f-bf35-4a26-9e8b-512ca6289905.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
+   "rewards": [
+    {
+     "name": "Day 2 - Drop 1",
+     "minutes": 15
+    },
+    {
+     "name": "Day 2 - Drop 2",
+     "minutes": 30
+    },
+    {
+     "name": "Day 2 - Drop 3",
+     "minutes": 60
+    },
+    {
+     "name": "Day 2 - Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Day 2 - Drop 5",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/f7a6a399-b258-4db6-abf9-c5bb1f0775c0.png"
+  },
+  {
+   "id": "db0494ab-2d43-4d33-91dc-48d7ed59169b",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/11/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T13:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35d8aef5-2707-45b7-aeb4-40a3ab93d523.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=db0494ab-2d43-4d33-91dc-48d7ed59169b",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/db0494ab-2d43-4d33-91dc-48d7ed59169b.png"
+  },
+  {
+   "id": "04fb8f48-4b3c-4751-8a34-cdaa05599537",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 265",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T13:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba1ac850-5f2f-4393-a464-70ae6321761c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=04fb8f48-4b3c-4751-8a34-cdaa05599537",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/04fb8f48-4b3c-4751-8a34-cdaa05599537.png"
   }
  ],
  "archive": [
+  {
+   "id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day4",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5e687ba1-a332-4595-816e-dc1bf515dd66",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/10/26",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b62dd239-45f2-4eb7-8d26-10d4c773a838",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 1",
+   "startAt": "2026-09-10T13:00:00+00:00",
+   "endAt": "2026-09-11T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7ab1b3b0-9c61-49f9-8d14-3faef536dc63",
    "game": "Black Desert",
@@ -5071,13 +5095,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.69
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.62
+   "score": 30.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5089,25 +5113,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.41
+   "score": 30.38
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.69
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.69
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.69
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5119,19 +5143,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.4
+   "score": 10.39
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.31
+   "score": 11.3
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.69
   }
  },
  "favoriteWeights": {
