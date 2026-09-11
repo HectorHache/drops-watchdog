@@ -1122,26 +1122,6 @@
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
   {
-   "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
-   "game": "Path of Exile 2",
-   "title": "0.5.5 Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T20:00:00+00:00",
-   "endAt": "2026-09-11T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T20:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f7b6fdb-5217-49ad-8638-807b517e118d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c00d237b-f273-4baf-9ea3-17e8d0a4be11",
-   "rewards": [
-    {
-     "name": "Blade of the Champion Pet",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png"
-  },
-  {
    "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
    "game": "SMITE 2",
    "title": "Sept Week 1 - Ishtar!",
@@ -3308,6 +3288,14 @@
  ],
  "archive": [
   {
+   "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
+   "game": "Path of Exile 2",
+   "title": "0.5.5 Launch Drops",
+   "startAt": "2026-09-04T20:00:00+00:00",
+   "endAt": "2026-09-11T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "de783060-9a10-40be-8f3a-c84ac35331f8",
    "game": "Tanki Online",
    "title": "WMR2 2026 R5 (2)",
@@ -5439,13 +5427,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.57
+   "score": 21.56
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.41
+   "score": 30.4
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5457,25 +5445,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.2
+   "score": 30.19
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.57
+   "score": 21.56
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.57
+   "score": 21.56
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.57
+   "score": 21.56
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5493,13 +5481,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.24
+   "score": 11.23
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.57
+   "score": 21.56
   }
  },
  "favoriteWeights": {
