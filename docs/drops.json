@@ -2510,26 +2510,6 @@
    "asset": "assets/c8b36b61-cd45-447f-9be3-09e02ff85007.png"
   },
   {
-   "id": "7ab1b3b0-9c61-49f9-8d14-3faef536dc63",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 10)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T12:00:00+00:00",
-   "endAt": "2026-09-11T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T12:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2da0328d-9eb5-4378-a902-18c48c138bbe.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7ab1b3b0-9c61-49f9-8d14-3faef536dc63",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 10)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/7ab1b3b0-9c61-49f9-8d14-3faef536dc63.png"
-  },
-  {
    "id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
    "game": "Marbles on Stream",
    "title": "MarbleFest - Sept'26-Day4",
@@ -2944,9 +2924,109 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c6df9132-c054-4de2-a63e-50ac7bb729cd.png"
+  },
+  {
+   "id": "9a00b794-bd4c-4b3b-b090-faa7769b51ba",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 11)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-09-12T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T12:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e3365e2-3897-4a07-a711-909269f8ad65.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a00b794-bd4c-4b3b-b090-faa7769b51ba",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 11)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/9a00b794-bd4c-4b3b-b090-faa7769b51ba.png"
+  },
+  {
+   "id": "d1219cdd-76d2-4644-9a06-64eaee50b646",
+   "game": "Contractors Showdown: ExfilZone",
+   "title": "EZ Campaign 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-09-12T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T12:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13d04777-d02e-4583-86dc-7faa5fd36238.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1219cdd-76d2-4644-9a06-64eaee50b646",
+   "rewards": [
+    {
+     "name": "Camp 1 - 30m",
+     "minutes": 30
+    },
+    {
+     "name": "Camp 1 - 60m",
+     "minutes": 60
+    },
+    {
+     "name": "Camp 1 - 90m",
+     "minutes": 90
+    },
+    {
+     "name": "Camp 1 - 120m",
+     "minutes": 120
+    },
+    {
+     "name": "Camp 1 - 150m",
+     "minutes": 150
+    },
+    {
+     "name": "Camp 1 - 180m",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d1219cdd-76d2-4644-9a06-64eaee50b646.png"
+  },
+  {
+   "id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd",
+   "game": "Marvel Rivals",
+   "title": "Season 10 Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-10-09T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T12:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b66b716b-e7fb-4578-8f13-56e6ddbc74c4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=87301354-542a-4bd8-b44e-5b21cc2fe2dd",
+   "rewards": [
+    {
+     "name": "Squirrel Girl\u300cWill of Galacta\u300dSpray",
+     "minutes": 30
+    },
+    {
+     "name": "Squirrel Girl\u300cWill of Galacta\u300dNameplate",
+     "minutes": 60
+    },
+    {
+     "name": "Squirrel Girl\u300cSkipping Squirrel\u300dEmotes",
+     "minutes": 120
+    },
+    {
+     "name": "Squirrel Girl\u300cWill of Galacta\u300dCostume",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   }
  ],
  "archive": [
+  {
+   "id": "7ab1b3b0-9c61-49f9-8d14-3faef536dc63",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 10)",
+   "startAt": "2026-09-10T12:00:00+00:00",
+   "endAt": "2026-09-11T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0d965472-4715-43f0-81f0-c756e2892d9b",
    "game": "Albion Online",
@@ -4991,43 +5071,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.74
+   "score": 21.71
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.65
+   "score": 30.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.81
+   "score": 4.8
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.44
+   "score": 30.41
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.74
+   "score": 21.71
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.74
+   "score": 21.71
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.74
+   "score": 21.71
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5039,19 +5119,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.41
+   "score": 10.4
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.32
+   "score": 11.31
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.74
+   "score": 21.71
   }
  },
  "favoriteWeights": {
