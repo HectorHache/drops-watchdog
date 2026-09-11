@@ -2602,26 +2602,6 @@
    "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   },
   {
-   "id": "8a782101-a1b3-4d58-8835-374455319c4c",
-   "game": "Path of Exile",
-   "title": "PoE1 ExileCon 2/4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T21:00:00+00:00",
-   "endAt": "2026-09-11T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T21:01:02+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f9e007b9-3ba1-4d0c-9eb7-26d2b9a04991.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8a782101-a1b3-4d58-8835-374455319c4c",
-   "rewards": [
-    {
-     "name": "Scavenger Helmet",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/8a782101-a1b3-4d58-8835-374455319c4c.png"
-  },
-  {
    "id": "e1cd9250-bf5c-4156-8550-1768e3194724",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3287,6 +3267,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "8a782101-a1b3-4d58-8835-374455319c4c",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 2/4",
+   "startAt": "2026-09-10T21:00:00+00:00",
+   "endAt": "2026-09-11T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11",
    "game": "Path of Exile 2",
@@ -5427,13 +5415,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.55
+   "score": 21.54
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.38
+   "score": 30.37
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5445,25 +5433,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.18
+   "score": 30.16
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.55
+   "score": 21.54
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.55
+   "score": 21.54
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.55
+   "score": 21.54
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5487,7 +5475,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.55
+   "score": 21.54
   }
  },
  "favoriteWeights": {
