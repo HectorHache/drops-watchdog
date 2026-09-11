@@ -1122,26 +1122,6 @@
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
   {
-   "id": "9165080b-f268-43b5-9561-f5516a1b2fdb",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T15:00:00+00:00",
-   "endAt": "2026-09-11T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/908d5e21-bab8-46ad-b1f1-901d79da6a6c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9165080b-f268-43b5-9561-f5516a1b2fdb",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9165080b-f268-43b5-9561-f5516a1b2fdb.jpg"
-  },
-  {
    "id": "57d28902-3e1f-4430-8414-2a6b714e56ba",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 1",
@@ -1524,26 +1504,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/b6581084-0574-452c-9c00-d881d4fea78e.png"
-  },
-  {
-   "id": "e4388bac-505a-4c92-9c80-af3cc9a27c7f",
-   "game": "World of Tanks",
-   "title": "First Deployment #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T15:00:00+00:00",
-   "endAt": "2026-09-11T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T15:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2316f6b-9219-415f-9ace-8718cc517176.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e4388bac-505a-4c92-9c80-af3cc9a27c7f",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e4388bac-505a-4c92-9c80-af3cc9a27c7f.jpg"
   },
   {
    "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
@@ -3016,9 +2976,293 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/04fb8f48-4b3c-4751-8a34-cdaa05599537.png"
+  },
+  {
+   "id": "276dd33c-1c7f-47f2-a0ca-8677a7fd47eb",
+   "game": "Dofus",
+   "title": "Ivory Token",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-11T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T14:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f25bd2f1-d003-4aec-ae9a-fbe8f2661802.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=276dd33c-1c7f-47f2-a0ca-8677a7fd47eb",
+   "rewards": [
+    {
+     "name": "Ivory Token",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/276dd33c-1c7f-47f2-a0ca-8677a7fd47eb.png"
+  },
+  {
+   "id": "11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-11T14:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2857b99-dc50-4293-afba-ac57c2bd8131.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/11f0c788-3f3d-4a13-a5e6-b0a860f7283d.png"
+  },
+  {
+   "id": "326c19f0-772d-4e6b-bbf7-fc1940e8707f",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-17T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-11T14:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f6bf3ec-a4b8-4b7c-a733-8f2240e9cfe9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=326c19f0-772d-4e6b-bbf7-fc1940e8707f",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
+  },
+  {
+   "id": "7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T14:30:00+00:00",
+   "endAt": "2026-09-11T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-11T14:30:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/51f25cf9-b25f-4d2b-a0f6-9f3d42ba56cc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7617ad02-b11f-4ca2-9d58-ab2e50e73b08.png"
+  },
+  {
+   "id": "46e6e701-f352-45c8-b903-68e3114463f8",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-12T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b0434399-9c55-4a70-9d56-8342618fceca.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46e6e701-f352-45c8-b903-68e3114463f8",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/46e6e701-f352-45c8-b903-68e3114463f8.jpg"
+  },
+  {
+   "id": "72a393cb-7bff-44ec-8c8f-c5601268caa7",
+   "game": "World of Tanks",
+   "title": "Mailand & MouzAkrobat",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-13T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/651dfc6e-5f2b-431e-af74-16008404f57d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=72a393cb-7bff-44ec-8c8f-c5601268caa7",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/72a393cb-7bff-44ec-8c8f-c5601268caa7.png"
+  },
+  {
+   "id": "63f1ad29-fe7d-4c2c-b5f6-1951607af7a7",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 11.09.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-13T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17c6df2a-6ce1-4643-9396-be9710e7e92e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63f1ad29-fe7d-4c2c-b5f6-1951607af7a7",
+   "rewards": [
+    {
+     "name": "20 000 credits 11.09",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 11.09",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 11.09",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 11.09",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 11.09",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 11.09",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/63f1ad29-fe7d-4c2c-b5f6-1951607af7a7.png"
+  },
+  {
+   "id": "f3e8e677-13d3-4818-ad83-2794e988e2c6",
+   "game": "World of Tanks",
+   "title": "First Deployment #3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-14T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/33c4bc03-44e6-4be5-9c6f-4abd9d5c81ba.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f3e8e677-13d3-4818-ad83-2794e988e2c6",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f3e8e677-13d3-4818-ad83-2794e988e2c6.jpg"
+  },
+  {
+   "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-18T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e1dcadf-8ba0-48d0-bb85-f622670c66c7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/09a01ba8-b6d0-426d-b707-a6fa27e48cb2.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "9165080b-f268-43b5-9561-f5516a1b2fdb",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 1",
+   "startAt": "2026-09-04T15:00:00+00:00",
+   "endAt": "2026-09-11T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e4388bac-505a-4c92-9c80-af3cc9a27c7f",
+   "game": "World of Tanks",
+   "title": "First Deployment #2",
+   "startAt": "2026-09-07T15:00:00+00:00",
+   "endAt": "2026-09-11T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5",
    "game": "Marbles on Stream",
@@ -5095,67 +5339,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.65
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.59
+   "score": 30.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.8
+   "score": 4.79
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.38
+   "score": 30.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.65
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.65
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.65
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.4
+   "score": 2.39
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.37
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.28
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.65
   }
  },
  "favoriteWeights": {
