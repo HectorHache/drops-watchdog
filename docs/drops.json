@@ -3098,30 +3098,6 @@
    "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
   },
   {
-   "id": "7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Rundown",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T14:30:00+00:00",
-   "endAt": "2026-09-11T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-11T14:30:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/51f25cf9-b25f-4d2b-a0f6-9f3d42ba56cc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7617ad02-b11f-4ca2-9d58-ab2e50e73b08.png"
-  },
-  {
    "id": "46e6e701-f352-45c8-b903-68e3114463f8",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #4",
@@ -3244,9 +3220,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/09a01ba8-b6d0-426d-b707-a6fa27e48cb2.jpg"
+  },
+  {
+   "id": "91b30f57-19d2-4433-b7c3-1e1039c23026",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T16:00:00+00:00",
+   "endAt": "2026-09-15T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-11T16:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ef9f6a7-6b78-4ef4-a3b3-76e6d7cd09a7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91b30f57-19d2-4433-b7c3-1e1039c23026",
+   "rewards": [
+    {
+     "name": "Camo Voucher",
+     "minutes": 120
+    },
+    {
+     "name": "4 x4 Commander XP Boosters",
+     "minutes": 240
+    },
+    {
+     "name": "Blobs Camo",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/91b30f57-19d2-4433-b7c3-1e1039c23026.png"
   }
  ],
  "archive": [
+  {
+   "id": "7617ad02-b11f-4ca2-9d58-ab2e50e73b08",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-09-11T14:30:00+00:00",
+   "endAt": "2026-09-11T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9165080b-f268-43b5-9561-f5516a1b2fdb",
    "game": "Mir Korabley",
@@ -5339,43 +5351,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.65
+   "score": 21.63
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.53
+   "score": 30.5
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.79
+   "score": 4.78
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.32
+   "score": 30.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.65
+   "score": 21.63
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.65
+   "score": 21.63
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.65
+   "score": 21.63
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5387,19 +5399,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.37
+   "score": 10.36
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.28
+   "score": 11.27
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.65
+   "score": 21.63
   }
  },
  "favoriteWeights": {
