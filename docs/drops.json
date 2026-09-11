@@ -2482,46 +2482,6 @@
    "asset": "assets/a4dedaec-6fb9-4a73-8e10-506206a016e4.png"
   },
   {
-   "id": "0d965472-4715-43f0-81f0-c756e2892d9b",
-   "game": "Albion Online",
-   "title": "Dragonfire 2 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T10:00:00+00:00",
-   "endAt": "2026-09-11T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-10T10:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/013848f9-20b3-46b1-9c0b-74aba3158a88.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0d965472-4715-43f0-81f0-c756e2892d9b",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0d965472-4715-43f0-81f0-c756e2892d9b.png"
-  },
-  {
-   "id": "f9864f1b-1de0-49c0-a5b4-3810aaa999ab",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 2 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T10:00:00+00:00",
-   "endAt": "2026-09-11T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-10T10:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01e63fa1-8bf9-41fd-92da-c909f4b7970a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f9864f1b-1de0-49c0-a5b4-3810aaa999ab",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f9864f1b-1de0-49c0-a5b4-3810aaa999ab.png"
-  },
-  {
    "id": "c8b36b61-cd45-447f-9be3-09e02ff85007",
    "game": "THE FINALS",
    "title": "RED BROADCAST BLAZE",
@@ -2944,9 +2904,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e1cd9250-bf5c-4156-8550-1768e3194724.png"
+  },
+  {
+   "id": "9feeda3c-39ca-425d-8ff4-a67d3c2348f9",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T10:00:00+00:00",
+   "endAt": "2026-09-12T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-11T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f92d4150-2218-4bc8-9166-4e101b18f855.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9feeda3c-39ca-425d-8ff4-a67d3c2348f9",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9feeda3c-39ca-425d-8ff4-a67d3c2348f9.png"
+  },
+  {
+   "id": "c6df9132-c054-4de2-a63e-50ac7bb729cd",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T10:00:00+00:00",
+   "endAt": "2026-09-12T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-11T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3c7acd90-2204-4412-989f-a0a3f93e22db.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6df9132-c054-4de2-a63e-50ac7bb729cd",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c6df9132-c054-4de2-a63e-50ac7bb729cd.png"
   }
  ],
  "archive": [
+  {
+   "id": "0d965472-4715-43f0-81f0-c756e2892d9b",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #4/7",
+   "startAt": "2026-09-10T10:00:00+00:00",
+   "endAt": "2026-09-11T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f9864f1b-1de0-49c0-a5b4-3810aaa999ab",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #4/7",
+   "startAt": "2026-09-10T10:00:00+00:00",
+   "endAt": "2026-09-11T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "636139d9-1ea2-428d-8eae-75fd69720775",
    "game": "Hearthstone",
@@ -4975,43 +4991,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.79
+   "score": 21.76
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.72
+   "score": 30.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.82
+   "score": 4.81
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.51
+   "score": 30.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.79
+   "score": 21.76
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.79
+   "score": 21.76
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.79
+   "score": 21.76
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5023,19 +5039,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.44
+   "score": 10.42
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.33
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.79
+   "score": 21.76
   }
  },
  "favoriteWeights": {
