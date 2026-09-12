@@ -3570,34 +3570,6 @@
    "asset": "assets/34ec6dc4-a2e6-4162-9ae3-ef0a8ed7eb42.png"
   },
   {
-   "id": "c3e7ac4a-7114-4869-ba28-76760780bf60",
-   "game": "Rivals of Aether II",
-   "title": "UFA 2026 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T14:00:00+00:00",
-   "endAt": "2026-09-12T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T14:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/37dab860-eb8f-4a9a-a394-db23ebc33e13.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c3e7ac4a-7114-4869-ba28-76760780bf60",
-   "rewards": [
-    {
-     "name": "Purple Ranno Icon",
-     "minutes": 60
-    },
-    {
-     "name": "1000 Aether Coins ",
-     "minutes": 120
-    },
-    {
-     "name": "UFA Ranno Palette",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c3e7ac4a-7114-4869-ba28-76760780bf60.png"
-  },
-  {
    "id": "c95c22e4-0ca9-444a-beaa-3329c2328e50",
    "game": "Marbles on Stream",
    "title": "MarbleFest - Sept'26-Day6",
@@ -3935,6 +3907,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "c3e7ac4a-7114-4869-ba28-76760780bf60",
+   "game": "Rivals of Aether II",
+   "title": "UFA 2026 Drops",
+   "startAt": "2026-09-12T14:00:00+00:00",
+   "endAt": "2026-09-12T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ba637f4b-a5d9-4396-b368-0bfc7df110b8",
    "game": "NARAKA: BLADEPOINT",
@@ -6243,13 +6223,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.72
+   "score": 29.7
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6261,25 +6241,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.51
+   "score": 29.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6291,19 +6271,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.1
+   "score": 10.09
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.98
+   "score": 10.97
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   }
  },
  "favoriteWeights": {
