@@ -2446,46 +2446,6 @@
    "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   },
   {
-   "id": "d1219cdd-76d2-4644-9a06-64eaee50b646",
-   "game": "Contractors Showdown: ExfilZone",
-   "title": "EZ Campaign 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T12:00:00+00:00",
-   "endAt": "2026-09-12T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T12:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13d04777-d02e-4583-86dc-7faa5fd36238.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1219cdd-76d2-4644-9a06-64eaee50b646",
-   "rewards": [
-    {
-     "name": "Camp 1 - 30m",
-     "minutes": 30
-    },
-    {
-     "name": "Camp 1 - 60m",
-     "minutes": 60
-    },
-    {
-     "name": "Camp 1 - 90m",
-     "minutes": 90
-    },
-    {
-     "name": "Camp 1 - 120m",
-     "minutes": 120
-    },
-    {
-     "name": "Camp 1 - 150m",
-     "minutes": 150
-    },
-    {
-     "name": "Camp 1 - 180m",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d1219cdd-76d2-4644-9a06-64eaee50b646.png"
-  },
-  {
    "id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd",
    "game": "Marvel Rivals",
    "title": "Season 10 Twitch Drops",
@@ -2748,46 +2708,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/91b30f57-19d2-4433-b7c3-1e1039c23026.png"
-  },
-  {
-   "id": "3c326fa0-daf6-4334-ba70-2d27b0691e21",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Live",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T17:00:00+00:00",
-   "endAt": "2026-09-12T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T17:00:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4b2c9c19-01a2-4858-95ad-d22bf20e8aaa.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c326fa0-daf6-4334-ba70-2d27b0691e21",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 240
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3c326fa0-daf6-4334-ba70-2d27b0691e21.png"
   },
   {
    "id": "b9a06b09-c07f-4390-8271-913c215b64f1",
@@ -3058,6 +2978,26 @@
    "asset": "assets/4cd6da06-5e0c-449a-88ae-58fe1d3b502e.png"
   },
   {
+   "id": "d562cedc-dc28-42d6-840a-15030138be49",
+   "game": "LEGO Batman: Legacy of the Dark Knight",
+   "title": "Joker Mayhem",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T07:00:00+00:00",
+   "endAt": "2026-09-28T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1967a410-91a4-470b-b3fb-86fe3b0af71c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d562cedc-dc28-42d6-840a-15030138be49",
+   "rewards": [
+    {
+     "name": "Joker Mayhem",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/d562cedc-dc28-42d6-840a-15030138be49.png"
+  },
+  {
    "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
    "game": "Albion Online",
    "title": "Dragonfire 2 - #6/7",
@@ -3196,6 +3136,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3b352412-f24e-4602-ae88-3e893fd917d2.jpg"
+  },
+  {
+   "id": "85171cfe-a0a6-4a06-a857-0dbe2a52dffc",
+   "game": "Kirka.io",
+   "title": "Sour Kandy",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T11:59:07+00:00",
+   "endAt": "2026-09-12T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbb8eaba-8457-411a-9e6c-77f29ad4d72f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85171cfe-a0a6-4a06-a857-0dbe2a52dffc",
+   "rewards": [
+    {
+     "name": "Sour Kandy",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/85171cfe-a0a6-4a06-a857-0dbe2a52dffc.png"
   },
   {
    "id": "ef3fb880-49d4-4ff0-a4d7-826012d19229",
@@ -3634,6 +3594,42 @@
    "asset": "assets/177dcd62-7e11-4641-a832-1d1d935b7e18.png"
   },
   {
+   "id": "34ec6dc4-a2e6-4162-9ae3-ef0a8ed7eb42",
+   "game": "Out of the Park Baseball 27",
+   "title": "EVCinNYC 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:30:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ed2f515c-5580-420c-9ae1-51528e673c46.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=34ec6dc4-a2e6-4162-9ae3-ef0a8ed7eb42",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/34ec6dc4-a2e6-4162-9ae3-ef0a8ed7eb42.png"
+  },
+  {
    "id": "c3e7ac4a-7114-4869-ba28-76760780bf60",
    "game": "Rivals of Aether II",
    "title": "UFA 2026 Drops",
@@ -3736,9 +3732,245 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85.png"
+  },
+  {
+   "id": "2724862c-d19a-4c08-b4c0-e07899ed7833",
+   "game": "Contractors Showdown: ExfilZone",
+   "title": "EZ Campaign 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T16:00:00+00:00",
+   "endAt": "2026-09-14T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2724862c-d19a-4c08-b4c0-e07899ed7833",
+   "rewards": [
+    {
+     "name": "Camp 2 - 30m",
+     "minutes": 30
+    },
+    {
+     "name": "Camp 2 - 60m",
+     "minutes": 60
+    },
+    {
+     "name": "Camp 2 - 90m",
+     "minutes": 90
+    },
+    {
+     "name": "Camp 2 - 120m",
+     "minutes": 120
+    },
+    {
+     "name": "Camp 2 - 150m",
+     "minutes": 150
+    },
+    {
+     "name": "Camp 2 - 180m",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2724862c-d19a-4c08-b4c0-e07899ed7833.png"
+  },
+  {
+   "id": "c4b3a98f-37e1-4ad5-9066-4406525225e3",
+   "game": "Hearthstone",
+   "title": "HS BlizzCon Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-13T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:30:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ab58ace-3d51-4929-b851-6d4c373ed7cd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c4b3a98f-37e1-4ad5-9066-4406525225e3",
+   "rewards": [
+    {
+     "name": "Violet Hold Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Violet Hold Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c4b3a98f-37e1-4ad5-9066-4406525225e3.png"
+  },
+  {
+   "id": "fe3b143a-9ff8-4f67-b70c-d134677f9ef9",
+   "game": "Overwatch",
+   "title": "OW BlizzCon Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-13T16:28:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:30:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ed82c61a-f3b7-4bad-8a06-0b9167d7f118.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fe3b143a-9ff8-4f67-b70c-d134677f9ef9",
+   "rewards": [
+    {
+     "name": "BlizzCon Day 1 Drop 7",
+     "minutes": 300
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 8",
+     "minutes": 360
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 9",
+     "minutes": 420
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 10",
+     "minutes": 480
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 1",
+     "minutes": 15
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 2",
+     "minutes": 30
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 3",
+     "minutes": 60
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 5",
+     "minutes": 180
+    },
+    {
+     "name": "BlizzCon Day 1 Drop 6",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fe3b143a-9ff8-4f67-b70c-d134677f9ef9.png"
+  },
+  {
+   "id": "56319123-4dab-42af-936a-e7d9a243313c",
+   "game": "Diablo IV",
+   "title": "Blizzcon Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-15T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:30:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d944339-a09a-4709-b3c7-f1c5a06f8632.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56319123-4dab-42af-936a-e7d9a243313c",
+   "rewards": [
+    {
+     "name": "Tintinnabulation",
+     "minutes": 360
+    },
+    {
+     "name": "Serrated Skean",
+     "minutes": 120
+    },
+    {
+     "name": "Corroded Cleaver",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/56319123-4dab-42af-936a-e7d9a243313c.png"
+  },
+  {
+   "id": "b49fb9b7-4084-45b0-8c2d-ca811de26680",
+   "game": "World of Warcraft",
+   "title": "WoW BlizzCon 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-27T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T16:30:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c862595e-fc35-422b-b222-13dd90d1771e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b49fb9b7-4084-45b0-8c2d-ca811de26680",
+   "rewards": [
+    {
+     "name": "Trader's Tender",
+     "minutes": 120
+    },
+    {
+     "name": "Cuddly Blue Grrgle",
+     "minutes": 240
+    },
+    {
+     "name": "Fluffy Comfy Flying Quilt",
+     "minutes": 480
+    },
+    {
+     "name": "Venomous Champion's Illustrious Banner",
+     "minutes": 720
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b49fb9b7-4084-45b0-8c2d-ca811de26680.png"
+  },
+  {
+   "id": "234917cd-81e0-4bb4-a05e-0425f2cbf58d",
+   "game": "Heroes of the Storm",
+   "title": "Heroes Blizzcon 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T17:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T17:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54d2b564-cb56-4254-bdde-985b74ac8822.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=234917cd-81e0-4bb4-a05e-0425f2cbf58d",
+   "rewards": [
+    {
+     "name": "7 Day Boost",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/234917cd-81e0-4bb4-a05e-0425f2cbf58d.png"
+  },
+  {
+   "id": "943c3e2a-59bb-47e3-bd77-6d8bdf909cdb",
+   "game": "StarCraft II",
+   "title": "SC2 Blizzcon 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T17:00:00+00:00",
+   "endAt": "2026-09-14T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T17:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f6503b26-1d60-4718-8bf2-c8a0826f7c31.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=943c3e2a-59bb-47e3-bd77-6d8bdf909cdb",
+   "rewards": [
+    {
+     "name": "XP Boost",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/943c3e2a-59bb-47e3-bd77-6d8bdf909cdb.png"
   }
  ],
  "archive": [
+  {
+   "id": "3c326fa0-daf6-4334-ba70-2d27b0691e21",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-12T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d1219cdd-76d2-4644-9a06-64eaee50b646",
+   "game": "Contractors Showdown: ExfilZone",
+   "title": "EZ Campaign 1",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-09-12T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "04fb8f48-4b3c-4751-8a34-cdaa05599537",
    "game": "Marbles on Stream",
@@ -6007,67 +6239,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.16
+   "score": 21.12
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.83
+   "score": 29.77
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.68
+   "score": 4.67
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.63
+   "score": 29.57
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.16
+   "score": 21.12
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.16
+   "score": 21.12
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.16
+   "score": 21.12
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.34
+   "score": 2.33
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.14
+   "score": 10.12
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.02
+   "score": 11.0
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.16
+   "score": 21.12
   }
  },
  "favoriteWeights": {
