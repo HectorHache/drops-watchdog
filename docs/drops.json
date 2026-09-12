@@ -3138,26 +3138,6 @@
    "asset": "assets/ef3fb880-49d4-4ff0-a4d7-826012d19229.png"
   },
   {
-   "id": "ba637f4b-a5d9-4396-b368-0bfc7df110b8",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "9.12 Naraka Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T13:00:00+00:00",
-   "endAt": "2026-09-12T18:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T13:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4323ae7f-6935-4b29-b347-5dc56ad53656.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba637f4b-a5d9-4396-b368-0bfc7df110b8",
-   "rewards": [
-    {
-     "name": "Naraka Weekend Gift Official Event Gift",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ba637f4b-a5d9-4396-b368-0bfc7df110b8.png"
-  },
-  {
    "id": "43f2f757-64f7-455d-ab04-995d6bfc85e4",
    "game": "Out of the Park Baseball 27",
    "title": "Sporer 9/12/26",
@@ -3955,6 +3935,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "ba637f4b-a5d9-4396-b368-0bfc7df110b8",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "9.12 Naraka Weekend",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-12T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "610ec154-354a-4fd0-a68b-f243e3109480",
    "game": "Rise Online",
@@ -6255,13 +6243,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.75
+   "score": 29.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6273,25 +6261,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.54
+   "score": 29.53
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6303,19 +6291,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.99
+   "score": 10.98
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   }
  },
  "favoriteWeights": {
