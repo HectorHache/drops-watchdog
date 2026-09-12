@@ -2518,38 +2518,6 @@
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   },
   {
-   "id": "04fb8f48-4b3c-4751-8a34-cdaa05599537",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 265",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T13:00:00+00:00",
-   "endAt": "2026-09-12T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T13:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba1ac850-5f2f-4393-a464-70ae6321761c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=04fb8f48-4b3c-4751-8a34-cdaa05599537",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/04fb8f48-4b3c-4751-8a34-cdaa05599537.png"
-  },
-  {
    "id": "11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 3/3",
@@ -3088,34 +3056,6 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/4cd6da06-5e0c-449a-88ae-58fe1d3b502e.png"
-  },
-  {
-   "id": "82b70ab8-a894-46ca-97bc-877b1f83c0a5",
-   "game": "Eternal Return",
-   "title": "EJC S12 Phase 1 - Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T07:30:00+00:00",
-   "endAt": "2026-09-12T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T07:30:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/602ab1f1-9e80-49ca-a11c-318a89416e8a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=82b70ab8-a894-46ca-97bc-877b1f83c0a5",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/82b70ab8-a894-46ca-97bc-877b1f83c0a5.png"
   },
   {
    "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
@@ -3692,9 +3632,85 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/177dcd62-7e11-4641-a832-1d1d935b7e18.png"
+  },
+  {
+   "id": "c3e7ac4a-7114-4869-ba28-76760780bf60",
+   "game": "Rivals of Aether II",
+   "title": "UFA 2026 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T14:00:00+00:00",
+   "endAt": "2026-09-12T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T14:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/37dab860-eb8f-4a9a-a394-db23ebc33e13.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c3e7ac4a-7114-4869-ba28-76760780bf60",
+   "rewards": [
+    {
+     "name": "Purple Ranno Icon",
+     "minutes": 60
+    },
+    {
+     "name": "1000 Aether Coins ",
+     "minutes": 120
+    },
+    {
+     "name": "UFA Ranno Palette",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c3e7ac4a-7114-4869-ba28-76760780bf60.png"
+  },
+  {
+   "id": "c95c22e4-0ca9-444a-beaa-3329c2328e50",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T14:00:00+00:00",
+   "endAt": "2026-09-13T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T14:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/011d7e8c-7cf6-4a49-98b2-2ddc2de4acd1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c95c22e4-0ca9-444a-beaa-3329c2328e50",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c95c22e4-0ca9-444a-beaa-3329c2328e50.png"
   }
  ],
  "archive": [
+  {
+   "id": "04fb8f48-4b3c-4751-8a34-cdaa05599537",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 265",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "82b70ab8-a894-46ca-97bc-877b1f83c0a5",
+   "game": "Eternal Return",
+   "title": "EJC S12 Phase 1 - Day 1",
+   "startAt": "2026-09-12T07:30:00+00:00",
+   "endAt": "2026-09-12T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
    "game": "No Man's Sky",
@@ -5947,43 +5963,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.89
+   "score": 29.86
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.69
+   "score": 4.68
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.69
+   "score": 29.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5995,19 +6011,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.18
   }
  },
  "favoriteWeights": {
