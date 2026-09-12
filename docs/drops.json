@@ -894,38 +894,6 @@
    "asset": "assets/e0ed32bc-7ecb-451b-8b1a-7953847dcb72.png"
   },
   {
-   "id": "273782f3-2251-4510-9d8f-920b37f6b7bb",
-   "game": "Krunker",
-   "title": "September Spins Update",
-   "status": "ACTIVE",
-   "startAt": "2026-09-02T16:30:00+00:00",
-   "endAt": "2026-09-11T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-02T17:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ab2e3027-7096-401d-8e19-33ed119eb4d3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=273782f3-2251-4510-9d8f-920b37f6b7bb",
-   "rewards": [
-    {
-     "name": "Purple Flow Assault Rifle",
-     "minutes": 120
-    },
-    {
-     "name": "Purple Flow Shotgun",
-     "minutes": 180
-    },
-    {
-     "name": "Purple Flow Charge Rifle",
-     "minutes": 240
-    },
-    {
-     "name": "Purple Flow Sniper Rifle",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/273782f3-2251-4510-9d8f-920b37f6b7bb.png"
-  },
-  {
    "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
    "game": "The Blood of Dawnwalker",
    "title": "Dawnwalker Launch",
@@ -2034,34 +2002,6 @@
    "asset": "assets/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png"
   },
   {
-   "id": "2fdfd673-2ec7-4e76-bc4f-f0429bd41e92",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T05:00:00+00:00",
-   "endAt": "2026-09-12T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-09T13:30:54+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee51fed4-b052-459a-a406-fe0cc904a94e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2fdfd673-2ec7-4e76-bc4f-f0429bd41e92",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2fdfd673-2ec7-4e76-bc4f-f0429bd41e92.png"
-  },
-  {
    "id": "4d11821c-2856-45c9-9a4d-fa1717d3aae0",
    "game": "Sonic Rumble Party",
    "title": "September 2026 Drops",
@@ -2602,26 +2542,6 @@
    "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   },
   {
-   "id": "e1cd9250-bf5c-4156-8550-1768e3194724",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T00:00:00+00:00",
-   "endAt": "2026-09-11T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T00:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/345c4106-a14e-419e-9819-5f5bc0c224d0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e1cd9250-bf5c-4156-8550-1768e3194724",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e1cd9250-bf5c-4156-8550-1768e3194724.png"
-  },
-  {
    "id": "9feeda3c-39ca-425d-8ff4-a67d3c2348f9",
    "game": "Albion Online",
    "title": "Dragonfire 2 - #5/7",
@@ -2858,26 +2778,6 @@
    "asset": "assets/04fb8f48-4b3c-4751-8a34-cdaa05599537.png"
   },
   {
-   "id": "276dd33c-1c7f-47f2-a0ca-8677a7fd47eb",
-   "game": "Dofus",
-   "title": "Ivory Token",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T14:00:00+00:00",
-   "endAt": "2026-09-11T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T14:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f25bd2f1-d003-4aec-ae9a-fbe8f2661802.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=276dd33c-1c7f-47f2-a0ca-8677a7fd47eb",
-   "rewards": [
-    {
-     "name": "Ivory Token",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/276dd33c-1c7f-47f2-a0ca-8677a7fd47eb.png"
-  },
-  {
    "id": "11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 3/3",
@@ -2976,26 +2876,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
-  },
-  {
-   "id": "46e6e701-f352-45c8-b903-68e3114463f8",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T15:00:00+00:00",
-   "endAt": "2026-09-12T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T15:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b0434399-9c55-4a70-9d56-8342618fceca.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46e6e701-f352-45c8-b903-68e3114463f8",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/46e6e701-f352-45c8-b903-68e3114463f8.jpg"
   },
   {
    "id": "72a393cb-7bff-44ec-8c8f-c5601268caa7",
@@ -3264,9 +3144,189 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/90f94803-172f-4cec-890a-2f632dcfb079.png"
+  },
+  {
+   "id": "77c3e1c6-8d7c-4baf-8446-1fc640745d56",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-12T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T00:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29df9e72-be5b-4719-8104-33f4ce32394e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77c3e1c6-8d7c-4baf-8446-1fc640745d56",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/77c3e1c6-8d7c-4baf-8446-1fc640745d56.png"
+  },
+  {
+   "id": "4c33fd54-c219-43c2-9509-066778b9c77e",
+   "game": "Delta Force",
+   "title": "NewStreamer Training Camp",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-12T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T00:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/953e3cd5-6ff1-45f3-bae1-97cbfbae5092.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c33fd54-c219-43c2-9509-066778b9c77e",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Ops Challenge Supply Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Avatar - Helping Hand",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Card - Each to Their Role",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/4c33fd54-c219-43c2-9509-066778b9c77e.png"
+  },
+  {
+   "id": "1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
+   "game": "Halo: The Master Chief Collection",
+   "title": "BTB Ladies Night-SEP12",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T00:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/468755f9-8605-4d5d-beee-8ff41deb9c18.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
+   "rewards": [
+    {
+     "name": "Shooting Star Nameplate",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63.png"
+  },
+  {
+   "id": "c0436226-8fe9-46ea-9c6c-51bb2f771a73",
+   "game": "Apex Legends",
+   "title": "ALGS Split 2 PL MD 10",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T04:00:00+00:00",
+   "endAt": "2026-09-14T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T04:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7b4be49-0c21-4ba8-a480-d8827f3e97a0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c0436226-8fe9-46ea-9c6c-51bb2f771a73",
+   "rewards": [
+    {
+     "name": "APEX Pack",
+     "minutes": 60
+    },
+    {
+     "name": "APEX Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c0436226-8fe9-46ea-9c6c-51bb2f771a73.png"
+  },
+  {
+   "id": "fdf95ba3-9635-44d8-92fd-b37370b3a250",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T05:00:00+00:00",
+   "endAt": "2026-09-14T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-12T05:00:49+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c293dd98-5897-452b-83d7-ceed522ef748.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fdf95ba3-9635-44d8-92fd-b37370b3a250",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fdf95ba3-9635-44d8-92fd-b37370b3a250.png"
   }
  ],
  "archive": [
+  {
+   "id": "2fdfd673-2ec7-4e76-bc4f-f0429bd41e92",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 3",
+   "startAt": "2026-09-09T05:00:00+00:00",
+   "endAt": "2026-09-12T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "46e6e701-f352-45c8-b903-68e3114463f8",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #4",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-12T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a355b707-775e-4f81-a3e9-d0bdc7feff36",
+   "game": "Warframe",
+   "title": "Community Drops #215",
+   "startAt": "2026-09-11T23:00:00+00:00",
+   "endAt": "2026-09-12T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "273782f3-2251-4510-9d8f-920b37f6b7bb",
+   "game": "Krunker",
+   "title": "September Spins Update",
+   "startAt": "2026-09-02T16:30:00+00:00",
+   "endAt": "2026-09-11T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e1cd9250-bf5c-4156-8550-1768e3194724",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-11T00:00:00+00:00",
+   "endAt": "2026-09-11T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "276dd33c-1c7f-47f2-a0ca-8677a7fd47eb",
+   "game": "Dofus",
+   "title": "Ivory Token",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-11T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8a782101-a1b3-4d58-8835-374455319c4c",
    "game": "Path of Exile",
@@ -5415,67 +5475,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.51
+   "score": 21.36
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.32
+   "score": 30.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.76
+   "score": 4.72
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 30.12
+   "score": 29.91
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.51
+   "score": 21.36
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.51
+   "score": 21.36
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.51
+   "score": 21.36
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.38
+   "score": 2.36
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.3
+   "score": 10.23
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.2
+   "score": 11.13
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.51
+   "score": 21.36
   }
  },
  "favoriteWeights": {
@@ -5483,7 +5543,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 40,
-  "LEGO Batman: Legacy of the Dark Knight": 40,
+  "LEGO Batman: Legacy of the Dark Knight": 39,
   "Marvel Rivals": 10,
   "Once Human": 31,
   "Palia": 31,
