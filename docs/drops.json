@@ -3304,6 +3304,82 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/82b70ab8-a894-46ca-97bc-877b1f83c0a5.png"
+  },
+  {
+   "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-13T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-12T10:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/494d756a-4779-4291-930a-2ef9d56e0b57.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ffe59f26-3307-4892-afbd-6938e2058ed9",
+   "rewards": [
+    {
+     "name": "2x Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ffe59f26-3307-4892-afbd-6938e2058ed9.png"
+  },
+  {
+   "id": "ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-13T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-12T10:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bec95245-e477-4a31-b1cd-15c3262e29c3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333",
+   "rewards": [
+    {
+     "name": "2x Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333.png"
+  },
+  {
+   "id": "e03e6c9c-69eb-4658-a176-6adcb6eb2118",
+   "game": "War Thunder",
+   "title": "Major III - Final",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-15T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T10:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd6a01f9-8854-4e50-8168-41dd04488e65.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e03e6c9c-69eb-4658-a176-6adcb6eb2118",
+   "rewards": [
+    {
+     "name": "5 Backups",
+     "minutes": 60
+    },
+    {
+     "name": "T34-57 \u201cThunder Beast\u201d camouflage",
+     "minutes": 60
+    },
+    {
+     "name": "1 Day of Premium",
+     "minutes": 120
+    },
+    {
+     "name": "\u201cNot Today\u201d decal",
+     "minutes": 240
+    },
+    {
+     "name": "M1A2 SepV3 \u201cDiamond\u201d camouflage",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e03e6c9c-69eb-4658-a176-6adcb6eb2118.jpg"
   }
  ],
  "archive": [
@@ -5519,43 +5595,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.28
+   "score": 21.26
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.0
+   "score": 29.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.71
+   "score": 4.7
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.8
+   "score": 29.77
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.28
+   "score": 21.26
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.28
+   "score": 21.26
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.28
+   "score": 21.26
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5567,26 +5643,26 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.09
+   "score": 11.07
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.28
+   "score": 21.26
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 31,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 40,
+  "Delta Force": 39,
   "LEGO Batman: Legacy of the Dark Knight": 39,
   "Marvel Rivals": 10,
   "Once Human": 31,
