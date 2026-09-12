@@ -546,58 +546,6 @@
    "asset": "assets/a32d43f5-2c18-4205-9480-d1149b3558d2.png"
   },
   {
-   "id": "99335e2c-370b-4ca8-ba84-891e01002112",
-   "game": "War Robots: Frontiers",
-   "title": "Tooth and Claw",
-   "status": "ACTIVE",
-   "startAt": "2026-08-29T12:00:00+00:00",
-   "endAt": "2026-09-12T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/15ac6377-3cd6-4be3-a716-9937d4dbcc0c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99335e2c-370b-4ca8-ba84-891e01002112",
-   "rewards": [
-    {
-     "name": "3-Day Premium Account",
-     "minutes": 60
-    },
-    {
-     "name": "15,000 Salvage",
-     "minutes": 90
-    },
-    {
-     "name": "Repulsor",
-     "minutes": 120
-    },
-    {
-     "name": "50 Intel",
-     "minutes": 150
-    },
-    {
-     "name": "1x Helios Chassis",
-     "minutes": 180
-    },
-    {
-     "name": "2x Nucleon",
-     "minutes": 210
-    },
-    {
-     "name": "100 Intel",
-     "minutes": 240
-    },
-    {
-     "name": "Garuda",
-     "minutes": 270
-    },
-    {
-     "name": "3,000 Credits",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99335e2c-370b-4ca8-ba84-891e01002112.png"
-  },
-  {
    "id": "0f0f3203-1c8f-4bf1-85d5-e5484bfc822d",
    "game": "Goblin Cleanup",
    "title": "Pool Party Drops",
@@ -2498,26 +2446,6 @@
    "asset": "assets/5a48536b-bd6c-4723-b95f-8db9b65ef713.png"
   },
   {
-   "id": "9a00b794-bd4c-4b3b-b090-faa7769b51ba",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 11)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T12:00:00+00:00",
-   "endAt": "2026-09-12T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T12:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e3365e2-3897-4a07-a711-909269f8ad65.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a00b794-bd4c-4b3b-b090-faa7769b51ba",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 11)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/9a00b794-bd4c-4b3b-b090-faa7769b51ba.png"
-  },
-  {
    "id": "d1219cdd-76d2-4644-9a06-64eaee50b646",
    "game": "Contractors Showdown: ExfilZone",
    "title": "EZ Campaign 1",
@@ -3400,9 +3328,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3b352412-f24e-4602-ae88-3e893fd917d2.jpg"
+  },
+  {
+   "id": "ef3fb880-49d4-4ff0-a4d7-826012d19229",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 12)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T12:00:00+00:00",
+   "endAt": "2026-09-13T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T12:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/809122b2-aaf0-49e1-a1fe-f032626ffafb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef3fb880-49d4-4ff0-a4d7-826012d19229",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 12)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ef3fb880-49d4-4ff0-a4d7-826012d19229.png"
   }
  ],
  "archive": [
+  {
+   "id": "99335e2c-370b-4ca8-ba84-891e01002112",
+   "game": "War Robots: Frontiers",
+   "title": "Tooth and Claw",
+   "startAt": "2026-08-29T12:00:00+00:00",
+   "endAt": "2026-09-12T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9a00b794-bd4c-4b3b-b090-faa7769b51ba",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 11)",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-09-12T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
    "game": "SMITE 2",
@@ -5623,43 +5587,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.24
+   "score": 21.22
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.95
+   "score": 29.92
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.7
+   "score": 4.69
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.74
+   "score": 29.71
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.24
+   "score": 21.22
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.24
+   "score": 21.22
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.24
+   "score": 21.22
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5671,19 +5635,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.18
+   "score": 10.17
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.06
+   "score": 11.05
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.24
+   "score": 21.22
   }
  },
  "favoriteWeights": {
