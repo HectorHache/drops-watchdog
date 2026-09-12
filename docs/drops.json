@@ -2766,6 +2766,26 @@
    "asset": "assets/1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1.png"
   },
   {
+   "id": "99be36da-64c7-49b1-b338-4bdc091ac085",
+   "game": "Diablo IV",
+   "title": "Diablo Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-26T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T20:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13dfccda-f3ee-4a76-b018-391b54659b35.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99be36da-64c7-49b1-b338-4bdc091ac085",
+   "rewards": [
+    {
+     "name": "Diablo Chat Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/99be36da-64c7-49b1-b338-4bdc091ac085.png"
+  },
+  {
    "id": "77c3e1c6-8d7c-4baf-8446-1fc640745d56",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -6223,13 +6243,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.07
+   "score": 21.06
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.7
+   "score": 29.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6241,25 +6261,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.5
+   "score": 29.49
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.07
+   "score": 21.06
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.07
+   "score": 21.06
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.07
+   "score": 21.06
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6283,7 +6303,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.07
+   "score": 21.06
   }
  },
  "favoriteWeights": {
