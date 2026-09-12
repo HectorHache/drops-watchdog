@@ -3276,6 +3276,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fdf95ba3-9635-44d8-92fd-b37370b3a250.png"
+  },
+  {
+   "id": "4cd6da06-5e0c-449a-88ae-58fe1d3b502e",
+   "game": "LEGO Batman: Legacy of the Dark Knight",
+   "title": "Mayhem Collection Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T07:00:00+00:00",
+   "endAt": "2026-09-28T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T07:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0338c0f3-e6e5-43dc-a86c-26967c96b53c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4cd6da06-5e0c-449a-88ae-58fe1d3b502e",
+   "rewards": [
+    {
+     "name": "Controller Stand",
+     "minutes": 30
+    },
+    {
+     "name": "Controller Backdrop",
+     "minutes": 90
+    },
+    {
+     "name": "Collectible Display Case",
+     "minutes": 120
+    },
+    {
+     "name": "Drinks Fridge",
+     "minutes": 60
+    },
+    {
+     "name": "Gamer Desk",
+     "minutes": 180
+    },
+    {
+     "name": "Gaming Chair",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/4cd6da06-5e0c-449a-88ae-58fe1d3b502e.png"
   }
  ],
  "archive": [
@@ -5475,13 +5515,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.34
+   "score": 21.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 30.09
+   "score": 30.08
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5493,25 +5533,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.89
+   "score": 29.87
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.34
+   "score": 21.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.34
+   "score": 21.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.34
+   "score": 21.33
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5529,13 +5569,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.12
+   "score": 11.11
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.34
+   "score": 21.33
   }
  },
  "favoriteWeights": {
