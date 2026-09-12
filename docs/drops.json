@@ -2518,78 +2518,6 @@
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   },
   {
-   "id": "f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
-   "game": "No Man's Sky",
-   "title": "Cosmos - Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T13:00:00+00:00",
-   "endAt": "2026-09-12T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T13:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a3049a3f-bf35-4a26-9e8b-512ca6289905.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
-   "rewards": [
-    {
-     "name": "Day 2 - Drop 1",
-     "minutes": 15
-    },
-    {
-     "name": "Day 2 - Drop 2",
-     "minutes": 30
-    },
-    {
-     "name": "Day 2 - Drop 3",
-     "minutes": 60
-    },
-    {
-     "name": "Day 2 - Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Day 2 - Drop 5",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/f7a6a399-b258-4db6-abf9-c5bb1f0775c0.png"
-  },
-  {
-   "id": "db0494ab-2d43-4d33-91dc-48d7ed59169b",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/11/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T13:00:00+00:00",
-   "endAt": "2026-09-12T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T13:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35d8aef5-2707-45b7-aeb4-40a3ab93d523.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=db0494ab-2d43-4d33-91dc-48d7ed59169b",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/db0494ab-2d43-4d33-91dc-48d7ed59169b.png"
-  },
-  {
    "id": "04fb8f48-4b3c-4751-8a34-cdaa05599537",
    "game": "Marbles on Stream",
    "title": "Marble Day 265",
@@ -3348,9 +3276,441 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ef3fb880-49d4-4ff0-a4d7-826012d19229.png"
+  },
+  {
+   "id": "ba637f4b-a5d9-4396-b368-0bfc7df110b8",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "9.12 Naraka Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-12T18:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4323ae7f-6935-4b29-b347-5dc56ad53656.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba637f4b-a5d9-4396-b368-0bfc7df110b8",
+   "rewards": [
+    {
+     "name": "Naraka Weekend Gift Official Event Gift",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ba637f4b-a5d9-4396-b368-0bfc7df110b8.png"
+  },
+  {
+   "id": "43f2f757-64f7-455d-ab04-995d6bfc85e4",
+   "game": "Out of the Park Baseball 27",
+   "title": "Sporer 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d5478a45-9482-4d12-822c-6fd59dde2936.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=43f2f757-64f7-455d-ab04-995d6bfc85e4",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/43f2f757-64f7-455d-ab04-995d6bfc85e4.png"
+  },
+  {
+   "id": "3c64b051-71c9-4843-9541-13f33b618da0",
+   "game": "Out of the Park Baseball 27",
+   "title": "Carini 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6f08714-83ca-4531-b10b-1b878ff4c944.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c64b051-71c9-4843-9541-13f33b618da0",
+   "rewards": [
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3c64b051-71c9-4843-9541-13f33b618da0.png"
+  },
+  {
+   "id": "729d9818-f061-4720-9841-ecf0c91f025c",
+   "game": "Out of the Park Baseball 27",
+   "title": "CWhit 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1ba98159-156e-444b-a45e-ea2d7b96e6e5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=729d9818-f061-4720-9841-ecf0c91f025c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/729d9818-f061-4720-9841-ecf0c91f025c.png"
+  },
+  {
+   "id": "f1ef0255-bd1d-43b5-96a1-071d5da8ac4f",
+   "game": "Out of the Park Baseball 27",
+   "title": "Comey 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/05caac47-579b-4880-b4ae-344876566606.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f1ef0255-bd1d-43b5-96a1-071d5da8ac4f",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f1ef0255-bd1d-43b5-96a1-071d5da8ac4f.png"
+  },
+  {
+   "id": "3eafeba6-be37-42ee-8a96-74f6d12f9e73",
+   "game": "Out of the Park Baseball 27",
+   "title": "FTM 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e41b3457-0b36-4d69-9e45-2091b990f2d3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3eafeba6-be37-42ee-8a96-74f6d12f9e73",
+   "rewards": [
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3eafeba6-be37-42ee-8a96-74f6d12f9e73.png"
+  },
+  {
+   "id": "53f5fb8d-d38e-4420-bb41-7636dd337d91",
+   "game": "Out of the Park Baseball 27",
+   "title": "Aydubby 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3798877e-726c-4bd9-a562-7d1af9f76ccb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=53f5fb8d-d38e-4420-bb41-7636dd337d91",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/53f5fb8d-d38e-4420-bb41-7636dd337d91.png"
+  },
+  {
+   "id": "cea24e49-7569-458c-bdbc-2f951470c10f",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8576896-51c8-4c9b-82e1-d41249dc4972.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cea24e49-7569-458c-bdbc-2f951470c10f",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cea24e49-7569-458c-bdbc-2f951470c10f.png"
+  },
+  {
+   "id": "e2edaf24-1026-4ec6-84c7-7e6799d63dc1",
+   "game": "Out of the Park Baseball 27",
+   "title": "JBiggs 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4b8e7d47-db2b-46e4-8950-8bcdc1c8d6db.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e2edaf24-1026-4ec6-84c7-7e6799d63dc1",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e2edaf24-1026-4ec6-84c7-7e6799d63dc1.png"
+  },
+  {
+   "id": "75eaeca2-6cf3-40c0-b996-349c48613df6",
+   "game": "Out of the Park Baseball 27",
+   "title": "MaxLP 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee188bb6-bb77-4f0e-9f3f-c5b454589f3b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75eaeca2-6cf3-40c0-b996-349c48613df6",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/75eaeca2-6cf3-40c0-b996-349c48613df6.png"
+  },
+  {
+   "id": "50a13554-ec0f-471e-bda4-fab864d3d5b8",
+   "game": "Out of the Park Baseball 27",
+   "title": "Xtoforas 9/12/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eb37e95a-6949-40ad-840b-343ed55d30dc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=50a13554-ec0f-471e-bda4-fab864d3d5b8",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/50a13554-ec0f-471e-bda4-fab864d3d5b8.png"
+  },
+  {
+   "id": "177dcd62-7e11-4641-a832-1d1d935b7e18",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T13:00:00+00:00",
+   "endAt": "2026-09-13T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T13:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3c5d6c3-e8b5-4f55-9a10-8b3fdb76efd8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=177dcd62-7e11-4641-a832-1d1d935b7e18",
+   "rewards": [
+    {
+     "name": "Day 3 - Drop 1",
+     "minutes": 15
+    },
+    {
+     "name": "Day 3 - Drop 2",
+     "minutes": 30
+    },
+    {
+     "name": "Day 3 - Drop 3",
+     "minutes": 60
+    },
+    {
+     "name": "Day 3 - Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Day 3 - Drop 5",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/177dcd62-7e11-4641-a832-1d1d935b7e18.png"
   }
  ],
  "archive": [
+  {
+   "id": "f7a6a399-b258-4db6-abf9-c5bb1f0775c0",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 2",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "db0494ab-2d43-4d33-91dc-48d7ed59169b",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/11/26",
+   "startAt": "2026-09-11T13:00:00+00:00",
+   "endAt": "2026-09-12T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "99335e2c-370b-4ca8-ba84-891e01002112",
    "game": "War Robots: Frontiers",
@@ -5587,13 +5947,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.22
+   "score": 21.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.92
+   "score": 29.89
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5605,49 +5965,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.71
+   "score": 29.69
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.22
+   "score": 21.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.22
+   "score": 21.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.22
+   "score": 21.2
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.35
+   "score": 2.34
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.17
+   "score": 10.16
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.05
+   "score": 11.04
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.22
+   "score": 21.2
   }
  },
  "favoriteWeights": {
