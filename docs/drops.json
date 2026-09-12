@@ -1090,50 +1090,6 @@
    "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
   },
   {
-   "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
-   "game": "SMITE 2",
-   "title": "Sept Week 1 - Ishtar!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T11:00:00+00:00",
-   "endAt": "2026-09-12T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-05T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e63c481-4220-4378-af2e-20d4daa6b7c1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3dd44cfb-a324-4566-b677-6deb9f3b22a3",
-   "rewards": [
-    {
-     "name": "Market Coin Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coin Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coin Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coin Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Rose Warrior Ishtar",
-     "minutes": 600
-    },
-    {
-     "name": "Market Coin Bundle 6",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coin Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/3dd44cfb-a324-4566-b677-6deb9f3b22a3.png"
-  },
-  {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
    "title": "Civ VII Pax Livestream",
@@ -3380,9 +3336,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e03e6c9c-69eb-4658-a176-6adcb6eb2118.jpg"
+  },
+  {
+   "id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
+   "game": "SMITE 2",
+   "title": "September Week 2! ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T11:00:00+00:00",
+   "endAt": "2026-09-19T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-12T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f42f1bb-f4fd-4bce-b732-a4b79c3e8649.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
+   "rewards": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ce4adff7-7fd5-46c6-8f5c-0a507a514d8b.jpg"
+  },
+  {
+   "id": "3b352412-f24e-4602-ae88-3e893fd917d2",
+   "game": "EVE Online",
+   "title": "ATXXII Preliminaries W3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T11:02:00+00:00",
+   "endAt": "2026-09-14T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-12T11:30:10+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a3d91a1-6242-4997-9322-85deec758ed3.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b352412-f24e-4602-ae88-3e893fd917d2",
+   "rewards": [
+    {
+     "name": "Maller Shattered SKIN",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3b352412-f24e-4602-ae88-3e893fd917d2.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "3dd44cfb-a324-4566-b677-6deb9f3b22a3",
+   "game": "SMITE 2",
+   "title": "Sept Week 1 - Ishtar!",
+   "startAt": "2026-09-05T11:00:00+00:00",
+   "endAt": "2026-09-12T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9feeda3c-39ca-425d-8ff4-a67d3c2348f9",
    "game": "Albion Online",
@@ -5595,13 +5623,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.26
+   "score": 21.24
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.98
+   "score": 29.95
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5613,25 +5641,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.77
+   "score": 29.74
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.26
+   "score": 21.24
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.26
+   "score": 21.24
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.26
+   "score": 21.24
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5649,13 +5677,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.26
+   "score": 21.24
   }
  },
  "favoriteWeights": {
