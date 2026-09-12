@@ -3924,6 +3924,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/7cfb0007-ef2c-4fa9-aaae-c2e5188c1f51.jpg"
+  },
+  {
+   "id": "95d01f14-c5a6-4fa9-a82c-bd637c0e2aed",
+   "game": "Rocket League",
+   "title": "First Touch Awards",
+   "status": "ACTIVE",
+   "startAt": "2026-09-12T22:00:00+00:00",
+   "endAt": "2026-09-13T00:29:59.999+00:00",
+   "firstSeenAt": "2026-09-12T22:00:53+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1fbeb30b-4033-44b3-8cf0-b3820c214c63.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=95d01f14-c5a6-4fa9-a82c-bd637c0e2aed",
+   "rewards": [
+    {
+     "name": "RLCS Very Rare Drop",
+     "minutes": 15
+    },
+    {
+     "name": "RLCS Exotic Drop",
+     "minutes": 30
+    },
+    {
+     "name": "RLCS Import Drop",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/95d01f14-c5a6-4fa9-a82c-bd637c0e2aed.png"
   }
  ],
  "archive": [
@@ -6243,13 +6271,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.04
+   "score": 21.02
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.66
+   "score": 29.63
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6261,49 +6289,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.46
+   "score": 29.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.04
+   "score": 21.02
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.04
+   "score": 21.02
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.04
+   "score": 21.02
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.33
+   "score": 2.32
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.08
+   "score": 10.07
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.96
+   "score": 10.95
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.04
+   "score": 21.02
   }
  },
  "favoriteWeights": {
