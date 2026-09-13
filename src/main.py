@@ -196,10 +196,11 @@ def _send_digest(camps, cfg, conn, dry=False):
         dbm.ledger_add(conn, c["id"], "ENDED", "telegram:channel")
     for c in state["changed"]:
         dbm.ledger_add(conn, c["id"], "CHANGED", "telegram:channel")
-    dbm.record_event(conn, "digest_sent", payload={"chars": len(msg), "to": chat})
-    print(f"digest sent to channel {chat} ({len(msg)} chars; new={len(state['new'])}, "
-          f"ending24={len(state['ending_24'])}, ended={len(state['ended'])})")
-    return msg, state
+    total_chars = sum(len(m) for m in messages)
+    dbm.record_event(conn, "digest_sent", payload={"chars": total_chars, "to": chat})
+    print(f"digest sent to channel {chat} ({total_chars} chars in {len(messages)} part(s); "
+          f"new={len(state['new'])}, ending24={len(state['ending_24'])}, ended={len(state['ended'])})")
+    return messages[0], state
 
 
 def cmd_send(args):
