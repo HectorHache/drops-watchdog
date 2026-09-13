@@ -1,6 +1,7 @@
 # secrets (never commit)
 .logTw
 .steamMine
+.steamFriend
 
 # local state
 data/

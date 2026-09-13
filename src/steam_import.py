@@ -4,14 +4,16 @@
 Sources:
   - Mick  : Steam Web API (ISteamUser/ResolveVanityURL + IPlayerService/GetOwnedGames)
             via .steamMine API key. No login needed. (d4rkwar)
-  - household2 : friend-shared games via authenticated browser scrape in ego-browser
-            (using Mick's own Steam login).
-            Degrades gracefully if the account's Game Details are private.
+  - household2 : friend-shared library via authenticated browser scrape in ego-browser
+            (using Mick's own Steam login). Account id read from .steamFriend or
+            $HOUSEHOLD2_STEAMID. Degrades gracefully if that account's Game Details
+            visibility is private.
 
 Stores into the steam_games table (appid, name, owner) — the site badge and the
 favorites selector read from there. Run:  python3 src/main.py steam-import
 """
 import json
+import os
 import sys
 import time
 import urllib.parse
@@ -24,7 +26,7 @@ sys.path.insert(0, str(ROOT / "src"))
 import db as dbm
 
 STEAM_KEY_FILE = ROOT / ".steamMine"
-HOUSEHOLD2_STEAMID = "REDACTED-THIRD-PARTY-ID"     # friend-shared account -> .steamFriend or $HOUSEHOLD2_STEAMID
+FRIEND_STEAMID_FILE = ROOT / ".steamFriend"   # untracked: 17-digit friend-shared account id
 MICK_VANITY = "d4rkwar"
 
 
@@ -51,6 +53,15 @@ def _get(url: str, timeout: int = 25) -> dict:
             return json.loads(r.read().decode())
     except Exception as e:
         raise SteamError(f"Steam API {url[:80]}... -> {e}")
+
+
+def friend_steamid() -> str:
+    """Friend-shared account id: $HOUSEHOLD2_STEAMID wins, else the untracked .steamFriend file."""
+    for cand in ((os.environ.get("HOUSEHOLD2_STEAMID") or "").strip(),
+                 (FRIEND_STEAMID_FILE.read_text().strip() if FRIEND_STEAMID_FILE.exists() else "")):
+        if cand.isdigit() and len(cand) == 17:
+            return cand
+    raise SteamError(f"friend Steam ID missing: set HOUSEHOLD2_STEAMID or write a 17-digit id to {FRIEND_STEAMID_FILE}")
 
 
 def resolve_vanity(vanity: str, key: str) -> str | None:
@@ -88,16 +99,17 @@ def import_mick(conn) -> dict:
 def import_household2(conn) -> dict:
     """Friend-shared library via authenticated browser scrape. Uses ego-browser
     with Mick's own Steam login. Private visibility -> []."""
-    games = _scrape_household2_games()
+    sid = friend_steamid()
+    games = _scrape_household2_games(sid)
     if games is None:                       # scrape failed hard -> raise
         raise SteamError("friend-shared scrape returned no data (login? private Game Details?)")
     dbm.replace_steam_games(conn, "household2", games)
-    print(f"[steam] household2 ({HOUSEHOLD2_STEAMID}): {len(games)} games scraped")
-    return {"owner": "household2", "steamid": HOUSEHOLD2_STEAMID, "count": len(games),
+    print(f"[steam] household2 ({sid}): {len(games)} games scraped")
+    return {"owner": "household2", "steamid": sid, "count": len(games),
             "source": "browser-scrape"}
 
 
-def _scrape_household2_games() -> list[dict] | None:
+def _scrape_household2_games(sid: str) -> list[dict] | None:
     """ego-browser nodejs: open Steam profile games tab (all, grid), read titles.
     Returns None if the profile/games page couldn't be parsed (login/private)."""
     import subprocess
@@ -105,7 +117,7 @@ def _scrape_household2_games() -> list[dict] | None:
     space = "steam household2 " + uuid.uuid4().hex[:8]   # unique per run — avoids stale-space collisions
     js = r"""
 const task = await useOrCreateTaskSpace('{SPACE}')
-await openOrReuseTab('https://steamcommunity.com/profiles/REDACTED-THIRD-PARTY-ID/games/?tab=all', { wait: true, timeout: 30 })
+await openOrReuseTab('https://steamcommunity.com/profiles/{SID}/games/?tab=all', { wait: true, timeout: 30 })
 await wait(5)
 // login-gated or private? Steam shows "Profile is private" or an age gate / sign-in.
 const body = await js(`document.body ? document.body.innerText.slice(0, 1200) : ''`)
@@ -130,7 +142,7 @@ const titles = await js(`(() => {
 cliLog('STEAM_BODY: ' + body.replace(/\n+/g, ' | ').slice(0, 400))
 cliLog('STEAM_TITLES: ' + JSON.stringify(titles))
 await completeTaskSpace(task.id, { keep: false })
-""".replace("{SPACE}", space)
+""".replace("{SPACE}", space).replace("{SID}", sid)
     try:
         r = subprocess.run(["ego-browser", "nodejs"], input=js, capture_output=True,
                            text=True, timeout=120)
