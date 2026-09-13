@@ -2538,46 +2538,6 @@
    "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
   },
   {
-   "id": "63f1ad29-fe7d-4c2c-b5f6-1951607af7a7",
-   "game": "Caliber",
-   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 11.09.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T15:00:00+00:00",
-   "endAt": "2026-09-13T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T15:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17c6df2a-6ce1-4643-9396-be9710e7e92e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63f1ad29-fe7d-4c2c-b5f6-1951607af7a7",
-   "rewards": [
-    {
-     "name": "20 000 credits 11.09",
-     "minutes": 20
-    },
-    {
-     "name": "50 fragments 11.09",
-     "minutes": 30
-    },
-    {
-     "name": "20 000 credits (2) 11.09",
-     "minutes": 45
-    },
-    {
-     "name": "Army Surplus 11.09",
-     "minutes": 60
-    },
-    {
-     "name": "20 000 credits (3) 11.09",
-     "minutes": 90
-    },
-    {
-     "name": "Weapon container 11.09",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/63f1ad29-fe7d-4c2c-b5f6-1951607af7a7.png"
-  },
-  {
    "id": "f3e8e677-13d3-4818-ad83-2794e988e2c6",
    "game": "World of Tanks",
    "title": "First Deployment #3",
@@ -3528,9 +3488,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f39c365c-8c86-4dc6-a8d9-ede0798393af.png"
+  },
+  {
+   "id": "ee90b01c-1b12-4a7d-bad0-dbb6afb30bf5",
+   "game": "Warframe",
+   "title": "Community Drops #216",
+   "status": "ACTIVE",
+   "startAt": "2026-09-13T21:00:00+00:00",
+   "endAt": "2026-09-13T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-13T21:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b01fe57-db0c-4dc3-9205-0293f0ac012d.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ee90b01c-1b12-4a7d-bad0-dbb6afb30bf5",
+   "rewards": [
+    {
+     "name": "Narmer Shawzin",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/ee90b01c-1b12-4a7d-bad0-dbb6afb30bf5.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "63f1ad29-fe7d-4c2c-b5f6-1951607af7a7",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 11.09.2026",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-13T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "35d09ba8-301a-409f-a5b9-98015cadd4e1",
    "game": "Tanki Online",
@@ -6117,7 +6105,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.01
+   "score": 29.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6129,7 +6117,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.81
+   "score": 28.8
   },
   "Once Human": {
    "favorites": 2,
@@ -6159,13 +6147,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.86
+   "score": 9.85
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.72
+   "score": 10.71
   },
   "Where Winds Meet": {
    "favorites": 2,
@@ -6178,7 +6166,7 @@
   "ARC Raiders": 30,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 39,
+  "Delta Force": 38,
   "LEGO Batman: Legacy of the Dark Knight": 38,
   "Marvel Rivals": 10,
   "Once Human": 30,
