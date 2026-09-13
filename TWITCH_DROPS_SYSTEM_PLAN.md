@@ -2,7 +2,7 @@
 **Version:** 1.0.0-PROPOSAL (⚠️ SUPERSEDED by `PLAN.md` v2.0.0 — v2 contains verified recon that corrects this draft's anonymous-GraphQL assumption)  
 **Author:** AI Master Architect  
 **Target Host:** Mac Mini M4 Pro (`macmini.tailf74921.ts.net`)  
-**Domain Target:** `drops.hache.app`  
+**Domain Target:** `drops.hector.app`  
 **Telegram Bot Target:** Heimdall (Hermes Bot Profile `heimdall`)  
 **Timezone:** Europe/Madrid / Europe/Amsterdam (CET UTC+1 / CEST UTC+2 auto-switching)  
 **Workspace:** `~/Documents/Workspaces/drops/`
@@ -19,12 +19,12 @@ The system is split into two tightly synchronized components:
    - **🚨 Ending Soon (<24h Remaining)** watchdog alerts to claim items before expiration.
    - Automatic silent pruning of ended ("Closed") campaigns.
    - Zero spam during sleep hours (01:00 to 07:00).
-2. **Web Dashboard (`drops.hache.app`)**: A fast, responsive, modern single-page dashboard:
+2. **Web Dashboard (`drops.hector.app`)**: A fast, responsive, modern single-page dashboard:
    - Displays all active and upcoming drop campaigns with game box art, running dates/times, and extracted item reward icons/names.
    - Real-time client-side countdown timers (`⏳ 05h 23m 10s remaining`).
    - Interactive filtering by Game, Status (`All Active`, `Almost Gone <24h`, `Ending Soon <48h`, `Upcoming`), and fast text search.
    - Background 10-minute delta refresh without requiring a manual page reload.
-   - Hosted via GitHub Pages pointing to `drops.hache.app` (or direct Mac Mini Caddy hosting).
+   - Hosted via GitHub Pages pointing to `drops.hector.app` (or direct Mac Mini Caddy hosting).
 3. **Personalization & Preference Engine (Roadmap)**:
    - Favorites / Priority games list.
    - Instant targeted one-off Telegram alerts when favorite titles start a drop campaign.
@@ -57,7 +57,7 @@ The system is split into two tightly synchronized components:
        Wake Hours (08:00-00:00)│                        │ Git Push / Serve
        Diff & Watchdog Check   ▼                        ▼
     ┌──────────────────────────────┐        ┌──────────────────────────────┐
-    │     Heimdall Telegram Bot    │        │       drops.hache.app        │
+    │     Heimdall Telegram Bot    │        │       drops.hector.app        │
     │  (Rich HTML Formatted DM)    │        │ (SPA Web Dashboard on Pages) │
     └──────────────────────────────┘        └──────────────────────────────┘
 ```
@@ -170,7 +170,7 @@ To prevent duplicate pings across hourly runs:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 📊 <b>Active Watchdog:</b> 14 campaigns tracked | 2 ending soon
-🌐 <b>Live Dashboard:</b> <a href="https://drops.hache.app">drops.hache.app</a>
+🌐 <b>Live Dashboard:</b> <a href="https://drops.hector.app">drops.hector.app</a>
 ```
 
 ### 5.4 Empty State Behavior
@@ -178,7 +178,7 @@ To prevent duplicate pings across hourly runs:
 
 ---
 
-## 6. Web Dashboard (`drops.hache.app`) Architecture
+## 6. Web Dashboard (`drops.hector.app`) Architecture
 
 ### 6.1 Frontend Stack & Design Spec
 - **Architecture**: Modern, lightweight, zero-bloat Single Page Application (HTML5 + Vanilla ES Modules / Tailwind / Lucide Icons).
@@ -224,14 +224,14 @@ To prevent duplicate pings across hourly runs:
 
 ---
 
-## 7. Hosting & Deployment Blueprint (`drops.hache.app`)
+## 7. Hosting & Deployment Blueprint (`drops.hector.app`)
 
-### 7.1 Architecture Options for `drops.hache.app`
+### 7.1 Architecture Options for `drops.hector.app`
 
 #### Option A: GitHub Pages + Private Sync Repo (Recommended by Mick)
 - **Repository**: `mick/drops` (or private GitHub repo).
-- **Custom Domain**: `drops.hache.app` configured in GitHub Pages settings + `CNAME` file containing `drops.hache.app`.
-- **DNS Record**: CNAME record `drops.hache.app -> mick.github.io` (or Porkbun DNS).
+- **Custom Domain**: `drops.hector.app` configured in GitHub Pages settings + `CNAME` file containing `drops.hector.app`.
+- **DNS Record**: CNAME record `drops.hector.app -> mick.github.io` (or Porkbun DNS).
 - **Sync Mechanism**:
   1. Mac Mini runs `twitch_drops_sync.py` hourly.
   2. Updates `drops.db` and generates `data/drops.json`.
@@ -334,14 +334,14 @@ Phase 2: Telegram Watchdog & Heimdall Delivery
   └─ Build main orchestrator `twitch_drops_sync.py`.
   └─ Test dry-run execution and verify message formatting in Heimdall DM.
 
-Phase 3: Web Dashboard Frontend (`drops.hache.app`)
+Phase 3: Web Dashboard Frontend (`drops.hector.app`)
   └─ Build single-file reactive web app `web/index.html` + `web/app.js` + `web/style.css`.
   └─ Implement client-side timers, search, status filters, game category chips.
   └─ Implement 10-minute live delta poller.
 
 Phase 4: Cron Job Scheduling & Domain Deployment
   └─ Register Hermes `--no-agent` cron job for 08:00–00:00 CET hourly runs.
-  └─ Configure GitHub Pages / Caddy setup for `drops.hache.app` with CNAME.
+  └─ Configure GitHub Pages / Caddy setup for `drops.hector.app` with CNAME.
 
 Phase 5: Verification & End-to-End Testing
   └─ Smoke test sync script, test Telegram alert delivery, test web UI live timers.
@@ -354,7 +354,7 @@ Phase 5: Verification & End-to-End Testing
 To tailor the setup exactly to your preference before execution:
 
 1. **Hosting & Git Strategy**:
-   - Do you prefer the web dashboard repository to be hosted on **GitHub Pages** (pushing `data/drops.json` from the Mac Mini to the repo), or would you prefer the Mac Mini's local **Caddy server** to serve `drops.hache.app` directly from `~/Documents/Workspaces/drops/web`?
+   - Do you prefer the web dashboard repository to be hosted on **GitHub Pages** (pushing `data/drops.json` from the Mac Mini to the repo), or would you prefer the Mac Mini's local **Caddy server** to serve `drops.hector.app` directly from `~/Documents/Workspaces/drops/web`?
 2. **Twitch Account Linking (Optional)**:
    - For public drop campaigns, the system extracts the public directory. Do you also want an optional personal `TWITCH_OAUTH_TOKEN` in `.env` to show your personal drop claim progress (% watched) on the dashboard?
 3. **Telegram Heartbeat Mode**:
