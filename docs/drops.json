@@ -2766,26 +2766,6 @@
    "asset": "assets/99be36da-64c7-49b1-b338-4bdc091ac085.png"
   },
   {
-   "id": "1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
-   "game": "Halo: The Master Chief Collection",
-   "title": "BTB Ladies Night-SEP12",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T00:00:00+00:00",
-   "endAt": "2026-09-13T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T00:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/468755f9-8605-4d5d-beee-8ff41deb9c18.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
-   "rewards": [
-    {
-     "name": "Shooting Star Nameplate",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63.png"
-  },
-  {
    "id": "c0436226-8fe9-46ea-9c6c-51bb2f771a73",
    "game": "Apex Legends",
    "title": "ALGS Split 2 PL MD 10",
@@ -3678,26 +3658,6 @@
    "asset": "assets/b49fb9b7-4084-45b0-8c2d-ca811de26680.png"
   },
   {
-   "id": "234917cd-81e0-4bb4-a05e-0425f2cbf58d",
-   "game": "Heroes of the Storm",
-   "title": "Heroes Blizzcon 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T17:00:00+00:00",
-   "endAt": "2026-09-13T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T17:00:45+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54d2b564-cb56-4254-bdde-985b74ac8822.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=234917cd-81e0-4bb4-a05e-0425f2cbf58d",
-   "rewards": [
-    {
-     "name": "7 Day Boost",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/234917cd-81e0-4bb4-a05e-0425f2cbf58d.png"
-  },
-  {
    "id": "943c3e2a-59bb-47e3-bd77-6d8bdf909cdb",
    "game": "StarCraft II",
    "title": "SC2 Blizzcon 2026",
@@ -3756,26 +3716,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/7cfb0007-ef2c-4fa9-aaae-c2e5188c1f51.jpg"
-  },
-  {
-   "id": "8538a29f-65d7-4071-8341-eaa0fb030727",
-   "game": "Halo: The Master Chief Collection",
-   "title": "BTB Ladies Night-SEP12",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T23:00:00+00:00",
-   "endAt": "2026-09-13T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T23:01:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bcb9ffd0-7df7-4403-ba36-e48650d36c92.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8538a29f-65d7-4071-8341-eaa0fb030727",
-   "rewards": [
-    {
-     "name": "Shooting Star Nameplate",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8538a29f-65d7-4071-8341-eaa0fb030727.png"
   },
   {
    "id": "c17479da-7e3d-4737-abc0-c1b439063c90",
@@ -3839,6 +3779,30 @@
   }
  ],
  "archive": [
+  {
+   "id": "1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
+   "game": "Halo: The Master Chief Collection",
+   "title": "BTB Ladies Night-SEP12",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "234917cd-81e0-4bb4-a05e-0425f2cbf58d",
+   "game": "Heroes of the Storm",
+   "title": "Heroes Blizzcon 2026",
+   "startAt": "2026-09-12T17:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8538a29f-65d7-4071-8341-eaa0fb030727",
+   "game": "Halo: The Master Chief Collection",
+   "title": "BTB Ladies Night-SEP12",
+   "startAt": "2026-09-12T23:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85",
    "game": "Standoff 2",
@@ -6211,43 +6175,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.87
+   "score": 20.86
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.43
+   "score": 29.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.62
+   "score": 4.61
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.23
+   "score": 29.22
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.87
+   "score": 20.86
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.87
+   "score": 20.86
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.87
+   "score": 20.86
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6271,7 +6235,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.87
+   "score": 20.86
   }
  },
  "favoriteWeights": {
@@ -6284,7 +6248,7 @@
   "Once Human": 30,
   "Palia": 30,
   "Predecessor": 30,
-  "Tom Clancy's The Division 2": 20,
+  "Tom Clancy's The Division 2": 19,
   "Warframe": 20,
   "Where Winds Meet": 30
  }
