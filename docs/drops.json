@@ -3508,6 +3508,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/689fc8c6-e88d-4323-846b-bd569328c39a.png"
+  },
+  {
+   "id": "35d09ba8-301a-409f-a5b9-98015cadd4e1",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R6 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-13T17:00:00+00:00",
+   "endAt": "2026-09-13T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-13T17:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5055e40c-ddc8-4e01-992c-2cd696930fef.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=35d09ba8-301a-409f-a5b9-98015cadd4e1",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/35d09ba8-301a-409f-a5b9-98015cadd4e1.jpg"
   }
  ],
  "archive": [
@@ -6067,43 +6091,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.65
+   "score": 20.64
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.12
+   "score": 29.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.57
+   "score": 4.56
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.92
+   "score": 28.91
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.65
+   "score": 20.64
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.65
+   "score": 20.64
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.65
+   "score": 20.64
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6115,19 +6139,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.9
+   "score": 9.89
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.76
+   "score": 10.75
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.65
+   "score": 20.64
   }
  },
  "favoriteWeights": {
