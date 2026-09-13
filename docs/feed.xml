@@ -271,13 +271,6 @@
     <pubDate>2026-09-05T16:30:00+00:00</pubDate>
   </item>
   <item>
-    <title>Mobile Dungeon — MD Drops Set 1</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=75b83719-7a21-4c95-b16e-651a0b60026c</link>
-    <guid isPermaLink="false">75b83719-7a21-4c95-b16e-651a0b60026c</guid>
-    <description>2x Dungeon Key · 3x Arena Ticket · 100x Crystal · 32x Thirst for Adventure — runs 2026-09-07T00:00:00+00:00 → 2026-09-13T21:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-07T00:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Modern Warships — Weekly Supply Drops #32</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=1d4cd712-c1e5-4059-9b88-a08b642ee87c</link>
     <guid isPermaLink="false">1d4cd712-c1e5-4059-9b88-a08b642ee87c</guid>
@@ -304,13 +297,6 @@
     <guid isPermaLink="false">59f94828-8767-4156-a11c-c142e202cf33</guid>
     <description>1 · 2 · 3 · 4 — runs 2026-09-07T13:00:00+00:00 → 2026-09-14T12:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-07T13:00:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Shakes and Fidget — S&amp;F Drops 1/3</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=0e143bca-9a05-43ca-8e78-430f27352814</link>
-    <guid isPermaLink="false">0e143bca-9a05-43ca-8e78-430f27352814</guid>
-    <description>Smith Package · Time Jump Package · Gem Package · Gilded Package · Potion Package · Soul Taker Package — runs 2026-09-07T14:00:00+00:00 → 2026-09-13T21:58:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-07T14:00:00+00:00</pubDate>
   </item>
   <item>
     <title>HITMAN World of Assassination — The Herbalist #2</title>
@@ -353,6 +339,20 @@
     <guid isPermaLink="false">de253dac-3f0e-4a55-8daf-432da97ef8da</guid>
     <description>nopixel V Chat Badge — runs 2026-09-08T04:00:00+00:00 → 2026-09-30T03:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-08T04:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Night Crows — NC DROPS_SSS (26_SEP)</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=0ea81c31-1547-485f-83c2-f93656dfa0fd</link>
+    <guid isPermaLink="false">0ea81c31-1547-485f-83c2-f93656dfa0fd</guid>
+    <description>1 · 2 · 3 · 4 · 5 · 6 — runs 2026-09-08T09:00:00+00:00 → 2026-09-29T14:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-08T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Night Crows — NC DROPS ALL (26_SEP)</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=e813f285-2992-4e0e-9b75-c20c2ec539a4</link>
+    <guid isPermaLink="false">e813f285-2992-4e0e-9b75-c20c2ec539a4</guid>
+    <description>1 · 2 · 3 · 4 · 5 · 6 — runs 2026-09-08T09:00:00+00:00 → 2026-09-29T14:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-08T09:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
