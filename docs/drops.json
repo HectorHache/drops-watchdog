@@ -2878,46 +2878,6 @@
    "asset": "assets/d562cedc-dc28-42d6-840a-15030138be49.png"
   },
   {
-   "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
-   "game": "Albion Online",
-   "title": "Dragonfire 2 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T10:00:00+00:00",
-   "endAt": "2026-09-13T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-12T10:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/494d756a-4779-4291-930a-2ef9d56e0b57.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ffe59f26-3307-4892-afbd-6938e2058ed9",
-   "rewards": [
-    {
-     "name": "2x Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ffe59f26-3307-4892-afbd-6938e2058ed9.png"
-  },
-  {
-   "id": "ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 2 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T10:00:00+00:00",
-   "endAt": "2026-09-13T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-12T10:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bec95245-e477-4a31-b1cd-15c3262e29c3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333",
-   "rewards": [
-    {
-     "name": "2x Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333.png"
-  },
-  {
    "id": "e03e6c9c-69eb-4658-a176-6adcb6eb2118",
    "game": "War Thunder",
    "title": "Major III - Final",
@@ -3807,6 +3767,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
+   "game": "Albion Online",
+   "title": "Dragonfire 2 - #6/7",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-13T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 2 - #6/7",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-13T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
    "game": "Halo: The Master Chief Collection",
@@ -6203,13 +6179,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.8
+   "score": 20.79
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.33
+   "score": 29.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6221,25 +6197,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.13
+   "score": 29.12
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.8
+   "score": 20.79
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.8
+   "score": 20.79
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.8
+   "score": 20.79
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6251,19 +6227,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.84
+   "score": 10.83
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.8
+   "score": 20.79
   }
  },
  "favoriteWeights": {
