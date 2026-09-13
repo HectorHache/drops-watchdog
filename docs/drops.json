@@ -1078,38 +1078,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
-   "game": "Mobile Dungeon",
-   "title": "MD Drops Set 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T00:00:00+00:00",
-   "endAt": "2026-09-13T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T00:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d4b37c59-5cdb-4b67-bc89-90cc08c0c089.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75b83719-7a21-4c95-b16e-651a0b60026c",
-   "rewards": [
-    {
-     "name": "2x Dungeon Key",
-     "minutes": 60
-    },
-    {
-     "name": "3x Arena Ticket",
-     "minutes": 90
-    },
-    {
-     "name": "100x Crystal",
-     "minutes": 120
-    },
-    {
-     "name": "32x Thirst for Adventure",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/75b83719-7a21-4c95-b16e-651a0b60026c.png"
-  },
-  {
    "id": "1d4cd712-c1e5-4059-9b88-a08b642ee87c",
    "game": "Modern Warships",
    "title": "Weekly Supply Drops #32",
@@ -1232,50 +1200,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/59f94828-8767-4156-a11c-c142e202cf33.png"
-  },
-  {
-   "id": "0e143bca-9a05-43ca-8e78-430f27352814",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 1/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T14:00:00+00:00",
-   "endAt": "2026-09-13T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-07T14:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d7db088b-b822-41fc-951b-46693352406a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e143bca-9a05-43ca-8e78-430f27352814",
-   "rewards": [
-    {
-     "name": "Smith Package",
-     "minutes": 120
-    },
-    {
-     "name": "Time Jump Package",
-     "minutes": 150
-    },
-    {
-     "name": "Gem Package",
-     "minutes": 180
-    },
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Potion Package",
-     "minutes": 30
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 60
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0e143bca-9a05-43ca-8e78-430f27352814.png"
   },
   {
    "id": "b6581084-0574-452c-9c00-d881d4fea78e",
@@ -1922,50 +1846,6 @@
    "asset": "assets/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png"
   },
   {
-   "id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 2/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T14:00:00+00:00",
-   "endAt": "2026-09-13T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-09T14:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c35807bd-8933-42ad-bd68-40b0b2436a8f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20dffd3a-9175-4ad3-8766-134c0cfb3f58",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Winged Package",
-     "minutes": 30
-    },
-    {
-     "name": "Metal Package",
-     "minutes": 60
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 90
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 120
-    },
-    {
-     "name": "Fruit Basket",
-     "minutes": 150
-    },
-    {
-     "name": "Random Twitch Epic",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/20dffd3a-9175-4ad3-8766-134c0cfb3f58.png"
-  },
-  {
    "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
    "game": "World of Tanks: HEAT",
    "title": "HEAT Season 2 - Week 2",
@@ -2436,62 +2316,6 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
-  },
-  {
-   "id": "11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 3/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T14:00:00+00:00",
-   "endAt": "2026-09-13T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-11T14:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2857b99-dc50-4293-afba-ac57c2bd8131.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Clover Package",
-     "minutes": 30
-    },
-    {
-     "name": "Lumberjack Package",
-     "minutes": 60
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 90
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 120
-    },
-    {
-     "name": "Achievement Drop",
-     "minutes": 150
-    },
-    {
-     "name": "Big Fruit Basket",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Frame",
-     "minutes": 210
-    },
-    {
-     "name": "Constitution Package",
-     "minutes": 240
-    },
-    {
-     "name": "Gem Package",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/11f0c788-3f3d-4a13-a5e6-b0a860f7283d.png"
   },
   {
    "id": "326c19f0-772d-4e6b-bbf7-fc1940e8707f",
@@ -3483,6 +3307,38 @@
   }
  ],
  "archive": [
+  {
+   "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 1",
+   "startAt": "2026-09-07T00:00:00+00:00",
+   "endAt": "2026-09-13T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0e143bca-9a05-43ca-8e78-430f27352814",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 1/3",
+   "startAt": "2026-09-07T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "startAt": "2026-09-09T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "11f0c788-3f3d-4a13-a5e6-b0a860f7283d",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-13T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "66218242-58cb-4227-9c2d-8a42522b7538",
    "game": "Rocket League",
@@ -6079,13 +5935,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.56
+   "score": 20.55
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.98
+   "score": 28.97
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6097,25 +5953,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.78
+   "score": 28.77
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.56
+   "score": 20.55
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.56
+   "score": 20.55
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.56
+   "score": 20.55
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6127,19 +5983,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.85
+   "score": 9.84
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.71
+   "score": 10.7
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.56
+   "score": 20.55
   }
  },
  "favoriteWeights": {
