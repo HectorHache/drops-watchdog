@@ -1078,26 +1078,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "9b86cdad-631c-4fc9-bff8-ce1c13e75444",
-   "game": "Kirka.io",
-   "title": "Spore",
-   "status": "ACTIVE",
-   "startAt": "2026-09-06T01:31:24+00:00",
-   "endAt": "2026-09-12T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-06T06:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/787e71f9-14c5-4ea7-87f2-0fab979b411b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b86cdad-631c-4fc9-bff8-ce1c13e75444",
-   "rewards": [
-    {
-     "name": "Spore",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9b86cdad-631c-4fc9-bff8-ce1c13e75444.png"
-  },
-  {
    "id": "75b83719-7a21-4c95-b16e-651a0b60026c",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 1",
@@ -2786,66 +2766,6 @@
    "asset": "assets/99be36da-64c7-49b1-b338-4bdc091ac085.png"
   },
   {
-   "id": "77c3e1c6-8d7c-4baf-8446-1fc640745d56",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T00:00:00+00:00",
-   "endAt": "2026-09-12T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T00:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29df9e72-be5b-4719-8104-33f4ce32394e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77c3e1c6-8d7c-4baf-8446-1fc640745d56",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/77c3e1c6-8d7c-4baf-8446-1fc640745d56.png"
-  },
-  {
-   "id": "4c33fd54-c219-43c2-9509-066778b9c77e",
-   "game": "Delta Force",
-   "title": "NewStreamer Training Camp",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T00:00:00+00:00",
-   "endAt": "2026-09-12T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T00:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/953e3cd5-6ff1-45f3-bae1-97cbfbae5092.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c33fd54-c219-43c2-9509-066778b9c77e",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Ops Challenge Supply Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Avatar - Helping Hand",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "Card - Each to Their Role",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/4c33fd54-c219-43c2-9509-066778b9c77e.png"
-  },
-  {
    "id": "1afb75a3-eec0-46d0-a4fe-50b0ebbd3c63",
    "game": "Halo: The Master Chief Collection",
    "title": "BTB Ladies Night-SEP12",
@@ -3116,26 +3036,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3b352412-f24e-4602-ae88-3e893fd917d2.jpg"
-  },
-  {
-   "id": "85171cfe-a0a6-4a06-a857-0dbe2a52dffc",
-   "game": "Kirka.io",
-   "title": "Sour Kandy",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T11:59:07+00:00",
-   "endAt": "2026-09-12T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-12T16:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbb8eaba-8457-411a-9e6c-77f29ad4d72f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85171cfe-a0a6-4a06-a857-0dbe2a52dffc",
-   "rewards": [
-    {
-     "name": "Sour Kandy",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/85171cfe-a0a6-4a06-a857-0dbe2a52dffc.png"
   },
   {
    "id": "ef3fb880-49d4-4ff0-a4d7-826012d19229",
@@ -3622,50 +3522,6 @@
    "asset": "assets/c95c22e4-0ca9-444a-beaa-3329c2328e50.png"
   },
   {
-   "id": "ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S6",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T14:45:00+00:00",
-   "endAt": "2026-09-13T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T15:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/10f4e811-468d-4095-a2d0-93eafeb8567a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_1",
-     "minutes": 60
-    },
-    {
-     "name": "reward_stream_crate_2",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_3",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_4",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_5",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_6",
-     "minutes": 360
-    },
-    {
-     "name": "reward_stream_crate_7",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85.png"
-  },
-  {
    "id": "2724862c-d19a-4c08-b4c0-e07899ed7833",
    "game": "Contractors Showdown: ExfilZone",
    "title": "EZ Campaign 2",
@@ -3704,30 +3560,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2724862c-d19a-4c08-b4c0-e07899ed7833.png"
-  },
-  {
-   "id": "c4b3a98f-37e1-4ad5-9066-4406525225e3",
-   "game": "Hearthstone",
-   "title": "HS BlizzCon Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T16:30:00+00:00",
-   "endAt": "2026-09-13T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T16:30:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ab58ace-3d51-4929-b851-6d4c373ed7cd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c4b3a98f-37e1-4ad5-9066-4406525225e3",
-   "rewards": [
-    {
-     "name": "Violet Hold Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Violet Hold Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c4b3a98f-37e1-4ad5-9066-4406525225e3.png"
   },
   {
    "id": "fe3b143a-9ff8-4f67-b70c-d134677f9ef9",
@@ -3926,35 +3758,143 @@
    "asset": "assets/7cfb0007-ef2c-4fa9-aaae-c2e5188c1f51.jpg"
   },
   {
-   "id": "95d01f14-c5a6-4fa9-a82c-bd637c0e2aed",
-   "game": "Rocket League",
-   "title": "First Touch Awards",
+   "id": "8538a29f-65d7-4071-8341-eaa0fb030727",
+   "game": "Halo: The Master Chief Collection",
+   "title": "BTB Ladies Night-SEP12",
    "status": "ACTIVE",
-   "startAt": "2026-09-12T22:00:00+00:00",
-   "endAt": "2026-09-13T00:29:59.999+00:00",
-   "firstSeenAt": "2026-09-12T22:00:53+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1fbeb30b-4033-44b3-8cf0-b3820c214c63.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=95d01f14-c5a6-4fa9-a82c-bd637c0e2aed",
+   "startAt": "2026-09-12T23:00:00+00:00",
+   "endAt": "2026-09-13T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-12T23:01:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bcb9ffd0-7df7-4403-ba36-e48650d36c92.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8538a29f-65d7-4071-8341-eaa0fb030727",
    "rewards": [
     {
-     "name": "RLCS Very Rare Drop",
+     "name": "Shooting Star Nameplate",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8538a29f-65d7-4071-8341-eaa0fb030727.png"
+  },
+  {
+   "id": "c17479da-7e3d-4737-abc0-c1b439063c90",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-13T00:00:00+00:00",
+   "endAt": "2026-09-13T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-13T00:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8815d71-2030-429e-bf5d-6ea5b16e813b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c17479da-7e3d-4737-abc0-c1b439063c90",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c17479da-7e3d-4737-abc0-c1b439063c90.png"
+  },
+  {
+   "id": "62fdee70-600b-4c46-8dfe-529db60aa4c3",
+   "game": "Delta Force",
+   "title": "NewStreamer Training Camp",
+   "status": "ACTIVE",
+   "startAt": "2026-09-13T00:00:00+00:00",
+   "endAt": "2026-09-13T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-13T00:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db391339-feab-4cfb-b6a4-6e660bfa85ff.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=62fdee70-600b-4c46-8dfe-529db60aa4c3",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
      "minutes": 15
     },
     {
-     "name": "RLCS Exotic Drop",
+     "name": "Ops Challenge Supply Pack",
      "minutes": 30
     },
     {
-     "name": "RLCS Import Drop",
+     "name": "Avatar - Helping Hand",
      "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Card - Each to Their Role",
+     "minutes": 90
     }
    ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/95d01f14-c5a6-4fa9-a82c-bd637c0e2aed.png"
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/62fdee70-600b-4c46-8dfe-529db60aa4c3.png"
   }
  ],
  "archive": [
+  {
+   "id": "ea0a6a5b-8e28-4bc1-ad24-128d77f5fe85",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S6",
+   "startAt": "2026-09-12T14:45:00+00:00",
+   "endAt": "2026-09-13T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c4b3a98f-37e1-4ad5-9066-4406525225e3",
+   "game": "Hearthstone",
+   "title": "HS BlizzCon Day 1",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-13T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "95d01f14-c5a6-4fa9-a82c-bd637c0e2aed",
+   "game": "Rocket League",
+   "title": "First Touch Awards",
+   "startAt": "2026-09-12T22:00:00+00:00",
+   "endAt": "2026-09-13T00:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "77c3e1c6-8d7c-4baf-8446-1fc640745d56",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-12T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4c33fd54-c219-43c2-9509-066778b9c77e",
+   "game": "Delta Force",
+   "title": "NewStreamer Training Camp",
+   "startAt": "2026-09-12T00:00:00+00:00",
+   "endAt": "2026-09-12T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9b86cdad-631c-4fc9-bff8-ce1c13e75444",
+   "game": "Kirka.io",
+   "title": "Spore",
+   "startAt": "2026-09-06T01:31:24+00:00",
+   "endAt": "2026-09-12T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "85171cfe-a0a6-4a06-a857-0dbe2a52dffc",
+   "game": "Kirka.io",
+   "title": "Sour Kandy",
+   "startAt": "2026-09-12T11:59:07+00:00",
+   "endAt": "2026-09-12T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c3e7ac4a-7114-4869-ba28-76760780bf60",
    "game": "Rivals of Aether II",
@@ -6271,81 +6211,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.02
+   "score": 20.87
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.63
+   "score": 29.43
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.65
+   "score": 4.62
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.43
+   "score": 29.23
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.02
+   "score": 20.87
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.02
+   "score": 20.87
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.02
+   "score": 20.87
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.32
+   "score": 2.31
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.07
+   "score": 10.0
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.95
+   "score": 10.87
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 21.02
+   "score": 20.87
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 31,
+  "ARC Raiders": 30,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 39,
   "LEGO Batman: Legacy of the Dark Knight": 39,
   "Marvel Rivals": 10,
-  "Once Human": 31,
-  "Palia": 31,
-  "Predecessor": 31,
+  "Once Human": 30,
+  "Palia": 30,
+  "Predecessor": 30,
   "Tom Clancy's The Division 2": 20,
   "Warframe": 20,
-  "Where Winds Meet": 31
+  "Where Winds Meet": 30
  }
 }

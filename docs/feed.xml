@@ -271,13 +271,6 @@
     <pubDate>2026-09-05T16:30:00+00:00</pubDate>
   </item>
   <item>
-    <title>Kirka.io — Spore</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=9b86cdad-631c-4fc9-bff8-ce1c13e75444</link>
-    <guid isPermaLink="false">9b86cdad-631c-4fc9-bff8-ce1c13e75444</guid>
-    <description>Spore — runs 2026-09-06T01:31:24+00:00 → 2026-09-12T23:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-06T01:31:24+00:00</pubDate>
-  </item>
-  <item>
     <title>Mobile Dungeon — MD Drops Set 1</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=75b83719-7a21-4c95-b16e-651a0b60026c</link>
     <guid isPermaLink="false">75b83719-7a21-4c95-b16e-651a0b60026c</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">f227fbb1-b6ae-4a89-9b95-75c66bc6eb0c</guid>
     <description>Tristicidal — runs 2026-09-08T03:03:20+00:00 → 2026-09-13T23:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-08T03:03:20+00:00</pubDate>
+  </item>
+  <item>
+    <title>Grand Theft Auto V — nopixel V Launch</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=de253dac-3f0e-4a55-8daf-432da97ef8da</link>
+    <guid isPermaLink="false">de253dac-3f0e-4a55-8daf-432da97ef8da</guid>
+    <description>nopixel V Chat Badge — runs 2026-09-08T04:00:00+00:00 → 2026-09-30T03:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-08T04:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
