@@ -1922,26 +1922,6 @@
    "asset": "assets/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png"
   },
   {
-   "id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
-   "game": "EVE Online",
-   "title": "Union Day 2026 Drop 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T11:02:00+00:00",
-   "endAt": "2026-09-13T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T11:30:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76cd5fd2-7be5-4edf-9e56-56120151d6c7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
-   "rewards": [
-    {
-     "name": "2500 EverMarks",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/91f3c658-5d3f-4ad1-85e0-bab63b1a34c1.jpg"
-  },
-  {
    "id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -3804,9 +3784,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/935f6a65-7eb8-41dc-b672-59a5fcbe75eb.png"
+  },
+  {
+   "id": "c84ce565-b7a9-42ee-9c7d-fca39d9d0ed6",
+   "game": "Halo Infinite",
+   "title": "LVTProLeague-SEP13",
+   "status": "ACTIVE",
+   "startAt": "2026-09-13T11:00:00+00:00",
+   "endAt": "2026-09-14T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-13T11:00:50+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3520992e-8229-44ae-9d9a-743b08d6f4f7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c84ce565-b7a9-42ee-9c7d-fca39d9d0ed6",
+   "rewards": [
+    {
+     "name": "Bulltrue Charm",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c84ce565-b7a9-42ee-9c7d-fca39d9d0ed6.png"
   }
  ],
  "archive": [
+  {
+   "id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1",
+   "game": "EVE Online",
+   "title": "Union Day 2026 Drop 4",
+   "startAt": "2026-09-09T11:02:00+00:00",
+   "endAt": "2026-09-13T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ffe59f26-3307-4892-afbd-6938e2058ed9",
    "game": "Albion Online",
@@ -6219,13 +6227,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.77
+   "score": 20.75
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 29.29
+   "score": 29.26
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6237,49 +6245,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 29.09
+   "score": 29.06
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.77
+   "score": 20.75
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.77
+   "score": 20.75
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.77
+   "score": 20.75
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.3
+   "score": 2.29
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.82
+   "score": 10.81
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.77
+   "score": 20.75
   }
  },
  "favoriteWeights": {
