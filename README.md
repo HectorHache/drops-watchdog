@@ -3,7 +3,7 @@
 Hourly Twitch Drop Campaign watchdog + live dashboard.
 
 - **Telegram:** digest → [t.me/dropwatchdog](https://t.me/dropwatchdog) (Heimdall bot) · personal alerts → DM
-- **Site:** [drops.hache.app](https://drops.hache.app) (Cloudflare Pages, private repo)
+- **Site:** [drops.hector.app](https://drops.hector.app) (Cloudflare Pages, private repo)
 - **Stack:** deterministic Python 3 (stdlib only) · SQLite source of truth · single-file SPA
 
 ## Layout
