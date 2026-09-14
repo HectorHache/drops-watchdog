@@ -2394,46 +2394,6 @@
    "asset": "assets/1e4113da-47b1-4590-a531-9abf27fbe4ff.png"
   },
   {
-   "id": "c5fdaa03-e9c6-4854-adf3-7e460de8700d",
-   "game": "Rise Online",
-   "title": "Mobile Drop 157",
-   "status": "ACTIVE",
-   "startAt": "2026-09-13T17:59:00+00:00",
-   "endAt": "2026-09-14T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-13T18:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5d31ea3b-a4c1-423e-ac29-863a9466f0a0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c5fdaa03-e9c6-4854-adf3-7e460de8700d",
-   "rewards": [
-    {
-     "name": "Mobile Drop 157",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c5fdaa03-e9c6-4854-adf3-7e460de8700d.png"
-  },
-  {
-   "id": "f39c365c-8c86-4dc6-a8d9-ede0798393af",
-   "game": "Rise Online",
-   "title": "ROW Drop 586",
-   "status": "ACTIVE",
-   "startAt": "2026-09-13T17:59:00+00:00",
-   "endAt": "2026-09-14T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-13T18:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0299e042-b07d-4181-ad50-8c9522b99b39.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f39c365c-8c86-4dc6-a8d9-ede0798393af",
-   "rewards": [
-    {
-     "name": "ROW Drop 586",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f39c365c-8c86-4dc6-a8d9-ede0798393af.png"
-  },
-  {
    "id": "8b2578ff-3444-4113-ba54-21392e51ab1b",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -2936,9 +2896,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f0130ec5-3836-4ac7-a046-6549d6249092.jpg"
+  },
+  {
+   "id": "2574416b-d0aa-44a2-8328-ef3e306dd9ea",
+   "game": "Rise Online",
+   "title": "Mobile Drop 158",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T17:59:00+00:00",
+   "endAt": "2026-09-15T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-14T18:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f411f8ea-ca8e-4056-8032-0516509a4893.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2574416b-d0aa-44a2-8328-ef3e306dd9ea",
+   "rewards": [
+    {
+     "name": "Mobile Drop 158",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2574416b-d0aa-44a2-8328-ef3e306dd9ea.png"
+  },
+  {
+   "id": "c06c80d6-b17a-486d-9d79-a1edce21d24b",
+   "game": "Rise Online",
+   "title": "ROW Drop 587",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T17:59:00+00:00",
+   "endAt": "2026-09-15T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-14T18:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/43e5e22b-1a8f-46a7-b3cd-282952fdcbc2.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c06c80d6-b17a-486d-9d79-a1edce21d24b",
+   "rewards": [
+    {
+     "name": "ROW Drop 587",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c06c80d6-b17a-486d-9d79-a1edce21d24b.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "c5fdaa03-e9c6-4854-adf3-7e460de8700d",
+   "game": "Rise Online",
+   "title": "Mobile Drop 157",
+   "startAt": "2026-09-13T17:59:00+00:00",
+   "endAt": "2026-09-14T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f39c365c-8c86-4dc6-a8d9-ede0798393af",
+   "game": "Rise Online",
+   "title": "ROW Drop 586",
+   "startAt": "2026-09-13T17:59:00+00:00",
+   "endAt": "2026-09-14T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5a48536b-bd6c-4723-b95f-8db9b65ef713",
    "game": "Madden NFL 27",
@@ -5799,13 +5815,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.43
+   "score": 28.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5817,25 +5833,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.24
+   "score": 28.22
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5859,7 +5875,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   }
  },
  "favoriteWeights": {
