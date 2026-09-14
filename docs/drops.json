@@ -2874,30 +2874,6 @@
    "asset": "assets/f91ea6b5-a67e-430f-ae7e-d2666c9537f9.jpg"
   },
   {
-   "id": "f0130ec5-3836-4ac7-a046-6549d6249092",
-   "game": "Tanki Online",
-   "title": "WMR2 2026 R6 (2)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T17:00:00+00:00",
-   "endAt": "2026-09-14T19:29:59.999+00:00",
-   "firstSeenAt": "2026-09-14T17:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1367aeda-4b5a-4071-bc8c-7c542f26b96c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f0130ec5-3836-4ac7-a046-6549d6249092",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f0130ec5-3836-4ac7-a046-6549d6249092.jpg"
-  },
-  {
    "id": "2574416b-d0aa-44a2-8328-ef3e306dd9ea",
    "game": "Rise Online",
    "title": "Mobile Drop 158",
@@ -2959,6 +2935,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "f0130ec5-3836-4ac7-a046-6549d6249092",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R6 (2)",
+   "startAt": "2026-09-14T17:00:00+00:00",
+   "endAt": "2026-09-14T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c5fdaa03-e9c6-4854-adf3-7e460de8700d",
    "game": "Rise Online",
@@ -5835,13 +5819,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.13
+   "score": 20.12
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.39
+   "score": 28.38
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5853,49 +5837,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.2
+   "score": 28.18
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.13
+   "score": 20.12
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.13
+   "score": 20.12
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.13
+   "score": 20.12
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.23
+   "score": 2.22
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.65
+   "score": 9.64
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.49
+   "score": 10.48
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.13
+   "score": 20.12
   }
  },
  "favoriteWeights": {
