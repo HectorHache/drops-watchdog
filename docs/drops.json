@@ -2414,62 +2414,6 @@
    "asset": "assets/b49fb9b7-4084-45b0-8c2d-ca811de26680.png"
   },
   {
-   "id": "f0706fe5-24bd-4e5b-bb36-292fcc97da91",
-   "game": "Overwatch",
-   "title": "OW BlizzCon Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-13T16:00:00+00:00",
-   "endAt": "2026-09-14T16:28:59.999+00:00",
-   "firstSeenAt": "2026-09-13T16:30:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d625e314-fc52-4b3b-b142-a45bedb3299a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f0706fe5-24bd-4e5b-bb36-292fcc97da91",
-   "rewards": [
-    {
-     "name": "BlizzCon Day 2 Drop 6",
-     "minutes": 240
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 9",
-     "minutes": 420
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 10",
-     "minutes": 480
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 1",
-     "minutes": 15
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 2",
-     "minutes": 30
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 3",
-     "minutes": 60
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 7",
-     "minutes": 300
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 5",
-     "minutes": 180
-    },
-    {
-     "name": "BlizzCon Day 2 Drop 8",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f0706fe5-24bd-4e5b-bb36-292fcc97da91.png"
-  },
-  {
    "id": "1e4113da-47b1-4590-a531-9abf27fbe4ff",
    "game": "Kirka.io",
    "title": "Refill",
@@ -3011,6 +2955,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "f0706fe5-24bd-4e5b-bb36-292fcc97da91",
+   "game": "Overwatch",
+   "title": "OW BlizzCon Day 2",
+   "startAt": "2026-09-13T16:00:00+00:00",
+   "endAt": "2026-09-14T16:28:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "140cb57e-f7a7-487e-9f80-f7a9395fcd01",
    "game": "Marbles on Stream",
@@ -5855,13 +5807,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.19
+   "score": 20.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.47
+   "score": 28.46
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5873,25 +5825,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.28
+   "score": 28.26
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.19
+   "score": 20.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.19
+   "score": 20.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.19
+   "score": 20.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5909,13 +5861,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.52
+   "score": 10.51
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.19
+   "score": 20.18
   }
  },
  "favoriteWeights": {
