@@ -2090,26 +2090,6 @@
    "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
   },
   {
-   "id": "f3e8e677-13d3-4818-ad83-2794e988e2c6",
-   "game": "World of Tanks",
-   "title": "First Deployment #3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T15:00:00+00:00",
-   "endAt": "2026-09-14T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T15:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/33c4bc03-44e6-4be5-9c6f-4abd9d5c81ba.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f3e8e677-13d3-4818-ad83-2794e988e2c6",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f3e8e677-13d3-4818-ad83-2794e988e2c6.jpg"
-  },
-  {
    "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
    "game": "Mir Korabley",
    "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 2",
@@ -3040,9 +3020,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/22b93373-f8da-490f-a1bb-9a12239fe2de.png"
+  },
+  {
+   "id": "f91ea6b5-a67e-430f-ae7e-d2666c9537f9",
+   "game": "World of Tanks",
+   "title": "Back in Action #4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T15:00:00+00:00",
+   "endAt": "2026-09-16T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-14T15:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f70f5d9b-5850-415c-bf1e-af498d80f999.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f91ea6b5-a67e-430f-ae7e-d2666c9537f9",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f91ea6b5-a67e-430f-ae7e-d2666c9537f9.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "f3e8e677-13d3-4818-ad83-2794e988e2c6",
+   "game": "World of Tanks",
+   "title": "First Deployment #3",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-14T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "63ccba3b-f3ab-4c54-9afc-9c4ed66ee9f5",
    "game": "Out of the Park Baseball 27",
@@ -5871,13 +5879,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.51
+   "score": 28.5
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5889,37 +5897,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.32
+   "score": 28.3
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.24
+   "score": 2.23
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.69
+   "score": 9.68
   },
   "Warframe": {
    "favorites": 1,
@@ -5931,7 +5939,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   }
  },
  "favoriteWeights": {
