@@ -2908,6 +2908,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/494effdd-3f7c-4279-88e8-2f83378b04c6.png"
+  },
+  {
+   "id": "e581b44a-5b0a-4956-b456-70c441df9476",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T05:00:00+00:00",
+   "endAt": "2026-09-16T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-14T09:00:56+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c32ea8e-0d61-477e-972a-fedfe9e0988d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e581b44a-5b0a-4956-b456-70c441df9476",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e581b44a-5b0a-4956-b456-70c441df9476.png"
   }
  ],
  "archive": [
@@ -5675,43 +5703,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.34
+   "score": 20.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.68
+   "score": 28.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.5
+   "score": 4.49
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.48
+   "score": 28.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.34
+   "score": 20.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.34
+   "score": 20.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.34
+   "score": 20.33
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5735,7 +5763,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.34
+   "score": 20.33
   }
  },
  "favoriteWeights": {
