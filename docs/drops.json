@@ -2450,26 +2450,6 @@
    "asset": "assets/ce4adff7-7fd5-46c6-8f5c-0a507a514d8b.jpg"
   },
   {
-   "id": "3b352412-f24e-4602-ae88-3e893fd917d2",
-   "game": "EVE Online",
-   "title": "ATXXII Preliminaries W3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T11:02:00+00:00",
-   "endAt": "2026-09-14T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-12T11:30:10+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a3d91a1-6242-4997-9322-85deec758ed3.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b352412-f24e-4602-ae88-3e893fd917d2",
-   "rewards": [
-    {
-     "name": "Maller Shattered SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3b352412-f24e-4602-ae88-3e893fd917d2.jpg"
-  },
-  {
    "id": "56319123-4dab-42af-936a-e7d9a243313c",
    "game": "Diablo IV",
    "title": "Blizzcon Twitch Drops",
@@ -2979,6 +2959,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "3b352412-f24e-4602-ae88-3e893fd917d2",
+   "game": "EVE Online",
+   "title": "ATXXII Preliminaries W3",
+   "startAt": "2026-09-12T11:02:00+00:00",
+   "endAt": "2026-09-14T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84e68238-c6fe-402a-aedf-2db18c1e7759",
    "game": "Albion Online",
@@ -5759,13 +5747,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.3
+   "score": 20.29
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.62
+   "score": 28.61
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5777,25 +5765,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.43
+   "score": 28.41
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.3
+   "score": 20.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.3
+   "score": 20.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.3
+   "score": 20.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5807,7 +5795,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.73
+   "score": 9.72
   },
   "Warframe": {
    "favorites": 1,
@@ -5819,7 +5807,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.3
+   "score": 20.29
   }
  },
  "favoriteWeights": {
