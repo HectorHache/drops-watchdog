@@ -2956,6 +2956,90 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/73c3cf98-4a9d-4673-bae6-2b4418d97fc6.png"
+  },
+  {
+   "id": "f11eef13-08c3-4903-bd7a-18f2c32755fa",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T14:00:00+00:00",
+   "endAt": "2026-09-15T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-14T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbc4f692-b178-4244-ac87-e0f62a9a3f1b.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f11eef13-08c3-4903-bd7a-18f2c32755fa",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f11eef13-08c3-4903-bd7a-18f2c32755fa.jpg"
+  },
+  {
+   "id": "174fd699-3230-4076-b542-c15a8dcb4ab1",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 1/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T14:00:00+00:00",
+   "endAt": "2026-09-20T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-14T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87c3f72e-2740-4308-a8e2-1c05711e8a6c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=174fd699-3230-4076-b542-c15a8dcb4ab1",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Potion Package",
+     "minutes": 30
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 60
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 90
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 120
+    },
+    {
+     "name": "Time Jump Package",
+     "minutes": 150
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/174fd699-3230-4076-b542-c15a8dcb4ab1.png"
+  },
+  {
+   "id": "22b93373-f8da-490f-a1bb-9a12239fe2de",
+   "game": "Marvel's Wolverine",
+   "title": "Marvel's Wolverine",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T14:00:00+00:00",
+   "endAt": "2026-09-28T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-14T14:00:48+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/419103d3-c147-4e7b-a7a7-f09997517afe.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=22b93373-f8da-490f-a1bb-9a12239fe2de",
+   "rewards": [
+    {
+     "name": "Marvel's Wolverine",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/22b93373-f8da-490f-a1bb-9a12239fe2de.png"
   }
  ],
  "archive": [
@@ -5787,43 +5871,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.24
+   "score": 20.23
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.54
+   "score": 28.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.48
+   "score": 4.47
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.34
+   "score": 28.33
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.24
+   "score": 20.23
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.24
+   "score": 20.23
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.24
+   "score": 20.23
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5835,7 +5919,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.7
+   "score": 9.69
   },
   "Warframe": {
    "favorites": 1,
@@ -5847,7 +5931,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.24
+   "score": 20.23
   }
  },
  "favoriteWeights": {
