@@ -2510,26 +2510,6 @@
    "asset": "assets/b49fb9b7-4084-45b0-8c2d-ca811de26680.png"
   },
   {
-   "id": "63550361-2fb3-4db5-a802-7005b74e7a1e",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 13)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-13T12:00:00+00:00",
-   "endAt": "2026-09-14T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-13T12:00:57+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0ff46f76-c40f-42c5-85e6-b76eb64de96f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63550361-2fb3-4db5-a802-7005b74e7a1e",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 13)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/63550361-2fb3-4db5-a802-7005b74e7a1e.png"
-  },
-  {
    "id": "6747dc43-b558-48a5-93ef-cfa23322f176",
    "game": "No Man's Sky",
    "title": "Cosmos - Day 4",
@@ -2956,9 +2936,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/63ee2ef9-83b0-4c4a-ab00-750121b5a062.png"
+  },
+  {
+   "id": "30077a3e-383f-4be5-94a1-027e232dd060",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 14)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T12:00:00+00:00",
+   "endAt": "2026-09-15T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-14T12:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df11474f-a17d-4c14-9d53-03965bf90380.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30077a3e-383f-4be5-94a1-027e232dd060",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 14)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/30077a3e-383f-4be5-94a1-027e232dd060.png"
   }
  ],
  "archive": [
+  {
+   "id": "63550361-2fb3-4db5-a802-7005b74e7a1e",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 13)",
+   "startAt": "2026-09-13T12:00:00+00:00",
+   "endAt": "2026-09-14T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3b352412-f24e-4602-ae88-3e893fd917d2",
    "game": "EVE Online",
@@ -5747,13 +5755,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.59
+   "score": 28.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5765,25 +5773,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.4
+   "score": 28.39
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5795,7 +5803,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.72
+   "score": 9.71
   },
   "Warframe": {
    "favorites": 1,
@@ -5807,7 +5815,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   }
  },
  "favoriteWeights": {
