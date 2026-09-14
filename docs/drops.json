@@ -1070,30 +1070,6 @@
    "asset": "assets/b6581084-0574-452c-9c00-d881d4fea78e.png"
   },
   {
-   "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | September Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T21:00:00+00:00",
-   "endAt": "2026-09-14T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T21:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/537c138c-f263-4033-9536-dd6e9d1ce344.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=31f77cbd-c88a-4d20-985e-afcafa123980",
-   "rewards": [
-    {
-     "name": "1M Gold",
-     "minutes": 60
-    },
-    {
-     "name": "100 L4 Training Modules",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/31f77cbd-c88a-4d20-985e-afcafa123980.png"
-  },
-  {
    "id": "b7bcd558-6964-461c-a1a0-503eeba1871e",
    "game": "Delta Force",
    "title": "2NDANNIVERSARY-OPERATIONS",
@@ -2932,9 +2908,41 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c24dfd48-4204-4515-8b69-ae68de6ce13f.png"
+  },
+  {
+   "id": "0a717971-f9d4-47e1-bf0a-fb9301b45a6e",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T21:00:00+00:00",
+   "endAt": "2026-09-21T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-14T21:00:54+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7b5a0dd-cab2-4317-bf4e-f9977df9aa1d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0a717971-f9d4-47e1-bf0a-fb9301b45a6e",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0a717971-f9d4-47e1-bf0a-fb9301b45a6e.png"
   }
  ],
  "archive": [
+  {
+   "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 2",
+   "startAt": "2026-09-07T21:00:00+00:00",
+   "endAt": "2026-09-14T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f0130ec5-3836-4ac7-a046-6549d6249092",
    "game": "Tanki Online",
@@ -5825,19 +5833,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.35
+   "score": 28.33
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.45
+   "score": 4.44
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.15
+   "score": 28.14
   },
   "Once Human": {
    "favorites": 2,
