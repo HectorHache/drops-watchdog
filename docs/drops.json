@@ -2414,38 +2414,6 @@
    "asset": "assets/b49fb9b7-4084-45b0-8c2d-ca811de26680.png"
   },
   {
-   "id": "140cb57e-f7a7-487e-9f80-f7a9395fcd01",
-   "game": "Marbles on Stream",
-   "title": "MarbleFest - Sept'26-Day7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-13T14:00:00+00:00",
-   "endAt": "2026-09-14T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-13T14:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/afc41db4-41d1-40ab-9558-40ff12d55554.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=140cb57e-f7a7-487e-9f80-f7a9395fcd01",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 360
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 900
-    },
-    {
-     "name": "DROP - SUB",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/140cb57e-f7a7-487e-9f80-f7a9395fcd01.png"
-  },
-  {
    "id": "f0706fe5-24bd-4e5b-bb36-292fcc97da91",
    "game": "Overwatch",
    "title": "OW BlizzCon Day 2",
@@ -3043,6 +3011,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "140cb57e-f7a7-487e-9f80-f7a9395fcd01",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Sept'26-Day7",
+   "startAt": "2026-09-13T14:00:00+00:00",
+   "endAt": "2026-09-14T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f3e8e677-13d3-4818-ad83-2794e988e2c6",
    "game": "World of Tanks",
@@ -5879,43 +5855,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.48
+   "score": 28.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.47
+   "score": 4.46
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.29
+   "score": 28.28
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5927,7 +5903,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.68
+   "score": 9.67
   },
   "Warframe": {
    "favorites": 1,
@@ -5939,7 +5915,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   }
  },
  "favoriteWeights": {
