@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Skull and Bones — Skull and Bones - Y3S2</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=3595f84e-98bc-423d-9853-30dcebbf7481</link>
-    <guid isPermaLink="false">3595f84e-98bc-423d-9853-30dcebbf7481</guid>
-    <description>Hull Color - Mossy Gravewood · Sail Color - Rotbreath · Pattern - Noose of Thorns · Emblem - Marauder's Gash — runs 2026-08-18T07:00:00+00:00 → 2026-09-14T21:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-18T07:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>ARC Raiders — Live Update 1.42.0</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=a79bead9-e221-402a-996b-e0fa4e2f8912</link>
     <guid isPermaLink="false">a79bead9-e221-402a-996b-e0fa4e2f8912</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">becc65e0-e3fe-4125-9601-15e32f9f16f6</guid>
     <description>2x Treasure Below RavenPacks · Drops Twitch Pack 1 · Drops Twitch Pack 2 — runs 2026-09-08T15:00:00+00:00 → 2026-09-15T14:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-08T15:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Splinterlands — September Week 2</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=e8f6e3c6-acc1-41da-9204-fe204cc2a812</link>
+    <guid isPermaLink="false">e8f6e3c6-acc1-41da-9204-fe204cc2a812</guid>
+    <description>1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint — runs 2026-09-08T17:00:00+00:00 → 2026-09-22T16:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-08T17:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>

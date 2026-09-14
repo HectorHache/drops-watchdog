@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "3595f84e-98bc-423d-9853-30dcebbf7481",
-   "game": "Skull and Bones",
-   "title": "Skull and Bones - Y3S2",
-   "status": "ACTIVE",
-   "startAt": "2026-08-18T07:00:00+00:00",
-   "endAt": "2026-09-14T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13c96614-e7b4-471a-8cbc-a3a48bf641b3.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3595f84e-98bc-423d-9853-30dcebbf7481",
-   "rewards": [
-    {
-     "name": "Hull Color - Mossy Gravewood",
-     "minutes": 30
-    },
-    {
-     "name": "Sail Color - Rotbreath",
-     "minutes": 60
-    },
-    {
-     "name": "Pattern - Noose of Thorns",
-     "minutes": 120
-    },
-    {
-     "name": "Emblem - Marauder's Gash",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3595f84e-98bc-423d-9853-30dcebbf7481.jpg"
-  },
-  {
    "id": "a79bead9-e221-402a-996b-e0fa4e2f8912",
    "game": "ARC Raiders",
    "title": "Live Update 1.42.0",
@@ -2936,6 +2904,14 @@
  ],
  "archive": [
   {
+   "id": "3595f84e-98bc-423d-9853-30dcebbf7481",
+   "game": "Skull and Bones",
+   "title": "Skull and Bones - Y3S2",
+   "startAt": "2026-08-18T07:00:00+00:00",
+   "endAt": "2026-09-14T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
    "id": "31f77cbd-c88a-4d20-985e-afcafa123980",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 2",
@@ -5827,13 +5803,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.1
+   "score": 20.09
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.33
+   "score": 28.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5845,25 +5821,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 28.14
+   "score": 28.13
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.1
+   "score": 20.09
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.1
+   "score": 20.09
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.1
+   "score": 20.09
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5875,19 +5851,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.47
+   "score": 10.46
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 20.1
+   "score": 20.09
   }
  },
  "favoriteWeights": {
