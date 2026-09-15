@@ -152,13 +152,6 @@
     <pubDate>2026-09-01T07:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Rainbow Six Siege — R6S Y11S3</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=4f140c7d-c750-4c74-96a6-ae8c52fe221a</link>
-    <guid isPermaLink="false">4f140c7d-c750-4c74-96a6-ae8c52fe221a</guid>
-    <description>SMELLS LIKE BURNING — runs 2026-09-01T13:00:00+00:00 → 2026-09-15T12:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-01T13:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>League of Legends — Split 3 - Sub Drop (Pt.2)</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138</link>
     <guid isPermaLink="false">7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">59863b78-3fa5-4609-9584-08e43420aba0</guid>
     <description>Madness — runs 2026-09-09T21:07:29+00:00 → 2026-09-16T23:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-09T21:07:29+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Warships — 15.8 Mystery Drop</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=1a70d4b3-0ae2-4191-98cd-c21ae1946cc8</link>
+    <guid isPermaLink="false">1a70d4b3-0ae2-4191-98cd-c21ae1946cc8</guid>
+    <description>15.8 Mystery Drop — runs 2026-09-09T22:00:00+00:00 → 2026-09-16T21:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-09T22:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
