@@ -670,26 +670,6 @@
    "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
   },
   {
-   "id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
-   "game": "Skull and Bones",
-   "title": "SAB - Platinum god games",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T12:00:00+00:00",
-   "endAt": "2026-09-15T11:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/05cedca3-7cf6-471f-99d0-39bde279197a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
-   "rewards": [
-    {
-     "name": "Stormlash",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf.png"
-  },
-  {
    "id": "4f140c7d-c750-4c74-96a6-ae8c52fe221a",
    "game": "Rainbow Six Siege",
    "title": "R6S Y11S3",
@@ -2370,26 +2350,6 @@
    "asset": "assets/63ee2ef9-83b0-4c4a-ab00-750121b5a062.png"
   },
   {
-   "id": "30077a3e-383f-4be5-94a1-027e232dd060",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 14)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T12:00:00+00:00",
-   "endAt": "2026-09-15T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T12:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df11474f-a17d-4c14-9d53-03965bf90380.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30077a3e-383f-4be5-94a1-027e232dd060",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 14)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/30077a3e-383f-4be5-94a1-027e232dd060.png"
-  },
-  {
    "id": "01fe3543-d275-46fb-b605-2efe98319a25",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/14/26",
@@ -2828,9 +2788,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f8d47bc7-98c5-4300-b59d-05d2b8109a61.png"
+  },
+  {
+   "id": "84766457-78a9-473e-9756-b411597adc19",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 15)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T12:00:00+00:00",
+   "endAt": "2026-09-16T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T12:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a609a2d7-6683-4c97-99db-05ca5715e0f7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84766457-78a9-473e-9756-b411597adc19",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 15)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/84766457-78a9-473e-9756-b411597adc19.png"
+  },
+  {
+   "id": "b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneScape: Dragonwilds",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T12:00:00+00:00",
+   "endAt": "2026-10-04T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T12:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01974013-abf2-4410-b876-b946093f763e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
+   "rewards": [
+    {
+     "name": "RuneScape Dragonwilds Eye",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb.png"
   }
  ],
  "archive": [
+  {
+   "id": "30077a3e-383f-4be5-94a1-027e232dd060",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 14)",
+   "startAt": "2026-09-14T12:00:00+00:00",
+   "endAt": "2026-09-15T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf",
+   "game": "Skull and Bones",
+   "title": "SAB - Platinum god games",
+   "startAt": "2026-09-01T12:00:00+00:00",
+   "endAt": "2026-09-15T11:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a79bead9-e221-402a-996b-e0fa4e2f8912",
    "game": "ARC Raiders",
@@ -5803,13 +5819,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.82
+   "score": 19.81
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.94
+   "score": 27.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5821,25 +5837,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.75
+   "score": 27.74
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.82
+   "score": 19.81
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.82
+   "score": 19.81
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.82
+   "score": 19.81
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5863,7 +5879,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.82
+   "score": 19.81
   }
  },
  "favoriteWeights": {
