@@ -2546,26 +2546,6 @@
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   },
   {
-   "id": "387ea0f0-178b-4959-83bd-c8ef73ef6f73",
-   "game": "Rise of Agon",
-   "title": "Lizard on Stick - Test",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T13:00:00+00:00",
-   "endAt": "2026-09-15T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T13:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=387ea0f0-178b-4959-83bd-c8ef73ef6f73",
-   "rewards": [
-    {
-     "name": "15 Min",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/387ea0f0-178b-4959-83bd-c8ef73ef6f73.png"
-  },
-  {
    "id": "bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/15/26",
@@ -2696,42 +2676,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3f7e1ccb-d3dc-4c1a-bb00-0efae6446191.png"
-  },
-  {
-   "id": "64f05bff-322f-4f39-91a4-465531c22a8b",
-   "game": "DOFUS Touch",
-   "title": "J1 - Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T16:00:00+00:00",
-   "endAt": "2026-09-15T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fc702e1-e5fb-46f5-a59a-4482e4decebe.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=64f05bff-322f-4f39-91a4-465531c22a8b",
-   "rewards": [
-    {
-     "name": "TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/64f05bff-322f-4f39-91a4-465531c22a8b.png"
   },
   {
    "id": "04c75095-d98d-41a3-8f05-f8faf60355f4",
@@ -2892,9 +2836,117 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bee9dbba-cc7e-42d8-9bfa-ef40a5073342.png"
+  },
+  {
+   "id": "989e48b1-d222-4c26-8e4e-1dc7e62c022c",
+   "game": "Madden NFL 27",
+   "title": "MCS Pro League",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T02:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T22:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4acffe44-bcc7-421b-b005-9467ba4d4614.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989e48b1-d222-4c26-8e4e-1dc7e62c022c",
+   "rewards": [
+    {
+     "name": "Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "86 OVR Kendal Daniels",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/989e48b1-d222-4c26-8e4e-1dc7e62c022c.png"
+  },
+  {
+   "id": "ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a",
+   "game": "Halo: The Master Chief Collection",
+   "title": "MCC Warthog Racing-SEP15",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T02:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T22:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/33f307b9-031c-48e5-9892-4804ebe0cb2e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a",
+   "rewards": [
+    {
+     "name": "Beach Life Nameplate",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a.png"
+  },
+  {
+   "id": "f7e9139b-bab1-47b4-af78-901b511b5440",
+   "game": "DOFUS Touch",
+   "title": "J2 - Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T22:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e64f4b4a-16de-4f58-8564-56fdef535b98.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f7e9139b-bab1-47b4-af78-901b511b5440",
+   "rewards": [
+    {
+     "name": "TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f7e9139b-bab1-47b4-af78-901b511b5440.png"
   }
  ],
  "archive": [
+  {
+   "id": "387ea0f0-178b-4959-83bd-c8ef73ef6f73",
+   "game": "Rise of Agon",
+   "title": "Lizard on Stick - Test",
+   "startAt": "2026-09-15T13:00:00+00:00",
+   "endAt": "2026-09-15T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "64f05bff-322f-4f39-91a4-465531c22a8b",
+   "game": "DOFUS Touch",
+   "title": "J1 - Temporix Cps",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-15T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2426fda9-8f15-43b6-9edb-2a6175fb204e",
    "game": "Kakele Online - MMORPG",
@@ -5979,13 +6031,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.63
+   "score": 19.62
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.67
+   "score": 27.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5997,25 +6049,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.48
+   "score": 27.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.63
+   "score": 19.62
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.63
+   "score": 19.62
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.63
+   "score": 19.62
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6039,7 +6091,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.63
+   "score": 19.62
   }
  },
  "favoriteWeights": {
