@@ -2122,42 +2122,6 @@
    "asset": "assets/d562cedc-dc28-42d6-840a-15030138be49.png"
   },
   {
-   "id": "e03e6c9c-69eb-4658-a176-6adcb6eb2118",
-   "game": "War Thunder",
-   "title": "Major III - Final",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T10:00:00+00:00",
-   "endAt": "2026-09-15T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T10:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd6a01f9-8854-4e50-8168-41dd04488e65.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e03e6c9c-69eb-4658-a176-6adcb6eb2118",
-   "rewards": [
-    {
-     "name": "5 Backups",
-     "minutes": 60
-    },
-    {
-     "name": "T34-57 \u201cThunder Beast\u201d camouflage",
-     "minutes": 60
-    },
-    {
-     "name": "1 Day of Premium",
-     "minutes": 120
-    },
-    {
-     "name": "\u201cNot Today\u201d decal",
-     "minutes": 240
-    },
-    {
-     "name": "M1A2 SepV3 \u201cDiamond\u201d camouflage",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e03e6c9c-69eb-4658-a176-6adcb6eb2118.jpg"
-  },
-  {
    "id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
    "game": "SMITE 2",
    "title": "September Week 2! ",
@@ -2848,9 +2812,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ac324042-c913-470a-8b19-6018446878ca.png"
+  },
+  {
+   "id": "3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T10:00:00+00:00",
+   "endAt": "2026-09-16T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-15T10:00:50+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c5fcf8d1-82d5-4d45-a35f-1010fc3f1a54.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3cf440b9-0a2c-467d-8b4e-598ef8d1fc24.png"
+  },
+  {
+   "id": "f8d47bc7-98c5-4300-b59d-05d2b8109a61",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T10:00:00+00:00",
+   "endAt": "2026-09-16T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-15T10:00:50+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/578781d2-00a6-4fef-bdcd-ca158ca1bdee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8d47bc7-98c5-4300-b59d-05d2b8109a61",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f8d47bc7-98c5-4300-b59d-05d2b8109a61.png"
   }
  ],
  "archive": [
+  {
+   "id": "e03e6c9c-69eb-4658-a176-6adcb6eb2118",
+   "game": "War Thunder",
+   "title": "Major III - Final",
+   "startAt": "2026-09-12T10:00:00+00:00",
+   "endAt": "2026-09-15T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9c195f89-7ac5-463f-b732-ef70b7c4a70c",
    "game": "Albion Online",
@@ -5813,7 +5825,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.0
+   "score": 27.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5825,7 +5837,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.8
+   "score": 27.79
   },
   "Once Human": {
    "favorites": 2,
@@ -5849,7 +5861,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.2
+   "score": 2.19
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
