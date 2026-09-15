@@ -2892,6 +2892,58 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/08012a89-858e-47ca-8dad-5aa11587a233.jpg"
+  },
+  {
+   "id": "ac324042-c913-470a-8b19-6018446878ca",
+   "game": "Kakele Online - MMORPG",
+   "title": "Kakele Online September 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T08:00:00+00:00",
+   "endAt": "2026-09-30T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T08:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e7f85d9b-c703-4b38-9a6e-d7b0d59dd719.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac324042-c913-470a-8b19-6018446878ca",
+   "rewards": [
+    {
+     "name": "Streamer Token",
+     "minutes": 60
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 120
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 180
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 240
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 300
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 540
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 720
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 840
+    },
+    {
+     "name": "Streamer Token",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ac324042-c913-470a-8b19-6018446878ca.png"
   }
  ],
  "archive": [
@@ -5819,13 +5871,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.89
+   "score": 19.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.05
+   "score": 28.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5837,25 +5889,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.86
+   "score": 27.84
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.89
+   "score": 19.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.89
+   "score": 19.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.89
+   "score": 19.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5879,7 +5931,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.89
+   "score": 19.88
   }
  },
  "favoriteWeights": {
