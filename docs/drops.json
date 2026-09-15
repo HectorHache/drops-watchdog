@@ -2844,6 +2844,142 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5b222056-d3df-491e-9855-674bef779e4f.png"
+  },
+  {
+   "id": "64f05bff-322f-4f39-91a4-465531c22a8b",
+   "game": "DOFUS Touch",
+   "title": "J1 - Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-15T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fc702e1-e5fb-46f5-a59a-4482e4decebe.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=64f05bff-322f-4f39-91a4-465531c22a8b",
+   "rewards": [
+    {
+     "name": "TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/64f05bff-322f-4f39-91a4-465531c22a8b.png"
+  },
+  {
+   "id": "04c75095-d98d-41a3-8f05-f8faf60355f4",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-15T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d06b69bb-17a0-4da1-b46c-8f59b23c36b1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=04c75095-d98d-41a3-8f05-f8faf60355f4",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/04c75095-d98d-41a3-8f05-f8faf60355f4.png"
+  },
+  {
+   "id": "e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
+   "game": "Rocket League",
+   "title": "RL World Championship",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-20T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c8e4a58-97f1-491b-aedf-b6bd40b6ec3f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
+   "rewards": [
+    {
+     "name": "Apex Collection",
+     "minutes": 120
+    },
+    {
+     "name": "Viled Decal",
+     "minutes": 180
+    },
+    {
+     "name": "Point Break Goal Explosion",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/e72c9ff7-8f98-414a-9a0e-9d1cac20b091.png"
+  },
+  {
+   "id": "7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
+   "game": "Guild Wars 2",
+   "title": "Code of Creation",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-21T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b751511e-9289-4ce6-81ff-447118d49069.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
+   "rewards": [
+    {
+     "name": "Item Booster",
+     "minutes": 60
+    },
+    {
+     "name": "Mini Piglet",
+     "minutes": 120
+    },
+    {
+     "name": "How To Dance, Volume 1",
+     "minutes": 240
+    },
+    {
+     "name": "Arcane Occulist\u2019s Hat",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08.jpg"
+  },
+  {
+   "id": "75359535-d3c0-4c73-8c3d-38ce6ea623b8",
+   "game": "Rocket League",
+   "title": "RL Worlds Sub Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-29T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/83fea34a-849c-4763-a05f-bfe1c77eef67.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75359535-d3c0-4c73-8c3d-38ce6ea623b8",
+   "rewards": [
+    {
+     "name": "Torque TX: Inverted Wheels (Crimson)",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/75359535-d3c0-4c73-8c3d-38ce6ea623b8.png"
   }
  ],
  "archive": [
@@ -5883,13 +6019,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.74
+   "score": 19.73
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.83
+   "score": 27.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5901,25 +6037,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.64
+   "score": 27.63
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.74
+   "score": 19.73
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.74
+   "score": 19.73
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.74
+   "score": 19.73
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5931,7 +6067,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.46
+   "score": 9.45
   },
   "Warframe": {
    "favorites": 1,
@@ -5943,7 +6079,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.74
+   "score": 19.73
   }
  },
  "favoriteWeights": {
