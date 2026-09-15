@@ -634,26 +634,6 @@
    "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
   },
   {
-   "id": "4f140c7d-c750-4c74-96a6-ae8c52fe221a",
-   "game": "Rainbow Six Siege",
-   "title": "R6S Y11S3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T13:00:00+00:00",
-   "endAt": "2026-09-15T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8288e4f6-9eda-4125-b1c4-55d4743c5f14.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4f140c7d-c750-4c74-96a6-ae8c52fe221a",
-   "rewards": [
-    {
-     "name": "SMELLS LIKE BURNING",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4f140c7d-c750-4c74-96a6-ae8c52fe221a.png"
-  },
-  {
    "id": "7401aa00-9fe8-4c3e-a2c7-b2c69f5d2138",
    "game": "League of Legends",
    "title": "Split 3 - Sub Drop (Pt.2)",
@@ -2314,78 +2294,6 @@
    "asset": "assets/63ee2ef9-83b0-4c4a-ab00-750121b5a062.png"
   },
   {
-   "id": "01fe3543-d275-46fb-b605-2efe98319a25",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/14/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T13:00:00+00:00",
-   "endAt": "2026-09-15T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7be5c107-e694-41d1-999c-21ba13e2b3c1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=01fe3543-d275-46fb-b605-2efe98319a25",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/01fe3543-d275-46fb-b605-2efe98319a25.png"
-  },
-  {
-   "id": "cb8d5172-e961-4071-9274-472bdd70648e",
-   "game": "No Man's Sky",
-   "title": "Cosmos - Day 5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T13:00:00+00:00",
-   "endAt": "2026-09-15T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7b1de85-ca65-4208-bd21-9b579b5dd5f6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cb8d5172-e961-4071-9274-472bdd70648e",
-   "rewards": [
-    {
-     "name": "Day 5 - Drop 1",
-     "minutes": 15
-    },
-    {
-     "name": "Day 5 - Drop 2",
-     "minutes": 30
-    },
-    {
-     "name": "Day 5 - Drop 3",
-     "minutes": 60
-    },
-    {
-     "name": "Day 5 - Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Day 5 - Drop 5",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/cb8d5172-e961-4071-9274-472bdd70648e.png"
-  },
-  {
    "id": "00e654bb-eef4-4e90-a4e4-d36d920b075b",
    "game": "Out of the Park Baseball 27",
    "title": "Official 19",
@@ -2828,9 +2736,89 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
+  },
+  {
+   "id": "387ea0f0-178b-4959-83bd-c8ef73ef6f73",
+   "game": "Rise of Agon",
+   "title": "Lizard on Stick - Test",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T13:00:00+00:00",
+   "endAt": "2026-09-15T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T13:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=387ea0f0-178b-4959-83bd-c8ef73ef6f73",
+   "rewards": [
+    {
+     "name": "15 Min",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/387ea0f0-178b-4959-83bd-c8ef73ef6f73.png"
+  },
+  {
+   "id": "bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/15/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T13:00:00+00:00",
+   "endAt": "2026-09-16T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-15T13:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1718986c-82c6-4147-941c-b8b1c4d06183.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bd16e8d5-432a-4ea3-a16b-4ba8f2080562.png"
   }
  ],
  "archive": [
+  {
+   "id": "4f140c7d-c750-4c74-96a6-ae8c52fe221a",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Y11S3",
+   "startAt": "2026-09-01T13:00:00+00:00",
+   "endAt": "2026-09-15T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "01fe3543-d275-46fb-b605-2efe98319a25",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/14/26",
+   "startAt": "2026-09-14T13:00:00+00:00",
+   "endAt": "2026-09-15T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cb8d5172-e961-4071-9274-472bdd70648e",
+   "game": "No Man's Sky",
+   "title": "Cosmos - Day 5",
+   "startAt": "2026-09-14T13:00:00+00:00",
+   "endAt": "2026-09-15T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "94084529-b24c-4d1a-9863-e815865f16f5",
    "game": "Blue Protocol: Star Resonance",
@@ -5827,13 +5815,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.91
+   "score": 27.9
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5845,25 +5833,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.72
+   "score": 27.71
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5887,7 +5875,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   }
  },
  "favoriteWeights": {
