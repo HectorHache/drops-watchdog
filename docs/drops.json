@@ -466,58 +466,6 @@
    "asset": "assets/0f0f3203-1c8f-4bf1-85d5-e5484bfc822d.png"
   },
   {
-   "id": "2426fda9-8f15-43b6-9edb-2a6175fb204e",
-   "game": "Kakele Online - MMORPG",
-   "title": "Kakele Online - September",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T06:00:00+00:00",
-   "endAt": "2026-09-15T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b77aeea-96ca-4ce0-a89f-2dce603e96c3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2426fda9-8f15-43b6-9edb-2a6175fb204e",
-   "rewards": [
-    {
-     "name": "Streamer Token",
-     "minutes": 60
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 120
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 180
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 240
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 300
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 540
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 720
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 840
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2426fda9-8f15-43b6-9edb-2a6175fb204e.png"
-  },
-  {
    "id": "796bdad1-10fd-4294-8277-6783723e14ff",
    "game": "LEGO Batman: Legacy of the Dark Knight",
    "title": "Mayhem Collection - DC",
@@ -2947,6 +2895,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "2426fda9-8f15-43b6-9edb-2a6175fb204e",
+   "game": "Kakele Online - MMORPG",
+   "title": "Kakele Online - September",
+   "startAt": "2026-09-01T06:00:00+00:00",
+   "endAt": "2026-09-15T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5b222056-d3df-491e-9855-674bef779e4f",
    "game": "World of Tanks Console",
@@ -6023,13 +5979,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.65
+   "score": 19.64
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.7
+   "score": 27.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6041,25 +5997,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.51
+   "score": 27.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.65
+   "score": 19.64
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.65
+   "score": 19.64
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.65
+   "score": 19.64
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6083,7 +6039,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.65
+   "score": 19.64
   }
  },
  "favoriteWeights": {
