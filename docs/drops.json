@@ -1314,6 +1314,30 @@
    "asset": "assets/4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c.jpg"
   },
   {
+   "id": "4c304edf-da41-4abb-934b-ff7541bd5cab",
+   "game": "EA Sports FC 27",
+   "title": "FC27 First Gameplay",
+   "status": "ACTIVE",
+   "startAt": "2026-09-08T16:03:55+00:00",
+   "endAt": "2026-09-30T16:02:59.999+00:00",
+   "firstSeenAt": "2026-09-15T16:30:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e773dd1b-524f-436f-ad68-d1e6422dfc3c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c304edf-da41-4abb-934b-ff7541bd5cab",
+   "rewards": [
+    {
+     "name": "Small Electrum Players Pack",
+     "minutes": 15
+    },
+    {
+     "name": "2500 Coins + Coin Boost (500 x 10 matches)",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4c304edf-da41-4abb-934b-ff7541bd5cab.png"
+  },
+  {
    "id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812",
    "game": "Splinterlands",
    "title": "September Week 2",
@@ -1996,34 +2020,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ce4adff7-7fd5-46c6-8f5c-0a507a514d8b.jpg"
-  },
-  {
-   "id": "56319123-4dab-42af-936a-e7d9a243313c",
-   "game": "Diablo IV",
-   "title": "Blizzcon Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T16:30:00+00:00",
-   "endAt": "2026-09-15T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-12T16:30:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d944339-a09a-4709-b3c7-f1c5a06f8632.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56319123-4dab-42af-936a-e7d9a243313c",
-   "rewards": [
-    {
-     "name": "Tintinnabulation",
-     "minutes": 360
-    },
-    {
-     "name": "Serrated Skean",
-     "minutes": 120
-    },
-    {
-     "name": "Corroded Cleaver",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/56319123-4dab-42af-936a-e7d9a243313c.png"
   },
   {
    "id": "b49fb9b7-4084-45b0-8c2d-ca811de26680",
@@ -2983,6 +2979,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "56319123-4dab-42af-936a-e7d9a243313c",
+   "game": "Diablo IV",
+   "title": "Blizzcon Twitch Drops",
+   "startAt": "2026-09-12T16:30:00+00:00",
+   "endAt": "2026-09-15T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "16bbf382-9b4b-4243-8266-1c9f45029ea6",
    "game": "Ravendawn",
@@ -6019,13 +6023,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.73
+   "score": 19.72
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.82
+   "score": 27.81
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6037,25 +6041,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.63
+   "score": 27.62
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.73
+   "score": 19.72
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.73
+   "score": 19.72
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.73
+   "score": 19.72
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6073,13 +6077,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.73
+   "score": 19.72
   }
  },
  "favoriteWeights": {
