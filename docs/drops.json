@@ -30,42 +30,6 @@
    "asset": "assets/57c84a37-de55-4de4-ba40-331029d9cab7.png"
   },
   {
-   "id": "94084529-b24c-4d1a-9863-e815865f16f5",
-   "game": "Blue Protocol: Star Resonance",
-   "title": "Season 3 Special Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-19T12:30:00+00:00",
-   "endAt": "2026-09-15T12:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2ea7a0a-65cc-4b7c-8c79-1f8e7ad1a580.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=94084529-b24c-4d1a-9863-e815865f16f5",
-   "rewards": [
-    {
-     "name": "Rose Orb (Bound) *100",
-     "minutes": 15
-    },
-    {
-     "name": "Starland Medal *500",
-     "minutes": 30
-    },
-    {
-     "name": "Dye Pack - Select*5",
-     "minutes": 60
-    },
-    {
-     "name": "Rose Orb (Bound) *200",
-     "minutes": 180
-    },
-    {
-     "name": "Advanced Cooking - Select*3",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/94084529-b24c-4d1a-9863-e815865f16f5.png"
-  },
-  {
    "id": "c7936644-f76f-4bc6-a540-a415a56c4712",
    "game": "Where Winds Meet",
    "title": "Where Wind Meet Sept",
@@ -2828,9 +2792,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb.png"
+  },
+  {
+   "id": "e75d8e5e-f588-4850-8a62-773fe3492998",
+   "game": "Blue Protocol: Star Resonance",
+   "title": "Season 3 Special Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T12:30:00+00:00",
+   "endAt": "2026-10-09T12:29:59.999+00:00",
+   "firstSeenAt": "2026-09-15T12:30:19+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/08196a78-e1ec-49fc-aec3-bbc8034eee73.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e75d8e5e-f588-4850-8a62-773fe3492998",
+   "rewards": [
+    {
+     "name": "Rose Orb (Bound) *100",
+     "minutes": 15
+    },
+    {
+     "name": "Cheer-Up Treat*2",
+     "minutes": 30
+    },
+    {
+     "name": "Dish Select Box*1",
+     "minutes": 60
+    },
+    {
+     "name": "Rose Orb (Bound) *200",
+     "minutes": 180
+    },
+    {
+     "name": "S1-S3 Advanced Materials - Select*5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   }
  ],
  "archive": [
+  {
+   "id": "94084529-b24c-4d1a-9863-e815865f16f5",
+   "game": "Blue Protocol: Star Resonance",
+   "title": "Season 3 Special Drops",
+   "startAt": "2026-08-19T12:30:00+00:00",
+   "endAt": "2026-09-15T12:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "30077a3e-383f-4be5-94a1-027e232dd060",
    "game": "Black Desert",
@@ -5819,13 +5827,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.93
+   "score": 27.91
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5837,25 +5845,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.74
+   "score": 27.72
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5867,19 +5875,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.49
+   "score": 9.48
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   }
  },
  "favoriteWeights": {
