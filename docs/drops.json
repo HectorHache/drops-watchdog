@@ -2860,6 +2860,38 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2b73ed68-a3dd-4bcc-88ac-16e77be72a65.png"
+  },
+  {
+   "id": "08012a89-858e-47ca-8dad-5aa11587a233",
+   "game": "Skull and Bones",
+   "title": "Skull and Bones - Y3S2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-15T07:00:00+00:00",
+   "endAt": "2026-10-12T21:29:59.999+00:00",
+   "firstSeenAt": "2026-09-15T07:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7888b1b6-cd33-4168-a9d7-b754dc1e3000.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=08012a89-858e-47ca-8dad-5aa11587a233",
+   "rewards": [
+    {
+     "name": "TideSplitter",
+     "minutes": 30
+    },
+    {
+     "name": "Brinehardened Hide",
+     "minutes": 60
+    },
+    {
+     "name": "Windhook",
+     "minutes": 120
+    },
+    {
+     "name": "Freedom's Call",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/08012a89-858e-47ca-8dad-5aa11587a233.jpg"
   }
  ],
  "archive": [
@@ -5787,13 +5819,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.91
+   "score": 19.9
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 28.08
+   "score": 28.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -5805,25 +5837,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.88
+   "score": 27.87
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.91
+   "score": 19.9
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.91
+   "score": 19.9
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.91
+   "score": 19.9
   },
   "THE FINALS": {
    "favorites": 0,
@@ -5847,7 +5879,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.91
+   "score": 19.9
   }
  },
  "favoriteWeights": {
