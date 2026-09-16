@@ -302,34 +302,6 @@
    "asset": "assets/90589949-1d2e-4161-8def-3aee51e1f721.png"
   },
   {
-   "id": "9ff2d241-3b92-4f86-b625-1362dbbdbafc",
-   "game": "Palia",
-   "title": "Petals & Portraits",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T18:00:00+00:00",
-   "endAt": "2026-09-16T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5ae7368f-1359-42c4-aab9-f3b88002e1db.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9ff2d241-3b92-4f86-b625-1362dbbdbafc",
-   "rewards": [
-    {
-     "name": "Tier One",
-     "minutes": 60
-    },
-    {
-     "name": "Tier Two",
-     "minutes": 180
-    },
-    {
-     "name": "Tier Three",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/9ff2d241-3b92-4f86-b625-1362dbbdbafc.png"
-  },
-  {
    "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
    "game": "Lords Mobile",
    "title": "Twitch Drops",
@@ -2610,46 +2582,6 @@
    "asset": "assets/75359535-d3c0-4c73-8c3d-38ce6ea623b8.png"
   },
   {
-   "id": "1ad6d2c5-eecb-412d-9fc5-0432cebcb468",
-   "game": "Rise Online",
-   "title": "Mobile Drop 159",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T17:59:00+00:00",
-   "endAt": "2026-09-16T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-15T18:00:21+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/047e0f09-2fa3-4472-bab5-33edad7e329f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1ad6d2c5-eecb-412d-9fc5-0432cebcb468",
-   "rewards": [
-    {
-     "name": "Mobile Drop 159",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1ad6d2c5-eecb-412d-9fc5-0432cebcb468.png"
-  },
-  {
-   "id": "abd18425-6585-4685-8852-dd40750a5ac6",
-   "game": "Rise Online",
-   "title": "ROW Drop 588",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T17:59:00+00:00",
-   "endAt": "2026-09-16T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-15T18:00:21+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ab5e6eae-ac06-4dcc-bf35-2d433da60dc7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=abd18425-6585-4685-8852-dd40750a5ac6",
-   "rewards": [
-    {
-     "name": "ROW Drop 588",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/abd18425-6585-4685-8852-dd40750a5ac6.png"
-  },
-  {
    "id": "bee9dbba-cc7e-42d8-9bfa-ef40a5073342",
    "game": "Diablo IV",
    "title": "S15 Launch Drops",
@@ -3192,9 +3124,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/159b84ea-ca65-4a41-86ad-0a0467bdee07.jpg"
+  },
+  {
+   "id": "41fa5b14-4625-4ff0-a2de-5d44fc245852",
+   "game": "Rise Online",
+   "title": "Mobile Drop 160",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T17:59:00+00:00",
+   "endAt": "2026-09-17T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-16T18:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0219d20-9643-4381-9ede-711f87368a12.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=41fa5b14-4625-4ff0-a2de-5d44fc245852",
+   "rewards": [
+    {
+     "name": "Mobile Drop 160",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/41fa5b14-4625-4ff0-a2de-5d44fc245852.png"
+  },
+  {
+   "id": "8d23b577-cba1-4cbe-940f-ed4699b99f68",
+   "game": "Rise Online",
+   "title": "ROW Drop 589",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T17:59:00+00:00",
+   "endAt": "2026-09-17T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-16T18:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a454045a-6c5c-4cb0-8b15-ac28cb7cfa83.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8d23b577-cba1-4cbe-940f-ed4699b99f68",
+   "rewards": [
+    {
+     "name": "ROW Drop 589",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8d23b577-cba1-4cbe-940f-ed4699b99f68.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "9ff2d241-3b92-4f86-b625-1362dbbdbafc",
+   "game": "Palia",
+   "title": "Petals & Portraits",
+   "startAt": "2026-08-26T18:00:00+00:00",
+   "endAt": "2026-09-16T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1ad6d2c5-eecb-412d-9fc5-0432cebcb468",
+   "game": "Rise Online",
+   "title": "Mobile Drop 159",
+   "startAt": "2026-09-15T17:59:00+00:00",
+   "endAt": "2026-09-16T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "abd18425-6585-4685-8852-dd40750a5ac6",
+   "game": "Rise Online",
+   "title": "ROW Drop 588",
+   "startAt": "2026-09-15T17:59:00+00:00",
+   "endAt": "2026-09-16T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
    "game": "World of Tanks: HEAT",
@@ -6391,43 +6387,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.15
+   "score": 27.13
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.26
+   "score": 4.25
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.96
+   "score": 26.95
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6445,13 +6441,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.03
+   "score": 10.02
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   }
  },
  "favoriteWeights": {
