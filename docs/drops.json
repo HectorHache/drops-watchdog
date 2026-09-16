@@ -2054,6 +2054,46 @@
    "asset": "assets/bf18783a-5843-44c1-88c6-19799f4b3f76.png"
   },
   {
+   "id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
+   "game": "Where Winds Meet",
+   "title": "Where Winds Meet October",
+   "status": "ACTIVE",
+   "startAt": "2026-09-14T02:00:00+00:00",
+   "endAt": "2026-10-12T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T03:30:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd5950ba-0f0f-4b64-9e4a-445e4fe5fd95.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
+   "rewards": [
+    {
+     "name": "15min drop October",
+     "minutes": 15
+    },
+    {
+     "name": "30min drop October",
+     "minutes": 30
+    },
+    {
+     "name": "60min drop October",
+     "minutes": 60
+    },
+    {
+     "name": "120min drop October",
+     "minutes": 120
+    },
+    {
+     "name": "180min drop October",
+     "minutes": 180
+    },
+    {
+     "name": "240min drop October",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/2d14347e-18fe-4c94-a5c8-4b24ac5f747c.png"
+  },
+  {
    "id": "494effdd-3f7c-4279-88e8-2f83378b04c6",
    "game": "NARAKA: BLADEPOINT",
    "title": "JS1 Weekly 9.14",
@@ -2072,34 +2112,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/494effdd-3f7c-4279-88e8-2f83378b04c6.png"
-  },
-  {
-   "id": "e581b44a-5b0a-4956-b456-70c441df9476",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T05:00:00+00:00",
-   "endAt": "2026-09-16T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-14T09:00:56+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c32ea8e-0d61-477e-972a-fedfe9e0988d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e581b44a-5b0a-4956-b456-70c441df9476",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e581b44a-5b0a-4956-b456-70c441df9476.png"
   },
   {
    "id": "63ee2ef9-83b0-4c4a-ab00-750121b5a062",
@@ -2324,26 +2336,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0a717971-f9d4-47e1-bf0a-fb9301b45a6e.png"
-  },
-  {
-   "id": "2b73ed68-a3dd-4bcc-88ac-16e77be72a65",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T00:00:00+00:00",
-   "endAt": "2026-09-15T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T00:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f443ebd4-0ae9-4c9e-bec1-2262a49068ea.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b73ed68-a3dd-4bcc-88ac-16e77be72a65",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2b73ed68-a3dd-4bcc-88ac-16e77be72a65.png"
   },
   {
    "id": "08012a89-858e-47ca-8dad-5aa11587a233",
@@ -2678,26 +2670,6 @@
    "asset": "assets/3f7e1ccb-d3dc-4c1a-bb00-0efae6446191.png"
   },
   {
-   "id": "04c75095-d98d-41a3-8f05-f8faf60355f4",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 1 Day 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T16:00:00+00:00",
-   "endAt": "2026-09-15T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d06b69bb-17a0-4da1-b46c-8f59b23c36b1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=04c75095-d98d-41a3-8f05-f8faf60355f4",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/04c75095-d98d-41a3-8f05-f8faf60355f4.png"
-  },
-  {
    "id": "e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
    "game": "Rocket League",
    "title": "RL World Championship",
@@ -2838,62 +2810,6 @@
    "asset": "assets/bee9dbba-cc7e-42d8-9bfa-ef40a5073342.png"
   },
   {
-   "id": "989e48b1-d222-4c26-8e4e-1dc7e62c022c",
-   "game": "Madden NFL 27",
-   "title": "MCS Pro League",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T22:00:00+00:00",
-   "endAt": "2026-09-16T02:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T22:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4acffe44-bcc7-421b-b005-9467ba4d4614.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989e48b1-d222-4c26-8e4e-1dc7e62c022c",
-   "rewards": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "86 OVR Kendal Daniels",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/989e48b1-d222-4c26-8e4e-1dc7e62c022c.png"
-  },
-  {
-   "id": "ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a",
-   "game": "Halo: The Master Chief Collection",
-   "title": "MCC Warthog Racing-SEP15",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T22:00:00+00:00",
-   "endAt": "2026-09-16T02:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T22:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/33f307b9-031c-48e5-9892-4804ebe0cb2e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a",
-   "rewards": [
-    {
-     "name": "Beach Life Nameplate",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a.png"
-  },
-  {
    "id": "f7e9139b-bab1-47b4-af78-901b511b5440",
    "game": "DOFUS Touch",
    "title": "J2 - Temporix Cps",
@@ -2928,9 +2844,141 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f7e9139b-bab1-47b4-af78-901b511b5440.png"
+  },
+  {
+   "id": "6cf1c243-db28-4615-9fe9-0e0c29948200",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T00:00:00+00:00",
+   "endAt": "2026-09-16T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T00:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d5cc08a-8199-48cd-b235-af81ab2d9005.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6cf1c243-db28-4615-9fe9-0e0c29948200",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6cf1c243-db28-4615-9fe9-0e0c29948200.png"
+  },
+  {
+   "id": "75c84956-e49d-417f-a8c4-aae97d724d7a",
+   "game": "Aniimo",
+   "title": "Aniimo Global Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T02:00:00+00:00",
+   "endAt": "2026-10-14T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T03:00:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a89986f6-b6e2-4a06-bafb-439e0a9f7bf8.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75c84956-e49d-417f-a8c4-aae97d724d7a",
+   "rewards": [
+    {
+     "name": "Aniipod Pro*20",
+     "minutes": 30
+    },
+    {
+     "name": "Credits*50000",
+     "minutes": 15
+    },
+    {
+     "name": "Glimmer*50",
+     "minutes": 60
+    },
+    {
+     "name": "Tumbler*1",
+     "minutes": 90
+    },
+    {
+     "name": "Incredible Egg*1",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/75c84956-e49d-417f-a8c4-aae97d724d7a.jpg"
+  },
+  {
+   "id": "bd2a02a0-654b-40a2-82ea-d0631d17e0ea",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T05:00:00+00:00",
+   "endAt": "2026-09-19T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-16T05:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb977a96-8571-4bb8-af24-262106c52ebf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd2a02a0-654b-40a2-82ea-d0631d17e0ea",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bd2a02a0-654b-40a2-82ea-d0631d17e0ea.png"
   }
  ],
  "archive": [
+  {
+   "id": "e581b44a-5b0a-4956-b456-70c441df9476",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 5",
+   "startAt": "2026-09-14T05:00:00+00:00",
+   "endAt": "2026-09-16T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a23a5f9a-6d93-4405-9896-544d85092550",
+   "game": "Skull and Bones",
+   "title": "Y3S2 SEASON RECAP STREAM",
+   "startAt": "2026-09-16T01:40:00+00:00",
+   "endAt": "2026-09-16T03:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "989e48b1-d222-4c26-8e4e-1dc7e62c022c",
+   "game": "Madden NFL 27",
+   "title": "MCS Pro League",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a",
+   "game": "Halo: The Master Chief Collection",
+   "title": "MCC Warthog Racing-SEP15",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2b73ed68-a3dd-4bcc-88ac-16e77be72a65",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-15T00:00:00+00:00",
+   "endAt": "2026-09-15T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "04c75095-d98d-41a3-8f05-f8faf60355f4",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 4",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-15T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "387ea0f0-178b-4959-83bd-c8ef73ef6f73",
    "game": "Rise of Agon",
@@ -6031,67 +6079,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.61
+   "score": 19.49
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.65
+   "score": 27.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.34
+   "score": 4.31
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.46
+   "score": 27.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.61
+   "score": 19.49
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.61
+   "score": 19.49
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.61
+   "score": 19.49
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.17
+   "score": 2.15
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.39
+   "score": 9.34
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.21
+   "score": 10.15
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.61
+   "score": 19.49
   }
  },
  "favoriteWeights": {
