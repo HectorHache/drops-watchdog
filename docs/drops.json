@@ -3144,6 +3144,54 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6c863712-727a-4136-882e-50d3c5d7bb8b.png"
+  },
+  {
+   "id": "325f7dd7-6721-472d-aa42-25c85a588b47",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T16:00:00+00:00",
+   "endAt": "2026-09-23T15:58:59.999+00:00",
+   "firstSeenAt": "2026-09-16T17:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1aa4f21d-e074-45a3-9438-c845d345a200.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=325f7dd7-6721-472d-aa42-25c85a588b47",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/325f7dd7-6721-472d-aa42-25c85a588b47.png"
+  },
+  {
+   "id": "159b84ea-ca65-4a41-86ad-0a0467bdee07",
+   "game": "Tanki Online",
+   "title": "WMR2 2026 R7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T17:00:00+00:00",
+   "endAt": "2026-09-16T19:29:59.999+00:00",
+   "firstSeenAt": "2026-09-16T17:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6ef32180-3f60-4d0d-b7c9-a70c3a443335.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=159b84ea-ca65-4a41-86ad-0a0467bdee07",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/159b84ea-ca65-4a41-86ad-0a0467bdee07.jpg"
   }
  ],
  "archive": [
@@ -6343,13 +6391,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.27
+   "score": 19.26
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.17
+   "score": 27.16
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6361,25 +6409,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.99
+   "score": 26.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.27
+   "score": 19.26
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.27
+   "score": 19.26
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.27
+   "score": 19.26
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6397,13 +6445,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.04
+   "score": 10.03
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.27
+   "score": 19.26
   }
  },
  "favoriteWeights": {
