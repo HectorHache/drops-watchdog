@@ -3064,6 +3064,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/60d49775-74c0-4821-91d0-5fd5e7ac0506.png"
+  },
+  {
+   "id": "b2acb229-1901-49a2-ae09-f080efb3f6b0",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T10:00:00+00:00",
+   "endAt": "2026-09-17T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-16T10:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc4122fa-733e-4fd1-915f-f6513fce49a9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2acb229-1901-49a2-ae09-f080efb3f6b0",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b2acb229-1901-49a2-ae09-f080efb3f6b0.png"
+  },
+  {
+   "id": "b4dc71fd-0885-493f-bac2-a3e0e0215ecb",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T10:00:00+00:00",
+   "endAt": "2026-09-17T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-16T10:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8b0c981-fbf6-4356-8492-575163cf8b23.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4dc71fd-0885-493f-bac2-a3e0e0215ecb",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b4dc71fd-0885-493f-bac2-a3e0e0215ecb.png"
   }
  ],
  "archive": [
@@ -6231,13 +6271,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.36
+   "score": 27.34
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6249,25 +6289,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.17
+   "score": 27.16
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6285,13 +6325,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   }
  },
  "favoriteWeights": {
