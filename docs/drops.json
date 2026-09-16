@@ -2478,42 +2478,6 @@
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   },
   {
-   "id": "bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/15/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T13:00:00+00:00",
-   "endAt": "2026-09-16T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T13:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1718986c-82c6-4147-941c-b8b1c4d06183.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bd16e8d5-432a-4ea3-a16b-4ba8f2080562.png"
-  },
-  {
    "id": "4ff8faba-f1e4-44a0-abc8-6e6d99b4d56e",
    "game": "RavenQuest",
    "title": "September 03",
@@ -3104,9 +3068,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/b1191b62-2528-48ae-b92c-e4db918254e5.png"
+  },
+  {
+   "id": "19081222-1eea-4d6a-8d6f-c9bedd5dac68",
+   "game": "Coryphaeus Championships",
+   "title": "Fall Drops September",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T12:30:10+00:00",
+   "endAt": "2026-09-25T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-16T13:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b62cc7ba-2aa6-4db9-9caf-6fe99139bd72.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19081222-1eea-4d6a-8d6f-c9bedd5dac68",
+   "rewards": [
+    {
+     "name": "500 C-Coins",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
+  },
+  {
+   "id": "2193e380-59cf-4c9f-9ff3-560d07d80733",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/16/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T13:00:00+00:00",
+   "endAt": "2026-09-17T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T13:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d3bdee3-0d35-4afd-bede-9d01d5197508.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2193e380-59cf-4c9f-9ff3-560d07d80733",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2193e380-59cf-4c9f-9ff3-560d07d80733.png"
   }
  ],
  "archive": [
+  {
+   "id": "bd16e8d5-432a-4ea3-a16b-4ba8f2080562",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/15/26",
+   "startAt": "2026-09-15T13:00:00+00:00",
+   "endAt": "2026-09-16T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84766457-78a9-473e-9756-b411597adc19",
    "game": "Black Desert",
@@ -6279,13 +6307,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.28
+   "score": 27.26
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6297,25 +6325,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.09
+   "score": 27.08
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6327,19 +6355,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.08
+   "score": 10.07
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   }
  },
  "favoriteWeights": {
