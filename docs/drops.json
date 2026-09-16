@@ -1358,26 +1358,6 @@
    "asset": "assets/59863b78-3fa5-4609-9584-08e43420aba0.png"
   },
   {
-   "id": "1a70d4b3-0ae2-4191-98cd-c21ae1946cc8",
-   "game": "World of Warships",
-   "title": "15.8 Mystery Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T22:00:00+00:00",
-   "endAt": "2026-09-16T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T22:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ea62aa9-22c6-4d0e-992d-8fafce0f4c61.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1a70d4b3-0ae2-4191-98cd-c21ae1946cc8",
-   "rewards": [
-    {
-     "name": "15.8 Mystery Drop",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1a70d4b3-0ae2-4191-98cd-c21ae1946cc8.png"
-  },
-  {
    "id": "a4d527a7-2764-4cbe-a483-520408251683",
    "game": "Modern Warships",
    "title": "MW: Neural Supremacy",
@@ -2602,42 +2582,6 @@
    "asset": "assets/bee9dbba-cc7e-42d8-9bfa-ef40a5073342.png"
   },
   {
-   "id": "f7e9139b-bab1-47b4-af78-901b511b5440",
-   "game": "DOFUS Touch",
-   "title": "J2 - Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T22:00:00+00:00",
-   "endAt": "2026-09-16T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T22:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e64f4b4a-16de-4f58-8564-56fdef535b98.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f7e9139b-bab1-47b4-af78-901b511b5440",
-   "rewards": [
-    {
-     "name": "TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f7e9139b-bab1-47b4-af78-901b511b5440.png"
-  },
-  {
    "id": "6cf1c243-db28-4615-9fe9-0e0c29948200",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3140,9 +3084,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8d23b577-cba1-4cbe-940f-ed4699b99f68.jpg"
+  },
+  {
+   "id": "8d4f4824-8821-4309-aa54-04e0c043c691",
+   "game": "DOFUS Touch",
+   "title": "J3 - Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T22:00:00+00:00",
+   "endAt": "2026-09-17T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T22:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e0a76903-1aa2-4dad-aa50-c593e89d0a4d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8d4f4824-8821-4309-aa54-04e0c043c691",
+   "rewards": [
+    {
+     "name": "TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 150
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8d4f4824-8821-4309-aa54-04e0c043c691.png"
+  },
+  {
+   "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T22:00:00+00:00",
+   "endAt": "2026-09-23T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T22:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/360105e7-13c6-4adc-9d60-89f4febf5b7f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
+   "rewards": [
+    {
+     "name": "Week 2: 250 Community Tokens",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6bbab6fc-5e17-490d-8e2f-0d4260c00e4e.png"
   }
  ],
  "archive": [
+  {
+   "id": "1a70d4b3-0ae2-4191-98cd-c21ae1946cc8",
+   "game": "World of Warships",
+   "title": "15.8 Mystery Drop",
+   "startAt": "2026-09-09T22:00:00+00:00",
+   "endAt": "2026-09-16T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f7e9139b-bab1-47b4-af78-901b511b5440",
+   "game": "DOFUS Touch",
+   "title": "J2 - Temporix Cps",
+   "startAt": "2026-09-15T22:00:00+00:00",
+   "endAt": "2026-09-16T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "159b84ea-ca65-4a41-86ad-0a0467bdee07",
    "game": "Tanki Online",
@@ -6371,13 +6387,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.18
+   "score": 19.17
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.04
+   "score": 27.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6389,25 +6405,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.86
+   "score": 26.84
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.18
+   "score": 19.17
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.18
+   "score": 19.17
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.18
+   "score": 19.17
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6419,7 +6435,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.19
+   "score": 9.18
   },
   "Warframe": {
    "favorites": 1,
@@ -6431,7 +6447,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.18
+   "score": 19.17
   }
  },
  "favoriteWeights": {

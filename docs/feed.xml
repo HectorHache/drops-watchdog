@@ -313,13 +313,6 @@
     <pubDate>2026-09-09T21:07:29+00:00</pubDate>
   </item>
   <item>
-    <title>World of Warships — 15.8 Mystery Drop</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=1a70d4b3-0ae2-4191-98cd-c21ae1946cc8</link>
-    <guid isPermaLink="false">1a70d4b3-0ae2-4191-98cd-c21ae1946cc8</guid>
-    <description>15.8 Mystery Drop — runs 2026-09-09T22:00:00+00:00 → 2026-09-16T21:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-09T22:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Modern Warships — MW: Neural Supremacy</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=a4d527a7-2764-4cbe-a483-520408251683</link>
     <guid isPermaLink="false">a4d527a7-2764-4cbe-a483-520408251683</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">a4dedaec-6fb9-4a73-8e10-506206a016e4</guid>
     <description>1 · 2 · 3 · 4 · 5 — runs 2026-09-10T08:00:00+00:00 → 2026-09-16T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-10T08:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>THE FINALS — RED BROADCAST BLAZE</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=c8b36b61-cd45-447f-9be3-09e02ff85007</link>
+    <guid isPermaLink="false">c8b36b61-cd45-447f-9be3-09e02ff85007</guid>
+    <description>Broadcast Blaze Hover Pad · Broadcast Blaze Barricade · Broadcast Blaze Tracking Dart — runs 2026-09-10T10:30:00+00:00 → 2026-09-24T08:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-10T10:30:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
