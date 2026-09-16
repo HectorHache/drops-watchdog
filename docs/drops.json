@@ -1366,30 +1366,6 @@
    "asset": "assets/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png"
   },
   {
-   "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T16:00:00+00:00",
-   "endAt": "2026-09-16T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-09T16:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4b29df2-04cb-4a9f-b184-6bc326097ec0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7.png"
-  },
-  {
    "id": "59863b78-3fa5-4609-9584-08e43420aba0",
    "game": "Kirka.io",
    "title": "Madness",
@@ -3171,6 +3147,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 2",
+   "startAt": "2026-09-09T16:00:00+00:00",
+   "endAt": "2026-09-16T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f91ea6b5-a67e-430f-ae7e-d2666c9537f9",
    "game": "World of Tanks",
@@ -6359,43 +6343,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.2
+   "score": 27.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.27
+   "score": 4.26
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.01
+   "score": 27.0
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6413,13 +6397,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   }
  },
  "favoriteWeights": {
@@ -6427,7 +6411,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 37,
-  "LEGO Batman: Legacy of the Dark Knight": 37,
+  "LEGO Batman: Legacy of the Dark Knight": 36,
   "Marvel Rivals": 10,
   "Once Human": 29,
   "Palia": 29,
