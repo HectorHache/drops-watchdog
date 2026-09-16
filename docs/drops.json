@@ -2422,26 +2422,6 @@
    "asset": "assets/ac324042-c913-470a-8b19-6018446878ca.png"
   },
   {
-   "id": "84766457-78a9-473e-9756-b411597adc19",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 15)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T12:00:00+00:00",
-   "endAt": "2026-09-16T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T12:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a609a2d7-6683-4c97-99db-05ca5715e0f7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84766457-78a9-473e-9756-b411597adc19",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 15)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/84766457-78a9-473e-9756-b411597adc19.png"
-  },
-  {
    "id": "b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
    "game": "RuneScape: Dragonwilds",
    "title": "RuneScape: Dragonwilds",
@@ -3104,9 +3084,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b4dc71fd-0885-493f-bac2-a3e0e0215ecb.png"
+  },
+  {
+   "id": "b1191b62-2528-48ae-b92c-e4db918254e5",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 16)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-16T12:00:00+00:00",
+   "endAt": "2026-09-17T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-16T12:00:19+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/93018ced-d51d-4ebb-92e1-8376aeab8a13.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1191b62-2528-48ae-b92c-e4db918254e5",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 16)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b1191b62-2528-48ae-b92c-e4db918254e5.png"
   }
  ],
  "archive": [
+  {
+   "id": "84766457-78a9-473e-9756-b411597adc19",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 15)",
+   "startAt": "2026-09-15T12:00:00+00:00",
+   "endAt": "2026-09-16T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
    "game": "Albion Online",
@@ -6271,13 +6279,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.3
+   "score": 27.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6289,25 +6297,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.12
+   "score": 27.1
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6319,19 +6327,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.28
+   "score": 9.27
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 10.09
+   "score": 10.08
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   }
  },
  "favoriteWeights": {
