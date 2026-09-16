@@ -2422,46 +2422,6 @@
    "asset": "assets/ac324042-c913-470a-8b19-6018446878ca.png"
   },
   {
-   "id": "3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 3 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T10:00:00+00:00",
-   "endAt": "2026-09-16T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-15T10:00:50+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c5fcf8d1-82d5-4d45-a35f-1010fc3f1a54.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3cf440b9-0a2c-467d-8b4e-598ef8d1fc24.png"
-  },
-  {
-   "id": "f8d47bc7-98c5-4300-b59d-05d2b8109a61",
-   "game": "Albion Online",
-   "title": "Dragonfire 3 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T10:00:00+00:00",
-   "endAt": "2026-09-16T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-15T10:00:50+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/578781d2-00a6-4fef-bdcd-ca158ca1bdee.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8d47bc7-98c5-4300-b59d-05d2b8109a61",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f8d47bc7-98c5-4300-b59d-05d2b8109a61.png"
-  },
-  {
    "id": "84766457-78a9-473e-9756-b411597adc19",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 15)",
@@ -3107,6 +3067,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "3cf440b9-0a2c-467d-8b4e-598ef8d1fc24",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #2/7",
+   "startAt": "2026-09-15T10:00:00+00:00",
+   "endAt": "2026-09-16T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f8d47bc7-98c5-4300-b59d-05d2b8109a61",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #2/7",
+   "startAt": "2026-09-15T10:00:00+00:00",
+   "endAt": "2026-09-16T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e581b44a-5b0a-4956-b456-70c441df9476",
    "game": "Rainbow Six Siege",
@@ -6255,13 +6231,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.41
+   "score": 19.4
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 27.37
+   "score": 27.36
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6273,37 +6249,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 27.18
+   "score": 27.17
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.41
+   "score": 19.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.41
+   "score": 19.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.41
+   "score": 19.4
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.15
+   "score": 2.14
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   },
   "Warframe": {
    "favorites": 1,
@@ -6315,7 +6291,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 19.41
+   "score": 19.4
   }
  },
  "favoriteWeights": {
