@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "caafff3e-0899-45cb-8937-d64a70f811a6",
-   "game": "Honkai Impact 3rd",
-   "title": "V9.0 Special Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-20T10:00:00+00:00",
-   "endAt": "2026-09-17T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fbfb9d5a-30c3-47fa-9216-d1de30c5f638.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=caafff3e-0899-45cb-8937-d64a70f811a6",
-   "rewards": [
-    {
-     "name": "1. Stamina Potion*1",
-     "minutes": 15
-    },
-    {
-     "name": "2. Phase Shifter*1",
-     "minutes": 30
-    },
-    {
-     "name": "3. Asterite*1500",
-     "minutes": 60
-    },
-    {
-     "name": "4. Crystal*120",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/caafff3e-0899-45cb-8937-d64a70f811a6.png"
-  },
-  {
    "id": "55e4bee5-9ac5-4af9-97fa-4906e6468120",
    "game": "NBA 2K27",
    "title": "NBA 2K27 Season 1",
@@ -3004,9 +2972,57 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/136d3021-892d-4768-a5e0-dae14fff0b15.png"
+  },
+  {
+   "id": "ff87f18d-6291-4106-be23-b63cf472fb24",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T10:00:00+00:00",
+   "endAt": "2026-09-18T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-17T10:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8654a62-f577-41ae-a729-5558ea199994.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff87f18d-6291-4106-be23-b63cf472fb24",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ff87f18d-6291-4106-be23-b63cf472fb24.png"
+  },
+  {
+   "id": "c6d2df81-0803-4d7e-b58f-603d1598cc53",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T10:00:00+00:00",
+   "endAt": "2026-09-18T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-17T10:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d58a6fe-f45c-4ecc-b44e-c1b72fa2e41e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6d2df81-0803-4d7e-b58f-603d1598cc53",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c6d2df81-0803-4d7e-b58f-603d1598cc53.png"
   }
  ],
  "archive": [
+  {
+   "id": "caafff3e-0899-45cb-8937-d64a70f811a6",
+   "game": "Honkai Impact 3rd",
+   "title": "V9.0 Special Drops",
+   "startAt": "2026-08-20T10:00:00+00:00",
+   "endAt": "2026-09-17T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b2acb229-1901-49a2-ae09-f080efb3f6b0",
    "game": "Albion Online",
@@ -6339,13 +6355,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.96
+   "score": 18.95
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.73
+   "score": 26.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6357,31 +6373,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.55
+   "score": 26.54
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.96
+   "score": 18.95
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.96
+   "score": 18.95
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.96
+   "score": 18.95
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.1
+   "score": 2.09
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -6393,13 +6409,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.88
+   "score": 9.87
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.96
+   "score": 18.95
   }
  },
  "favoriteWeights": {
