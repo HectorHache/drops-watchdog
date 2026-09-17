@@ -2642,46 +2642,6 @@
    "asset": "assets/325f7dd7-6721-472d-aa42-25c85a588b47.png"
   },
   {
-   "id": "41fa5b14-4625-4ff0-a2de-5d44fc245852",
-   "game": "Rise Online",
-   "title": "Mobile Drop 160",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T17:59:00+00:00",
-   "endAt": "2026-09-17T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-16T18:00:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0219d20-9643-4381-9ede-711f87368a12.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=41fa5b14-4625-4ff0-a2de-5d44fc245852",
-   "rewards": [
-    {
-     "name": "Mobile Drop 160",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/41fa5b14-4625-4ff0-a2de-5d44fc245852.png"
-  },
-  {
-   "id": "8d23b577-cba1-4cbe-940f-ed4699b99f68",
-   "game": "Rise Online",
-   "title": "ROW Drop 589",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T17:59:00+00:00",
-   "endAt": "2026-09-17T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-16T18:00:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a454045a-6c5c-4cb0-8b15-ac28cb7cfa83.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8d23b577-cba1-4cbe-940f-ed4699b99f68",
-   "rewards": [
-    {
-     "name": "ROW Drop 589",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8d23b577-cba1-4cbe-940f-ed4699b99f68.jpg"
-  },
-  {
    "id": "8d4f4824-8821-4309-aa54-04e0c043c691",
    "game": "DOFUS Touch",
    "title": "J3 - Temporix Cps",
@@ -3096,9 +3056,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/52c9d724-90b3-4a40-a304-ed302fb8c0b2.png"
+  },
+  {
+   "id": "3a35c18d-bd00-47b6-9c53-500ab4554623",
+   "game": "Rise Online",
+   "title": "ROW Drop 590",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T17:59:00+00:00",
+   "endAt": "2026-09-18T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-17T18:00:46+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a3b07a4-ba1e-48a3-8be0-534e273daa2b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a35c18d-bd00-47b6-9c53-500ab4554623",
+   "rewards": [
+    {
+     "name": "ROW Drop 590",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3a35c18d-bd00-47b6-9c53-500ab4554623.png"
+  },
+  {
+   "id": "bf5d4022-9640-45db-b293-a82bcc5463a6",
+   "game": "Rise Online",
+   "title": "Mobile Drop 161",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T17:59:00+00:00",
+   "endAt": "2026-09-18T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-17T18:00:46+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47e20cd5-7c73-4703-b647-2e8204479f96.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf5d4022-9640-45db-b293-a82bcc5463a6",
+   "rewards": [
+    {
+     "name": "Mobile Drop 161",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bf5d4022-9640-45db-b293-a82bcc5463a6.png"
+  },
+  {
+   "id": "f6e4c513-5c61-4d58-aac6-1c009c25add7",
+   "game": "Minecraft",
+   "title": "Blue Creeper Boss Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T18:00:00+00:00",
+   "endAt": "2026-09-22T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-17T18:00:46+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27fd913e-c6a3-430e-9caf-860d2f8086e6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f6e4c513-5c61-4d58-aac6-1c009c25add7",
+   "rewards": [
+    {
+     "name": "Blue Creeper Boss Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/f6e4c513-5c61-4d58-aac6-1c009c25add7.png"
   }
  ],
  "archive": [
+  {
+   "id": "41fa5b14-4625-4ff0-a2de-5d44fc245852",
+   "game": "Rise Online",
+   "title": "Mobile Drop 160",
+   "startAt": "2026-09-16T17:59:00+00:00",
+   "endAt": "2026-09-17T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8d23b577-cba1-4cbe-940f-ed4699b99f68",
+   "game": "Rise Online",
+   "title": "ROW Drop 589",
+   "startAt": "2026-09-16T17:59:00+00:00",
+   "endAt": "2026-09-17T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4cd71095-b26a-4635-a887-96f2cb465387",
    "game": "Madden NFL 27",
@@ -6471,13 +6507,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.53
+   "score": 26.51
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6489,25 +6525,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.35
+   "score": 26.33
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6531,7 +6567,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   }
  },
  "favoriteWeights": {
