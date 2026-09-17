@@ -2578,26 +2578,6 @@
    "asset": "assets/60d49775-74c0-4821-91d0-5fd5e7ac0506.png"
   },
   {
-   "id": "b1191b62-2528-48ae-b92c-e4db918254e5",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 16)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T12:00:00+00:00",
-   "endAt": "2026-09-17T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T12:00:19+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/93018ced-d51d-4ebb-92e1-8376aeab8a13.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1191b62-2528-48ae-b92c-e4db918254e5",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 16)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b1191b62-2528-48ae-b92c-e4db918254e5.png"
-  },
-  {
    "id": "19081222-1eea-4d6a-8d6f-c9bedd5dac68",
    "game": "Coryphaeus Championships",
    "title": "Fall Drops September",
@@ -3012,9 +2992,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c6d2df81-0803-4d7e-b58f-603d1598cc53.png"
+  },
+  {
+   "id": "d7ea57c4-b9af-4c28-b7a7-74f8153dab34",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 17)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T12:00:00+00:00",
+   "endAt": "2026-09-18T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T12:00:52+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86ddbab1-dcf3-40c0-b96b-decedfb0ee49.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7ea57c4-b9af-4c28-b7a7-74f8153dab34",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 17)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d7ea57c4-b9af-4c28-b7a7-74f8153dab34.png"
   }
  ],
  "archive": [
+  {
+   "id": "b1191b62-2528-48ae-b92c-e4db918254e5",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 16)",
+   "startAt": "2026-09-16T12:00:00+00:00",
+   "endAt": "2026-09-17T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "caafff3e-0899-45cb-8937-d64a70f811a6",
    "game": "Honkai Impact 3rd",
@@ -6355,13 +6363,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.92
+   "score": 18.91
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.68
+   "score": 26.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6373,25 +6381,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.5
+   "score": 26.48
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.92
+   "score": 18.91
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.92
+   "score": 18.91
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.92
+   "score": 18.91
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6409,13 +6417,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.86
+   "score": 9.85
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.92
+   "score": 18.91
   }
  },
  "favoriteWeights": {
