@@ -3056,6 +3056,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a75637d9-b720-4f97-8156-a8444a760505.png"
+  },
+  {
+   "id": "52c9d724-90b3-4a40-a304-ed302fb8c0b2",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T17:00:00+00:00",
+   "endAt": "2026-09-18T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T17:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/739a73d9-64ac-452d-ab26-49caeb391494.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52c9d724-90b3-4a40-a304-ed302fb8c0b2",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/52c9d724-90b3-4a40-a304-ed302fb8c0b2.png"
   }
  ],
  "archive": [
@@ -6431,13 +6471,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.55
+   "score": 26.54
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6449,25 +6489,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.37
+   "score": 26.36
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6485,13 +6525,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.81
+   "score": 9.8
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   }
  },
  "favoriteWeights": {
