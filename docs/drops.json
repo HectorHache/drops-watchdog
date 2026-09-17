@@ -3012,6 +3012,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6ee7fb10-78a6-45b5-9ba1-aa20dac942f3.png"
+  },
+  {
+   "id": "4cd71095-b26a-4635-a887-96f2cb465387",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T14:00:00+00:00",
+   "endAt": "2026-09-17T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-17T14:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/967747b3-cb63-41cd-8d8f-b4a453ac5fe7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4cd71095-b26a-4635-a887-96f2cb465387",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4cd71095-b26a-4635-a887-96f2cb465387.png"
   }
  ],
  "archive": [
@@ -6371,43 +6395,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.89
+   "score": 18.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.63
+   "score": 26.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.18
+   "score": 4.17
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.45
+   "score": 26.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.89
+   "score": 18.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.89
+   "score": 18.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.89
+   "score": 18.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6419,19 +6443,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.05
+   "score": 9.04
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.89
+   "score": 18.88
   }
  },
  "favoriteWeights": {
