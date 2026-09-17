@@ -2598,42 +2598,6 @@
    "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
   },
   {
-   "id": "2193e380-59cf-4c9f-9ff3-560d07d80733",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/16/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T13:00:00+00:00",
-   "endAt": "2026-09-17T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T13:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d3bdee3-0d35-4afd-bede-9d01d5197508.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2193e380-59cf-4c9f-9ff3-560d07d80733",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2193e380-59cf-4c9f-9ff3-560d07d80733.png"
-  },
-  {
    "id": "6c863712-727a-4136-882e-50d3c5d7bb8b",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -3012,9 +2976,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/d7ea57c4-b9af-4c28-b7a7-74f8153dab34.png"
+  },
+  {
+   "id": "6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/17/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T13:00:00+00:00",
+   "endAt": "2026-09-18T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T13:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a8d621a-776f-49a9-a00a-41f80bc92492.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6ee7fb10-78a6-45b5-9ba1-aa20dac942f3.png"
   }
  ],
  "archive": [
+  {
+   "id": "2193e380-59cf-4c9f-9ff3-560d07d80733",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/16/26",
+   "startAt": "2026-09-16T13:00:00+00:00",
+   "endAt": "2026-09-17T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b1191b62-2528-48ae-b92c-e4db918254e5",
    "game": "Black Desert",
@@ -6363,13 +6371,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.65
+   "score": 26.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6381,25 +6389,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.47
+   "score": 26.46
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6411,19 +6419,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.06
+   "score": 9.05
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.85
+   "score": 9.84
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   }
  },
  "favoriteWeights": {
