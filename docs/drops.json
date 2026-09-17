@@ -1298,30 +1298,6 @@
    "asset": "assets/c8b36b61-cd45-447f-9be3-09e02ff85007.png"
   },
   {
-   "id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195",
-   "game": "World of Warships",
-   "title": "Update 15.8 Drop: Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T15:00:00+00:00",
-   "endAt": "2026-09-17T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T15:00:47+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0218ef19-7956-404b-9beb-ab8333f8b615.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ff7b58a-7b48-4d82-8e14-f833a5ba9195",
-   "rewards": [
-    {
-     "name": "Update 15.8 Mission #1",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.8 week #1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0ff7b58a-7b48-4d82-8e14-f833a5ba9195.png"
-  },
-  {
    "id": "788b1110-d24f-46d5-9659-badfa6acc93c",
    "game": "For Honor",
    "title": "Entire Directory Sep 2026",
@@ -3036,9 +3012,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4cd71095-b26a-4635-a887-96f2cb465387.png"
+  },
+  {
+   "id": "05c8da52-be28-4469-82d4-6ceba430ba9f",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-17T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T16:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d508f558-e1ad-4c46-b2e6-9022d0a9fc01.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=05c8da52-be28-4469-82d4-6ceba430ba9f",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/05c8da52-be28-4469-82d4-6ceba430ba9f.png"
+  },
+  {
+   "id": "b1e2da71-4f83-43d7-a799-7efe6609b260",
+   "game": "World of Warships",
+   "title": "15.8 11th Anniversary",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-18T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T16:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0695f7ec-6674-4d71-90c0-e4d04f10140b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1e2da71-4f83-43d7-a799-7efe6609b260",
+   "rewards": [
+    {
+     "name": "11th Anniversay Challenge",
+     "minutes": 60
+    },
+    {
+     "name": "11th Anniversay Mystery Drop",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b1e2da71-4f83-43d7-a799-7efe6609b260.png"
+  },
+  {
+   "id": "a75637d9-b720-4f97-8156-a8444a760505",
+   "game": "World of Warships",
+   "title": "Update 15.8 Drop: Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-24T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T16:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fdc06f1a-f2c5-40f6-906f-770716199a20.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a75637d9-b720-4f97-8156-a8444a760505",
+   "rewards": [
+    {
+     "name": "Update 15.8 Mission #2",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Container 15.8 week #2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a75637d9-b720-4f97-8156-a8444a760505.png"
   }
  ],
  "archive": [
+  {
+   "id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195",
+   "game": "World of Warships",
+   "title": "Update 15.8 Drop: Week 1",
+   "startAt": "2026-09-10T15:00:00+00:00",
+   "endAt": "2026-09-17T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2193e380-59cf-4c9f-9ff3-560d07d80733",
    "game": "Out of the Park Baseball 27",
@@ -6395,13 +6447,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.58
+   "score": 26.56
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6413,25 +6465,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.4
+   "score": 26.38
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6449,13 +6501,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.82
+   "score": 9.81
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   }
  },
  "favoriteWeights": {
