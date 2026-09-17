@@ -2610,46 +2610,6 @@
    "asset": "assets/60d49775-74c0-4821-91d0-5fd5e7ac0506.png"
   },
   {
-   "id": "b2acb229-1901-49a2-ae09-f080efb3f6b0",
-   "game": "Albion Online",
-   "title": "Dragonfire 3 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T10:00:00+00:00",
-   "endAt": "2026-09-17T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-16T10:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc4122fa-733e-4fd1-915f-f6513fce49a9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2acb229-1901-49a2-ae09-f080efb3f6b0",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b2acb229-1901-49a2-ae09-f080efb3f6b0.png"
-  },
-  {
-   "id": "b4dc71fd-0885-493f-bac2-a3e0e0215ecb",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 3 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T10:00:00+00:00",
-   "endAt": "2026-09-17T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-16T10:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8b0c981-fbf6-4356-8492-575163cf8b23.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4dc71fd-0885-493f-bac2-a3e0e0215ecb",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b4dc71fd-0885-493f-bac2-a3e0e0215ecb.png"
-  },
-  {
    "id": "b1191b62-2528-48ae-b92c-e4db918254e5",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 16)",
@@ -3047,6 +3007,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "b2acb229-1901-49a2-ae09-f080efb3f6b0",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #3/7",
+   "startAt": "2026-09-16T10:00:00+00:00",
+   "endAt": "2026-09-17T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b4dc71fd-0885-493f-bac2-a3e0e0215ecb",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #3/7",
+   "startAt": "2026-09-16T10:00:00+00:00",
+   "endAt": "2026-09-17T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e",
    "game": "World of Warships",
@@ -6363,13 +6339,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.97
+   "score": 18.96
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.74
+   "score": 26.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6381,25 +6357,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.56
+   "score": 26.55
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.97
+   "score": 18.96
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.97
+   "score": 18.96
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.97
+   "score": 18.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6411,7 +6387,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.09
+   "score": 9.08
   },
   "Warframe": {
    "favorites": 1,
@@ -6423,7 +6399,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.97
+   "score": 18.96
   }
  },
  "favoriteWeights": {
