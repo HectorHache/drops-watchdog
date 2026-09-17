@@ -1358,50 +1358,6 @@
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   },
   {
-   "id": "326c19f0-772d-4e6b-bbf7-fc1940e8707f",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T14:00:00+00:00",
-   "endAt": "2026-09-17T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-11T14:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f6bf3ec-a4b8-4b7c-a733-8f2240e9cfe9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=326c19f0-772d-4e6b-bbf7-fc1940e8707f",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png"
-  },
-  {
    "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
    "game": "Mir Korabley",
    "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 2",
@@ -2642,42 +2598,6 @@
    "asset": "assets/325f7dd7-6721-472d-aa42-25c85a588b47.png"
   },
   {
-   "id": "8d4f4824-8821-4309-aa54-04e0c043c691",
-   "game": "DOFUS Touch",
-   "title": "J3 - Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T22:00:00+00:00",
-   "endAt": "2026-09-17T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T22:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e0a76903-1aa2-4dad-aa50-c593e89d0a4d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8d4f4824-8821-4309-aa54-04e0c043c691",
-   "rewards": [
-    {
-     "name": "TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 150
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8d4f4824-8821-4309-aa54-04e0c043c691.png"
-  },
-  {
    "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
    "game": "World of Warships",
    "title": "15.8 WOWS Channel Drop",
@@ -3136,9 +3056,89 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/597f0267-3963-450d-a6ef-919190a6d423.png"
+  },
+  {
+   "id": "e2900fa6-b362-4c6d-8807-df112989cfa7",
+   "game": "Warframe",
+   "title": "Prime Time #497",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T22:00:00+00:00",
+   "endAt": "2026-09-18T00:14:59.999+00:00",
+   "firstSeenAt": "2026-09-17T22:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1823c618-b47a-466d-8233-8ed8f2cd5a0a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e2900fa6-b362-4c6d-8807-df112989cfa7",
+   "rewards": [
+    {
+     "name": "Voidplume Grab Bag",
+     "minutes": 30
+    },
+    {
+     "name": "Voidplume Grab Bag",
+     "minutes": 60
+    },
+    {
+     "name": "Voidplume Grab Bag",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/e2900fa6-b362-4c6d-8807-df112989cfa7.jpg"
+  },
+  {
+   "id": "f9b3662b-fa6f-4fe7-9597-c95755c46de9",
+   "game": "DOFUS Touch",
+   "title": "J4 - Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T22:00:00+00:00",
+   "endAt": "2026-09-18T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-17T22:00:55+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f6f838e-3619-4de6-90bd-5beaeb66e974.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f9b3662b-fa6f-4fe7-9597-c95755c46de9",
+   "rewards": [
+    {
+     "name": "TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f9b3662b-fa6f-4fe7-9597-c95755c46de9.png"
   }
  ],
  "archive": [
+  {
+   "id": "8d4f4824-8821-4309-aa54-04e0c043c691",
+   "game": "DOFUS Touch",
+   "title": "J3 - Temporix Cps",
+   "startAt": "2026-09-16T22:00:00+00:00",
+   "endAt": "2026-09-17T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "326c19f0-772d-4e6b-bbf7-fc1940e8707f",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-09-11T14:00:00+00:00",
+   "endAt": "2026-09-17T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9662a5f8-2792-486a-9529-7f2697c42058",
    "game": "Eternal Return",
@@ -6535,13 +6535,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.42
+   "score": 26.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6553,25 +6553,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.24
+   "score": 26.23
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6583,7 +6583,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.98
+   "score": 8.97
   },
   "Warframe": {
    "favorites": 1,
@@ -6595,7 +6595,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   }
  },
  "favoriteWeights": {
