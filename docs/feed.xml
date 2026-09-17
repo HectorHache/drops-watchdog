@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Honkai Impact 3rd — V9.0 Special Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=caafff3e-0899-45cb-8937-d64a70f811a6</link>
-    <guid isPermaLink="false">caafff3e-0899-45cb-8937-d64a70f811a6</guid>
-    <description>1. Stamina Potion*1 · 2. Phase Shifter*1 · 3. Asterite*1500 · 4. Crystal*120 — runs 2026-08-20T10:00:00+00:00 → 2026-09-17T09:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-20T10:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>NBA 2K27 — NBA 2K27 Season 1</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=55e4bee5-9ac5-4af9-97fa-4906e6468120</link>
     <guid isPermaLink="false">55e4bee5-9ac5-4af9-97fa-4906e6468120</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1</link>
     <guid isPermaLink="false">1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1</guid>
     <description>Drop 1 - 3x Rebirth Crystals · Drop 2 - 1x Observance · Drop 3 - PRG Gated Hero Crystal — runs 2026-09-11T17:00:00+00:00 → 2026-09-18T16:44:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-11T17:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Diablo IV — Diablo Badge</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=99be36da-64c7-49b1-b338-4bdc091ac085</link>
+    <guid isPermaLink="false">99be36da-64c7-49b1-b338-4bdc091ac085</guid>
+    <description>Diablo Chat Badge — runs 2026-09-11T17:00:00+00:00 → 2026-09-26T16:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-11T17:00:00+00:00</pubDate>
   </item>
 </channel>
