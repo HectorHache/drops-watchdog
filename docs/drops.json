@@ -2984,6 +2984,38 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8e351ef6-791e-4d7a-85d2-2a75081a03b6.png"
+  },
+  {
+   "id": "d7642e5c-4cbc-4952-be0b-ffe195937e1c",
+   "game": "UFL",
+   "title": "Sep #2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-17T08:15:00+00:00",
+   "endAt": "2026-09-23T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-17T08:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8ada0537-4ecc-4ccf-98d9-5cece234a387.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7642e5c-4cbc-4952-be0b-ffe195937e1c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d7642e5c-4cbc-4952-be0b-ffe195937e1c.png"
   }
  ],
  "archive": [
@@ -6303,13 +6335,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.99
+   "score": 18.98
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.77
+   "score": 26.76
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6321,25 +6353,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.59
+   "score": 26.57
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.99
+   "score": 18.98
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.99
+   "score": 18.98
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.99
+   "score": 18.98
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6351,7 +6383,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.1
+   "score": 9.09
   },
   "Warframe": {
    "favorites": 1,
@@ -6363,7 +6395,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.99
+   "score": 18.98
   }
  },
  "favoriteWeights": {
