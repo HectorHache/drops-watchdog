@@ -3258,30 +3258,6 @@
    "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
   },
   {
-   "id": "06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Rundown",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T14:30:00+00:00",
-   "endAt": "2026-09-18T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-18T14:30:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f0643268-1ba1-4e18-8cc7-6665ca19870f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96.png"
-  },
-  {
    "id": "627fd54a-b88f-4917-9ea3-2734cb94d8db",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #7",
@@ -3499,6 +3475,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-09-18T14:30:00+00:00",
+   "endAt": "2026-09-18T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
    "game": "Mir Korabley",
@@ -6999,13 +6983,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.41
+   "score": 18.4
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.96
+   "score": 25.95
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7017,31 +7001,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.78
+   "score": 25.77
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.41
+   "score": 18.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.41
+   "score": 18.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.41
+   "score": 18.4
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.04
+   "score": 2.03
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -7059,7 +7043,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.41
+   "score": 18.4
   }
  },
  "favoriteWeights": {
