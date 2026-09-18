@@ -2674,26 +2674,6 @@
    "asset": "assets/f6e4c513-5c61-4d58-aac6-1c009c25add7.png"
   },
   {
-   "id": "597f0267-3963-450d-a6ef-919190a6d423",
-   "game": "Path of Exile",
-   "title": "PoE1 ExileCon 3/4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T21:00:00+00:00",
-   "endAt": "2026-09-18T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T21:00:46+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27fd02bc-c011-42b6-ba50-607beec26b61.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=597f0267-3963-450d-a6ef-919190a6d423",
-   "rewards": [
-    {
-     "name": "Darkshard Helm Attachment",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/597f0267-3963-450d-a6ef-919190a6d423.png"
-  },
-  {
    "id": "f9b3662b-fa6f-4fe7-9597-c95755c46de9",
    "game": "DOFUS Touch",
    "title": "J4 - Temporix Cps",
@@ -3475,6 +3455,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "597f0267-3963-450d-a6ef-919190a6d423",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 3/4",
+   "startAt": "2026-09-17T21:00:00+00:00",
+   "endAt": "2026-09-18T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c2d5e267-55a7-4bf9-a09f-9fb839b59c78",
    "game": "Eternal Return",
@@ -7047,13 +7035,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.85
+   "score": 25.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7065,25 +7053,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.67
+   "score": 25.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7101,13 +7089,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.55
+   "score": 9.54
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   }
  },
  "favoriteWeights": {
