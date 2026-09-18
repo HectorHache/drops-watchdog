@@ -2706,42 +2706,6 @@
    "asset": "assets/136d3021-892d-4768-a5e0-dae14fff0b15.png"
   },
   {
-   "id": "6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/17/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T13:00:00+00:00",
-   "endAt": "2026-09-18T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T13:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a8d621a-776f-49a9-a00a-41f80bc92492.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6ee7fb10-78a6-45b5-9ba1-aa20dac942f3.png"
-  },
-  {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 2",
@@ -3128,9 +3092,101 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/0bd787cf-abf0-4188-809d-544458983bc6.png"
+  },
+  {
+   "id": "378cb5e3-c77e-4fff-9177-39c8cb976a0c",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T13:00:00+00:00",
+   "endAt": "2026-09-18T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T13:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/105b7c48-0ca8-4303-9378-d76514372165.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=378cb5e3-c77e-4fff-9177-39c8cb976a0c",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/378cb5e3-c77e-4fff-9177-39c8cb976a0c.png"
+  },
+  {
+   "id": "44f0a568-01b9-4ebe-9eb6-40572d6b7558",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/18/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T13:00:00+00:00",
+   "endAt": "2026-09-19T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T13:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2db0d1a4-0143-4571-9cf5-955bccda4f3f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=44f0a568-01b9-4ebe-9eb6-40572d6b7558",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/44f0a568-01b9-4ebe-9eb6-40572d6b7558.png"
+  },
+  {
+   "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
+   "game": "Fortnite",
+   "title": "Ironmouse x Fortnite ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T13:00:00+00:00",
+   "endAt": "2026-10-01T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T13:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ceb7c5db-a804-45d8-9efa-8ef0135e95b9.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30c46562-1617-4fc6-babd-6f8fa26afe06",
+   "rewards": [
+    {
+     "name": "Chibi Ironmouse Spray",
+     "minutes": 30
+    },
+    {
+     "name": "Guitar Processing Unit",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/17/26",
+   "startAt": "2026-09-17T13:00:00+00:00",
+   "endAt": "2026-09-18T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d7ea57c4-b9af-4c28-b7a7-74f8153dab34",
    "game": "Black Desert",
@@ -6615,13 +6671,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.47
+   "score": 18.46
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.05
+   "score": 26.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6633,25 +6689,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.87
+   "score": 25.86
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.47
+   "score": 18.46
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.47
+   "score": 18.46
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.47
+   "score": 18.46
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6675,7 +6731,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.47
+   "score": 18.46
   }
  },
  "favoriteWeights": {
