@@ -3176,6 +3176,106 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
+  },
+  {
+   "id": "636f31cd-e03f-468d-8874-64c556554481",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T14:00:00+00:00",
+   "endAt": "2026-09-20T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-18T14:01:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df3ae3d8-cfe6-4102-9ffb-0c11f112b376.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=636f31cd-e03f-468d-8874-64c556554481",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/636f31cd-e03f-468d-8874-64c556554481.png"
+  },
+  {
+   "id": "829a3b01-5502-453a-abd4-a19a4cb99345",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T14:00:00+00:00",
+   "endAt": "2026-09-24T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-18T14:01:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6bdfa4c7-9e1d-4dad-bcc1-68f4a7520cd6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=829a3b01-5502-453a-abd4-a19a4cb99345",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
   }
  ],
  "archive": [
@@ -6677,7 +6777,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.02
+   "score": 26.01
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6689,7 +6789,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.84
+   "score": 25.83
   },
   "Once Human": {
    "favorites": 2,
