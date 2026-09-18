@@ -2988,6 +2988,90 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/695f6680-8c47-463c-a2a9-914df697611c.png"
+  },
+  {
+   "id": "13280127-a2ec-46c4-b1cd-528a9fba46a4",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T10:00:00+00:00",
+   "endAt": "2026-09-19T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-18T10:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c1cdf7c2-eeb0-4929-909c-78cb132561c1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=13280127-a2ec-46c4-b1cd-528a9fba46a4",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/13280127-a2ec-46c4-b1cd-528a9fba46a4.png"
+  },
+  {
+   "id": "998c5c83-3c54-44d9-9358-c887193316d1",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T10:00:00+00:00",
+   "endAt": "2026-09-19T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-18T10:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0322335-eaea-4729-ba08-688f32389765.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=998c5c83-3c54-44d9-9358-c887193316d1",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/998c5c83-3c54-44d9-9358-c887193316d1.png"
+  },
+  {
+   "id": "91f15164-33d7-4230-85a8-2934e089bb2f",
+   "game": "Sea of Thieves",
+   "title": "Season 21 Launch Drops!",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T10:00:00+00:00",
+   "endAt": "2026-09-23T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T10:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8cb8ffe1-8269-48a8-926e-e41c0d345ca7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91f15164-33d7-4230-85a8-2934e089bb2f",
+   "rewards": [
+    {
+     "name": "Drum Show-Off Emote",
+     "minutes": 120
+    },
+    {
+     "name": "Lazybeard Title",
+     "minutes": 180
+    },
+    {
+     "name": "Twilight Hunter Fishing Rod",
+     "minutes": 240
+    },
+    {
+     "name": "Graveyard Gladiator Pistol",
+     "minutes": 300
+    },
+    {
+     "name": "Fishbone Throwing Knives",
+     "minutes": 360
+    },
+    {
+     "name": "75k Gold Sep 26",
+     "minutes": 30
+    },
+    {
+     "name": "+1 Renown Sep 26",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/91f15164-33d7-4230-85a8-2934e089bb2f.jpg"
   }
  ],
  "archive": [
@@ -6467,43 +6551,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.53
+   "score": 18.52
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.12
+   "score": 26.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.1
+   "score": 4.09
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.94
+   "score": 25.93
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.53
+   "score": 18.52
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.53
+   "score": 18.52
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.53
+   "score": 18.52
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6527,7 +6611,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.53
+   "score": 18.52
   }
  },
  "favoriteWeights": {
