@@ -2706,46 +2706,6 @@
    "asset": "assets/136d3021-892d-4768-a5e0-dae14fff0b15.png"
   },
   {
-   "id": "ff87f18d-6291-4106-be23-b63cf472fb24",
-   "game": "Albion Online",
-   "title": "Dragonfire 3 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T10:00:00+00:00",
-   "endAt": "2026-09-18T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-17T10:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8654a62-f577-41ae-a729-5558ea199994.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff87f18d-6291-4106-be23-b63cf472fb24",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ff87f18d-6291-4106-be23-b63cf472fb24.png"
-  },
-  {
-   "id": "c6d2df81-0803-4d7e-b58f-603d1598cc53",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 3 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T10:00:00+00:00",
-   "endAt": "2026-09-18T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-17T10:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d58a6fe-f45c-4ecc-b44e-c1b72fa2e41e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6d2df81-0803-4d7e-b58f-603d1598cc53",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c6d2df81-0803-4d7e-b58f-603d1598cc53.png"
-  },
-  {
    "id": "d7ea57c4-b9af-4c28-b7a7-74f8153dab34",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 17)",
@@ -3031,6 +2991,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "ff87f18d-6291-4106-be23-b63cf472fb24",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #4/7",
+   "startAt": "2026-09-17T10:00:00+00:00",
+   "endAt": "2026-09-18T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c6d2df81-0803-4d7e-b58f-603d1598cc53",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #4/7",
+   "startAt": "2026-09-17T10:00:00+00:00",
+   "endAt": "2026-09-18T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ac5e786e-e9bf-49e9-a550-0b1f075a1818",
    "game": "Onimusha: Way of the Sword",
@@ -6497,7 +6473,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.13
+   "score": 26.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6509,7 +6485,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.95
+   "score": 25.94
   },
   "Once Human": {
    "favorites": 2,
@@ -6539,7 +6515,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.88
+   "score": 8.87
   },
   "Warframe": {
    "favorites": 1,
