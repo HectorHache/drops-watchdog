@@ -3276,6 +3276,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
+  },
+  {
+   "id": "06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T14:30:00+00:00",
+   "endAt": "2026-09-18T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-18T14:30:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f0643268-1ba1-4e18-8cc7-6665ca19870f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96.png"
   }
  ],
  "archive": [
@@ -6771,13 +6795,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.01
+   "score": 25.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6789,25 +6813,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.83
+   "score": 25.82
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6819,26 +6843,26 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.84
+   "score": 8.83
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.61
+   "score": 9.6
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 28,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 36,
+  "Delta Force": 35,
   "LEGO Batman: Legacy of the Dark Knight": 35,
   "Marvel Rivals": 10,
   "Once Human": 28,
