@@ -1338,26 +1338,6 @@
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   },
   {
-   "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T15:00:00+00:00",
-   "endAt": "2026-09-18T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T15:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e1dcadf-8ba0-48d0-bb85-f622670c66c7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/09a01ba8-b6d0-426d-b707-a6fa27e48cb2.jpg"
-  },
-  {
    "id": "b9a06b09-c07f-4390-8271-913c215b64f1",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 2 - CCP",
@@ -3300,9 +3280,165 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/06e2bd86-a3d7-43d1-9e5f-f99e3b0cfe96.png"
+  },
+  {
+   "id": "627fd54a-b88f-4917-9ea3-2734cb94d8db",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-19T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T15:00:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e6b0f63-8a72-4b25-b381-bdbc6da7a6eb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=627fd54a-b88f-4917-9ea3-2734cb94d8db",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/627fd54a-b88f-4917-9ea3-2734cb94d8db.jpg"
+  },
+  {
+   "id": "b22c385c-46d9-41bf-bf15-a62513b0b678",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 18.09.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-20T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T15:00:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4bb5d89e-295b-4f54-8130-fb5cffccaea7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b22c385c-46d9-41bf-bf15-a62513b0b678",
+   "rewards": [
+    {
+     "name": "20 000 credits 18.09",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 18.09",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 18.09",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 18.09",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 18.09",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 18.09",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b22c385c-46d9-41bf-bf15-a62513b0b678.png"
+  },
+  {
+   "id": "49eec46d-c4da-4736-a992-155522e98911",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-21T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T15:00:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1b88d9d-d1b4-4fcb-ac7a-ca6c41ec7308.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49eec46d-c4da-4736-a992-155522e98911",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/49eec46d-c4da-4736-a992-155522e98911.jpg"
+  },
+  {
+   "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
+   "game": "Active Matter",
+   "title": "Release Drops: Week I",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T15:00:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b513dc5c-851d-48cf-aa9c-dd6c4c4ce11c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b444df04-11b1-4bfe-94d1-3545d48a077c",
+   "rewards": [
+    {
+     "name": "Weapon kit",
+     "minutes": 360
+    },
+    {
+     "name": "Shadow Sleeve",
+     "minutes": 420
+    },
+    {
+     "name": "Beacon",
+     "minutes": 60
+    },
+    {
+     "name": "Medical kit",
+     "minutes": 120
+    },
+    {
+     "name": "Small weapon kit",
+     "minutes": 180
+    },
+    {
+     "name": "Dog tag",
+     "minutes": 240
+    },
+    {
+     "name": "Large safe container",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b444df04-11b1-4bfe-94d1-3545d48a077c.jpg"
+  },
+  {
+   "id": "088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T15:00:01+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/986ecbbf-a93f-466f-a30f-a3efbe25a7eb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #3",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "09a01ba8-b6d0-426d-b707-a6fa27e48cb2",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 2",
+   "startAt": "2026-09-11T15:00:00+00:00",
+   "endAt": "2026-09-18T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6ee7fb10-78a6-45b5-9ba1-aa20dac942f3",
    "game": "Out of the Park Baseball 27",
@@ -6795,43 +6931,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.44
+   "score": 18.43
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.99
+   "score": 25.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.08
+   "score": 4.07
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.82
+   "score": 25.81
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.44
+   "score": 18.43
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.44
+   "score": 18.43
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.44
+   "score": 18.43
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6855,7 +6991,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.44
+   "score": 18.43
   }
  },
  "favoriteWeights": {
