@@ -3198,26 +3198,6 @@
    "asset": "assets/088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7.jpg"
   },
   {
-   "id": "86ab3cf0-2c1d-472d-9a2f-2bf258c25b19",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Finals 1_DAY1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:30:00+00:00",
-   "endAt": "2026-09-18T21:00:59.999+00:00",
-   "firstSeenAt": "2026-09-18T16:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3853808e-69b8-4e6a-b666-156b548edbc0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=86ab3cf0-2c1d-472d-9a2f-2bf258c25b19",
-   "rewards": [
-    {
-     "name": "PEC: Fall Finals 1_THE ORIGINAL IS BACK T-Shirt",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/86ab3cf0-2c1d-472d-9a2f-2bf258c25b19.png"
-  },
-  {
    "id": "46bce301-10c6-47a4-be00-fa16e9cca155",
    "game": "Marbles on Stream",
    "title": "Marble Day 266",
@@ -3455,6 +3435,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "86ab3cf0-2c1d-472d-9a2f-2bf258c25b19",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY1",
+   "startAt": "2026-09-18T15:30:00+00:00",
+   "endAt": "2026-09-18T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "597f0267-3963-450d-a6ef-919190a6d423",
    "game": "Path of Exile",
@@ -7035,13 +7023,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.32
+   "score": 18.31
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.83
+   "score": 25.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7053,37 +7041,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.66
+   "score": 25.64
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.32
+   "score": 18.31
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.32
+   "score": 18.31
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.32
+   "score": 18.31
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.03
+   "score": 2.02
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.78
+   "score": 8.77
   },
   "Warframe": {
    "favorites": 1,
@@ -7095,7 +7083,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.32
+   "score": 18.31
   }
  },
  "favoriteWeights": {
