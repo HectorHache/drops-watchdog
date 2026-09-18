@@ -3452,6 +3452,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0c9628ae-06c3-4d1d-a2be-67fce88557a5.png"
+  },
+  {
+   "id": "2e65541b-b639-4f3b-87ff-8f18c8a484c4",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 1_Day1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T22:30:00+00:00",
+   "endAt": "2026-09-19T04:30:59.999+00:00",
+   "firstSeenAt": "2026-09-18T22:30:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cd3e313c-255e-43af-9baa-aa6b45386984.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2e65541b-b639-4f3b-87ff-8f18c8a484c4",
+   "rewards": [
+    {
+     "name": "PAS: Fall Finals 1_DAY1",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/2e65541b-b639-4f3b-87ff-8f18c8a484c4.png"
   }
  ],
  "archive": [
@@ -7057,7 +7077,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.81
+   "score": 25.8
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7069,7 +7089,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.63
+   "score": 25.62
   },
   "Once Human": {
    "favorites": 2,
@@ -7099,7 +7119,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.77
+   "score": 8.76
   },
   "Warframe": {
    "favorites": 1,
