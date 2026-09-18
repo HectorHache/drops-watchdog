@@ -578,26 +578,6 @@
    "asset": "assets/aa82829e-9f3c-4572-a120-39d2eb36729b.png"
   },
   {
-   "id": "ac5e786e-e9bf-49e9-a550-0b1f075a1818",
-   "game": "Onimusha: Way of the Sword",
-   "title": "Onimusha Armament",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T04:00:00+00:00",
-   "endAt": "2026-09-18T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T04:00:50+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28c80dd3-f032-47f4-89a4-31d50655bd3f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac5e786e-e9bf-49e9-a550-0b1f075a1818",
-   "rewards": [
-    {
-     "name": "Onimusha Armament",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ac5e786e-e9bf-49e9-a550-0b1f075a1818.png"
-  },
-  {
    "id": "2627f082-1448-4a4b-a721-41e942aa5bc6",
    "game": "The First Descendant",
    "title": "Conquest Mode Drops ",
@@ -2618,26 +2598,6 @@
    "asset": "assets/6bbab6fc-5e17-490d-8e2f-0d4260c00e4e.png"
   },
   {
-   "id": "eef05792-a9c4-4556-b9a2-d621ea3f6af8",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T00:00:00+00:00",
-   "endAt": "2026-09-17T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T00:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98ca13b7-7441-446c-bf39-a8b7fdfb670e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eef05792-a9c4-4556-b9a2-d621ea3f6af8",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eef05792-a9c4-4556-b9a2-d621ea3f6af8.png"
-  },
-  {
    "id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
    "game": "World of Warships",
    "title": "15.8 Worth Their Salt #2",
@@ -2842,50 +2802,6 @@
    "asset": "assets/6ee7fb10-78a6-45b5-9ba1-aa20dac942f3.png"
   },
   {
-   "id": "05c8da52-be28-4469-82d4-6ceba430ba9f",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 1 Day 5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T16:00:00+00:00",
-   "endAt": "2026-09-17T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T16:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d508f558-e1ad-4c46-b2e6-9022d0a9fc01.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=05c8da52-be28-4469-82d4-6ceba430ba9f",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/05c8da52-be28-4469-82d4-6ceba430ba9f.png"
-  },
-  {
-   "id": "b1e2da71-4f83-43d7-a799-7efe6609b260",
-   "game": "World of Warships",
-   "title": "15.8 11th Anniversary",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T16:00:00+00:00",
-   "endAt": "2026-09-18T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T16:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0695f7ec-6674-4d71-90c0-e4d04f10140b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1e2da71-4f83-43d7-a799-7efe6609b260",
-   "rewards": [
-    {
-     "name": "11th Anniversay Challenge",
-     "minutes": 60
-    },
-    {
-     "name": "11th Anniversay Mystery Drop",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b1e2da71-4f83-43d7-a799-7efe6609b260.png"
-  },
-  {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 2",
@@ -3017,7 +2933,7 @@
    "startAt": "2026-09-17T20:00:00+00:00",
    "endAt": "2026-09-18T19:59:59.999+00:00",
    "firstSeenAt": "2026-09-17T20:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ddc519c3-1241-40ac-9e9c-ce2c1b730a64.png",
    "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c2d5e267-55a7-4bf9-a09f-9fb839b59c78",
    "rewards": [
     {
@@ -3058,34 +2974,6 @@
    "asset": "assets/597f0267-3963-450d-a6ef-919190a6d423.png"
   },
   {
-   "id": "e2900fa6-b362-4c6d-8807-df112989cfa7",
-   "game": "Warframe",
-   "title": "Prime Time #497",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T22:00:00+00:00",
-   "endAt": "2026-09-18T00:14:59.999+00:00",
-   "firstSeenAt": "2026-09-17T22:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1823c618-b47a-466d-8233-8ed8f2cd5a0a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e2900fa6-b362-4c6d-8807-df112989cfa7",
-   "rewards": [
-    {
-     "name": "Voidplume Grab Bag",
-     "minutes": 30
-    },
-    {
-     "name": "Voidplume Grab Bag",
-     "minutes": 60
-    },
-    {
-     "name": "Voidplume Grab Bag",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/e2900fa6-b362-4c6d-8807-df112989cfa7.jpg"
-  },
-  {
    "id": "f9b3662b-fa6f-4fe7-9597-c95755c46de9",
    "game": "DOFUS Touch",
    "title": "J4 - Temporix Cps",
@@ -3120,9 +3008,77 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f9b3662b-fa6f-4fe7-9597-c95755c46de9.png"
+  },
+  {
+   "id": "695f6680-8c47-463c-a2a9-914df697611c",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T00:00:00+00:00",
+   "endAt": "2026-09-18T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T00:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c668a313-80c4-4a55-b418-36118d378bad.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=695f6680-8c47-463c-a2a9-914df697611c",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/695f6680-8c47-463c-a2a9-914df697611c.png"
   }
  ],
  "archive": [
+  {
+   "id": "ac5e786e-e9bf-49e9-a550-0b1f075a1818",
+   "game": "Onimusha: Way of the Sword",
+   "title": "Onimusha Armament",
+   "startAt": "2026-09-04T04:00:00+00:00",
+   "endAt": "2026-09-18T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b1e2da71-4f83-43d7-a799-7efe6609b260",
+   "game": "World of Warships",
+   "title": "15.8 11th Anniversary",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-18T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e603c9af-567c-47bc-a310-4dd3f790697e",
+   "game": "Warframe",
+   "title": "Prime Time #497 Raid",
+   "startAt": "2026-09-18T00:00:00+00:00",
+   "endAt": "2026-09-18T01:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e2900fa6-b362-4c6d-8807-df112989cfa7",
+   "game": "Warframe",
+   "title": "Prime Time #497",
+   "startAt": "2026-09-17T22:00:00+00:00",
+   "endAt": "2026-09-18T00:14:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "eef05792-a9c4-4556-b9a2-d621ea3f6af8",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-17T00:00:00+00:00",
+   "endAt": "2026-09-17T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "05c8da52-be28-4469-82d4-6ceba430ba9f",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 5",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-17T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8d4f4824-8821-4309-aa54-04e0c043c691",
    "game": "DOFUS Touch",
@@ -6535,67 +6491,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.72
+   "score": 18.61
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 26.4
+   "score": 26.23
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.14
+   "score": 4.11
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 26.22
+   "score": 26.06
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.72
+   "score": 18.61
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.72
+   "score": 18.61
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.72
+   "score": 18.61
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.07
+   "score": 2.06
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.97
+   "score": 8.91
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.75
+   "score": 9.69
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.72
+   "score": 18.61
   }
  },
  "favoriteWeights": {
