@@ -3428,6 +3428,74 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7.jpg"
+  },
+  {
+   "id": "86ab3cf0-2c1d-472d-9a2f-2bf258c25b19",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T15:30:00+00:00",
+   "endAt": "2026-09-18T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-18T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3853808e-69b8-4e6a-b666-156b548edbc0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=86ab3cf0-2c1d-472d-9a2f-2bf258c25b19",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 1_THE ORIGINAL IS BACK T-Shirt",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/86ab3cf0-2c1d-472d-9a2f-2bf258c25b19.png"
+  },
+  {
+   "id": "46bce301-10c6-47a4-be00-fa16e9cca155",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 266",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T16:00:00+00:00",
+   "endAt": "2026-09-19T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/102d8fd7-5e07-4549-ab24-2cd1f7380c7e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46bce301-10c6-47a4-be00-fa16e9cca155",
+   "rewards": [
+    {
+     "name": "DROP",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/46bce301-10c6-47a4-be00-fa16e9cca155.png"
+  },
+  {
+   "id": "0e9b7854-aef0-4088-aadc-c1eddc732f03",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Week 8",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T16:00:00+00:00",
+   "endAt": "2026-09-22T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b36ed294-a9f6-4596-9b6f-087fcc1b13f2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e9b7854-aef0-4088-aadc-c1eddc732f03",
+   "rewards": [
+    {
+     "name": "3 x1.5 Silver Boosters",
+     "minutes": 120
+    },
+    {
+     "name": "4 x10 Commander XP Boosters",
+     "minutes": 240
+    },
+    {
+     "name": "4 Camo Vouchers",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0e9b7854-aef0-4088-aadc-c1eddc732f03.png"
   }
  ],
  "archive": [
@@ -6931,13 +6999,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.97
+   "score": 25.96
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -6949,25 +7017,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.79
+   "score": 25.78
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   },
   "THE FINALS": {
    "favorites": 0,
@@ -6991,7 +7059,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   }
  },
  "favoriteWeights": {
