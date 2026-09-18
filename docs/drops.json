@@ -2674,34 +2674,6 @@
    "asset": "assets/f6e4c513-5c61-4d58-aac6-1c009c25add7.png"
   },
   {
-   "id": "c2d5e267-55a7-4bf9-a09f-9fb839b59c78",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0918]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T20:00:00+00:00",
-   "endAt": "2026-09-18T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T20:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ddc519c3-1241-40ac-9e9c-ce2c1b730a64.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c2d5e267-55a7-4bf9-a09f-9fb839b59c78",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c2d5e267-55a7-4bf9-a09f-9fb839b59c78.png"
-  },
-  {
    "id": "597f0267-3963-450d-a6ef-919190a6d423",
    "game": "Path of Exile",
    "title": "PoE1 ExileCon 3/4",
@@ -3472,9 +3444,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ad107cc8-a48f-4f86-a4b8-f773ed0eea38.png"
+  },
+  {
+   "id": "864dda43-61ec-4f77-acc5-d77a6688bd6f",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0919]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-18T20:00:00+00:00",
+   "endAt": "2026-09-19T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-18T20:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4d7473a0-0fd6-4666-93bf-42d12467828c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=864dda43-61ec-4f77-acc5-d77a6688bd6f",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/864dda43-61ec-4f77-acc5-d77a6688bd6f.png"
   }
  ],
  "archive": [
+  {
+   "id": "c2d5e267-55a7-4bf9-a09f-9fb839b59c78",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0918]",
+   "startAt": "2026-09-17T20:00:00+00:00",
+   "endAt": "2026-09-18T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fd39102a-9047-4bbe-bec2-46b440d4703c",
    "game": "Soulframe",
@@ -7039,43 +7047,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.87
+   "score": 25.86
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.06
+   "score": 4.05
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.69
+   "score": 25.68
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7093,13 +7101,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.56
+   "score": 9.55
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   }
  },
  "favoriteWeights": {
