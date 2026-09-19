@@ -3520,6 +3520,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d3abe7e3-8d4a-4ed7-9432-c6354b55db30.png"
+  },
+  {
+   "id": "a91ded5d-34a0-4c45-8bec-0fb1fd78aa62",
+   "game": "Ragnarok Online",
+   "title": "ROS\u7fa4\u661f\u806f\u8cfd_0919",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T06:00:00+00:00",
+   "endAt": "2026-09-19T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T06:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a91ded5d-34a0-4c45-8bec-0fb1fd78aa62",
+   "rewards": [
+    {
+     "name": "\u4e16\u754c\u5730\u5716\u79fb\u52d5\u5238*5",
+     "minutes": 30
+    },
+    {
+     "name": "\u9ad8\u7d1a\u7d93\u9a57\u503c\u500d\u589e\u66f8*2",
+     "minutes": 90
+    },
+    {
+     "name": "\u8d85\u9ecf\u6389\u5bf6\u7387\u500d\u589e\u7cd61\u5c0f\u6642*2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a91ded5d-34a0-4c45-8bec-0fb1fd78aa62.png"
   }
  ],
  "archive": [
@@ -7167,13 +7195,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.17
+   "score": 18.16
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.62
+   "score": 25.61
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7185,25 +7213,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.45
+   "score": 25.44
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.17
+   "score": 18.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.17
+   "score": 18.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.17
+   "score": 18.16
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7215,19 +7243,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.71
+   "score": 8.7
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.47
+   "score": 9.46
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.17
+   "score": 18.16
   }
  },
  "favoriteWeights": {
