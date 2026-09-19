@@ -3514,26 +3514,6 @@
    "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
   },
   {
-   "id": "83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
-   "game": "Warframe",
-   "title": "Community Drops #217",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T17:00:00+00:00",
-   "endAt": "2026-09-19T18:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T17:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a49d86a-2d97-4ea8-8c5e-91b6ae564c68.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
-   "rewards": [
-    {
-     "name": "Efervon Tank Domestik Drone",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/83ffc6f2-5ddf-475f-8ec4-88a429c085c4.jpg"
-  },
-  {
    "id": "93a92dfa-00b2-41b8-ad19-c3dadd426fec",
    "game": "MLB The Show 26",
    "title": "Grand Finals 9.19",
@@ -3607,6 +3587,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
+   "game": "Warframe",
+   "title": "Community Drops #217",
+   "startAt": "2026-09-19T17:00:00+00:00",
+   "endAt": "2026-09-19T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fe9bbfb4-1cf3-410d-9fc9-cb3ff9f62809",
    "game": "Rise Online",
@@ -7347,13 +7335,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.3
+   "score": 25.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7365,25 +7353,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.13
+   "score": 25.12
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7395,19 +7383,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.6
+   "score": 8.59
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.35
+   "score": 9.34
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   }
  },
  "favoriteWeights": {
