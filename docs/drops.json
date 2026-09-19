@@ -3532,6 +3532,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/51bad947-9c61-47bb-a517-ba8d1d04f8c0.png"
+  },
+  {
+   "id": "bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T15:30:00+00:00",
+   "endAt": "2026-09-19T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-19T15:30:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/edacd3a4-83ee-4438-8f23-24d648f4150e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 1_DAY2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2.png"
   }
  ],
  "archive": [
@@ -7243,13 +7263,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.39
+   "score": 25.38
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7261,25 +7281,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.22
+   "score": 25.2
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7291,7 +7311,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.63
+   "score": 8.62
   },
   "Warframe": {
    "favorites": 1,
@@ -7303,21 +7323,21 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 28,
+  "ARC Raiders": 27,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 35,
   "LEGO Batman: Legacy of the Dark Knight": 35,
   "Marvel Rivals": 10,
-  "Once Human": 28,
-  "Palia": 28,
-  "Predecessor": 28,
+  "Once Human": 27,
+  "Palia": 27,
+  "Predecessor": 27,
   "Tom Clancy's The Division 2": 18,
   "Warframe": 19,
-  "Where Winds Meet": 28
+  "Where Winds Meet": 27
  }
 }
