@@ -2702,26 +2702,6 @@
    "asset": "assets/51854521-4931-4996-8f0d-5db261b243d4.png"
   },
   {
-   "id": "0bd787cf-abf0-4188-809d-544458983bc6",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 18)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T12:00:00+00:00",
-   "endAt": "2026-09-19T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T12:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94d0ae54-d65d-44e7-ae04-c7f3d8cefdb9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bd787cf-abf0-4188-809d-544458983bc6",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 18)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/0bd787cf-abf0-4188-809d-544458983bc6.png"
-  },
-  {
    "id": "44f0a568-01b9-4ebe-9eb6-40572d6b7558",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/18/26",
@@ -3540,9 +3520,89 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/92a7189f-2cf4-4313-b790-43d2ab5cb84e.jpg"
+  },
+  {
+   "id": "d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 19)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T12:00:00+00:00",
+   "endAt": "2026-09-20T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T12:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2fda575-aab4-40bb-a84a-c35b777a0910.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 19)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f.png"
+  },
+  {
+   "id": "8bce7df4-b03e-4e1e-8829-7513d54016ec",
+   "game": "War Robots: Frontiers",
+   "title": "Shadowed Bastion",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T12:00:00+00:00",
+   "endAt": "2026-10-03T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T12:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d676f689-f352-4580-a8c5-c282fd79fd79.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8bce7df4-b03e-4e1e-8829-7513d54016ec",
+   "rewards": [
+    {
+     "name": "3,000 Credits",
+     "minutes": 30
+    },
+    {
+     "name": "3-Day Premium Account",
+     "minutes": 60
+    },
+    {
+     "name": "15,000 Salvage",
+     "minutes": 90
+    },
+    {
+     "name": "2x Infinite Ammo",
+     "minutes": 120
+    },
+    {
+     "name": "50 Intel",
+     "minutes": 150
+    },
+    {
+     "name": "2x Relic Bulgasari Shoulder",
+     "minutes": 180
+    },
+    {
+     "name": "3x Pinata",
+     "minutes": 210
+    },
+    {
+     "name": "100 Intel",
+     "minutes": 240
+    },
+    {
+     "name": "Siren Torso",
+     "minutes": 270
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8bce7df4-b03e-4e1e-8829-7513d54016ec.png"
   }
  ],
  "archive": [
+  {
+   "id": "0bd787cf-abf0-4188-809d-544458983bc6",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 18)",
+   "startAt": "2026-09-18T12:00:00+00:00",
+   "endAt": "2026-09-19T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
    "game": "SMITE 2",
@@ -7219,13 +7279,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.07
+   "score": 18.06
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.47
+   "score": 25.46
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7237,25 +7297,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.3
+   "score": 25.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.07
+   "score": 18.06
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.07
+   "score": 18.06
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.07
+   "score": 18.06
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7267,7 +7327,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.66
+   "score": 8.65
   },
   "Warframe": {
    "favorites": 1,
@@ -7279,7 +7339,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.07
+   "score": 18.06
   }
  },
  "favoriteWeights": {
