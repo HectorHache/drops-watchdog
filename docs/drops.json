@@ -3406,66 +3406,6 @@
    "asset": "assets/51bad947-9c61-47bb-a517-ba8d1d04f8c0.png"
   },
   {
-   "id": "bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Finals 1_DAY2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T15:30:00+00:00",
-   "endAt": "2026-09-19T21:00:59.999+00:00",
-   "firstSeenAt": "2026-09-19T15:30:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/edacd3a4-83ee-4438-8f23-24d648f4150e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2",
-   "rewards": [
-    {
-     "name": "PEC: Fall Finals 1_DAY2",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2.png"
-  },
-  {
-   "id": "b3d7cda9-94fe-4897-a62f-3873b2b274e2",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Walker's MINICUP",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T16:00:00+00:00",
-   "endAt": "2026-09-19T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-19T16:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9f9d661-abd7-4d6c-8c3a-6d004bd7959f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b3d7cda9-94fe-4897-a62f-3873b2b274e2",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 210
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b3d7cda9-94fe-4897-a62f-3873b2b274e2.png"
-  },
-  {
    "id": "4d85b517-5d8d-4720-b9bd-b9d1e6c80697",
    "game": "League of Legends",
    "title": "WSCI 2026",
@@ -3655,6 +3595,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "b3d7cda9-94fe-4897-a62f-3873b2b274e2",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Walker's MINICUP",
+   "startAt": "2026-09-19T16:00:00+00:00",
+   "endAt": "2026-09-19T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bbd5a2ee-3ef1-48f0-a4ea-0bb8be121ca2",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY2",
+   "startAt": "2026-09-19T15:30:00+00:00",
+   "endAt": "2026-09-19T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "864dda43-61ec-4f77-acc5-d77a6688bd6f",
    "game": "Eternal Return",
@@ -7411,13 +7367,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.9
+   "score": 17.89
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.24
+   "score": 25.23
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7429,25 +7385,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.07
+   "score": 25.06
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.9
+   "score": 17.89
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.9
+   "score": 17.89
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.9
+   "score": 17.89
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7459,19 +7415,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.58
+   "score": 8.57
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.33
+   "score": 9.32
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.9
+   "score": 17.89
   }
  },
  "favoriteWeights": {
