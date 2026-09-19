@@ -3014,42 +3014,6 @@
    "asset": "assets/5eea833c-066a-4188-91bc-24e12183c01a.png"
   },
   {
-   "id": "0c9628ae-06c3-4d1d-a2be-67fce88557a5",
-   "game": "DOFUS Touch",
-   "title": "J5 - Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T22:00:00+00:00",
-   "endAt": "2026-09-19T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T22:00:57+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f739d212-88ad-474f-bec2-38a15a262577.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0c9628ae-06c3-4d1d-a2be-67fce88557a5",
-   "rewards": [
-    {
-     "name": "TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0c9628ae-06c3-4d1d-a2be-67fce88557a5.png"
-  },
-  {
    "id": "1dcf400e-9d1a-422e-a970-f272507b11ef",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3192,26 +3156,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d3abe7e3-8d4a-4ed7-9432-c6354b55db30.png"
-  },
-  {
-   "id": "9a91f43d-8af8-470f-bd67-6e59b32a8ae4",
-   "game": "World of Tanks",
-   "title": "Skill4ltu Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T10:00:00+00:00",
-   "endAt": "2026-09-19T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T10:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc4f06a8-0557-4d3e-979d-3b43700060c0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a91f43d-8af8-470f-bd67-6e59b32a8ae4",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9a91f43d-8af8-470f-bd67-6e59b32a8ae4.png"
   },
   {
    "id": "3c0af844-0d75-4239-9a26-f27c252068d6",
@@ -3592,9 +3536,61 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/76c799b8-f5af-4b8b-8c44-a45656525dae.jpg"
+  },
+  {
+   "id": "81a6dd92-586a-4b85-9c0d-250128665332",
+   "game": "DOFUS Touch",
+   "title": "J6 - Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T22:00:00+00:00",
+   "endAt": "2026-09-20T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T22:00:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aa801eac-a862-4799-b331-8d972f87b013.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=81a6dd92-586a-4b85-9c0d-250128665332",
+   "rewards": [
+    {
+     "name": "TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/81a6dd92-586a-4b85-9c0d-250128665332.png"
   }
  ],
  "archive": [
+  {
+   "id": "0c9628ae-06c3-4d1d-a2be-67fce88557a5",
+   "game": "DOFUS Touch",
+   "title": "J5 - Temporix Cps",
+   "startAt": "2026-09-18T22:00:00+00:00",
+   "endAt": "2026-09-19T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9a91f43d-8af8-470f-bd67-6e59b32a8ae4",
+   "game": "World of Tanks",
+   "title": "Skill4ltu Drops",
+   "startAt": "2026-09-19T10:00:00+00:00",
+   "endAt": "2026-09-19T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b3d7cda9-94fe-4897-a62f-3873b2b274e2",
    "game": "Escape from Tarkov: Arena",
@@ -7373,19 +7369,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.23
+   "score": 25.22
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.96
+   "score": 3.95
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.06
+   "score": 25.05
   },
   "Once Human": {
    "favorites": 2,
