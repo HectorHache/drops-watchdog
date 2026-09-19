@@ -1418,50 +1418,6 @@
    "asset": "assets/d562cedc-dc28-42d6-840a-15030138be49.png"
   },
   {
-   "id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
-   "game": "SMITE 2",
-   "title": "September Week 2! ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-12T11:00:00+00:00",
-   "endAt": "2026-09-19T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-12T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f42f1bb-f4fd-4bce-b732-a4b79c3e8649.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
-   "rewards": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Market Coins Bundle 5",
-     "minutes": 600
-    },
-    {
-     "name": "Market Coins Bundle 6",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coins Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/ce4adff7-7fd5-46c6-8f5c-0a507a514d8b.jpg"
-  },
-  {
    "id": "b49fb9b7-4084-45b0-8c2d-ca811de26680",
    "game": "World of Warcraft",
    "title": "WoW BlizzCon 2026",
@@ -3540,9 +3496,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fae03928-50c8-46a8-b21e-ea7f64639853.png"
+  },
+  {
+   "id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e",
+   "game": "SMITE 2",
+   "title": "Sept Week 3!",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T11:00:00+00:00",
+   "endAt": "2026-09-26T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-19T11:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1fee0cde-7933-44d1-8544-345843500347.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=92a7189f-2cf4-4313-b790-43d2ab5cb84e",
+   "rewards": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/92a7189f-2cf4-4313-b790-43d2ab5cb84e.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b",
+   "game": "SMITE 2",
+   "title": "September Week 2! ",
+   "startAt": "2026-09-12T11:00:00+00:00",
+   "endAt": "2026-09-19T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a91ded5d-34a0-4c45-8bec-0fb1fd78aa62",
    "game": "Ragnarok Online",
@@ -7217,7 +7225,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.5
+   "score": 25.49
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7229,7 +7237,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.33
+   "score": 25.31
   },
   "Once Human": {
    "favorites": 2,
