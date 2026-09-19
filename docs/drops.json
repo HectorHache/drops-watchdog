@@ -1934,34 +1934,6 @@
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   },
   {
-   "id": "4ff8faba-f1e4-44a0-abc8-6e6d99b4d56e",
-   "game": "RavenQuest",
-   "title": "September 03",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T15:00:00+00:00",
-   "endAt": "2026-09-19T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T15:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ebd2af1d-66af-494c-8439-cd3d8a132ecd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ff8faba-f1e4-44a0-abc8-6e6d99b4d56e",
-   "rewards": [
-    {
-     "name": "2x Treasure Below RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "Drops Twitch Pack 1",
-     "minutes": 360
-    },
-    {
-     "name": "Drops Twitch Pack 2",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4ff8faba-f1e4-44a0-abc8-6e6d99b4d56e.png"
-  },
-  {
    "id": "23bb4392-66ab-43a3-a940-1855f4a80087",
    "game": "World of Tanks Console",
    "title": "Masters of Mayhem Week 8",
@@ -3322,38 +3294,6 @@
    "asset": "assets/ca0adab9-6474-4ed3-bed1-4405ef65814f.png"
   },
   {
-   "id": "6732957e-89ad-4124-8e6d-f28716ee65f2",
-   "game": "Eternal Return",
-   "title": "2026 KEL CIRCUIT3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T01:30:00+00:00",
-   "endAt": "2026-09-19T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T01:30:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81e81412-48d9-4755-b218-12731738301e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6732957e-89ad-4124-8e6d-f28716ee65f2",
-   "rewards": [
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 180
-    },
-    {
-     "name": "CNJ EMOTE",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6732957e-89ad-4124-8e6d-f28716ee65f2.png"
-  },
-  {
    "id": "d3abe7e3-8d4a-4ed7-9432-c6354b55db30",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 7",
@@ -3595,6 +3535,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "4ff8faba-f1e4-44a0-abc8-6e6d99b4d56e",
+   "game": "RavenQuest",
+   "title": "September 03",
+   "startAt": "2026-09-15T15:00:00+00:00",
+   "endAt": "2026-09-19T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6732957e-89ad-4124-8e6d-f28716ee65f2",
+   "game": "Eternal Return",
+   "title": "2026 KEL CIRCUIT3",
+   "startAt": "2026-09-19T01:30:00+00:00",
+   "endAt": "2026-09-19T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "44f0a568-01b9-4ebe-9eb6-40572d6b7558",
    "game": "Out of the Park Baseball 27",
@@ -7287,13 +7243,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.02
+   "score": 18.01
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.4
+   "score": 25.39
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7305,25 +7261,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.23
+   "score": 25.22
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.02
+   "score": 18.01
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.02
+   "score": 18.01
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.02
+   "score": 18.01
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7347,7 +7303,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.02
+   "score": 18.01
   }
  },
  "favoriteWeights": {
