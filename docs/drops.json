@@ -2210,34 +2210,6 @@
    "asset": "assets/75c84956-e49d-417f-a8c4-aae97d724d7a.jpg"
   },
   {
-   "id": "bd2a02a0-654b-40a2-82ea-d0631d17e0ea",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 6",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T05:00:00+00:00",
-   "endAt": "2026-09-19T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-16T05:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb977a96-8571-4bb8-af24-262106c52ebf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd2a02a0-654b-40a2-82ea-d0631d17e0ea",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bd2a02a0-654b-40a2-82ea-d0631d17e0ea.png"
-  },
-  {
    "id": "c21130db-734b-433a-a9fa-38d8c50194a1",
    "game": "Arena Breakout: Infinite",
    "title": "S7 Support ABI Streamers",
@@ -2674,26 +2646,6 @@
    "asset": "assets/f6e4c513-5c61-4d58-aac6-1c009c25add7.png"
   },
   {
-   "id": "695f6680-8c47-463c-a2a9-914df697611c",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T00:00:00+00:00",
-   "endAt": "2026-09-18T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T00:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c668a313-80c4-4a55-b418-36118d378bad.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=695f6680-8c47-463c-a2a9-914df697611c",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/695f6680-8c47-463c-a2a9-914df697611c.png"
-  },
-  {
    "id": "13280127-a2ec-46c4-b1cd-528a9fba46a4",
    "game": "Albion Online",
    "title": "AOCP Flamescale 3 - #5/7",
@@ -3014,26 +2966,6 @@
    "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
   },
   {
-   "id": "627fd54a-b88f-4917-9ea3-2734cb94d8db",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:00:00+00:00",
-   "endAt": "2026-09-19T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T15:00:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e6b0f63-8a72-4b25-b381-bdbc6da7a6eb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=627fd54a-b88f-4917-9ea3-2734cb94d8db",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/627fd54a-b88f-4917-9ea3-2734cb94d8db.jpg"
-  },
-  {
    "id": "b22c385c-46d9-41bf-bf15-a62513b0b678",
    "game": "Caliber",
    "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 18.09.2026",
@@ -3350,26 +3282,6 @@
    "asset": "assets/5eea833c-066a-4188-91bc-24e12183c01a.png"
   },
   {
-   "id": "ad107cc8-a48f-4f86-a4b8-f773ed0eea38",
-   "game": "VALORANT",
-   "title": "OhnePixel Tournament\t",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T19:00:00+00:00",
-   "endAt": "2026-09-18T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T19:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52526917-3736-4c37-b6d4-5759e1df7eb6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ad107cc8-a48f-4f86-a4b8-f773ed0eea38",
-   "rewards": [
-    {
-     "name": "\"Zestify\" Title\t\t\t\t\t",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ad107cc8-a48f-4f86-a4b8-f773ed0eea38.png"
-  },
-  {
    "id": "864dda43-61ec-4f77-acc5-d77a6688bd6f",
    "game": "Eternal Return",
    "title": "MID SEASON DROPS [0919]",
@@ -3396,26 +3308,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/864dda43-61ec-4f77-acc5-d77a6688bd6f.png"
-  },
-  {
-   "id": "3ef30846-f609-49d5-be82-4f4ee1495898",
-   "game": "Halo Infinite",
-   "title": "BR Showcase-SEP18",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T22:00:00+00:00",
-   "endAt": "2026-09-19T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T22:00:57+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/501972a7-3f21-4f96-9642-a1919757485d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3ef30846-f609-49d5-be82-4f4ee1495898",
-   "rewards": [
-    {
-     "name": "Remote Detonation Charm",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/3ef30846-f609-49d5-be82-4f4ee1495898.png"
   },
   {
    "id": "0c9628ae-06c3-4d1d-a2be-67fce88557a5",
@@ -3454,27 +3346,231 @@
    "asset": "assets/0c9628ae-06c3-4d1d-a2be-67fce88557a5.png"
   },
   {
-   "id": "2e65541b-b639-4f3b-87ff-8f18c8a484c4",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PAS2 Finals 1_Day1",
+   "id": "1dcf400e-9d1a-422e-a970-f272507b11ef",
+   "game": "The Quinfall",
+   "title": "September Drops",
    "status": "ACTIVE",
-   "startAt": "2026-09-18T22:30:00+00:00",
-   "endAt": "2026-09-19T04:30:59.999+00:00",
-   "firstSeenAt": "2026-09-18T22:30:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cd3e313c-255e-43af-9baa-aa6b45386984.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2e65541b-b639-4f3b-87ff-8f18c8a484c4",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-19T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T00:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d15664b5-ddbf-4dc6-91d5-d622f14acb30.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1dcf400e-9d1a-422e-a970-f272507b11ef",
    "rewards": [
     {
-     "name": "PAS: Fall Finals 1_DAY1",
-     "minutes": 120
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/2e65541b-b639-4f3b-87ff-8f18c8a484c4.png"
+   "asset": "assets/1dcf400e-9d1a-422e-a970-f272507b11ef.png"
+  },
+  {
+   "id": "33548b4c-1478-4027-9a17-6bf38407dae4",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-19T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T00:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc3cd12e-ab94-47e0-aa33-6dca02d57a2d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=33548b4c-1478-4027-9a17-6bf38407dae4",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/33548b4c-1478-4027-9a17-6bf38407dae4.png"
+  },
+  {
+   "id": "80ad53fb-8c52-42f5-bca6-4f859fa0ab7d",
+   "game": "Delta Force",
+   "title": "Group Stage Day1-2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-20T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T00:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c27129eb-1c77-4709-881c-e61b52230329.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80ad53fb-8c52-42f5-bca6-4f859fa0ab7d",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Ammo Selection Pack Lv.4",
+     "minutes": 30
+    },
+    {
+     "name": "Card - Dream Castle",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Bizon - Heavy Duty",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/80ad53fb-8c52-42f5-bca6-4f859fa0ab7d.png"
+  },
+  {
+   "id": "ca0adab9-6474-4ed3-bed1-4405ef65814f",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder FINNAL",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-27T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T00:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/225ea559-42b0-46b3-90c2-3d4ef880d223.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca0adab9-6474-4ed3-bed1-4405ef65814f",
+   "rewards": [
+    {
+     "name": "QBZ95 Assault Rifle - Operator",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/ca0adab9-6474-4ed3-bed1-4405ef65814f.png"
+  },
+  {
+   "id": "6732957e-89ad-4124-8e6d-f28716ee65f2",
+   "game": "Eternal Return",
+   "title": "2026 KEL CIRCUIT3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T01:30:00+00:00",
+   "endAt": "2026-09-19T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T01:30:39+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81e81412-48d9-4755-b218-12731738301e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6732957e-89ad-4124-8e6d-f28716ee65f2",
+   "rewards": [
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 180
+    },
+    {
+     "name": "CNJ EMOTE",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6732957e-89ad-4124-8e6d-f28716ee65f2.png"
+  },
+  {
+   "id": "d3abe7e3-8d4a-4ed7-9432-c6354b55db30",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T05:00:00+00:00",
+   "endAt": "2026-09-21T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-19T05:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8febced-d29a-4bee-9d8e-07e944836cb6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d3abe7e3-8d4a-4ed7-9432-c6354b55db30",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d3abe7e3-8d4a-4ed7-9432-c6354b55db30.png"
   }
  ],
  "archive": [
+  {
+   "id": "bd2a02a0-654b-40a2-82ea-d0631d17e0ea",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 6",
+   "startAt": "2026-09-16T05:00:00+00:00",
+   "endAt": "2026-09-19T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2e65541b-b639-4f3b-87ff-8f18c8a484c4",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 1_Day1",
+   "startAt": "2026-09-18T22:30:00+00:00",
+   "endAt": "2026-09-19T04:30:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3ef30846-f609-49d5-be82-4f4ee1495898",
+   "game": "Halo Infinite",
+   "title": "BR Showcase-SEP18",
+   "startAt": "2026-09-18T22:00:00+00:00",
+   "endAt": "2026-09-19T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "627fd54a-b88f-4917-9ea3-2734cb94d8db",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #7",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-19T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "695f6680-8c47-463c-a2a9-914df697611c",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-18T00:00:00+00:00",
+   "endAt": "2026-09-18T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ad107cc8-a48f-4f86-a4b8-f773ed0eea38",
+   "game": "VALORANT",
+   "title": "OhnePixel Tournament\t",
+   "startAt": "2026-09-18T19:00:00+00:00",
+   "endAt": "2026-09-18T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f9b3662b-fa6f-4fe7-9597-c95755c46de9",
    "game": "DOFUS Touch",
@@ -7071,67 +7167,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.3
+   "score": 18.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.8
+   "score": 25.63
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 4.05
+   "score": 4.02
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.62
+   "score": 25.46
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.3
+   "score": 18.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.3
+   "score": 18.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.3
+   "score": 18.18
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 2.02
+   "score": 2.01
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.76
+   "score": 8.71
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.53
+   "score": 9.47
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 18.3
+   "score": 18.18
   }
  },
  "favoriteWeights": {
