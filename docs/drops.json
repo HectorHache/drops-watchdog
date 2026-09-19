@@ -2954,46 +2954,6 @@
    "asset": "assets/0e9b7854-aef0-4088-aadc-c1eddc732f03.png"
   },
   {
-   "id": "2a5a8d8b-6149-45d8-9c1b-e8828bf28d9c",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Live",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T17:00:00+00:00",
-   "endAt": "2026-09-19T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T17:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdaa0005-81a4-432c-b87a-d5d232c58782.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2a5a8d8b-6149-45d8-9c1b-e8828bf28d9c",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2a5a8d8b-6149-45d8-9c1b-e8828bf28d9c.png"
-  },
-  {
    "id": "f2761eae-cf4d-4f39-aeeb-a012db335518",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 3",
@@ -3592,9 +3552,69 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
+  },
+  {
+   "id": "83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
+   "game": "Warframe",
+   "title": "Community Drops #217",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T17:00:00+00:00",
+   "endAt": "2026-09-19T18:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T17:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a49d86a-2d97-4ea8-8c5e-91b6ae564c68.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
+   "rewards": [
+    {
+     "name": "Efervon Tank Domestik Drone",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/83ffc6f2-5ddf-475f-8ec4-88a429c085c4.jpg"
+  },
+  {
+   "id": "93a92dfa-00b2-41b8-ad19-c3dadd426fec",
+   "game": "MLB The Show 26",
+   "title": "Grand Finals 9.19",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T17:00:00+00:00",
+   "endAt": "2026-09-19T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T17:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e5d4dbf-a329-4835-bde1-61eac09c9323.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=93a92dfa-00b2-41b8-ad19-c3dadd426fec",
+   "rewards": [
+    {
+     "name": "Grand Finals Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Grand Finals Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Grand Finals Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Grand Finals Drop 4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/93a92dfa-00b2-41b8-ad19-c3dadd426fec.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "2a5a8d8b-6149-45d8-9c1b-e8828bf28d9c",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "startAt": "2026-09-18T17:00:00+00:00",
+   "endAt": "2026-09-19T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "46bce301-10c6-47a4-be00-fa16e9cca155",
    "game": "Marbles on Stream",
@@ -7311,43 +7331,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.35
+   "score": 25.34
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.98
+   "score": 3.97
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.18
+   "score": 25.17
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7365,13 +7385,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.37
+   "score": 9.36
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   }
  },
  "favoriteWeights": {
