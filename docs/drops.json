@@ -3572,6 +3572,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/81a6dd92-586a-4b85-9c0d-250128665332.png"
+  },
+  {
+   "id": "ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 1_Day2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T22:30:00+00:00",
+   "endAt": "2026-09-20T04:30:59.999+00:00",
+   "firstSeenAt": "2026-09-19T22:30:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d88f1386-5e10-411d-82a2-59487a7e9916.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
+   "rewards": [
+    {
+     "name": "PAS: Fall Finals 1_DAY2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ba5a8ddc-637d-48ab-9b65-5386d437cc3e.png"
   }
  ],
  "archive": [
@@ -7363,13 +7383,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.89
+   "score": 17.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.22
+   "score": 25.21
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7381,25 +7401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.05
+   "score": 25.03
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.89
+   "score": 17.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.89
+   "score": 17.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.89
+   "score": 17.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7411,19 +7431,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.57
+   "score": 8.56
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.32
+   "score": 9.31
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.89
+   "score": 17.88
   }
  },
  "favoriteWeights": {
