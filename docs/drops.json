@@ -3014,34 +3014,6 @@
    "asset": "assets/5eea833c-066a-4188-91bc-24e12183c01a.png"
   },
   {
-   "id": "864dda43-61ec-4f77-acc5-d77a6688bd6f",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0919]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T20:00:00+00:00",
-   "endAt": "2026-09-19T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T20:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4d7473a0-0fd6-4666-93bf-42d12467828c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=864dda43-61ec-4f77-acc5-d77a6688bd6f",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/864dda43-61ec-4f77-acc5-d77a6688bd6f.png"
-  },
-  {
    "id": "0c9628ae-06c3-4d1d-a2be-67fce88557a5",
    "game": "DOFUS Touch",
    "title": "J5 - Temporix Cps",
@@ -3584,9 +3556,93 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/444c58c3-9c2d-42c4-b9fe-cab7dc90353a.png"
+  },
+  {
+   "id": "0ab701fe-e41a-4057-8db5-a25ce930104d",
+   "game": "Halo Infinite",
+   "title": "SWATNation 1190-SEP19",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-20T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T20:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7243d331-df70-450e-8d4f-370dd5e6ea75.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ab701fe-e41a-4057-8db5-a25ce930104d",
+   "rewards": [
+    {
+     "name": "Killing Frenzy Charm",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/0ab701fe-e41a-4057-8db5-a25ce930104d.png"
+  },
+  {
+   "id": "92ccbe74-2fa2-4764-94f2-633a1608ab12",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0920]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-20T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T20:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd5547ff-c7ff-4980-b30a-41f79c060314.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=92ccbe74-2fa2-4764-94f2-633a1608ab12",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/92ccbe74-2fa2-4764-94f2-633a1608ab12.png"
+  },
+  {
+   "id": "39784ad3-3488-4825-bbe6-0d435ca30806",
+   "game": "RavenQuest",
+   "title": "September 04",
+   "status": "ACTIVE",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-19T20:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98f646a0-8617-44a4-bf8e-2f10a2564cc2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=39784ad3-3488-4825-bbe6-0d435ca30806",
+   "rewards": [
+    {
+     "name": "2x Treasure Below RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "Drops Twitch Pack 1",
+     "minutes": 360
+    },
+    {
+     "name": "Drops Twitch Pack 2",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/39784ad3-3488-4825-bbe6-0d435ca30806.png"
   }
  ],
  "archive": [
+  {
+   "id": "864dda43-61ec-4f77-acc5-d77a6688bd6f",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0919]",
+   "startAt": "2026-09-18T20:00:00+00:00",
+   "endAt": "2026-09-19T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "83ffc6f2-5ddf-475f-8ec4-88a429c085c4",
    "game": "Warframe",
@@ -7335,13 +7391,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.28
+   "score": 25.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7353,25 +7409,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.11
+   "score": 25.1
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7395,7 +7451,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   }
  },
  "favoriteWeights": {
