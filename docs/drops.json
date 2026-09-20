@@ -3366,26 +3366,6 @@
    "asset": "assets/5db1263a-f2ce-4423-882c-328a956c5fd4.png"
   },
   {
-   "id": "afe7cb0a-2c43-41a9-864f-d5b1a7263b86",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Finals 1_DAY3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-20T15:30:00+00:00",
-   "endAt": "2026-09-20T21:00:59.999+00:00",
-   "firstSeenAt": "2026-09-20T15:30:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cd1265ef-ab02-4a3e-a478-a3fa38b7a7b5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=afe7cb0a-2c43-41a9-864f-d5b1a7263b86",
-   "rewards": [
-    {
-     "name": "PEC: Fall Finals 1_DAY3",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/afe7cb0a-2c43-41a9-864f-d5b1a7263b86.png"
-  },
-  {
    "id": "20807889-129d-4ee8-bc04-9d9486207cc8",
    "game": "Rocket League",
    "title": "RL World Championship",
@@ -3531,6 +3511,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "afe7cb0a-2c43-41a9-864f-d5b1a7263b86",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY3",
+   "startAt": "2026-09-20T15:30:00+00:00",
+   "endAt": "2026-09-20T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b22c385c-46d9-41bf-bf15-a62513b0b678",
    "game": "Caliber",
@@ -7501,7 +7489,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.67
+   "score": 24.65
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7513,7 +7501,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.5
+   "score": 24.49
   },
   "Once Human": {
    "favorites": 2,
