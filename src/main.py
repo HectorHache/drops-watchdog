@@ -148,7 +148,7 @@ def cmd_dryrun(args):
         known = {}  # fixture-only demo: no history -> everything is NEW
     else:
         camps = tc.fetch_campaigns()
-        known = dbm.get_campaigns(conn)
+        known = dbm.get_campaigns_with_rewards(conn)
         print(f"[live] {len(camps)} campaigns; {len(known)} known in DB (read-only)")
     state = wd.classify(known, camps, now,
                         h24=cfg["watchdog"]["ending_24h_hours"],
@@ -164,11 +164,17 @@ def cmd_dryrun(args):
     print("=" * 88)
 
 
-def _send_digest(camps, cfg, conn, dry=False):
-    """Shared: classify -> compose -> (send + ledger-mark). Returns (msg, state)."""
+def _send_digest(camps, cfg, conn, dry=False, known=None):
+    """Shared: classify -> compose -> (send + ledger-mark). Returns (msg, state).
+
+    `known` is the pre-seed snapshot (campaign rows + rewards); passing it lets
+    the digest detect material changes vs the last run. When None it is read
+    fresh from the DB (used by `send`, which never seeds first).
+    """
     import notify as ntf
     now = datetime.datetime.now(datetime.timezone.utc)
-    known = dbm.get_campaigns(conn)
+    if known is None:
+        known = dbm.get_campaigns_with_rewards(conn)
     state = wd.classify(known, camps, now,
                         h24=cfg["watchdog"]["ending_24h_hours"],
                         h48=cfg["watchdog"]["ending_48h_hours"])
@@ -299,6 +305,9 @@ def cmd_sync(args):
         print(f"FETCH ERROR: {e}", file=sys.stderr)
         _alert(conn, "FETCH_FAILED", str(e))
         raise  # main() exits 2 (silent-fail safe for cron)
+    # Snapshot BEFORE seeding: material-change detection (end_at shifts, reward
+    # edits) compares the previous run's state, not the state we just wrote.
+    known_pre = dbm.get_campaigns_with_rewards(conn)
     n_new = n_upd = 0
     for c in camps:
         r = dbm.upsert_campaign(conn, c)
@@ -327,7 +336,7 @@ def cmd_sync(args):
     if closed:
         print(f"closed {closed} ended campaign(s) -> CLOSED + archived_at")
 
-    msg, state = _send_digest(camps, cfg, conn, dry=args.dry)
+    msg, state = _send_digest(camps, cfg, conn, dry=args.dry, known=known_pre)
 
     sb.cmd_build(argparse.Namespace(db=str(db_path())))
     commit_on_change(conn, dry=args.dry)
@@ -393,7 +402,7 @@ def cmd_favorite(args):
         print(f"[favorite] site refresh skipped: {e}", file=sys.stderr)
 
 
-def _send_personal(camps, cfg, conn, dry=False):
+def _send_personal(camps, cfg, conn, dry=False, known=None):
     """Favorites' personal DM alerts (24/7). Fires once per campaign per kind:
     PERSONAL_NEW (favorite game has a brand-new campaign) and PERSONAL_24H (favorite
     campaign enters the <24h window). Ledger-marked after successful send -> no spam.
@@ -404,7 +413,8 @@ def _send_personal(camps, cfg, conn, dry=False):
         print("no favorites configured — skipping personal alerts")
         return None
     now = datetime.datetime.now(datetime.timezone.utc)
-    known = dbm.get_campaigns(conn)
+    if known is None:
+        known = dbm.get_campaigns_with_rewards(conn)
     state = wd.classify(known, camps, now,
                         h24=cfg["watchdog"]["ending_24h_hours"],
                         h48=cfg["watchdog"]["ending_48h_hours"])
@@ -435,7 +445,7 @@ def _send_personal(camps, cfg, conn, dry=False):
             lines.append(f"   🏆 {names}")
         lines.append(f"   🔗 <a href=\"{wd._esc(c['details_url'])}\">Open drop</a>")
     lines.append("━━━━━━━━━━━━━━━━━━━━━━")
-    lines.append(f"🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>")
+    lines.append("🌐 <a href=\"https://drops.hector.app\">drops.hector.app</a>")
     msg = "\n".join(lines)
     if dry:
         print(msg)
@@ -460,13 +470,13 @@ def cmd_personal(args):
         print(f"FETCH ERROR: {e}", file=sys.stderr)
         _alert(conn, "FETCH_FAILED", str(e))
         raise
+    known_pre = dbm.get_campaigns_with_rewards(conn)
     for c in camps:
         dbm.upsert_campaign(conn, c)
     try:
         kvm.kv_pull(conn)
     except Exception as e:
         print(f"[kv] pull error (non-fatal): {e}", file=sys.stderr)
-
 
     try:
         lrn.update_weights(conn)
@@ -475,7 +485,7 @@ def cmd_personal(args):
     closed = dbm.close_ended(conn)
     if closed:
         print(f"closed {closed} ended campaign(s)")
-    _send_personal(camps, cfg, conn, dry=args.dry)
+    _send_personal(camps, cfg, conn, dry=args.dry, known=known_pre)
 
 
 def cmd_status(args):

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """SQLite layer — drops.db is the single source of truth. Stdlib only."""
+import datetime
 import json
 import sqlite3
 import time
@@ -108,6 +109,21 @@ def get_campaigns(conn, statuses=None) -> dict:
         q += f" WHERE status IN ({marks})"
         params = tuple(statuses)
     return {r["id"]: dict(r) for r in conn.execute(q, params)}
+
+
+def get_campaigns_with_rewards(conn, statuses=None) -> dict:
+    """Campaign rows enriched with their current rewards (name + required_minutes).
+
+    Used to snapshot pre-seed state so the digest can detect material changes
+    (end_at shifts, reward edits) against the previous run instead of the
+    already-upserted state.
+    """
+    rows = get_campaigns(conn, statuses)
+    for cid in rows:
+        rows[cid]["rewards"] = [dict(r) for r in conn.execute(
+            "SELECT name, required_minutes FROM rewards WHERE campaign_id=? ORDER BY sort",
+            (cid,))]
+    return rows
 
 
 def _end_in_future(end_at) -> bool:

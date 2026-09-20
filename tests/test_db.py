@@ -81,3 +81,47 @@ class TestDb(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestEndInFuture(unittest.TestCase):
+    """Regression: _end_in_future previously raised NameError (datetime never
+    imported) which the broad except swallowed -> always False -> a genuinely
+    re-opened campaign could never transition back from CLOSED."""
+
+    def test_future_iso_with_zulu_suffix(self):
+        self.assertTrue(dbm._end_in_future("2099-01-01T10:00:00Z"))
+
+    def test_future_iso_with_offset(self):
+        self.assertTrue(dbm._end_in_future("2099-01-01T10:00:00+00:00"))
+
+    def test_past_is_false(self):
+        self.assertFalse(dbm._end_in_future("2020-01-01T10:00:00+00:00"))
+
+    def test_no_end_at_is_false(self):
+        self.assertFalse(dbm._end_in_future(None))
+        self.assertFalse(dbm._end_in_future(""))
+
+    def test_garbage_is_false(self):
+        self.assertFalse(dbm._end_in_future("not-a-date"))
+
+
+class TestGetCampaignsWithRewards(TestDb):
+    def test_rows_carry_ordered_rewards(self):
+        dbm.upsert_campaign(self.conn, self._camp())
+        rows = dbm.get_campaigns_with_rewards(self.conn)
+        self.assertIn("rewards", rows["c1"])
+        self.assertEqual([r["name"] for r in rows["c1"]["rewards"]], ["Skin A", "Skin B"])
+        self.assertEqual(rows["c1"]["rewards"][0]["required_minutes"], 60)
+
+    def test_missing_rewards_empty_list(self):
+        c = self._camp()
+        c["rewards"] = []
+        dbm.upsert_campaign(self.conn, c)
+        rows = dbm.get_campaigns_with_rewards(self.conn)
+        self.assertEqual(rows["c1"]["rewards"], [])
+
+    def test_status_filter_applies(self):
+        dbm.upsert_campaign(self.conn, self._camp("c1", "ACTIVE"))
+        dbm.upsert_campaign(self.conn, self._camp("c2", "CLOSED"))
+        rows = dbm.get_campaigns_with_rewards(self.conn, statuses=("ACTIVE",))
+        self.assertEqual(set(rows), {"c1"})
