@@ -3342,38 +3342,6 @@
    "asset": "assets/7f7cc898-4a40-4fda-a9d0-d6c96dcd2d5a.png"
   },
   {
-   "id": "c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
-   "game": "Eternal Return",
-   "title": "2026 KEL CIRCUIT3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-20T00:15:00+00:00",
-   "endAt": "2026-09-20T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-20T00:30:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f812df6-dd87-4608-bfdc-7946a7fffeb2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    },
-    {
-     "name": "MARK",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c41c1da7-123e-4a8e-a54f-cc4bc26d58a3.png"
-  },
-  {
    "id": "1af19995-9b5e-4320-a2c2-a83804c68b9d",
    "game": "Hunt Club On Stream",
    "title": "Drops",
@@ -3555,6 +3523,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
+   "game": "Eternal Return",
+   "title": "2026 KEL CIRCUIT3",
+   "startAt": "2026-09-20T00:15:00+00:00",
+   "endAt": "2026-09-20T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "51bad947-9c61-47bb-a517-ba8d1d04f8c0",
    "game": "Out of the Park Baseball 27",
@@ -7461,7 +7437,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.82
+   "score": 24.81
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7473,7 +7449,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.65
+   "score": 24.64
   },
   "Once Human": {
    "favorites": 2,
