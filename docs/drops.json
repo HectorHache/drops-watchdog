@@ -3014,66 +3014,6 @@
    "asset": "assets/5eea833c-066a-4188-91bc-24e12183c01a.png"
   },
   {
-   "id": "1dcf400e-9d1a-422e-a970-f272507b11ef",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T00:00:00+00:00",
-   "endAt": "2026-09-19T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T00:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d15664b5-ddbf-4dc6-91d5-d622f14acb30.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1dcf400e-9d1a-422e-a970-f272507b11ef",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1dcf400e-9d1a-422e-a970-f272507b11ef.png"
-  },
-  {
-   "id": "33548b4c-1478-4027-9a17-6bf38407dae4",
-   "game": "Delta Force",
-   "title": "DF Streamer Ladder Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T00:00:00+00:00",
-   "endAt": "2026-09-19T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T00:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc3cd12e-ab94-47e0-aa33-6dca02d57a2d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=33548b4c-1478-4027-9a17-6bf38407dae4",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Adv. E-product Lucky Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Adv Weapon Select Pack",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "M7 - Street Art",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/33548b4c-1478-4027-9a17-6bf38407dae4.png"
-  },
-  {
    "id": "80ad53fb-8c52-42f5-bca6-4f859fa0ab7d",
    "game": "Delta Force",
    "title": "Group Stage Day1-2",
@@ -3370,38 +3310,6 @@
    "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
   },
   {
-   "id": "93a92dfa-00b2-41b8-ad19-c3dadd426fec",
-   "game": "MLB The Show 26",
-   "title": "Grand Finals 9.19",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T17:00:00+00:00",
-   "endAt": "2026-09-19T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T17:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e5d4dbf-a329-4835-bde1-61eac09c9323.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=93a92dfa-00b2-41b8-ad19-c3dadd426fec",
-   "rewards": [
-    {
-     "name": "Grand Finals Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Grand Finals Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Grand Finals Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Grand Finals Drop 4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/93a92dfa-00b2-41b8-ad19-c3dadd426fec.jpg"
-  },
-  {
    "id": "bcd736c6-3318-4771-8fde-1469a5f2e26b",
    "game": "Rise Online",
    "title": "Mobile Drop 163",
@@ -3440,26 +3348,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/444c58c3-9c2d-42c4-b9fe-cab7dc90353a.png"
-  },
-  {
-   "id": "0ab701fe-e41a-4057-8db5-a25ce930104d",
-   "game": "Halo Infinite",
-   "title": "SWATNation 1190-SEP19",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T20:00:00+00:00",
-   "endAt": "2026-09-20T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T20:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7243d331-df70-450e-8d4f-370dd5e6ea75.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ab701fe-e41a-4057-8db5-a25ce930104d",
-   "rewards": [
-    {
-     "name": "Killing Frenzy Charm",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/0ab701fe-e41a-4057-8db5-a25ce930104d.png"
   },
   {
    "id": "92ccbe74-2fa2-4764-94f2-633a1608ab12",
@@ -3518,26 +3406,6 @@
    "asset": "assets/39784ad3-3488-4825-bbe6-0d435ca30806.png"
   },
   {
-   "id": "76c799b8-f5af-4b8b-8c44-a45656525dae",
-   "game": "Warframe",
-   "title": "Community Drops #218",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T21:00:00+00:00",
-   "endAt": "2026-09-19T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T21:00:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dee42d47-38d7-41d7-ae34-2eb2c75a7ddb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76c799b8-f5af-4b8b-8c44-a45656525dae",
-   "rewards": [
-    {
-     "name": "Warframe Articula",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/76c799b8-f5af-4b8b-8c44-a45656525dae.jpg"
-  },
-  {
    "id": "81a6dd92-586a-4b85-9c0d-250128665332",
    "game": "DOFUS Touch",
    "title": "J6 - Temporix Cps",
@@ -3574,27 +3442,199 @@
    "asset": "assets/81a6dd92-586a-4b85-9c0d-250128665332.png"
   },
   {
-   "id": "ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PAS2 Finals 1_Day2",
+   "id": "955807f3-d12b-41b1-93a7-0175cbef7649",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
    "status": "ACTIVE",
-   "startAt": "2026-09-19T22:30:00+00:00",
-   "endAt": "2026-09-20T04:30:59.999+00:00",
-   "firstSeenAt": "2026-09-19T22:30:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d88f1386-5e10-411d-82a2-59487a7e9916.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
+   "startAt": "2026-09-20T00:00:00+00:00",
+   "endAt": "2026-09-20T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c5bd592-922d-4849-955b-4e8562e62954.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=955807f3-d12b-41b1-93a7-0175cbef7649",
    "rewards": [
     {
-     "name": "PAS: Fall Finals 1_DAY2",
-     "minutes": 120
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/955807f3-d12b-41b1-93a7-0175cbef7649.png"
+  },
+  {
+   "id": "7f7cc898-4a40-4fda-a9d0-d6c96dcd2d5a",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T00:00:00+00:00",
+   "endAt": "2026-09-20T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30f96303-6714-4e66-819b-a363b4e8dad2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7f7cc898-4a40-4fda-a9d0-d6c96dcd2d5a",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/ba5a8ddc-637d-48ab-9b65-5386d437cc3e.png"
+   "asset": "assets/7f7cc898-4a40-4fda-a9d0-d6c96dcd2d5a.png"
+  },
+  {
+   "id": "c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
+   "game": "Eternal Return",
+   "title": "2026 KEL CIRCUIT3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T00:15:00+00:00",
+   "endAt": "2026-09-20T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T00:30:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f812df6-dd87-4608-bfdc-7946a7fffeb2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    },
+    {
+     "name": "MARK",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c41c1da7-123e-4a8e-a54f-cc4bc26d58a3.png"
+  },
+  {
+   "id": "1af19995-9b5e-4320-a2c2-a83804c68b9d",
+   "game": "Hunt Club On Stream",
+   "title": "Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T04:17:52+00:00",
+   "endAt": "2026-09-23T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T04:30:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7c75b29c-46ce-404b-a382-496adaf15863.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1af19995-9b5e-4320-a2c2-a83804c68b9d",
+   "rewards": [
+    {
+     "name": "Bronze",
+     "minutes": 60
+    },
+    {
+     "name": "Silver",
+     "minutes": 150
+    },
+    {
+     "name": "Gold",
+     "minutes": 300
+    },
+    {
+     "name": "Random",
+     "minutes": 420
+    },
+    {
+     "name": "Epic",
+     "minutes": 600
+    },
+    {
+     "name": "Legendary ",
+     "minutes": 900
+    },
+    {
+     "name": "Mega Sub",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1af19995-9b5e-4320-a2c2-a83804c68b9d.png"
   }
  ],
  "archive": [
+  {
+   "id": "ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 1_Day2",
+   "startAt": "2026-09-19T22:30:00+00:00",
+   "endAt": "2026-09-20T04:30:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4eaa231b-59ba-4b69-ae90-6dcc7b0dcb8f",
+   "game": "War Thunder",
+   "title": "Usagi TGS Drop",
+   "startAt": "2026-09-20T02:55:00+00:00",
+   "endAt": "2026-09-20T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0ab701fe-e41a-4057-8db5-a25ce930104d",
+   "game": "Halo Infinite",
+   "title": "SWATNation 1190-SEP19",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-20T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1dcf400e-9d1a-422e-a970-f272507b11ef",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-19T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "33548b4c-1478-4027-9a17-6bf38407dae4",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "startAt": "2026-09-19T00:00:00+00:00",
+   "endAt": "2026-09-19T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "93a92dfa-00b2-41b8-ad19-c3dadd426fec",
+   "game": "MLB The Show 26",
+   "title": "Grand Finals 9.19",
+   "startAt": "2026-09-19T17:00:00+00:00",
+   "endAt": "2026-09-19T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "76c799b8-f5af-4b8b-8c44-a45656525dae",
+   "game": "Warframe",
+   "title": "Community Drops #218",
+   "startAt": "2026-09-19T21:00:00+00:00",
+   "endAt": "2026-09-19T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0c9628ae-06c3-4d1d-a2be-67fce88557a5",
    "game": "DOFUS Touch",
@@ -7383,67 +7423,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.77
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.21
+   "score": 25.05
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.95
+   "score": 3.93
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 25.03
+   "score": 24.88
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.77
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.77
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.77
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.98
+   "score": 1.96
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.56
+   "score": 8.51
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.31
+   "score": 9.25
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.77
   }
  },
  "favoriteWeights": {
@@ -7451,7 +7491,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 35,
-  "LEGO Batman: Legacy of the Dark Knight": 35,
+  "LEGO Batman: Legacy of the Dark Knight": 34,
   "Marvel Rivals": 10,
   "Once Human": 27,
   "Palia": 27,
