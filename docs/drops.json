@@ -298,50 +298,6 @@
    "asset": "assets/0f0f3203-1c8f-4bf1-85d5-e5484bfc822d.png"
   },
   {
-   "id": "796bdad1-10fd-4294-8277-6783723e14ff",
-   "game": "LEGO Batman: Legacy of the Dark Knight",
-   "title": "Mayhem Collection - DC",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T07:00:00+00:00",
-   "endAt": "2026-09-20T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b54ae636-3d0d-4ea4-8ce2-12e39d19ba4b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=796bdad1-10fd-4294-8277-6783723e14ff",
-   "rewards": [
-    {
-     "name": "Comic Book Stand",
-     "minutes": 30
-    },
-    {
-     "name": "Neon Bat-Symbol",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/796bdad1-10fd-4294-8277-6783723e14ff.png"
-  },
-  {
-   "id": "7d64c672-6183-425b-92e2-57546404f25c",
-   "game": "LEGO Batman: Legacy of the Dark Knight",
-   "title": "Harley Mayhem",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T07:00:00+00:00",
-   "endAt": "2026-09-20T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ac988185-8594-4167-af46-872dd6e86565.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7d64c672-6183-425b-92e2-57546404f25c",
-   "rewards": [
-    {
-     "name": "Harley Mayhem",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/7d64c672-6183-425b-92e2-57546404f25c.png"
-  },
-  {
    "id": "a3f7a56a-f943-46d2-a780-3700684883f1",
    "game": "ELDEN RING",
    "title": "Sorcerer Rogier ",
@@ -3559,6 +3515,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "796bdad1-10fd-4294-8277-6783723e14ff",
+   "game": "LEGO Batman: Legacy of the Dark Knight",
+   "title": "Mayhem Collection - DC",
+   "startAt": "2026-09-01T07:00:00+00:00",
+   "endAt": "2026-09-20T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7d64c672-6183-425b-92e2-57546404f25c",
+   "game": "LEGO Batman: Legacy of the Dark Knight",
+   "title": "Harley Mayhem",
+   "startAt": "2026-09-01T07:00:00+00:00",
+   "endAt": "2026-09-20T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5eea833c-066a-4188-91bc-24e12183c01a",
    "game": "Halo: Campaign Evolved",
@@ -7411,13 +7383,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.74
+   "score": 17.73
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.01
+   "score": 25.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7429,25 +7401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.84
+   "score": 24.83
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.74
+   "score": 17.73
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.74
+   "score": 17.73
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.74
+   "score": 17.73
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7459,7 +7431,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.5
+   "score": 8.49
   },
   "Warframe": {
    "favorites": 1,
@@ -7471,7 +7443,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.74
+   "score": 17.73
   }
  },
  "favoriteWeights": {
