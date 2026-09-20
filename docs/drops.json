@@ -3472,6 +3472,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1af19995-9b5e-4320-a2c2-a83804c68b9d.png"
+  },
+  {
+   "id": "84ddeffa-e267-450b-bdfa-801b547fca9e",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T10:00:00+00:00",
+   "endAt": "2026-09-21T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-20T10:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31320dcf-1a60-4b45-a106-0fdd70388d00.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84ddeffa-e267-450b-bdfa-801b547fca9e",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/84ddeffa-e267-450b-bdfa-801b547fca9e.png"
+  },
+  {
+   "id": "faadb035-e6e4-42e6-ad4c-29a6035c2eb5",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T10:00:00+00:00",
+   "endAt": "2026-09-21T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-20T10:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e715dbd-e7b3-48c0-ae3c-40cc70a8bed9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=faadb035-e6e4-42e6-ad4c-29a6035c2eb5",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/faadb035-e6e4-42e6-ad4c-29a6035c2eb5.png"
   }
  ],
  "archive": [
@@ -7359,13 +7399,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.94
+   "score": 24.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7377,31 +7417,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.77
+   "score": 24.76
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.96
+   "score": 1.95
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -7419,7 +7459,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   }
  },
  "favoriteWeights": {
