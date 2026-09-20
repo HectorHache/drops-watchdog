@@ -12,3 +12,9 @@ __pycache__/
 # local caches
 .tmp/
 260901-drops-plan.md
+.venv/
+__pypackages__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/

@@ -9,6 +9,7 @@ import re
 
 # Common gaming aliases: maps varied names to a canonical root key
 ALIASES = {
+    "cod": "call of duty",
     "cs2": "counter strike",
     "counter strike 2": "counter strike",
     "counter strike global offensive": "counter strike",
@@ -76,21 +77,26 @@ def clean_title(s: str) -> str:
     for pat in PREFIXES:
         s = re.sub(pat, "", s, flags=re.IGNORECASE)
 
+    # Bare numeral + colon left after a franchise prefix ("The Elder Scrolls
+    # V: Skyrim" -> "skyrim"; without this the numeral collapses to a bare "v")
+    s = re.sub(r"^(?:vii|vi|iv|iii|ii|ix|i|v|x)\s*:\s*", "", s, flags=re.IGNORECASE)
+
     # Strip leading "the "
     if s.startswith("the "):
         s = s[4:].strip()
+
+    # Strip trailing subtitles after ' - ' or ' : ' if any (e.g. "Game: Subtitle")
+    s = re.sub(r"\s*[:]\s+.*$", "", s)
+
+    # Remove remaining punctuation except alphanumeric & spaces (before the
+    # numeral pass — a trailing "!" would otherwise shadow "GTA V!" -> "gta v")
+    s = re.sub(r"[^\w\s]", "", s)
 
     # Normalize Roman numerals
     for r, n in ROMAN_NUMERALS.items():
         if s.endswith(r):
             s = s[:-len(r)] + n
         s = s.replace(r + ":", n + ":").replace(r + " ", n + " ")
-
-    # Strip trailing subtitles after ' - ' or ' : ' if any (e.g. "Game: Subtitle")
-    s = re.sub(r"\s*[:]\s+.*$", "", s)
-
-    # Remove remaining punctuation except alphanumeric & spaces
-    s = re.sub(r"[^\w\s]", "", s)
 
     # Collapse whitespace
     s = re.sub(r"\s+", " ", s).strip()
