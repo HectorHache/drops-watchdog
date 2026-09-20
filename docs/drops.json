@@ -3532,6 +3532,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cdace91d-6756-4f63-89fd-ee5df1f7d611.png"
+  },
+  {
+   "id": "5db1263a-f2ce-4423-882c-328a956c5fd4",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 Day 6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T14:00:00+00:00",
+   "endAt": "2026-09-20T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T14:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1dea610c-c038-4cec-8a4a-b615fe761f47.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5db1263a-f2ce-4423-882c-328a956c5fd4",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5db1263a-f2ce-4423-882c-328a956c5fd4.png"
   }
  ],
  "archive": [
@@ -7435,43 +7455,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.62
+   "score": 17.61
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.85
+   "score": 24.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.9
+   "score": 3.89
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.68
+   "score": 24.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.62
+   "score": 17.61
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.62
+   "score": 17.61
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.62
+   "score": 17.61
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7489,13 +7509,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.18
+   "score": 9.17
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.62
+   "score": 17.61
   }
  },
  "favoriteWeights": {
