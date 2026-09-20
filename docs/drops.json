@@ -3102,34 +3102,6 @@
    "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
   },
   {
-   "id": "92ccbe74-2fa2-4764-94f2-633a1608ab12",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0920]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T20:00:00+00:00",
-   "endAt": "2026-09-20T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T20:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd5547ff-c7ff-4980-b30a-41f79c060314.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=92ccbe74-2fa2-4764-94f2-633a1608ab12",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/92ccbe74-2fa2-4764-94f2-633a1608ab12.png"
-  },
-  {
    "id": "39784ad3-3488-4825-bbe6-0d435ca30806",
    "game": "RavenQuest",
    "title": "September 04",
@@ -3454,46 +3426,6 @@
    "asset": "assets/afe7cb0a-2c43-41a9-864f-d5b1a7263b86.png"
   },
   {
-   "id": "c6ada75c-796a-44e2-b637-7cfe6b5d81e7",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Walker's MINICUP",
-   "status": "ACTIVE",
-   "startAt": "2026-09-20T16:00:00+00:00",
-   "endAt": "2026-09-20T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-20T16:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e0aab8d-b52e-413b-93bf-ccbade30b6db.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6ada75c-796a-44e2-b637-7cfe6b5d81e7",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c6ada75c-796a-44e2-b637-7cfe6b5d81e7.png"
-  },
-  {
    "id": "20807889-129d-4ee8-bc04-9d9486207cc8",
    "game": "Rocket League",
    "title": "RL World Championship",
@@ -3584,9 +3516,77 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ced26d9e-ac14-437f-84fa-9c4590f00f00.png"
+  },
+  {
+   "id": "703bea65-fc7e-494a-9b19-da61793e19bc",
+   "game": "Fortnite",
+   "title": "Jynxzi Invitational",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T20:00:00+00:00",
+   "endAt": "2026-09-21T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T20:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6b6cdfd6-6059-47b7-9349-9e1f5a8981ae.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=703bea65-fc7e-494a-9b19-da61793e19bc",
+   "rewards": [
+    {
+     "name": "Vibrant Vibin Emote",
+     "minutes": 30
+    },
+    {
+     "name": "Lil' Armored Truck Emote",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/703bea65-fc7e-494a-9b19-da61793e19bc.png"
+  },
+  {
+   "id": "7a6f1dfc-2994-4bd1-acf2-b166e85c5eed",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0921]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T20:00:00+00:00",
+   "endAt": "2026-09-21T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T20:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a8bfd73-a700-462c-afb4-717d73bffe53.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7a6f1dfc-2994-4bd1-acf2-b166e85c5eed",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7a6f1dfc-2994-4bd1-acf2-b166e85c5eed.png"
   }
  ],
  "archive": [
+  {
+   "id": "92ccbe74-2fa2-4764-94f2-633a1608ab12",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0920]",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-20T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c6ada75c-796a-44e2-b637-7cfe6b5d81e7",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Walker's MINICUP",
+   "startAt": "2026-09-20T16:00:00+00:00",
+   "endAt": "2026-09-20T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bcd736c6-3318-4771-8fde-1469a5f2e26b",
    "game": "Rise Online",
@@ -7527,13 +7527,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.7
+   "score": 24.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7545,25 +7545,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.53
+   "score": 24.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7581,13 +7581,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.13
+   "score": 9.12
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   }
  },
  "favoriteWeights": {
