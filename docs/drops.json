@@ -1958,34 +1958,6 @@
    "asset": "assets/3f7e1ccb-d3dc-4c1a-bb00-0efae6446191.png"
   },
   {
-   "id": "e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
-   "game": "Rocket League",
-   "title": "RL World Championship",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T16:00:00+00:00",
-   "endAt": "2026-09-20T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c8e4a58-97f1-491b-aedf-b6bd40b6ec3f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
-   "rewards": [
-    {
-     "name": "Apex Collection",
-     "minutes": 120
-    },
-    {
-     "name": "Viled Decal",
-     "minutes": 180
-    },
-    {
-     "name": "Point Break Goal Explosion",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/e72c9ff7-8f98-414a-9a0e-9d1cac20b091.png"
-  },
-  {
    "id": "7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
    "game": "Guild Wars 2",
    "title": "Code of Creation",
@@ -3540,9 +3512,89 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/afe7cb0a-2c43-41a9-864f-d5b1a7263b86.png"
+  },
+  {
+   "id": "c6ada75c-796a-44e2-b637-7cfe6b5d81e7",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Walker's MINICUP",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T16:00:00+00:00",
+   "endAt": "2026-09-20T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T16:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e0aab8d-b52e-413b-93bf-ccbade30b6db.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6ada75c-796a-44e2-b637-7cfe6b5d81e7",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 150
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c6ada75c-796a-44e2-b637-7cfe6b5d81e7.png"
+  },
+  {
+   "id": "20807889-129d-4ee8-bc04-9d9486207cc8",
+   "game": "Rocket League",
+   "title": "RL World Championship",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T16:00:00+00:00",
+   "endAt": "2026-09-21T00:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T16:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/538f4e11-783f-4ef8-ba81-6bdf27dd1fad.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20807889-129d-4ee8-bc04-9d9486207cc8",
+   "rewards": [
+    {
+     "name": "Apex Collection",
+     "minutes": 60
+    },
+    {
+     "name": "Viled Decal (Titanium White)",
+     "minutes": 120
+    },
+    {
+     "name": "Point Break Goal Explosion",
+     "minutes": 180
+    },
+    {
+     "name": "Torque TX: Inverted Wheels",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/20807889-129d-4ee8-bc04-9d9486207cc8.png"
   }
  ],
  "archive": [
+  {
+   "id": "e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
+   "game": "Rocket League",
+   "title": "RL World Championship",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-20T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c41c1da7-123e-4a8e-a54f-cc4bc26d58a3",
    "game": "Eternal Return",
@@ -7451,13 +7503,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.8
+   "score": 24.79
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7469,25 +7521,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.63
+   "score": 24.62
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7499,7 +7551,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.43
+   "score": 8.42
   },
   "Warframe": {
    "favorites": 1,
@@ -7511,7 +7563,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   }
  },
  "favoriteWeights": {
