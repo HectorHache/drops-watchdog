@@ -2994,26 +2994,6 @@
    "asset": "assets/f2761eae-cf4d-4f39-aeeb-a012db335518.png"
   },
   {
-   "id": "5eea833c-066a-4188-91bc-24e12183c01a",
-   "game": "Halo: Campaign Evolved",
-   "title": "HaloCampaignEvolved-SEP18",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T18:00:00+00:00",
-   "endAt": "2026-09-20T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T18:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd4cd503-ff88-4014-8438-53b1cd23dbb4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5eea833c-066a-4188-91bc-24e12183c01a",
-   "rewards": [
-    {
-     "name": "Stream of the Crop Armor Coating",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5eea833c-066a-4188-91bc-24e12183c01a.png"
-  },
-  {
    "id": "80ad53fb-8c52-42f5-bca6-4f859fa0ab7d",
    "game": "Delta Force",
    "title": "Group Stage Day1-2",
@@ -3579,6 +3559,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "5eea833c-066a-4188-91bc-24e12183c01a",
+   "game": "Halo: Campaign Evolved",
+   "title": "HaloCampaignEvolved-SEP18",
+   "startAt": "2026-09-18T18:00:00+00:00",
+   "endAt": "2026-09-20T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ba5a8ddc-637d-48ab-9b65-5386d437cc3e",
    "game": "PUBG: BATTLEGROUNDS",
@@ -7423,43 +7411,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.76
+   "score": 17.75
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 25.04
+   "score": 25.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.93
+   "score": 3.92
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.87
+   "score": 24.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.76
+   "score": 17.75
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.76
+   "score": 17.75
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.76
+   "score": 17.75
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7471,7 +7459,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.51
+   "score": 8.5
   },
   "Warframe": {
    "favorites": 1,
@@ -7483,7 +7471,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.76
+   "score": 17.75
   }
  },
  "favoriteWeights": {
