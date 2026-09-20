@@ -3520,6 +3520,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5db1263a-f2ce-4423-882c-328a956c5fd4.png"
+  },
+  {
+   "id": "afe7cb0a-2c43-41a9-864f-d5b1a7263b86",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 1_DAY3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T15:30:00+00:00",
+   "endAt": "2026-09-20T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-20T15:30:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cd1265ef-ab02-4a3e-a478-a3fa38b7a7b5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=afe7cb0a-2c43-41a9-864f-d5b1a7263b86",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 1_DAY3",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/afe7cb0a-2c43-41a9-864f-d5b1a7263b86.png"
   }
  ],
  "archive": [
@@ -7431,13 +7451,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.81
+   "score": 24.8
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7449,31 +7469,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.64
+   "score": 24.63
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.95
+   "score": 1.94
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -7485,13 +7505,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   }
  },
  "favoriteWeights": {
