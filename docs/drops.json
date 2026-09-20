@@ -2706,46 +2706,6 @@
    "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
   },
   {
-   "id": "b22c385c-46d9-41bf-bf15-a62513b0b678",
-   "game": "Caliber",
-   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 18.09.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:00:00+00:00",
-   "endAt": "2026-09-20T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T15:00:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4bb5d89e-295b-4f54-8130-fb5cffccaea7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b22c385c-46d9-41bf-bf15-a62513b0b678",
-   "rewards": [
-    {
-     "name": "20 000 credits 18.09",
-     "minutes": 20
-    },
-    {
-     "name": "50 fragments 18.09",
-     "minutes": 30
-    },
-    {
-     "name": "20 000 credits (2) 18.09",
-     "minutes": 45
-    },
-    {
-     "name": "Army Surplus 18.09",
-     "minutes": 60
-    },
-    {
-     "name": "20 000 credits (3) 18.09",
-     "minutes": 90
-    },
-    {
-     "name": "Weapon container 18.09",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b22c385c-46d9-41bf-bf15-a62513b0b678.png"
-  },
-  {
    "id": "49eec46d-c4da-4736-a992-155522e98911",
    "game": "World of Tanks",
    "title": "Waffentr\u00e4ger: Genesis #1",
@@ -3571,6 +3531,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "b22c385c-46d9-41bf-bf15-a62513b0b678",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 18.09.2026",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-20T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "92ccbe74-2fa2-4764-94f2-633a1608ab12",
    "game": "Eternal Return",
@@ -7527,13 +7495,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.68
+   "score": 24.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7545,25 +7513,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.51
+   "score": 24.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7581,13 +7549,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.12
+   "score": 9.11
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   }
  },
  "favoriteWeights": {
