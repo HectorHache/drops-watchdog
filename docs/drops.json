@@ -3078,26 +3078,6 @@
    "asset": "assets/92a7189f-2cf4-4313-b790-43d2ab5cb84e.jpg"
   },
   {
-   "id": "d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 19)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T12:00:00+00:00",
-   "endAt": "2026-09-20T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T12:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f2fda575-aab4-40bb-a84a-c35b777a0910.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 19)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f.png"
-  },
-  {
    "id": "8bce7df4-b03e-4e1e-8829-7513d54016ec",
    "game": "War Robots: Frontiers",
    "title": "Shadowed Bastion",
@@ -3532,9 +3512,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/39020d3d-63a1-47bf-b71d-a9eb939a5f0d.png"
+  },
+  {
+   "id": "f6c52691-94a4-4df0-90c8-109cbcb99eed",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 20)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-20T12:00:00+00:00",
+   "endAt": "2026-09-21T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-20T12:00:45+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64301f51-86e0-4feb-9438-6dfdc0319555.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f6c52691-94a4-4df0-90c8-109cbcb99eed",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 20)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/f6c52691-94a4-4df0-90c8-109cbcb99eed.png"
   }
  ],
  "archive": [
+  {
+   "id": "d3f16949-3ac2-4dc4-91d2-4e7c2820ac4f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 19)",
+   "startAt": "2026-09-19T12:00:00+00:00",
+   "endAt": "2026-09-20T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3c0af844-0d75-4239-9a26-f27c252068d6",
    "game": "Albion Online",
@@ -7425,7 +7433,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.89
+   "score": 24.88
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7437,7 +7445,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.72
+   "score": 24.71
   },
   "Once Human": {
    "favorites": 2,
@@ -7467,13 +7475,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.46
+   "score": 8.45
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.2
+   "score": 9.19
   },
   "Where Winds Meet": {
    "favorites": 2,
