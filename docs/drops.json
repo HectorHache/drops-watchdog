@@ -154,26 +154,6 @@
    "asset": "assets/454244f1-aeb4-427e-86d9-35b878bfd66a.png"
   },
   {
-   "id": "4a750183-d375-48ac-9814-3650bd3a7534",
-   "game": "007 First Light",
-   "title": "007 First Light #4",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T14:00:00+00:00",
-   "endAt": "2026-09-20T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b33d3ac7-d412-420b-bb6c-6a59dbf4afc7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4a750183-d375-48ac-9814-3650bd3a7534",
-   "rewards": [
-    {
-     "name": "Daring Elite Outfit",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4a750183-d375-48ac-9814-3650bd3a7534.jpg"
-  },
-  {
    "id": "90589949-1d2e-4161-8def-3aee51e1f721",
    "game": "Resonance: A Plague Tale Legacy",
    "title": "Resonance Launch",
@@ -3587,6 +3567,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "4a750183-d375-48ac-9814-3650bd3a7534",
+   "game": "007 First Light",
+   "title": "007 First Light #4",
+   "startAt": "2026-08-26T14:00:00+00:00",
+   "endAt": "2026-09-20T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e72c9ff7-8f98-414a-9a0e-9d1cac20b091",
    "game": "Rocket League",
@@ -7503,13 +7491,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.57
+   "score": 17.56
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.77
+   "score": 24.76
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7521,25 +7509,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.6
+   "score": 24.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.57
+   "score": 17.56
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.57
+   "score": 17.56
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.57
+   "score": 17.56
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7551,7 +7539,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.42
+   "score": 8.41
   },
   "Warframe": {
    "favorites": 1,
@@ -7563,7 +7551,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.57
+   "score": 17.56
   }
  },
  "favoriteWeights": {
