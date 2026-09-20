@@ -3034,46 +3034,6 @@
    "asset": "assets/d3abe7e3-8d4a-4ed7-9432-c6354b55db30.png"
   },
   {
-   "id": "3c0af844-0d75-4239-9a26-f27c252068d6",
-   "game": "Albion Online",
-   "title": "Dragonfire 3 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T10:00:00+00:00",
-   "endAt": "2026-09-20T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-19T10:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fcd3073e-3e45-4b9f-9f30-0d630072dccd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c0af844-0d75-4239-9a26-f27c252068d6",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3c0af844-0d75-4239-9a26-f27c252068d6.png"
-  },
-  {
-   "id": "fae03928-50c8-46a8-b21e-ea7f64639853",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 3 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T10:00:00+00:00",
-   "endAt": "2026-09-20T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-19T10:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8950a3ab-71b5-4b00-a1ce-db996bc0e537.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fae03928-50c8-46a8-b21e-ea7f64639853",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fae03928-50c8-46a8-b21e-ea7f64639853.png"
-  },
-  {
    "id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e",
    "game": "SMITE 2",
    "title": "Sept Week 3!",
@@ -3515,6 +3475,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "3c0af844-0d75-4239-9a26-f27c252068d6",
+   "game": "Albion Online",
+   "title": "Dragonfire 3 - #6/7",
+   "startAt": "2026-09-19T10:00:00+00:00",
+   "endAt": "2026-09-20T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fae03928-50c8-46a8-b21e-ea7f64639853",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 3 - #6/7",
+   "startAt": "2026-09-19T10:00:00+00:00",
+   "endAt": "2026-09-20T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "796bdad1-10fd-4294-8277-6783723e14ff",
    "game": "LEGO Batman: Legacy of the Dark Knight",
@@ -7383,13 +7359,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.95
+   "score": 24.94
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7401,25 +7377,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.78
+   "score": 24.77
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7431,19 +7407,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.48
+   "score": 8.47
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   }
  },
  "favoriteWeights": {
