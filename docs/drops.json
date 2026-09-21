@@ -118,42 +118,6 @@
    "asset": "assets/89ce7f50-00c2-4029-b3ca-e54630cfafd4.png"
   },
   {
-   "id": "454244f1-aeb4-427e-86d9-35b878bfd66a",
-   "game": "The Seven Deadly Sins: Origin",
-   "title": "7DS Origin Drops 4th",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T08:00:00+00:00",
-   "endAt": "2026-09-21T14:58:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/246e8300-0966-4b43-a923-964786b4d1bb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=454244f1-aeb4-427e-86d9-35b878bfd66a",
-   "rewards": [
-    {
-     "name": "Supreme Mastery EXP x 10",
-     "minutes": 15
-    },
-    {
-     "name": "Special Refinement Stone x 10",
-     "minutes": 30
-    },
-    {
-     "name": "Special Tier Up Stone x 10",
-     "minutes": 60
-    },
-    {
-     "name": "Cube Key Bundle x 3",
-     "minutes": 90
-    },
-    {
-     "name": "Regular Hero Draw Ticket x 5",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/454244f1-aeb4-427e-86d9-35b878bfd66a.png"
-  },
-  {
    "id": "90589949-1d2e-4161-8def-3aee51e1f721",
    "game": "Resonance: A Plague Tale Legacy",
    "title": "Resonance Launch",
@@ -2286,30 +2250,6 @@
    "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
   },
   {
-   "id": "49eec46d-c4da-4736-a992-155522e98911",
-   "game": "World of Tanks",
-   "title": "Waffentr\u00e4ger: Genesis #1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:00:00+00:00",
-   "endAt": "2026-09-21T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T15:00:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1b88d9d-d1b4-4fcb-ac7a-ca6c41ec7308.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49eec46d-c4da-4736-a992-155522e98911",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/49eec46d-c4da-4736-a992-155522e98911.jpg"
-  },
-  {
    "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
    "game": "Active Matter",
    "title": "Release Drops: Week I",
@@ -3212,9 +3152,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c5138a92-e415-4ee4-bdd8-9d86b3881fb5.png"
+  },
+  {
+   "id": "80c1c558-fb6c-4f14-ba4e-57ebd638b364",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T15:00:00+00:00",
+   "endAt": "2026-09-23T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T15:00:21+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6a4e9e9b-c612-4d79-9245-d182b2fe39c1.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80c1c558-fb6c-4f14-ba4e-57ebd638b364",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/80c1c558-fb6c-4f14-ba4e-57ebd638b364.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "49eec46d-c4da-4736-a992-155522e98911",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #1",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-21T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "454244f1-aeb4-427e-86d9-35b878bfd66a",
+   "game": "The Seven Deadly Sins: Origin",
+   "title": "7DS Origin Drops 4th",
+   "startAt": "2026-08-26T08:00:00+00:00",
+   "endAt": "2026-09-21T14:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "00e654bb-eef4-4e90-a4e4-d36d920b075b",
    "game": "Out of the Park Baseball 27",
@@ -7403,13 +7383,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.2
+   "score": 17.19
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.25
+   "score": 24.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7421,25 +7401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.09
+   "score": 24.08
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.2
+   "score": 17.19
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.2
+   "score": 17.19
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.2
+   "score": 17.19
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7463,7 +7443,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.2
+   "score": 17.19
   }
  },
  "favoriteWeights": {
