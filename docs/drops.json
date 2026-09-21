@@ -1426,82 +1426,6 @@
    "asset": "assets/2d14347e-18fe-4c94-a5c8-4b24ac5f747c.png"
   },
   {
-   "id": "00e654bb-eef4-4e90-a4e4-d36d920b075b",
-   "game": "Out of the Park Baseball 27",
-   "title": "Official 19",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T13:00:00+00:00",
-   "endAt": "2026-09-21T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e929faf8-54bb-42c6-8396-305a94eaa68a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=00e654bb-eef4-4e90-a4e4-d36d920b075b",
-   "rewards": [
-    {
-     "name": "6",
-     "minutes": 540
-    },
-    {
-     "name": "7",
-     "minutes": 630
-    },
-    {
-     "name": "1",
-     "minutes": 90
-    },
-    {
-     "name": "2",
-     "minutes": 180
-    },
-    {
-     "name": "3",
-     "minutes": 270
-    },
-    {
-     "name": "4",
-     "minutes": 360
-    },
-    {
-     "name": "5",
-     "minutes": 450
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/00e654bb-eef4-4e90-a4e4-d36d920b075b.png"
-  },
-  {
-   "id": "73c3cf98-4a9d-4673-bae6-2b4418d97fc6",
-   "game": "Out of the Park Baseball 27",
-   "title": "Laptophound 19",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T13:00:00+00:00",
-   "endAt": "2026-09-21T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e96ca2b-0e4e-4b93-94fc-3dfc9040f9a2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=73c3cf98-4a9d-4673-bae6-2b4418d97fc6",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 120
-    },
-    {
-     "name": "2",
-     "minutes": 240
-    },
-    {
-     "name": "3",
-     "minutes": 360
-    },
-    {
-     "name": "4",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/73c3cf98-4a9d-4673-bae6-2b4418d97fc6.png"
-  },
-  {
    "id": "22b93373-f8da-490f-a1bb-9a12239fe2de",
    "game": "Marvel's Wolverine",
    "title": "Marvel's Wolverine",
@@ -2726,42 +2650,6 @@
    "asset": "assets/1af19995-9b5e-4320-a2c2-a83804c68b9d.png"
   },
   {
-   "id": "cdace91d-6756-4f63-89fd-ee5df1f7d611",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/20/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-20T13:00:00+00:00",
-   "endAt": "2026-09-21T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-20T13:00:49+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a5a2b4b-5276-44b8-92b0-fd992f86854f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cdace91d-6756-4f63-89fd-ee5df1f7d611",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cdace91d-6756-4f63-89fd-ee5df1f7d611.png"
-  },
-  {
    "id": "65cd09c0-62bc-45a6-a636-7a99f00996cb",
    "game": "Kirka.io",
    "title": "Insert-Coin",
@@ -3148,9 +3036,69 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/1e4eae10-3f13-4057-957a-071269a1d30e.png"
+  },
+  {
+   "id": "c38078b5-bc52-41da-9824-45f91d0bda38",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/21/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-22T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T13:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1cf8d0df-98a2-4c38-97b2-2d98b8a04a29.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c38078b5-bc52-41da-9824-45f91d0bda38",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c38078b5-bc52-41da-9824-45f91d0bda38.png"
   }
  ],
  "archive": [
+  {
+   "id": "00e654bb-eef4-4e90-a4e4-d36d920b075b",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 19",
+   "startAt": "2026-09-14T13:00:00+00:00",
+   "endAt": "2026-09-21T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "73c3cf98-4a9d-4673-bae6-2b4418d97fc6",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 19",
+   "startAt": "2026-09-14T13:00:00+00:00",
+   "endAt": "2026-09-21T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cdace91d-6756-4f63-89fd-ee5df1f7d611",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/20/26",
+   "startAt": "2026-09-20T13:00:00+00:00",
+   "endAt": "2026-09-21T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f6c52691-94a4-4df0-90c8-109cbcb99eed",
    "game": "Black Desert",
@@ -7321,7 +7269,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.3
+   "score": 24.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7333,7 +7281,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.14
+   "score": 24.12
   },
   "Once Human": {
    "favorites": 2,
@@ -7357,19 +7305,19 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.91
+   "score": 1.9
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.26
+   "score": 8.25
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.98
+   "score": 8.97
   },
   "Where Winds Meet": {
    "favorites": 2,
