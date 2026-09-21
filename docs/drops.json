@@ -3128,6 +3128,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bf2df9c8-3aa7-4de7-9db2-bb4740812804.png"
+  },
+  {
+   "id": "d13db74f-a56d-4985-af69-3bf01adde336",
+   "game": "Overwatch",
+   "title": "OWCS Stage 3 Asia Kickoff",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T08:00:00+00:00",
+   "endAt": "2026-10-10T07:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T08:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f526fd0b-1d9b-4b84-a8a4-c6bb4889f57c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d13db74f-a56d-4985-af69-3bf01adde336",
+   "rewards": [
+    {
+     "name": "Sun Tea Icon",
+     "minutes": 60
+    },
+    {
+     "name": "Refreshing Spray",
+     "minutes": 120
+    },
+    {
+     "name": "Summer Sandcastle Spray",
+     "minutes": 240
+    },
+    {
+     "name": "Protein Drink Icon",
+     "minutes": 360
+    },
+    {
+     "name": "Talon Strong Spray",
+     "minutes": 480
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d13db74f-a56d-4985-af69-3bf01adde336.png"
   }
  ],
  "archive": [
@@ -7271,13 +7311,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.32
+   "score": 17.31
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.42
+   "score": 24.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7289,25 +7329,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.25
+   "score": 24.24
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.32
+   "score": 17.31
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.32
+   "score": 17.31
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.32
+   "score": 17.31
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7319,7 +7359,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.3
+   "score": 8.29
   },
   "Warframe": {
    "favorites": 1,
@@ -7331,7 +7371,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.32
+   "score": 17.31
   }
  },
  "favoriteWeights": {
