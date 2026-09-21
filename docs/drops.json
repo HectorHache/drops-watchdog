@@ -2182,34 +2182,6 @@
    "asset": "assets/d7642e5c-4cbc-4952-be0b-ffe195937e1c.png"
   },
   {
-   "id": "136d3021-892d-4768-a5e0-dae14fff0b15",
-   "game": "Marvel Rivals",
-   "title": "Ignite Stage2 W1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T09:00:00+00:00",
-   "endAt": "2026-09-21T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T09:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9df6dfc7-7961-4b2f-8b0d-1608cd6a7496.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=136d3021-892d-4768-a5e0-dae14fff0b15",
-   "rewards": [
-    {
-     "name": "Chrono Tokens *100",
-     "minutes": 30
-    },
-    {
-     "name": "\u300cOne Big Family\u300dSpray",
-     "minutes": 90
-    },
-    {
-     "name": "\u300cCrowning Glory\u300dSpray",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/136d3021-892d-4768-a5e0-dae14fff0b15.png"
-  },
-  {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 2",
@@ -3191,6 +3163,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "136d3021-892d-4768-a5e0-dae14fff0b15",
+   "game": "Marvel Rivals",
+   "title": "Ignite Stage2 W1",
+   "startAt": "2026-09-17T09:00:00+00:00",
+   "endAt": "2026-09-21T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d3abe7e3-8d4a-4ed7-9432-c6354b55db30",
    "game": "Rainbow Six Siege",
@@ -7315,43 +7295,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.35
+   "score": 17.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.47
+   "score": 24.45
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.84
+   "score": 3.83
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.3
+   "score": 24.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.35
+   "score": 17.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.35
+   "score": 17.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.35
+   "score": 17.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7369,13 +7349,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.35
+   "score": 17.34
   }
  },
  "favoriteWeights": {
