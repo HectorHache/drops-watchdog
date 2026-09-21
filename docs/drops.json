@@ -1410,30 +1410,6 @@
    "asset": "assets/22b93373-f8da-490f-a1bb-9a12239fe2de.png"
   },
   {
-   "id": "0a717971-f9d4-47e1-bf0a-fb9301b45a6e",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | September Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T21:00:00+00:00",
-   "endAt": "2026-09-21T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-14T21:00:54+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7b5a0dd-cab2-4317-bf4e-f9977df9aa1d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0a717971-f9d4-47e1-bf0a-fb9301b45a6e",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0a717971-f9d4-47e1-bf0a-fb9301b45a6e.png"
-  },
-  {
    "id": "08012a89-858e-47ca-8dad-5aa11587a233",
    "game": "Skull and Bones",
    "title": "Skull and Bones - Y3S2",
@@ -3188,9 +3164,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9620cb71-d446-438c-952b-cdcfaac496ef.png"
+  },
+  {
+   "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T21:00:00+00:00",
+   "endAt": "2026-09-28T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T21:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eee13451-105d-46ad-a3f8-4dbf14afc956.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/acfe75f6-bbbe-41d5-a0b6-f42a4807845e.png"
   }
  ],
  "archive": [
+  {
+   "id": "0a717971-f9d4-47e1-bf0a-fb9301b45a6e",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 3",
+   "startAt": "2026-09-14T21:00:00+00:00",
+   "endAt": "2026-09-21T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7a6f1dfc-2994-4bd1-acf2-b166e85c5eed",
    "game": "Eternal Return",
@@ -7427,13 +7435,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.11
+   "score": 24.1
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7445,25 +7453,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.95
+   "score": 23.94
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7487,7 +7495,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   }
  },
  "favoriteWeights": {
