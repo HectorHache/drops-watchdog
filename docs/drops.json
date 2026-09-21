@@ -3106,6 +3106,50 @@
    "asset": "assets/c8fc5817-6e94-4e59-8e46-a4e66bb45436.png"
   },
   {
+   "id": "68900705-0b38-4644-87b5-4a6c6fb00639",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 20",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T14:30:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b5401260-36ae-44d9-90ef-e2958f72d627.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=68900705-0b38-4644-87b5-4a6c6fb00639",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 90
+    },
+    {
+     "name": "2",
+     "minutes": 180
+    },
+    {
+     "name": "3",
+     "minutes": 270
+    },
+    {
+     "name": "4",
+     "minutes": 360
+    },
+    {
+     "name": "5",
+     "minutes": 450
+    },
+    {
+     "name": "6",
+     "minutes": 540
+    },
+    {
+     "name": "7",
+     "minutes": 630
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/68900705-0b38-4644-87b5-4a6c6fb00639.png"
+  },
+  {
    "id": "3b626405-6f80-495a-961e-4d2577e21b20",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #8",
@@ -7359,43 +7403,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.27
+   "score": 24.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.81
+   "score": 3.8
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.1
+   "score": 24.09
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7413,13 +7457,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.97
+   "score": 8.96
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   }
  },
  "favoriteWeights": {
