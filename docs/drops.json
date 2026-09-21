@@ -3176,6 +3176,38 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/80c1c558-fb6c-4f14-ba4e-57ebd638b364.jpg"
+  },
+  {
+   "id": "8348ea15-3e95-4214-bd46-242ed3dea53c",
+   "game": "Rocket League",
+   "title": "RL Worlds Drop Rush",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T16:00:00+00:00",
+   "endAt": "2026-09-27T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T16:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27c83487-10a2-4aaa-b9bf-c96c83d23472.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8348ea15-3e95-4214-bd46-242ed3dea53c",
+   "rewards": [
+    {
+     "name": "Nemesis Car Body (Random Painted)",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical Nuke Goal Explosion (Random Painted)",
+     "minutes": 120
+    },
+    {
+     "name": "Viled Decal (Random Painted)",
+     "minutes": 180
+    },
+    {
+     "name": "Point Break Goal Explosion (Random Painted)",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/8348ea15-3e95-4214-bd46-242ed3dea53c.jpg"
   }
  ],
  "archive": [
@@ -7383,13 +7415,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.19
+   "score": 17.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.23
+   "score": 24.22
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7401,25 +7433,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.07
+   "score": 24.05
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.19
+   "score": 17.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.19
+   "score": 17.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.19
+   "score": 17.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7443,7 +7475,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.19
+   "score": 17.18
   }
  },
  "favoriteWeights": {
