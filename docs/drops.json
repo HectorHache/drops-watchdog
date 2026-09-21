@@ -3072,6 +3072,102 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c38078b5-bc52-41da-9824-45f91d0bda38.png"
+  },
+  {
+   "id": "c8fc5817-6e94-4e59-8e46-a4e66bb45436",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 20",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T14:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2357b04b-7011-48ac-9003-eef28345ae4e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c8fc5817-6e94-4e59-8e46-a4e66bb45436",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 120
+    },
+    {
+     "name": "2",
+     "minutes": 240
+    },
+    {
+     "name": "3",
+     "minutes": 360
+    },
+    {
+     "name": "4",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c8fc5817-6e94-4e59-8e46-a4e66bb45436.png"
+  },
+  {
+   "id": "3b626405-6f80-495a-961e-4d2577e21b20",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #8",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T14:00:00+00:00",
+   "endAt": "2026-09-22T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-21T14:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2a88467-5404-41be-97a6-d45dd64747ac.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b626405-6f80-495a-961e-4d2577e21b20",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3b626405-6f80-495a-961e-4d2577e21b20.jpg"
+  },
+  {
+   "id": "c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 1/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-21T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-21T14:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0834eb6-348b-4431-9099-44b435131f7c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Potion Package",
+     "minutes": 30
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 60
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 90
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 120
+    },
+    {
+     "name": "Time Jump Package",
+     "minutes": 150
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c5138a92-e415-4ee4-bdd8-9d86b3881fb5.png"
   }
  ],
  "archive": [
@@ -7263,13 +7359,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.28
+   "score": 24.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7281,25 +7377,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.11
+   "score": 24.1
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7311,7 +7407,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.25
+   "score": 8.24
   },
   "Warframe": {
    "favorites": 1,
@@ -7323,7 +7419,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   }
  },
  "favoriteWeights": {
