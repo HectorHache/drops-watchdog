@@ -1754,38 +1754,6 @@
    "asset": "assets/3f7e1ccb-d3dc-4c1a-bb00-0efae6446191.png"
   },
   {
-   "id": "7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
-   "game": "Guild Wars 2",
-   "title": "Code of Creation",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T16:00:00+00:00",
-   "endAt": "2026-09-21T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-15T16:00:55+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b751511e-9289-4ce6-81ff-447118d49069.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
-   "rewards": [
-    {
-     "name": "Item Booster",
-     "minutes": 60
-    },
-    {
-     "name": "Mini Piglet",
-     "minutes": 120
-    },
-    {
-     "name": "How To Dance, Volume 1",
-     "minutes": 240
-    },
-    {
-     "name": "Arcane Occulist\u2019s Hat",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08.jpg"
-  },
-  {
    "id": "75359535-d3c0-4c73-8c3d-38ce6ea623b8",
    "game": "Rocket League",
    "title": "RL Worlds Sub Drops",
@@ -3163,6 +3131,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08",
+   "game": "Guild Wars 2",
+   "title": "Code of Creation",
+   "startAt": "2026-09-15T16:00:00+00:00",
+   "endAt": "2026-09-21T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "136d3021-892d-4768-a5e0-dae14fff0b15",
    "game": "Marvel Rivals",
@@ -7301,7 +7277,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.44
+   "score": 24.43
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7313,7 +7289,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 24.28
+   "score": 24.26
   },
   "Once Human": {
    "favorites": 2,
