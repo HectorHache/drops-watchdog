@@ -2,34 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "55e4bee5-9ac5-4af9-97fa-4906e6468120",
-   "game": "NBA 2K27",
-   "title": "NBA 2K27 Season 1",
-   "status": "ACTIVE",
-   "startAt": "2026-08-25T16:00:00+00:00",
-   "endAt": "2026-09-22T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee6d33e4-0b5a-406e-9005-5e6baa60b0cb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=55e4bee5-9ac5-4af9-97fa-4906e6468120",
-   "rewards": [
-    {
-     "name": "NBA 2K27 Season 1 Code (45m)",
-     "minutes": 45
-    },
-    {
-     "name": "NBA 2K27 Season 1 Code (2hr)",
-     "minutes": 120
-    },
-    {
-     "name": "NBA 2K27 Season 1 Code (4hr)",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/55e4bee5-9ac5-4af9-97fa-4906e6468120.png"
-  },
-  {
    "id": "0f1b1514-fe01-4f81-8fea-d35049d204cd",
    "game": "Once Human",
    "title": "Console Launch Drops",
@@ -3128,9 +3100,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5edeaf4b-abbb-4c80-8874-5ca28eaa6cde.png"
+  },
+  {
+   "id": "5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 End",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T16:00:00+00:00",
+   "endAt": "2026-09-22T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T16:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3888d0b8-c4f8-404e-af38-43ab1d32b18a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767.png"
   }
  ],
  "archive": [
+  {
+   "id": "55e4bee5-9ac5-4af9-97fa-4906e6468120",
+   "game": "NBA 2K27",
+   "title": "NBA 2K27 Season 1",
+   "startAt": "2026-08-25T16:00:00+00:00",
+   "endAt": "2026-09-22T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3f7e1ccb-d3dc-4c1a-bb00-0efae6446191",
    "game": "Ravendawn",
@@ -7487,13 +7487,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.68
+   "score": 23.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7505,25 +7505,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.52
+   "score": 23.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7541,13 +7541,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.75
+   "score": 8.74
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   }
  },
  "favoriteWeights": {
