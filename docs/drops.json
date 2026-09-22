@@ -2038,26 +2038,6 @@
    "asset": "assets/a75637d9-b720-4f97-8156-a8444a760505.png"
   },
   {
-   "id": "f6e4c513-5c61-4d58-aac6-1c009c25add7",
-   "game": "Minecraft",
-   "title": "Blue Creeper Boss Badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T18:00:00+00:00",
-   "endAt": "2026-09-22T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-17T18:00:46+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27fd913e-c6a3-430e-9caf-860d2f8086e6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f6e4c513-5c61-4d58-aac6-1c009c25add7",
-   "rewards": [
-    {
-     "name": "Blue Creeper Boss Badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/f6e4c513-5c61-4d58-aac6-1c009c25add7.png"
-  },
-  {
    "id": "91f15164-33d7-4230-85a8-2934e089bb2f",
    "game": "Sea of Thieves",
    "title": "Season 21 Launch Drops!",
@@ -3151,6 +3131,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "f6e4c513-5c61-4d58-aac6-1c009c25add7",
+   "game": "Minecraft",
+   "title": "Blue Creeper Boss Badge",
+   "startAt": "2026-09-17T18:00:00+00:00",
+   "endAt": "2026-09-22T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3b626405-6f80-495a-961e-4d2577e21b20",
    "game": "Mir Korabley",
@@ -7435,43 +7423,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.94
+   "score": 16.93
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.88
+   "score": 23.87
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.75
+   "score": 3.74
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.72
+   "score": 23.71
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.94
+   "score": 16.93
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.94
+   "score": 16.93
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.94
+   "score": 16.93
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7483,7 +7471,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.12
+   "score": 8.11
   },
   "Warframe": {
    "favorites": 1,
@@ -7495,7 +7483,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.94
+   "score": 16.93
   }
  },
  "favoriteWeights": {
