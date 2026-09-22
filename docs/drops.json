@@ -2602,42 +2602,6 @@
    "asset": "assets/d13db74f-a56d-4985-af69-3bf01adde336.png"
   },
   {
-   "id": "c38078b5-bc52-41da-9824-45f91d0bda38",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/21/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T13:00:00+00:00",
-   "endAt": "2026-09-22T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T13:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1cf8d0df-98a2-4c38-97b2-2d98b8a04a29.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c38078b5-bc52-41da-9824-45f91d0bda38",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c38078b5-bc52-41da-9824-45f91d0bda38.png"
-  },
-  {
    "id": "c8fc5817-6e94-4e59-8e46-a4e66bb45436",
    "game": "Out of the Park Baseball 27",
    "title": "Laptophound 20",
@@ -3036,9 +3000,89 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/080472e7-c756-4052-9c27-c066e9bf5daf.png"
+  },
+  {
+   "id": "fa932586-c287-424c-bb95-cb7d8a85d661",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/22/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T13:00:00+00:00",
+   "endAt": "2026-09-23T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T13:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f92f3a3d-cbb9-4392-b498-bcc1adb52fdc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa932586-c287-424c-bb95-cb7d8a85d661",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fa932586-c287-424c-bb95-cb7d8a85d661.png"
+  },
+  {
+   "id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b",
+   "game": "Predecessor",
+   "title": "Bloodtide Drops \ud83e\ude78",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T13:00:00+00:00",
+   "endAt": "2026-10-19T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-22T13:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ca8bb880-6b63-4264-b724-0bf3f66e1b6d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=72662ff7-75c6-44eb-94b0-7868cbc5e89b",
+   "rewards": [
+    {
+     "name": "Ion Core",
+     "minutes": 60
+    },
+    {
+     "name": "Ion Core",
+     "minutes": 120
+    },
+    {
+     "name": "Ion Core",
+     "minutes": 180
+    },
+    {
+     "name": "Quantum Core",
+     "minutes": 360
+    },
+    {
+     "name": "Pink Valmont Variant",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/72662ff7-75c6-44eb-94b0-7868cbc5e89b.png"
   }
  ],
  "archive": [
+  {
+   "id": "c38078b5-bc52-41da-9824-45f91d0bda38",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/21/26",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-22T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1e4eae10-3f13-4057-957a-071269a1d30e",
    "game": "Black Desert",
@@ -7371,13 +7415,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.75
+   "score": 23.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7389,25 +7433,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.58
+   "score": 23.57
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7419,7 +7463,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.07
+   "score": 8.06
   },
   "Warframe": {
    "favorites": 1,
@@ -7431,7 +7475,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   }
  },
  "favoriteWeights": {
