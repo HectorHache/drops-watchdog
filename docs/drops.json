@@ -2650,42 +2650,6 @@
    "asset": "assets/acfe75f6-bbbe-41d5-a0b6-f42a4807845e.png"
   },
   {
-   "id": "f41cd7a5-568e-4232-8027-073f56b5721c",
-   "game": "DOFUS Touch",
-   "title": "J8 - 2x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T22:00:00+00:00",
-   "endAt": "2026-09-22T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T22:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7bb811c1-ebef-48fd-89ea-570d9ce74c98.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f41cd7a5-568e-4232-8027-073f56b5721c",
-   "rewards": [
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f41cd7a5-568e-4232-8027-073f56b5721c.png"
-  },
-  {
    "id": "d8710c01-432e-463c-b132-b9078567f2f5",
    "game": "Delta Force",
    "title": "DF Streamer Ladder Drops",
@@ -3126,27 +3090,59 @@
    "asset": "assets/791e00d7-9fe8-4ff9-ac9d-f332da348034.png"
   },
   {
-   "id": "299b701e-696e-4bd8-a6cf-75acfa54d47f",
-   "game": "Hearthstone",
-   "title": "Black Empire Reveals 1",
+   "id": "5d60360c-fc23-4dda-96cd-43a98cdc77a5",
+   "game": "DOFUS Touch",
+   "title": "J9 - 2x Temporix Cps",
    "status": "ACTIVE",
-   "startAt": "2026-09-22T21:00:00+00:00",
-   "endAt": "2026-09-22T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T21:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/97aafe07-e088-4143-8c1b-1c4c4fef1287.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=299b701e-696e-4bd8-a6cf-75acfa54d47f",
+   "startAt": "2026-09-22T22:00:00+00:00",
+   "endAt": "2026-09-23T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T22:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/168f1507-5f23-4f12-bc6b-55c5fea54d23.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d60360c-fc23-4dda-96cd-43a98cdc77a5",
    "rewards": [
     {
-     "name": "Black Empire Pack",
-     "minutes": 15
+     "name": "2x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 150
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/299b701e-696e-4bd8-a6cf-75acfa54d47f.png"
+   "asset": "assets/5d60360c-fc23-4dda-96cd-43a98cdc77a5.png"
   }
  ],
  "archive": [
+  {
+   "id": "f41cd7a5-568e-4232-8027-073f56b5721c",
+   "game": "DOFUS Touch",
+   "title": "J8 - 2x Temporix Cps",
+   "startAt": "2026-09-21T22:00:00+00:00",
+   "endAt": "2026-09-22T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "299b701e-696e-4bd8-a6cf-75acfa54d47f",
+   "game": "Hearthstone",
+   "title": "Black Empire Reveals 1",
+   "startAt": "2026-09-22T21:00:00+00:00",
+   "endAt": "2026-09-22T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9620cb71-d446-438c-952b-cdcfaac496ef",
    "game": "Eternal Return",
@@ -7559,13 +7555,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.7
+   "score": 16.69
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.54
+   "score": 23.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7577,49 +7573,49 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.38
+   "score": 23.37
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.7
+   "score": 16.69
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.7
+   "score": 16.69
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.7
+   "score": 16.69
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.85
+   "score": 1.84
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.0
+   "score": 7.99
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.7
+   "score": 8.69
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.7
+   "score": 16.69
   }
  },
  "favoriteWeights": {
