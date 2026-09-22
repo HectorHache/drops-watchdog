@@ -550,26 +550,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "b6581084-0574-452c-9c00-d881d4fea78e",
-   "game": "HITMAN World of Assassination",
-   "title": "The Herbalist #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-07T14:00:00+00:00",
-   "endAt": "2026-09-22T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-07T14:00:48+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b64fc8b8-1110-4686-a4b3-56b6543ae61e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b6581084-0574-452c-9c00-d881d4fea78e",
-   "rewards": [
-    {
-     "name": "The Purple Bat",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b6581084-0574-452c-9c00-d881d4fea78e.png"
-  },
-  {
    "id": "b7bcd558-6964-461c-a1a0-503eeba1871e",
    "game": "Delta Force",
    "title": "2NDANNIVERSARY-OPERATIONS",
@@ -3072,9 +3052,41 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/72662ff7-75c6-44eb-94b0-7868cbc5e89b.png"
+  },
+  {
+   "id": "84f27bd4-9c9f-4a03-acc5-096b84081db8",
+   "game": "CONTROL Resonant",
+   "title": "CONTROL Resonant launch ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T14:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3504b907-6030-4275-acda-3816b9b776ff.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84f27bd4-9c9f-4a03-acc5-096b84081db8",
+   "rewards": [
+    {
+     "name": "Don't Eat The Mold",
+     "minutes": 60
+    },
+    {
+     "name": "The Inverted Man",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/84f27bd4-9c9f-4a03-acc5-096b84081db8.png"
   }
  ],
  "archive": [
+  {
+   "id": "b6581084-0574-452c-9c00-d881d4fea78e",
+   "game": "HITMAN World of Assassination",
+   "title": "The Herbalist #2",
+   "startAt": "2026-09-07T14:00:00+00:00",
+   "endAt": "2026-09-22T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c38078b5-bc52-41da-9824-45f91d0bda38",
    "game": "Out of the Park Baseball 27",
@@ -7415,13 +7427,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.83
+   "score": 16.82
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.72
+   "score": 23.71
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7433,25 +7445,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.56
+   "score": 23.55
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.83
+   "score": 16.82
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.83
+   "score": 16.82
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.83
+   "score": 16.82
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7475,7 +7487,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.83
+   "score": 16.82
   }
  },
  "favoriteWeights": {
