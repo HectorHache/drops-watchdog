@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Once Human — Console Launch Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=0f1b1514-fe01-4f81-8fea-d35049d204cd</link>
-    <guid isPermaLink="false">0f1b1514-fe01-4f81-8fea-d35049d204cd</guid>
-    <description>DECAL: GRAFFITI · VOID WINGS SKIN: UNKNOWN FEAR · FORMULA: GOLD-FRAMED CARVED WALL PAINTING — runs 2026-08-25T18:00:00+00:00 → 2026-09-22T17:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-25T18:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Honkai: Star Rail — V4.5 Honkai: Star Rail</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=412be155-a987-41ba-8f9e-30f0909e54cb</link>
     <guid isPermaLink="false">412be155-a987-41ba-8f9e-30f0909e54cb</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=c21130db-734b-433a-a9fa-38d8c50194a1</link>
     <guid isPermaLink="false">c21130db-734b-433a-a9fa-38d8c50194a1</guid>
     <description>Streamer Stickers1-1 · Streamer Stickers1-2 · Streamer Stickers1-3 · Streamer Stickers1-4 · Streamer Stickers1-5 — runs 2026-09-16T09:00:00+00:00 → 2026-10-13T08:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-16T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Arena Breakout: Infinite — S7 Support ABI Streamers</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=90dbc764-d4ab-4929-8167-abbee3030c70</link>
+    <guid isPermaLink="false">90dbc764-d4ab-4929-8167-abbee3030c70</guid>
+    <description>Streamer Stickers3-4 · Streamer Stickers3-1 · Streamer Stickers3-2 · Streamer Stickers3-3 — runs 2026-09-16T09:00:00+00:00 → 2026-10-13T08:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-16T09:00:00+00:00</pubDate>
   </item>
 </channel>

@@ -2,34 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "0f1b1514-fe01-4f81-8fea-d35049d204cd",
-   "game": "Once Human",
-   "title": "Console Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-25T18:00:00+00:00",
-   "endAt": "2026-09-22T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f467110-a08d-4bb5-8e85-130af883a918.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0f1b1514-fe01-4f81-8fea-d35049d204cd",
-   "rewards": [
-    {
-     "name": "DECAL: GRAFFITI",
-     "minutes": 60
-    },
-    {
-     "name": "VOID WINGS SKIN: UNKNOWN FEAR",
-     "minutes": 120
-    },
-    {
-     "name": "FORMULA: GOLD-FRAMED CARVED WALL PAINTING",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/0f1b1514-fe01-4f81-8fea-d35049d204cd.jpg"
-  },
-  {
    "id": "412be155-a987-41ba-8f9e-30f0909e54cb",
    "game": "Honkai: Star Rail",
    "title": "V4.5 Honkai: Star Rail",
@@ -2654,46 +2626,6 @@
    "asset": "assets/8348ea15-3e95-4214-bd46-242ed3dea53c.jpg"
   },
   {
-   "id": "6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3",
-   "game": "Rise Online",
-   "title": "ROW Drop 594",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T17:59:00+00:00",
-   "endAt": "2026-09-22T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-21T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc4aa6ab-4557-4241-83ba-7677c0adee33.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3",
-   "rewards": [
-    {
-     "name": "ROW Drop 594",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3.png"
-  },
-  {
-   "id": "7f311245-0054-4b7e-8a97-2286f1604146",
-   "game": "Rise Online",
-   "title": "Mobile Drop 165",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T17:59:00+00:00",
-   "endAt": "2026-09-22T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-21T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52e4d976-52a5-4d01-b648-6d7eaad4e53b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7f311245-0054-4b7e-8a97-2286f1604146",
-   "rewards": [
-    {
-     "name": "Mobile Drop 165",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7f311245-0054-4b7e-8a97-2286f1604146.png"
-  },
-  {
    "id": "9620cb71-d446-438c-952b-cdcfaac496ef",
    "game": "Eternal Return",
    "title": "MID SEASON DROPS [0922]",
@@ -3140,9 +3072,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/131e1b3d-c580-4f4f-93de-b1f7bbb5e317.png"
+  },
+  {
+   "id": "15f2e716-46e0-4dbd-8074-1e4890dfbbe9",
+   "game": "Rise Online",
+   "title": "Mobile Drop 166",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T17:59:00+00:00",
+   "endAt": "2026-09-23T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-22T18:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/77f0517a-7138-4d9c-9fa0-f3b3df7a5502.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=15f2e716-46e0-4dbd-8074-1e4890dfbbe9",
+   "rewards": [
+    {
+     "name": "Mobile Drop 166",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/15f2e716-46e0-4dbd-8074-1e4890dfbbe9.png"
+  },
+  {
+   "id": "17049efb-2ed2-4b90-8cf0-6142ca0f51c8",
+   "game": "Rise Online",
+   "title": "ROW Drop 595",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T17:59:00+00:00",
+   "endAt": "2026-09-23T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-22T18:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5c4ce7e3-1e26-4774-8a38-fd3dd3da57af.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=17049efb-2ed2-4b90-8cf0-6142ca0f51c8",
+   "rewards": [
+    {
+     "name": "ROW Drop 595",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/17049efb-2ed2-4b90-8cf0-6142ca0f51c8.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "0f1b1514-fe01-4f81-8fea-d35049d204cd",
+   "game": "Once Human",
+   "title": "Console Launch Drops",
+   "startAt": "2026-08-25T18:00:00+00:00",
+   "endAt": "2026-09-22T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3",
+   "game": "Rise Online",
+   "title": "ROW Drop 594",
+   "startAt": "2026-09-21T17:59:00+00:00",
+   "endAt": "2026-09-22T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7f311245-0054-4b7e-8a97-2286f1604146",
+   "game": "Rise Online",
+   "title": "Mobile Drop 165",
+   "startAt": "2026-09-21T17:59:00+00:00",
+   "endAt": "2026-09-22T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812",
    "game": "Splinterlands",
@@ -7515,43 +7511,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.63
+   "score": 23.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.71
+   "score": 3.7
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.47
+   "score": 23.46
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7575,7 +7571,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   }
  },
  "favoriteWeights": {
