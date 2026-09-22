@@ -2638,26 +2638,6 @@
    "asset": "assets/d13db74f-a56d-4985-af69-3bf01adde336.png"
   },
   {
-   "id": "d32b9777-de07-4759-88b1-b461cf0043c0",
-   "game": "Albion Online",
-   "title": "Dragonfire 4 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T10:00:00+00:00",
-   "endAt": "2026-09-22T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-21T12:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2d72f22e-af27-410d-b399-c4ce82d98515.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d32b9777-de07-4759-88b1-b461cf0043c0",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d32b9777-de07-4759-88b1-b461cf0043c0.png"
-  },
-  {
    "id": "1e4eae10-3f13-4057-957a-071269a1d30e",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 21)",
@@ -3075,6 +3055,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "d32b9777-de07-4759-88b1-b461cf0043c0",
+   "game": "Albion Online",
+   "title": "Dragonfire 4 - #1/7",
+   "startAt": "2026-09-21T10:00:00+00:00",
+   "endAt": "2026-09-22T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "23bb4392-66ab-43a3-a940-1855f4a80087",
    "game": "World of Tanks Console",
@@ -7383,43 +7371,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.9
+   "score": 16.89
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.83
+   "score": 23.81
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.74
+   "score": 3.73
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.66
+   "score": 23.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.9
+   "score": 16.89
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.9
+   "score": 16.89
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.9
+   "score": 16.89
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7431,7 +7419,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.1
+   "score": 8.09
   },
   "Warframe": {
    "favorites": 1,
@@ -7443,7 +7431,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.9
+   "score": 16.89
   }
  },
  "favoriteWeights": {
