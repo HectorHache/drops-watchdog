@@ -2102,26 +2102,6 @@
    "asset": "assets/91f15164-33d7-4230-85a8-2934e089bb2f.jpg"
   },
   {
-   "id": "99e24677-c5c8-4c03-8fa9-f6aefa9a015f",
-   "game": "Phasmophobia",
-   "title": "6th Anniversary",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T11:00:00+00:00",
-   "endAt": "2026-09-21T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T11:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b978b68e-2acc-4b3b-a024-7d1eb3a55ce9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99e24677-c5c8-4c03-8fa9-f6aefa9a015f",
-   "rewards": [
-    {
-     "name": "6th Anniversary Charm",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99e24677-c5c8-4c03-8fa9-f6aefa9a015f.png"
-  },
-  {
    "id": "51854521-4931-4996-8f0d-5db261b243d4",
    "game": "Brawlhalla",
    "title": "Brawlhalla Autumn Singles",
@@ -2586,62 +2566,6 @@
    "asset": "assets/65cd09c0-62bc-45a6-a636-7a99f00996cb.png"
   },
   {
-   "id": "40b0356e-82f1-48a1-bc5e-1fac11de1325",
-   "game": "Delta Force",
-   "title": "DF Streamer Ladder Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T00:00:00+00:00",
-   "endAt": "2026-09-21T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T00:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/093e699a-09db-42cc-9c08-4f125855c0ba.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=40b0356e-82f1-48a1-bc5e-1fac11de1325",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Adv. E-product Lucky Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Adv Weapon Select Pack",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "M7 - Street Art",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/40b0356e-82f1-48a1-bc5e-1fac11de1325.png"
-  },
-  {
-   "id": "888a1ffb-9dbd-4d0b-98b2-7d20707e9f00",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T00:00:00+00:00",
-   "endAt": "2026-09-21T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T00:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0e945839-92a1-445e-b36f-c33f2244185e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=888a1ffb-9dbd-4d0b-98b2-7d20707e9f00",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/888a1ffb-9dbd-4d0b-98b2-7d20707e9f00.png"
-  },
-  {
    "id": "ebf71845-8b38-451d-87e3-9b95853e6e1a",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 3",
@@ -2942,26 +2866,6 @@
    "asset": "assets/68900705-0b38-4644-87b5-4a6c6fb00639.png"
   },
   {
-   "id": "3b626405-6f80-495a-961e-4d2577e21b20",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #8",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T14:00:00+00:00",
-   "endAt": "2026-09-22T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T14:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2a88467-5404-41be-97a6-d45dd64747ac.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b626405-6f80-495a-961e-4d2577e21b20",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3b626405-6f80-495a-961e-4d2577e21b20.jpg"
-  },
-  {
    "id": "c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 1/3",
@@ -3188,9 +3092,97 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f41cd7a5-568e-4232-8027-073f56b5721c.png"
+  },
+  {
+   "id": "d8710c01-432e-463c-b132-b9078567f2f5",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T00:00:00+00:00",
+   "endAt": "2026-09-22T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T00:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d56e32f-d959-4c16-bfbf-2db21bf29207.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d8710c01-432e-463c-b132-b9078567f2f5",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/d8710c01-432e-463c-b132-b9078567f2f5.png"
+  },
+  {
+   "id": "35d313f5-4c03-4f8e-a334-de67d8e2fa7f",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T00:00:00+00:00",
+   "endAt": "2026-09-22T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T01:30:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/950eca7b-e9db-41d9-a06b-07952f0e41ba.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=35d313f5-4c03-4f8e-a334-de67d8e2fa7f",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/35d313f5-4c03-4f8e-a334-de67d8e2fa7f.png"
   }
  ],
  "archive": [
+  {
+   "id": "3b626405-6f80-495a-961e-4d2577e21b20",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #8",
+   "startAt": "2026-09-21T14:00:00+00:00",
+   "endAt": "2026-09-22T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "40b0356e-82f1-48a1-bc5e-1fac11de1325",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "startAt": "2026-09-21T00:00:00+00:00",
+   "endAt": "2026-09-21T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "888a1ffb-9dbd-4d0b-98b2-7d20707e9f00",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-21T00:00:00+00:00",
+   "endAt": "2026-09-21T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "99e24677-c5c8-4c03-8fa9-f6aefa9a015f",
+   "game": "Phasmophobia",
+   "title": "6th Anniversary",
+   "startAt": "2026-09-18T11:00:00+00:00",
+   "endAt": "2026-09-21T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "90005bd5-ae38-447a-b755-35924ce7d337",
    "game": "DOFUS Touch",
@@ -7443,81 +7435,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 16.96
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 24.07
+   "score": 23.92
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.77
+   "score": 3.75
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.9
+   "score": 23.76
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 16.96
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 16.96
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 16.96
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.89
+   "score": 1.88
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.18
+   "score": 8.13
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.89
+   "score": 8.84
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 16.96
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 27,
+  "ARC Raiders": 26,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 34,
+  "Delta Force": 33,
   "LEGO Batman: Legacy of the Dark Knight": 33,
   "Marvel Rivals": 10,
-  "Once Human": 27,
-  "Palia": 27,
-  "Predecessor": 27,
+  "Once Human": 26,
+  "Palia": 26,
+  "Predecessor": 26,
   "Tom Clancy's The Division 2": 18,
   "Warframe": 18,
-  "Where Winds Meet": 27
+  "Where Winds Meet": 26
  }
 }
