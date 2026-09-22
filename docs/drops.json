@@ -2054,42 +2054,6 @@
    "asset": "assets/91f15164-33d7-4230-85a8-2934e089bb2f.jpg"
   },
   {
-   "id": "51854521-4931-4996-8f0d-5db261b243d4",
-   "game": "Brawlhalla",
-   "title": "Brawlhalla Autumn Singles",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T11:00:00+00:00",
-   "endAt": "2026-09-22T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T11:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/51af0755-49d5-4660-9e68-d61a15c9cbfc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=51854521-4931-4996-8f0d-5db261b243d4",
-   "rewards": [
-    {
-     "name": "Munin v6",
-     "minutes": 60
-    },
-    {
-     "name": "Magyar V6",
-     "minutes": 180
-    },
-    {
-     "name": "This is my Part-Time Job Title",
-     "minutes": 300
-    },
-    {
-     "name": "Tezca v7",
-     "minutes": 420
-    },
-    {
-     "name": "Neo-City Gauntlets",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/51854521-4931-4996-8f0d-5db261b243d4.png"
-  },
-  {
    "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
    "game": "Fortnite",
    "title": "Ironmouse x Fortnite ",
@@ -3075,6 +3039,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "51854521-4931-4996-8f0d-5db261b243d4",
+   "game": "Brawlhalla",
+   "title": "Brawlhalla Autumn Singles",
+   "startAt": "2026-09-18T11:00:00+00:00",
+   "endAt": "2026-09-22T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d32b9777-de07-4759-88b1-b461cf0043c0",
    "game": "Albion Online",
@@ -7397,7 +7369,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.79
+   "score": 23.78
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7409,7 +7381,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.63
+   "score": 23.62
   },
   "Once Human": {
    "favorites": 2,
@@ -7433,7 +7405,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.87
+   "score": 1.86
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
