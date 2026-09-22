@@ -1550,34 +1550,6 @@
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   },
   {
-   "id": "23bb4392-66ab-43a3-a940-1855f4a80087",
-   "game": "World of Tanks Console",
-   "title": "Masters of Mayhem Week 8",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T15:00:00+00:00",
-   "endAt": "2026-09-22T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T15:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3e99e756-e8a1-480e-a16b-4a2c1038aed4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23bb4392-66ab-43a3-a940-1855f4a80087",
-   "rewards": [
-    {
-     "name": "10 Enhanced Repair Kits",
-     "minutes": 120
-    },
-    {
-     "name": "4 x3 Vehicle XP Boosters",
-     "minutes": 240
-    },
-    {
-     "name": "2 x6 Commander XP Boosters",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/23bb4392-66ab-43a3-a940-1855f4a80087.png"
-  },
-  {
    "id": "3f7e1ccb-d3dc-4c1a-bb00-0efae6446191",
    "game": "Ravendawn",
    "title": "September 03",
@@ -2248,34 +2220,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7.jpg"
-  },
-  {
-   "id": "0e9b7854-aef0-4088-aadc-c1eddc732f03",
-   "game": "World of Tanks Console",
-   "title": "Mayhem Week 8",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T16:00:00+00:00",
-   "endAt": "2026-09-22T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T16:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b36ed294-a9f6-4596-9b6f-087fcc1b13f2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e9b7854-aef0-4088-aadc-c1eddc732f03",
-   "rewards": [
-    {
-     "name": "3 x1.5 Silver Boosters",
-     "minutes": 120
-    },
-    {
-     "name": "4 x10 Commander XP Boosters",
-     "minutes": 240
-    },
-    {
-     "name": "4 Camo Vouchers",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0e9b7854-aef0-4088-aadc-c1eddc732f03.png"
   },
   {
    "id": "f2761eae-cf4d-4f39-aeeb-a012db335518",
@@ -3131,6 +3075,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "23bb4392-66ab-43a3-a940-1855f4a80087",
+   "game": "World of Tanks Console",
+   "title": "Masters of Mayhem Week 8",
+   "startAt": "2026-09-15T15:00:00+00:00",
+   "endAt": "2026-09-22T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0e9b7854-aef0-4088-aadc-c1eddc732f03",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Week 8",
+   "startAt": "2026-09-18T16:00:00+00:00",
+   "endAt": "2026-09-22T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f6e4c513-5c61-4d58-aac6-1c009c25add7",
    "game": "Minecraft",
@@ -7423,13 +7383,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.91
+   "score": 16.9
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.84
+   "score": 23.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7441,25 +7401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.68
+   "score": 23.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.91
+   "score": 16.9
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.91
+   "score": 16.9
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.91
+   "score": 16.9
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7477,13 +7437,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.81
+   "score": 8.8
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.91
+   "score": 16.9
   }
  },
  "favoriteWeights": {
