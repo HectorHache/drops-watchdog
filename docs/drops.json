@@ -922,42 +922,6 @@
    "asset": "assets/4c304edf-da41-4abb-934b-ff7541bd5cab.png"
   },
   {
-   "id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812",
-   "game": "Splinterlands",
-   "title": "September Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T17:00:00+00:00",
-   "endAt": "2026-09-22T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T17:00:02+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/383e3bec-7435-46d7-9fdc-4309c25f0aa0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e8f6e3c6-acc1-41da-9204-fe204cc2a812",
-   "rewards": [
-    {
-     "name": "1000 Glint",
-     "minutes": 180
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 360
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 540
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 720
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e8f6e3c6-acc1-41da-9204-fe204cc2a812.png"
-  },
-  {
    "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
    "game": "Zenless Zone Zero",
    "title": "V3.2 Zenless Zone Zero",
@@ -3120,9 +3084,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767.png"
+  },
+  {
+   "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
+   "game": "Relic Arena",
+   "title": "Solo Queue Challenge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T16:00:00+00:00",
+   "endAt": "2026-10-19T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T17:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cc172abb-446d-47d8-a22d-112ad4e69bc3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e90f396b-6c1c-4875-b41b-d56041c68a48",
+   "rewards": [
+    {
+     "name": "5,000 Ingame Coins",
+     "minutes": 15
+    },
+    {
+     "name": "Harambe Emote",
+     "minutes": 60
+    },
+    {
+     "name": "Fencer Assassin Skin",
+     "minutes": 120
+    },
+    {
+     "name": "5,000 Ingame Coins",
+     "minutes": 240
+    },
+    {
+     "name": "Arcade Winstreak FX",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e90f396b-6c1c-4875-b41b-d56041c68a48.png"
+  },
+  {
+   "id": "131e1b3d-c580-4f4f-93de-b1f7bbb5e317",
+   "game": "Apex Legends",
+   "title": "Apex vs Street Fighter 6",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T17:00:00+00:00",
+   "endAt": "2026-09-29T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T17:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4a90f17c-a1fc-4668-9645-e35f7d2f739a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=131e1b3d-c580-4f4f-93de-b1f7bbb5e317",
+   "rewards": [
+    {
+     "name": "Insert Coin Here Charm",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/131e1b3d-c580-4f4f-93de-b1f7bbb5e317.png"
   }
  ],
  "archive": [
+  {
+   "id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812",
+   "game": "Splinterlands",
+   "title": "September Week 2",
+   "startAt": "2026-09-08T17:00:00+00:00",
+   "endAt": "2026-09-22T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "55e4bee5-9ac5-4af9-97fa-4906e6468120",
    "game": "NBA 2K27",
@@ -7487,13 +7515,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.78
+   "score": 16.77
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.65
+   "score": 23.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7505,25 +7533,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.49
+   "score": 23.48
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.78
+   "score": 16.77
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.78
+   "score": 16.77
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.78
+   "score": 16.77
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7535,7 +7563,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.04
+   "score": 8.03
   },
   "Warframe": {
    "favorites": 1,
@@ -7547,7 +7575,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.78
+   "score": 16.77
   }
  },
  "favoriteWeights": {
