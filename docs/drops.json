@@ -1530,46 +1530,6 @@
    "asset": "assets/e75d8e5e-f588-4850-8a62-773fe3492998.png"
   },
   {
-   "id": "3f7e1ccb-d3dc-4c1a-bb00-0efae6446191",
-   "game": "Ravendawn",
-   "title": "September 03",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T15:00:00+00:00",
-   "endAt": "2026-09-22T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T15:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/78c8877d-6d3f-4605-a849-950f1f19bc3c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3f7e1ccb-d3dc-4c1a-bb00-0efae6446191",
-   "rewards": [
-    {
-     "name": "2x RavenPacks",
-     "minutes": 60
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 360
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 540
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 720
-    },
-    {
-     "name": "100x Ghostly Infusion",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3f7e1ccb-d3dc-4c1a-bb00-0efae6446191.png"
-  },
-  {
    "id": "75359535-d3c0-4c73-8c3d-38ce6ea623b8",
    "game": "Rocket League",
    "title": "RL Worlds Sub Drops",
@@ -3076,9 +3036,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/84f27bd4-9c9f-4a03-acc5-096b84081db8.png"
+  },
+  {
+   "id": "4d5ba927-9c9e-4a89-bd69-8843467878f3",
+   "game": "World of Tanks Console",
+   "title": "Master of Mayhem Week 9",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T15:00:00+00:00",
+   "endAt": "2026-09-29T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T15:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98a690ae-f447-406f-afbc-05c5474b11de.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d5ba927-9c9e-4a89-bd69-8843467878f3",
+   "rewards": [
+    {
+     "name": "10 Enhanced Med Kits",
+     "minutes": 120
+    },
+    {
+     "name": "4 x3 Vehicle XP Boosters",
+     "minutes": 240
+    },
+    {
+     "name": "Camo Voucher",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4d5ba927-9c9e-4a89-bd69-8843467878f3.png"
+  },
+  {
+   "id": "f59a4880-7181-4c58-9aff-1d5e9644af7a",
+   "game": "Ravendawn",
+   "title": "September 04",
+   "status": "ACTIVE",
+   "startAt": "2026-09-22T15:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-22T15:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7f0e5941-9543-4d08-a617-74fc8b5c1fdd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f59a4880-7181-4c58-9aff-1d5e9644af7a",
+   "rewards": [
+    {
+     "name": "2x RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 360
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 540
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 720
+    },
+    {
+     "name": "100x Ghostly Infusion",
+     "minutes": 900
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f59a4880-7181-4c58-9aff-1d5e9644af7a.png"
   }
  ],
  "archive": [
+  {
+   "id": "3f7e1ccb-d3dc-4c1a-bb00-0efae6446191",
+   "game": "Ravendawn",
+   "title": "September 03",
+   "startAt": "2026-09-15T15:00:00+00:00",
+   "endAt": "2026-09-22T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b6581084-0574-452c-9c00-d881d4fea78e",
    "game": "HITMAN World of Assassination",
@@ -7427,43 +7463,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.7
+   "score": 23.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.72
+   "score": 3.71
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.54
+   "score": 23.53
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7481,13 +7517,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.76
+   "score": 8.75
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   }
  },
  "favoriteWeights": {
