@@ -2,66 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "412be155-a987-41ba-8f9e-30f0909e54cb",
-   "game": "Honkai: Star Rail",
-   "title": "V4.5 Honkai: Star Rail",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T01:00:00+00:00",
-   "endAt": "2026-09-23T00:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d3e3e83-c11f-45b8-9452-10e0223ce246.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=412be155-a987-41ba-8f9e-30f0909e54cb",
-   "rewards": [
-    {
-     "name": "Credit*20000",
-     "minutes": 15
-    },
-    {
-     "name": "Lost Gold Fragment*4",
-     "minutes": 30
-    },
-    {
-     "name": "Condensed Aether*5",
-     "minutes": 45
-    },
-    {
-     "name": "Traveler's Guide*3",
-     "minutes": 60
-    },
-    {
-     "name": "Stellar Jade*30",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/412be155-a987-41ba-8f9e-30f0909e54cb.png"
-  },
-  {
-   "id": "89ce7f50-00c2-4029-b3ca-e54630cfafd4",
-   "game": "Doomsday: Last Survivors",
-   "title": "Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T06:47:31+00:00",
-   "endAt": "2026-09-22T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/903308d9-478b-4d28-9d70-077d9ef4d2d7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=89ce7f50-00c2-4029-b3ca-e54630cfafd4",
-   "rewards": [
-    {
-     "name": "15-Minute Reward",
-     "minutes": 15
-    },
-    {
-     "name": "30-Minute Reward",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/89ce7f50-00c2-4029-b3ca-e54630cfafd4.png"
-  },
-  {
    "id": "90589949-1d2e-4161-8def-3aee51e1f721",
    "game": "Resonance: A Plague Tale Legacy",
    "title": "Resonance Launch",
@@ -2382,34 +2322,6 @@
    "asset": "assets/aa4fcc23-62c2-417d-a74c-df9cdeb46157.png"
   },
   {
-   "id": "bf2df9c8-3aa7-4de7-9db2-bb4740812804",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 8",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T05:00:00+00:00",
-   "endAt": "2026-09-23T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-21T05:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4fc284c2-0387-41c8-ae4c-0965c6d9f515.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf2df9c8-3aa7-4de7-9db2-bb4740812804",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bf2df9c8-3aa7-4de7-9db2-bb4740812804.png"
-  },
-  {
    "id": "d13db74f-a56d-4985-af69-3bf01adde336",
    "game": "Overwatch",
    "title": "OWCS Stage 3 Asia Kickoff",
@@ -2650,62 +2562,6 @@
    "asset": "assets/acfe75f6-bbbe-41d5-a0b6-f42a4807845e.png"
   },
   {
-   "id": "d8710c01-432e-463c-b132-b9078567f2f5",
-   "game": "Delta Force",
-   "title": "DF Streamer Ladder Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T00:00:00+00:00",
-   "endAt": "2026-09-22T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T00:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d56e32f-d959-4c16-bfbf-2db21bf29207.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d8710c01-432e-463c-b132-b9078567f2f5",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Adv. E-product Lucky Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Adv Weapon Select Pack",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "M7 - Street Art",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/d8710c01-432e-463c-b132-b9078567f2f5.png"
-  },
-  {
-   "id": "35d313f5-4c03-4f8e-a334-de67d8e2fa7f",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T00:00:00+00:00",
-   "endAt": "2026-09-22T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T01:30:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/950eca7b-e9db-41d9-a06b-07952f0e41ba.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=35d313f5-4c03-4f8e-a334-de67d8e2fa7f",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/35d313f5-4c03-4f8e-a334-de67d8e2fa7f.png"
-  },
-  {
    "id": "224f5058-1190-4784-90d1-23b5badee1ed",
    "game": "Albion Online",
    "title": "Dragonfire 4 - #2/7",
@@ -2910,26 +2766,6 @@
    "asset": "assets/f59a4880-7181-4c58-9aff-1d5e9644af7a.png"
   },
   {
-   "id": "5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 1 End",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T16:00:00+00:00",
-   "endAt": "2026-09-22T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T16:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3888d0b8-c4f8-404e-af38-43ab1d32b18a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767.png"
-  },
-  {
    "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
    "game": "Relic Arena",
    "title": "Solo Queue Challenge",
@@ -3124,9 +2960,185 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5d60360c-fc23-4dda-96cd-43a98cdc77a5.png"
+  },
+  {
+   "id": "1f9ba248-3d71-4304-a24f-627bf93cda16",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T00:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T00:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a96916b-d50b-4f0b-b9cf-cc00844aabef.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1f9ba248-3d71-4304-a24f-627bf93cda16",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1f9ba248-3d71-4304-a24f-627bf93cda16.png"
+  },
+  {
+   "id": "989f5deb-6357-4d1f-a687-76a82d376895",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T00:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T00:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76a22b72-eeb5-4f8d-830a-d488a48528e3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989f5deb-6357-4d1f-a687-76a82d376895",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/989f5deb-6357-4d1f-a687-76a82d376895.png"
+  },
+  {
+   "id": "728141da-5f87-49de-8afd-7fa0be33545f",
+   "game": "Genshin Impact",
+   "title": "V7.1 Genshin Impact Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T03:00:00+00:00",
+   "endAt": "2026-10-13T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T03:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a96b030f-15ce-4844-980b-cbffac563f4d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=728141da-5f87-49de-8afd-7fa0be33545f",
+   "rewards": [
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 15
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 30
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 45
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 60
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/728141da-5f87-49de-8afd-7fa0be33545f.png"
+  },
+  {
+   "id": "0b0ea7c4-0bec-4162-9e91-7c150ec3606e",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 9",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T05:00:00+00:00",
+   "endAt": "2026-09-26T04:58:59.999+00:00",
+   "firstSeenAt": "2026-09-23T05:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/574a0b21-a24d-4ca7-b993-3bb1783eccbe.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b0ea7c4-0bec-4162-9e91-7c150ec3606e",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0b0ea7c4-0bec-4162-9e91-7c150ec3606e.png"
   }
  ],
  "archive": [
+  {
+   "id": "bf2df9c8-3aa7-4de7-9db2-bb4740812804",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 8",
+   "startAt": "2026-09-21T05:00:00+00:00",
+   "endAt": "2026-09-23T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "725c6442-b9b1-4c23-b77d-1e154e4b1cbe",
+   "game": "Madden NFL 27",
+   "title": "In The Huddle",
+   "startAt": "2026-09-23T00:00:00+00:00",
+   "endAt": "2026-09-23T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "412be155-a987-41ba-8f9e-30f0909e54cb",
+   "game": "Honkai: Star Rail",
+   "title": "V4.5 Honkai: Star Rail",
+   "startAt": "2026-08-26T01:00:00+00:00",
+   "endAt": "2026-09-23T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d8710c01-432e-463c-b132-b9078567f2f5",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "startAt": "2026-09-22T00:00:00+00:00",
+   "endAt": "2026-09-22T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "35d313f5-4c03-4f8e-a334-de67d8e2fa7f",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-22T00:00:00+00:00",
+   "endAt": "2026-09-22T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "89ce7f50-00c2-4029-b3ca-e54630cfafd4",
+   "game": "Doomsday: Last Survivors",
+   "title": "Twitch Drops",
+   "startAt": "2026-08-26T06:47:31+00:00",
+   "endAt": "2026-09-22T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5c30d17e-9ce1-4278-aa2b-b5fbdd8b4767",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 1 End",
+   "startAt": "2026-09-22T16:00:00+00:00",
+   "endAt": "2026-09-22T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f41cd7a5-568e-4232-8027-073f56b5721c",
    "game": "DOFUS Touch",
@@ -7555,67 +7567,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.68
+   "score": 16.58
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.52
+   "score": 23.37
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.69
+   "score": 3.67
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.36
+   "score": 23.21
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.68
+   "score": 16.58
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.68
+   "score": 16.58
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.68
+   "score": 16.58
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.84
+   "score": 1.83
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.99
+   "score": 7.94
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.69
+   "score": 8.63
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.68
+   "score": 16.58
   }
  },
  "favoriteWeights": {
