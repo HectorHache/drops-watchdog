@@ -3048,6 +3048,138 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ca441968-1306-4d7c-8279-43dc53bb5345.png"
+  },
+  {
+   "id": "7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-23T16:29:59.999+00:00",
+   "firstSeenAt": "2026-09-23T14:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4685873c-f5d2-46bf-84e1-1d12ef7eebe9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b.png"
+  },
+  {
+   "id": "cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #9",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-24T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T14:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/836a8cac-2f3f-45b0-84fe-985220dfc4c6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cedaee9c-efb1-4bfe-9f22-41de9b5d54c7.jpg"
+  },
+  {
+   "id": "5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-23T14:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/44624de1-298a-47f1-a656-1bbeade24b84.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5d7ee621-919f-4aa0-a31f-9aeb45d95c2a.png"
+  },
+  {
+   "id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Wasteland circuit",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T14:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7144ee36-cac7-4395-916b-0b2b8c1d9558.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
+   "rewards": [
+    {
+     "name": "Test",
+     "minutes": 60
+    },
+    {
+     "name": "OL'CLANKER",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ca5a0e74-fbc4-4281-b234-44ed2e4ba594.png"
+  },
+  {
+   "id": "3376e74e-68e8-45b9-a147-ef80b16a6c93",
+   "game": "Rainbow Six Siege",
+   "title": "DRON-E Chat Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T14:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f59ff72-8bb9-411d-8408-24bd5404571c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3376e74e-68e8-45b9-a147-ef80b16a6c93",
+   "rewards": [
+    {
+     "name": "DRON-E Chat Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
   }
  ],
  "archive": [
@@ -7575,43 +7707,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.18
+   "score": 23.17
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.64
+   "score": 3.63
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.02
+   "score": 23.01
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7623,7 +7755,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.88
+   "score": 7.87
   },
   "Warframe": {
    "favorites": 1,
@@ -7635,7 +7767,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   }
  },
  "favoriteWeights": {
