@@ -2626,34 +2626,6 @@
    "asset": "assets/1445f6b3-c20d-4a8a-bfc1-7af87d697e9c.png"
   },
   {
-   "id": "791e00d7-9fe8-4ff9-ac9d-f332da348034",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0923]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T20:00:00+00:00",
-   "endAt": "2026-09-23T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T20:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7157379a-77f2-4c33-92cd-95237af32d2a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=791e00d7-9fe8-4ff9-ac9d-f332da348034",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/791e00d7-9fe8-4ff9-ac9d-f332da348034.png"
-  },
-  {
    "id": "5d60360c-fc23-4dda-96cd-43a98cdc77a5",
    "game": "DOFUS Touch",
    "title": "J9 - 2x Temporix Cps",
@@ -3180,9 +3152,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/61c74d49-7963-4f4a-a422-54c3eae7d4ed.png"
+  },
+  {
+   "id": "e56300d1-f0ef-4705-b5c0-453d6e97c5b1",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0924]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T20:00:00+00:00",
+   "endAt": "2026-09-24T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T20:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fe770ab3-9872-4356-8b58-b95d33cd98bf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e56300d1-f0ef-4705-b5c0-453d6e97c5b1",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e56300d1-f0ef-4705-b5c0-453d6e97c5b1.png"
   }
  ],
  "archive": [
+  {
+   "id": "791e00d7-9fe8-4ff9-ac9d-f332da348034",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0923]",
+   "startAt": "2026-09-22T20:00:00+00:00",
+   "endAt": "2026-09-23T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "15f2e716-46e0-4dbd-8074-1e4890dfbbe9",
    "game": "Rise Online",
@@ -7755,13 +7763,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.35
+   "score": 16.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.05
+   "score": 23.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7773,25 +7781,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.89
+   "score": 22.88
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.35
+   "score": 16.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.35
+   "score": 16.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.35
+   "score": 16.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7809,13 +7817,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.52
+   "score": 8.51
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.35
+   "score": 16.34
   }
  },
  "favoriteWeights": {
