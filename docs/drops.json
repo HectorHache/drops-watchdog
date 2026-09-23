@@ -3176,6 +3176,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87.jpg"
+  },
+  {
+   "id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
+   "game": "Warframe",
+   "title": "Iceblade of Narin",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T15:30:00+00:00",
+   "endAt": "2026-09-30T15:29:59.999+00:00",
+   "firstSeenAt": "2026-09-23T15:30:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f2bf2fd-3ac6-4e1b-9808-3206bdc5c92e.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
+   "rewards": [
+    {
+     "name": "Kuva Globule Decoration",
+     "minutes": 60
+    },
+    {
+     "name": "Parallax Landing Craft",
+     "minutes": 120
+    },
+    {
+     "name": "Niveus Sumdali",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/c3228c6d-d3f6-46ca-a167-7e4e573e80ca.jpg"
   }
  ],
  "archive": [
@@ -7711,13 +7739,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.42
+   "score": 16.41
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.15
+   "score": 23.14
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7729,37 +7757,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.99
+   "score": 22.98
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.42
+   "score": 16.41
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.42
+   "score": 16.41
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.42
+   "score": 16.41
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.82
+   "score": 1.81
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.87
+   "score": 7.86
   },
   "Warframe": {
    "favorites": 1,
@@ -7771,7 +7799,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.42
+   "score": 16.41
   }
  },
  "favoriteWeights": {
