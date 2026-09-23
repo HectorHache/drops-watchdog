@@ -2134,50 +2134,6 @@
    "asset": "assets/39784ad3-3488-4825-bbe6-0d435ca30806.png"
   },
   {
-   "id": "1af19995-9b5e-4320-a2c2-a83804c68b9d",
-   "game": "Hunt Club On Stream",
-   "title": "Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-20T04:17:52+00:00",
-   "endAt": "2026-09-23T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-20T04:30:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7c75b29c-46ce-404b-a382-496adaf15863.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1af19995-9b5e-4320-a2c2-a83804c68b9d",
-   "rewards": [
-    {
-     "name": "Bronze",
-     "minutes": 60
-    },
-    {
-     "name": "Silver",
-     "minutes": 150
-    },
-    {
-     "name": "Gold",
-     "minutes": 300
-    },
-    {
-     "name": "Random",
-     "minutes": 420
-    },
-    {
-     "name": "Epic",
-     "minutes": 600
-    },
-    {
-     "name": "Legendary ",
-     "minutes": 900
-    },
-    {
-     "name": "Mega Sub",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1af19995-9b5e-4320-a2c2-a83804c68b9d.png"
-  },
-  {
    "id": "65cd09c0-62bc-45a6-a636-7a99f00996cb",
    "game": "Kirka.io",
    "title": "Insert-Coin",
@@ -3095,6 +3051,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "1af19995-9b5e-4320-a2c2-a83804c68b9d",
+   "game": "Hunt Club On Stream",
+   "title": "Drops",
+   "startAt": "2026-09-20T04:17:52+00:00",
+   "endAt": "2026-09-23T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "91f15164-33d7-4230-85a8-2934e089bb2f",
    "game": "Sea of Thieves",
@@ -7595,43 +7559,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.25
+   "score": 23.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.65
+   "score": 3.64
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.09
+   "score": 23.08
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7655,7 +7619,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   }
  },
  "favoriteWeights": {
