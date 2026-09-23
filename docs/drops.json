@@ -1630,26 +1630,6 @@
    "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
   },
   {
-   "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
-   "game": "World of Warships",
-   "title": "15.8 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T22:00:00+00:00",
-   "endAt": "2026-09-23T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T22:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/360105e7-13c6-4adc-9d60-89f4febf5b7f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
-   "rewards": [
-    {
-     "name": "Week 2: 250 Community Tokens",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6bbab6fc-5e17-490d-8e2f-0d4260c00e4e.png"
-  },
-  {
    "id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
    "game": "World of Warships",
    "title": "15.8 Worth Their Salt #2",
@@ -2626,42 +2606,6 @@
    "asset": "assets/1445f6b3-c20d-4a8a-bfc1-7af87d697e9c.png"
   },
   {
-   "id": "5d60360c-fc23-4dda-96cd-43a98cdc77a5",
-   "game": "DOFUS Touch",
-   "title": "J9 - 2x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T22:00:00+00:00",
-   "endAt": "2026-09-23T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T22:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/168f1507-5f23-4f12-bc6b-55c5fea54d23.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d60360c-fc23-4dda-96cd-43a98cdc77a5",
-   "rewards": [
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5d60360c-fc23-4dda-96cd-43a98cdc77a5.png"
-  },
-  {
    "id": "1f9ba248-3d71-4304-a24f-627bf93cda16",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3182,27 +3126,87 @@
    "asset": "assets/e56300d1-f0ef-4705-b5c0-453d6e97c5b1.png"
   },
   {
-   "id": "ba25898f-1ea6-43da-bb44-d64bd5d8cb9a",
-   "game": "Hearthstone",
-   "title": "Black Empire Reveals 2",
+   "id": "7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
+   "game": "DOFUS Touch",
+   "title": "J10 - 2x Temporix Cps",
    "status": "ACTIVE",
-   "startAt": "2026-09-23T21:00:00+00:00",
-   "endAt": "2026-09-23T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T21:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc5bc4b5-892c-4c97-9577-d318d2b474b3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba25898f-1ea6-43da-bb44-d64bd5d8cb9a",
+   "startAt": "2026-09-23T22:00:00+00:00",
+   "endAt": "2026-09-24T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T22:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7a19b8d-8ca4-48b0-b82e-563583a72220.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
    "rewards": [
     {
-     "name": "Black Empire Pack",
-     "minutes": 15
+     "name": "2x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 150
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 90
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/ba25898f-1ea6-43da-bb44-d64bd5d8cb9a.png"
+   "asset": "assets/7bffdafe-32a8-4f78-94ef-d4338c0e62f8.png"
+  },
+  {
+   "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T22:00:00+00:00",
+   "endAt": "2026-09-30T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T22:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b3b4e45-6c8b-4107-bec8-dd28f3d00fcf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
+   "rewards": [
+    {
+     "name": "Week 3: 250 Community Tokens",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/81a6d0ee-ba45-42e8-a55e-a0ed98c040a9.png"
   }
  ],
  "archive": [
+  {
+   "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "startAt": "2026-09-16T22:00:00+00:00",
+   "endAt": "2026-09-23T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5d60360c-fc23-4dda-96cd-43a98cdc77a5",
+   "game": "DOFUS Touch",
+   "title": "J9 - 2x Temporix Cps",
+   "startAt": "2026-09-22T22:00:00+00:00",
+   "endAt": "2026-09-23T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ba25898f-1ea6-43da-bb44-d64bd5d8cb9a",
+   "game": "Hearthstone",
+   "title": "Black Empire Reveals 2",
+   "startAt": "2026-09-23T21:00:00+00:00",
+   "endAt": "2026-09-23T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "791e00d7-9fe8-4ff9-ac9d-f332da348034",
    "game": "Eternal Return",
@@ -7789,7 +7793,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.0
+   "score": 22.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7801,7 +7805,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.85
+   "score": 22.84
   },
   "Once Human": {
    "favorites": 2,
@@ -7831,13 +7835,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.82
+   "score": 7.81
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.5
+   "score": 8.49
   },
   "Where Winds Meet": {
    "favorites": 2,
@@ -7850,7 +7854,7 @@
   "ARC Raiders": 26,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 33,
+  "Delta Force": 32,
   "LEGO Batman: Legacy of the Dark Knight": 32,
   "Marvel Rivals": 10,
   "Once Human": 26,
