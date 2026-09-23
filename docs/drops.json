@@ -3080,6 +3080,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0b0ea7c4-0bec-4162-9e91-7c150ec3606e.png"
+  },
+  {
+   "id": "9edec8ee-fef9-4d71-97aa-c4bb18855788",
+   "game": "Caliber",
+   "title": "Twitch Drops Autumn Watch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T08:00:00+00:00",
+   "endAt": "2026-09-27T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T08:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/225347f3-4b4e-417e-9d3c-e69382cb00c8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9edec8ee-fef9-4d71-97aa-c4bb18855788",
+   "rewards": [
+    {
+     "name": "S13 60000 credits",
+     "minutes": 120
+    },
+    {
+     "name": "S13 500 coins",
+     "minutes": 720
+    },
+    {
+     "name": "S13 Twitch Container",
+     "minutes": 180
+    },
+    {
+     "name": "S13 80000 credits",
+     "minutes": 240
+    },
+    {
+     "name": "S13 Weapon Container",
+     "minutes": 300
+    },
+    {
+     "name": "S13 120000 credits",
+     "minutes": 360
+    },
+    {
+     "name": "S13 Veteran Container",
+     "minutes": 900
+    },
+    {
+     "name": "S13 Enhanced booster",
+     "minutes": 420
+    },
+    {
+     "name": "S13 150000 credits",
+     "minutes": 480
+    },
+    {
+     "name": "S13 Elite Container",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/9edec8ee-fef9-4d71-97aa-c4bb18855788.png"
   }
  ],
  "archive": [
@@ -7567,43 +7623,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.54
+   "score": 16.53
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.32
+   "score": 23.3
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.66
+   "score": 3.65
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.16
+   "score": 23.15
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.54
+   "score": 16.53
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.54
+   "score": 16.53
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.54
+   "score": 16.53
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7627,7 +7683,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.54
+   "score": 16.53
   }
  },
  "favoriteWeights": {
