@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Resonance: A Plague Tale Legacy — Resonance Launch</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=90589949-1d2e-4161-8def-3aee51e1f721</link>
-    <guid isPermaLink="false">90589949-1d2e-4161-8def-3aee51e1f721</guid>
-    <description>Resonance Minotaur — runs 2026-08-26T16:00:00+00:00 → 2026-09-23T15:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-26T16:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Lords Mobile — Twitch Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=98193e83-2c11-4a0f-831a-d5fbd2651f5d</link>
     <guid isPermaLink="false">98193e83-2c11-4a0f-831a-d5fbd2651f5d</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=3f5f575f-47d0-4856-88eb-a635b8ec6037</link>
     <guid isPermaLink="false">3f5f575f-47d0-4856-88eb-a635b8ec6037</guid>
     <description>Streamer Stickers4-1 · Streamer Stickers4-2 · Streamer Stickers4-3 · Streamer Stickers4-4 — runs 2026-09-16T09:00:00+00:00 → 2026-10-13T08:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-16T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Arena Breakout: Infinite — S7 Support ABI Streamers</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=60d49775-74c0-4821-91d0-5fd5e7ac0506</link>
+    <guid isPermaLink="false">60d49775-74c0-4821-91d0-5fd5e7ac0506</guid>
+    <description>Streamer Stickers2-1 · Streamer Stickers2-2 · Streamer Stickers2-3 · Streamer Stickers2-4 — runs 2026-09-16T09:00:00+00:00 → 2026-10-13T08:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-16T09:00:00+00:00</pubDate>
   </item>
 </channel>

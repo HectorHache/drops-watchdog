@@ -2,26 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "90589949-1d2e-4161-8def-3aee51e1f721",
-   "game": "Resonance: A Plague Tale Legacy",
-   "title": "Resonance Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-08-26T16:00:00+00:00",
-   "endAt": "2026-09-23T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/219ecc61-cc7d-457b-9f14-794549b28700.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=90589949-1d2e-4161-8def-3aee51e1f721",
-   "rewards": [
-    {
-     "name": "Resonance Minotaur",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/90589949-1d2e-4161-8def-3aee51e1f721.png"
-  },
-  {
    "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
    "game": "Lords Mobile",
    "title": "Twitch Drops",
@@ -1650,30 +1630,6 @@
    "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
   },
   {
-   "id": "325f7dd7-6721-472d-aa42-25c85a588b47",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T16:00:00+00:00",
-   "endAt": "2026-09-23T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-16T17:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1aa4f21d-e074-45a3-9438-c845d345a200.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=325f7dd7-6721-472d-aa42-25c85a588b47",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/325f7dd7-6721-472d-aa42-25c85a588b47.png"
-  },
-  {
    "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
    "game": "World of Warships",
    "title": "15.8 WOWS Channel Drop",
@@ -3204,9 +3160,49 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/c3228c6d-d3f6-46ca-a167-7e4e573e80ca.jpg"
+  },
+  {
+   "id": "4655b913-9701-4ff3-8983-5048257e6c92",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T16:00:00+00:00",
+   "endAt": "2026-09-30T15:58:59.999+00:00",
+   "firstSeenAt": "2026-09-23T16:00:26+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d628744-361b-4de0-b17c-7775af30dbb3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4655b913-9701-4ff3-8983-5048257e6c92",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4655b913-9701-4ff3-8983-5048257e6c92.png"
   }
  ],
  "archive": [
+  {
+   "id": "90589949-1d2e-4161-8def-3aee51e1f721",
+   "game": "Resonance: A Plague Tale Legacy",
+   "title": "Resonance Launch",
+   "startAt": "2026-08-26T16:00:00+00:00",
+   "endAt": "2026-09-23T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "325f7dd7-6721-472d-aa42-25c85a588b47",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 3",
+   "startAt": "2026-09-16T16:00:00+00:00",
+   "endAt": "2026-09-23T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "80c1c558-fb6c-4f14-ba4e-57ebd638b364",
    "game": "World of Tanks",
@@ -7739,13 +7735,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.41
+   "score": 16.4
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.14
+   "score": 23.13
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7757,25 +7753,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.98
+   "score": 22.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.41
+   "score": 16.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.41
+   "score": 16.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.41
+   "score": 16.4
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7793,13 +7789,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.55
+   "score": 8.54
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.41
+   "score": 16.4
   }
  },
  "favoriteWeights": {
