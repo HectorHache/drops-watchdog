@@ -2982,30 +2982,6 @@
    "asset": "assets/ca441968-1306-4d7c-8279-43dc53bb5345.png"
   },
   {
-   "id": "7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b",
-   "game": "Madden NFL 27",
-   "title": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T14:00:00+00:00",
-   "endAt": "2026-09-23T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-23T14:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4685873c-f5d2-46bf-84e1-1d12ef7eebe9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b.png"
-  },
-  {
    "id": "cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #9",
@@ -3187,6 +3163,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "7091e7e1-7dd3-4e9e-a8a1-32ed523c3e3b",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-23T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "90589949-1d2e-4161-8def-3aee51e1f721",
    "game": "Resonance: A Plague Tale Legacy",
@@ -7735,43 +7719,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.4
+   "score": 16.39
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.13
+   "score": 23.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.63
+   "score": 3.62
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.97
+   "score": 22.96
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.4
+   "score": 16.39
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.4
+   "score": 16.39
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.4
+   "score": 16.39
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7783,7 +7767,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.86
+   "score": 7.85
   },
   "Warframe": {
    "favorites": 1,
@@ -7795,7 +7779,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.4
+   "score": 16.39
   }
  },
  "favoriteWeights": {
