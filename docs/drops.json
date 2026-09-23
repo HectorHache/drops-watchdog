@@ -1798,50 +1798,6 @@
    "asset": "assets/a75637d9-b720-4f97-8156-a8444a760505.png"
   },
   {
-   "id": "91f15164-33d7-4230-85a8-2934e089bb2f",
-   "game": "Sea of Thieves",
-   "title": "Season 21 Launch Drops!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T10:00:00+00:00",
-   "endAt": "2026-09-23T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T10:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8cb8ffe1-8269-48a8-926e-e41c0d345ca7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91f15164-33d7-4230-85a8-2934e089bb2f",
-   "rewards": [
-    {
-     "name": "Drum Show-Off Emote",
-     "minutes": 120
-    },
-    {
-     "name": "Lazybeard Title",
-     "minutes": 180
-    },
-    {
-     "name": "Twilight Hunter Fishing Rod",
-     "minutes": 240
-    },
-    {
-     "name": "Graveyard Gladiator Pistol",
-     "minutes": 300
-    },
-    {
-     "name": "Fishbone Throwing Knives",
-     "minutes": 360
-    },
-    {
-     "name": "75k Gold Sep 26",
-     "minutes": 30
-    },
-    {
-     "name": "+1 Renown Sep 26",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/91f15164-33d7-4230-85a8-2934e089bb2f.jpg"
-  },
-  {
    "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
    "game": "Fortnite",
    "title": "Ironmouse x Fortnite ",
@@ -3116,9 +3072,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/9edec8ee-fef9-4d71-97aa-c4bb18855788.png"
+  },
+  {
+   "id": "bc3e9e8e-b253-4baa-927e-8eae8bec43fd",
+   "game": "Albion Online",
+   "title": "Dragonfire 4 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T10:00:00+00:00",
+   "endAt": "2026-09-24T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-23T10:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aa320128-f321-400b-b470-924dc42b187b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bc3e9e8e-b253-4baa-927e-8eae8bec43fd",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bc3e9e8e-b253-4baa-927e-8eae8bec43fd.png"
   }
  ],
  "archive": [
+  {
+   "id": "91f15164-33d7-4230-85a8-2934e089bb2f",
+   "game": "Sea of Thieves",
+   "title": "Season 21 Launch Drops!",
+   "startAt": "2026-09-18T10:00:00+00:00",
+   "endAt": "2026-09-23T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "224f5058-1190-4784-90d1-23b5badee1ed",
    "game": "Albion Online",
@@ -7617,7 +7601,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.27
+   "score": 23.26
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7629,7 +7613,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.11
+   "score": 23.1
   },
   "Once Human": {
    "favorites": 2,
@@ -7659,13 +7643,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.91
+   "score": 7.9
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.6
+   "score": 8.59
   },
   "Where Winds Meet": {
    "favorites": 2,
