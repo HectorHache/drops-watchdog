@@ -2394,30 +2394,6 @@
    "asset": "assets/c5138a92-e415-4ee4-bdd8-9d86b3881fb5.png"
   },
   {
-   "id": "80c1c558-fb6c-4f14-ba4e-57ebd638b364",
-   "game": "World of Tanks",
-   "title": "Waffentr\u00e4ger: Genesis #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T15:00:00+00:00",
-   "endAt": "2026-09-23T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T15:00:21+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6a4e9e9b-c612-4d79-9245-d182b2fe39c1.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80c1c558-fb6c-4f14-ba4e-57ebd638b364",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/80c1c558-fb6c-4f14-ba4e-57ebd638b364.jpg"
-  },
-  {
    "id": "8348ea15-3e95-4214-bd46-242ed3dea53c",
    "game": "Rocket League",
    "title": "RL Worlds Drop Rush",
@@ -3180,9 +3156,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
+  },
+  {
+   "id": "bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T15:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-23T15:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/156a05ec-0111-48a3-a516-f0d076bf669c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "80c1c558-fb6c-4f14-ba4e-57ebd638b364",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #2",
+   "startAt": "2026-09-21T15:00:00+00:00",
+   "endAt": "2026-09-23T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fa932586-c287-424c-bb95-cb7d8a85d661",
    "game": "Out of the Park Baseball 27",
@@ -7713,7 +7717,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 23.16
+   "score": 23.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7725,7 +7729,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 23.0
+   "score": 22.99
   },
   "Once Human": {
    "favorites": 2,
@@ -7761,7 +7765,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.56
+   "score": 8.55
   },
   "Where Winds Meet": {
    "favorites": 2,
@@ -7775,7 +7779,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 33,
-  "LEGO Batman: Legacy of the Dark Knight": 33,
+  "LEGO Batman: Legacy of the Dark Knight": 32,
   "Marvel Rivals": 10,
   "Once Human": 26,
   "Palia": 26,
