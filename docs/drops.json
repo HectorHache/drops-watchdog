@@ -2,70 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
-   "game": "Lords Mobile",
-   "title": "Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-08-27T03:45:15+00:00",
-   "endAt": "2026-09-24T03:43:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/796851b4-880f-49da-9a9e-ac8fa1e5cf9e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98193e83-2c11-4a0f-831a-d5fbd2651f5d",
-   "rewards": [
-    {
-     "name": "15-Minute Reward",
-     "minutes": 15
-    },
-    {
-     "name": "30-Minute Drop",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/98193e83-2c11-4a0f-831a-d5fbd2651f5d.png"
-  },
-  {
-   "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
-   "game": "Infinity Nikki",
-   "title": "V2.9 Infinity Nikki",
-   "status": "ACTIVE",
-   "startAt": "2026-08-28T03:00:00+00:00",
-   "endAt": "2026-09-24T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eed5e89a-b7bd-4fb3-9327-958a4071d496.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a32d43f5-2c18-4205-9480-d1149b3558d2",
-   "rewards": [
-    {
-     "name": "2.9 Diamondx10",
-     "minutes": 15
-    },
-    {
-     "name": "2.9 Diamond\u00d720",
-     "minutes": 30
-    },
-    {
-     "name": "2.9 Bling\u00d720,000",
-     "minutes": 45
-    },
-    {
-     "name": "2.9 Thread of Purity\u00d7100",
-     "minutes": 60
-    },
-    {
-     "name": "2.9 Shining Particle\u00d7100",
-     "minutes": 90
-    },
-    {
-     "name": "2.9 Shiny Bubbles x100",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a32d43f5-2c18-4205-9480-d1149b3558d2.png"
-  },
-  {
    "id": "0f0f3203-1c8f-4bf1-85d5-e5484bfc822d",
    "game": "Goblin Cleanup",
    "title": "Pool Party Drops",
@@ -412,86 +348,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
-  },
-  {
-   "id": "b7bcd558-6964-461c-a1a0-503eeba1871e",
-   "game": "Delta Force",
-   "title": "2NDANNIVERSARY-OPERATIONS",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T02:00:00+00:00",
-   "endAt": "2026-09-23T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T02:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4d759517-f61f-4824-afb1-de3519477c0b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b7bcd558-6964-461c-a1a0-503eeba1871e",
-   "rewards": [
-    {
-     "name": "S11 Advanced Armament Selection Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 120
-    },
-    {
-     "name": "Avatar - Deltaversary Fireworks",
-     "minutes": 180
-    },
-    {
-     "name": "Craftwork Lucky Pack",
-     "minutes": 240
-    },
-    {
-     "name": "Elite Gear Ticket",
-     "minutes": 300
-    },
-    {
-     "name": "CAR-15 - Ratty",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/b7bcd558-6964-461c-a1a0-503eeba1871e.png"
-  },
-  {
-   "id": "91c93cc2-c8cd-4538-8223-994461284d44",
-   "game": "Delta Force",
-   "title": "2NDANNIVERSARY-WARFARE",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T02:00:00+00:00",
-   "endAt": "2026-09-23T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T02:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/34223d73-a380-4571-a16f-1d7d2afee59a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=91c93cc2-c8cd-4538-8223-994461284d44",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 60
-    },
-    {
-     "name": "Premium Weapon EXP Token",
-     "minutes": 120
-    },
-    {
-     "name": "Warfare 2x EXP Card",
-     "minutes": 180
-    },
-    {
-     "name": "Reorientation Season Merit Protection Card (1 Match)",
-     "minutes": 240
-    },
-    {
-     "name": "Calling Card - Deltaversary Fireworks",
-     "minutes": 300
-    },
-    {
-     "name": "LAV-AA - Bombworks",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/91c93cc2-c8cd-4538-8223-994461284d44.png"
   },
   {
    "id": "de253dac-3f0e-4a55-8daf-432da97ef8da",
@@ -1678,38 +1534,6 @@
    "asset": "assets/8e351ef6-791e-4d7a-85d2-2a75081a03b6.png"
   },
   {
-   "id": "d7642e5c-4cbc-4952-be0b-ffe195937e1c",
-   "game": "UFL",
-   "title": "Sep #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T08:15:00+00:00",
-   "endAt": "2026-09-23T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-17T08:30:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8ada0537-4ecc-4ccf-98d9-5cece234a387.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7642e5c-4cbc-4952-be0b-ffe195937e1c",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d7642e5c-4cbc-4952-be0b-ffe195937e1c.png"
-  },
-  {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 2",
@@ -2606,62 +2430,6 @@
    "asset": "assets/1445f6b3-c20d-4a8a-bfc1-7af87d697e9c.png"
   },
   {
-   "id": "1f9ba248-3d71-4304-a24f-627bf93cda16",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T00:00:00+00:00",
-   "endAt": "2026-09-23T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T00:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a96916b-d50b-4f0b-b9cf-cc00844aabef.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1f9ba248-3d71-4304-a24f-627bf93cda16",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1f9ba248-3d71-4304-a24f-627bf93cda16.png"
-  },
-  {
-   "id": "989f5deb-6357-4d1f-a687-76a82d376895",
-   "game": "Delta Force",
-   "title": "DF Streamer Ladder Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T00:00:00+00:00",
-   "endAt": "2026-09-23T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T00:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76a22b72-eeb5-4f8d-830a-d488a48528e3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989f5deb-6357-4d1f-a687-76a82d376895",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Adv. E-product Lucky Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Adv Weapon Select Pack",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "M7 - Street Art",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/989f5deb-6357-4d1f-a687-76a82d376895.png"
-  },
-  {
    "id": "728141da-5f87-49de-8afd-7fa0be33545f",
    "game": "Genshin Impact",
    "title": "V7.1 Genshin Impact Drops",
@@ -2856,26 +2624,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ca441968-1306-4d7c-8279-43dc53bb5345.png"
-  },
-  {
-   "id": "cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #9",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T14:00:00+00:00",
-   "endAt": "2026-09-24T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T14:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/836a8cac-2f3f-45b0-84fe-985220dfc4c6.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cedaee9c-efb1-4bfe-9f22-41de9b5d54c7.jpg"
   },
   {
    "id": "5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
@@ -3180,9 +2928,197 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/81a6d0ee-ba45-42e8-a55e-a0ed98c040a9.png"
+  },
+  {
+   "id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
+   "game": "REMATCH",
+   "title": "Rematch x Blue Lock",
+   "status": "ACTIVE",
+   "startAt": "2026-09-23T23:01:00+00:00",
+   "endAt": "2026-10-21T22:58:59.999+00:00",
+   "firstSeenAt": "2026-09-23T23:30:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d987e51b-81d0-4d1f-95b8-0caf7981ccfc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
+   "rewards": [
+    {
+     "name": "Rematch Blue Lock",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/828ae239-eff0-4ac1-b4d6-9a2b23da92a4.png"
+  },
+  {
+   "id": "134c7031-eada-46af-b96c-f7039c478801",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T00:00:00+00:00",
+   "endAt": "2026-09-24T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T00:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8016e46b-686f-4266-83fb-1dc16805687b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=134c7031-eada-46af-b96c-f7039c478801",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/134c7031-eada-46af-b96c-f7039c478801.png"
+  },
+  {
+   "id": "4b434b61-8954-4157-911a-04143d62a084",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T00:00:00+00:00",
+   "endAt": "2026-09-24T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T00:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/49f0035d-09db-4fb6-8977-9abcd71b8796.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b434b61-8954-4157-911a-04143d62a084",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/4b434b61-8954-4157-911a-04143d62a084.png"
+  },
+  {
+   "id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0",
+   "game": "Dungeons & Dragons",
+   "title": "/dnd d20 Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T01:15:00+00:00",
+   "endAt": "2026-10-21T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T01:30:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04f05477-d5b5-41d6-999b-ad902f0fe883.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4820ce0c-0ef5-4f53-bf68-b9e03a6acee0",
+   "rewards": [
+    {
+     "name": "/dnd d20 Badge",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4820ce0c-0ef5-4f53-bf68-b9e03a6acee0.png"
+  },
+  {
+   "id": "69e7d15e-b1e0-40d8-9c4b-a71446896005",
+   "game": "Dungeons & Dragons",
+   "title": "D&D Ampersand Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T01:15:00+00:00",
+   "endAt": "2026-10-21T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T01:30:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/391381f9-7af8-4c26-b7a0-8e5e54af3a53.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=69e7d15e-b1e0-40d8-9c4b-a71446896005",
+   "rewards": [
+    {
+     "name": "D&D Ampersand Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/69e7d15e-b1e0-40d8-9c4b-a71446896005.png"
   }
  ],
  "archive": [
+  {
+   "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
+   "game": "Lords Mobile",
+   "title": "Twitch Drops",
+   "startAt": "2026-08-27T03:45:15+00:00",
+   "endAt": "2026-09-24T03:43:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "60e5f1bd-b15e-4da8-9c96-24fb9bb33bfc",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-09-23T23:30:00+00:00",
+   "endAt": "2026-09-24T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a32d43f5-2c18-4205-9480-d1149b3558d2",
+   "game": "Infinity Nikki",
+   "title": "V2.9 Infinity Nikki",
+   "startAt": "2026-08-28T03:00:00+00:00",
+   "endAt": "2026-09-24T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cedaee9c-efb1-4bfe-9f22-41de9b5d54c7",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #9",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-24T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b7bcd558-6964-461c-a1a0-503eeba1871e",
+   "game": "Delta Force",
+   "title": "2NDANNIVERSARY-OPERATIONS",
+   "startAt": "2026-09-08T02:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "91c93cc2-c8cd-4538-8223-994461284d44",
+   "game": "Delta Force",
+   "title": "2NDANNIVERSARY-WARFARE",
+   "startAt": "2026-09-08T02:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1f9ba248-3d71-4304-a24f-627bf93cda16",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-23T00:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "989f5deb-6357-4d1f-a687-76a82d376895",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "startAt": "2026-09-23T00:00:00+00:00",
+   "endAt": "2026-09-23T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d7642e5c-4cbc-4952-be0b-ffe195937e1c",
+   "game": "UFL",
+   "title": "Sep #2",
+   "startAt": "2026-09-17T08:15:00+00:00",
+   "endAt": "2026-09-23T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e",
    "game": "World of Warships",
@@ -7787,67 +7723,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.3
+   "score": 16.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.98
+   "score": 22.84
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.6
+   "score": 3.58
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.82
+   "score": 22.68
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.3
+   "score": 16.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.3
+   "score": 16.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.3
+   "score": 16.2
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.8
+   "score": 1.79
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.81
+   "score": 7.76
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.49
+   "score": 8.44
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.3
+   "score": 16.2
   }
  },
  "favoriteWeights": {

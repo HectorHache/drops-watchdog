@@ -5,20 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Lords Mobile — Twitch Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=98193e83-2c11-4a0f-831a-d5fbd2651f5d</link>
-    <guid isPermaLink="false">98193e83-2c11-4a0f-831a-d5fbd2651f5d</guid>
-    <description>15-Minute Reward · 30-Minute Drop — runs 2026-08-27T03:45:15+00:00 → 2026-09-24T03:43:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-27T03:45:15+00:00</pubDate>
-  </item>
-  <item>
-    <title>Infinity Nikki — V2.9 Infinity Nikki</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=a32d43f5-2c18-4205-9480-d1149b3558d2</link>
-    <guid isPermaLink="false">a32d43f5-2c18-4205-9480-d1149b3558d2</guid>
-    <description>2.9 Diamondx10 · 2.9 Diamond×20 · 2.9 Bling×20,000 · 2.9 Thread of Purity×100 · 2.9 Shining Particle×100 · 2.9 Shiny Bubbles x100 — runs 2026-08-28T03:00:00+00:00 → 2026-09-24T01:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-08-28T03:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Goblin Cleanup — Pool Party Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=0f0f3203-1c8f-4bf1-85d5-e5484bfc822d</link>
     <guid isPermaLink="false">0f0f3203-1c8f-4bf1-85d5-e5484bfc822d</guid>
@@ -108,20 +94,6 @@
     <guid isPermaLink="false">a82abb82-628f-4df5-a2bb-5df8cc373983</guid>
     <description>Exploration Age Banner — runs 2026-09-05T16:30:00+00:00 → 2026-10-03T16:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-05T16:30:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Delta Force — 2NDANNIVERSARY-OPERATIONS</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=b7bcd558-6964-461c-a1a0-503eeba1871e</link>
-    <guid isPermaLink="false">b7bcd558-6964-461c-a1a0-503eeba1871e</guid>
-    <description>S11 Advanced Armament Selection Pack · Standard Gear Ticket · Avatar - Deltaversary Fireworks · Craftwork Lucky Pack · Elite Gear Ticket · CAR-15 - Ratty — runs 2026-09-08T02:00:00+00:00 → 2026-09-23T23:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-08T02:00:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Delta Force — 2NDANNIVERSARY-WARFARE</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=91c93cc2-c8cd-4538-8223-994461284d44</link>
-    <guid isPermaLink="false">91c93cc2-c8cd-4538-8223-994461284d44</guid>
-    <description>Armament Voucher · Premium Weapon EXP Token · Warfare 2x EXP Card · Reorientation Season Merit Protection Card (1 Match) · Calling Card - Deltaversary Fireworks · LAV-AA - Bombworks — runs 2026-09-08T02:00:00+00:00 → 2026-09-23T23:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-08T02:00:00+00:00</pubDate>
   </item>
   <item>
     <title>Grand Theft Auto V — nopixel V Launch</title>
@@ -353,6 +325,34 @@
     <guid isPermaLink="false">60d49775-74c0-4821-91d0-5fd5e7ac0506</guid>
     <description>Streamer Stickers2-1 · Streamer Stickers2-2 · Streamer Stickers2-3 · Streamer Stickers2-4 — runs 2026-09-16T09:00:00+00:00 → 2026-10-13T08:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-16T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Coryphaeus Championships — Fall Drops September</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=19081222-1eea-4d6a-8d6f-c9bedd5dac68</link>
+    <guid isPermaLink="false">19081222-1eea-4d6a-8d6f-c9bedd5dac68</guid>
+    <description>500 C-Coins — runs 2026-09-16T12:30:10+00:00 → 2026-09-25T23:29:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-16T12:30:10+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Warships — 15.8 Worth Their Salt #2</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=bbbf1ac4-0098-42ea-a97e-91cdfa86038b</link>
+    <guid isPermaLink="false">bbbf1ac4-0098-42ea-a97e-91cdfa86038b</guid>
+    <description>Worth Their Salt Week 2 — runs 2026-09-17T06:00:00+00:00 → 2026-09-24T05:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-17T06:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Warships — 15.8 Salt for Subs #2</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=8e351ef6-791e-4d7a-85d2-2a75081a03b6</link>
+    <guid isPermaLink="false">8e351ef6-791e-4d7a-85d2-2a75081a03b6</guid>
+    <description>Salt for Subs #4 · Salt for Subs #5 · Salt for Subs #6 — runs 2026-09-17T06:00:00+00:00 → 2026-09-24T05:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-17T06:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Warships — Update 15.8 Drop: Week 2</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=a75637d9-b720-4f97-8156-a8444a760505</link>
+    <guid isPermaLink="false">a75637d9-b720-4f97-8156-a8444a760505</guid>
+    <description>Update 15.8 Mission #2 · Twitch Container 15.8 week #2 — runs 2026-09-17T16:00:00+00:00 → 2026-09-24T15:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-17T16:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
