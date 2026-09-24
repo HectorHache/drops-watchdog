@@ -2778,26 +2778,6 @@
    "asset": "assets/30cf5069-447e-4b29-9b29-7a4ed01f0e27.png"
   },
   {
-   "id": "61c74d49-7963-4f4a-a422-54c3eae7d4ed",
-   "game": "Rise of Agon",
-   "title": "Rise of Agon: Server Slam",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T19:00:00+00:00",
-   "endAt": "2026-09-24T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T19:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=61c74d49-7963-4f4a-a422-54c3eae7d4ed",
-   "rewards": [
-    {
-     "name": "Goblin Scout Pet",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/61c74d49-7963-4f4a-a422-54c3eae7d4ed.png"
-  },
-  {
    "id": "e56300d1-f0ef-4705-b5c0-453d6e97c5b1",
    "game": "Eternal Return",
    "title": "MID SEASON DROPS [0924]",
@@ -3019,6 +2999,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "61c74d49-7963-4f4a-a422-54c3eae7d4ed",
+   "game": "Rise of Agon",
+   "title": "Rise of Agon: Server Slam",
+   "startAt": "2026-09-23T19:00:00+00:00",
+   "endAt": "2026-09-24T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
    "game": "World of Warships",
@@ -7717,19 +7705,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.81
+   "score": 22.79
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.58
+   "score": 3.57
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.65
+   "score": 22.64
   },
   "Once Human": {
    "favorites": 2,
@@ -7759,13 +7747,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.75
+   "score": 7.74
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.43
+   "score": 8.42
   },
   "Where Winds Meet": {
    "favorites": 2,
