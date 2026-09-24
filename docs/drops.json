@@ -1458,30 +1458,6 @@
    "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
   },
   {
-   "id": "a75637d9-b720-4f97-8156-a8444a760505",
-   "game": "World of Warships",
-   "title": "Update 15.8 Drop: Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T16:00:00+00:00",
-   "endAt": "2026-09-24T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T16:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fdc06f1a-f2c5-40f6-906f-770716199a20.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a75637d9-b720-4f97-8156-a8444a760505",
-   "rewards": [
-    {
-     "name": "Update 15.8 Mission #2",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.8 week #2",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a75637d9-b720-4f97-8156-a8444a760505.png"
-  },
-  {
    "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
    "game": "Fortnite",
    "title": "Ironmouse x Fortnite ",
@@ -3196,9 +3172,161 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/e0d75414-81f7-4e1a-9615-8cf128262c9c.png"
+  },
+  {
+   "id": "4ff563ad-2043-4406-8a4c-3a95f2d58267",
+   "game": "World of Tanks",
+   "title": "OLS Caster Standoff",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-09-24T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9daa277-71b4-4f7f-a4fb-aa3e0a1e4777.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ff563ad-2043-4406-8a4c-3a95f2d58267",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4ff563ad-2043-4406-8a4c-3a95f2d58267.jpg"
+  },
+  {
+   "id": "9d67449f-31e8-4474-8a3d-ce40baca6bbb",
+   "game": "World of Warships",
+   "title": "Update 15.8 Drop: Week 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-01T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b350e0e-5d02-4084-b1f1-a905bf2f92a1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9d67449f-31e8-4474-8a3d-ce40baca6bbb",
+   "rewards": [
+    {
+     "name": "Update 15.8 Mission #3",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Container 15.8 week #3",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9d67449f-31e8-4474-8a3d-ce40baca6bbb.png"
+  },
+  {
+   "id": "9bfa228c-d89b-4e0e-8336-c86b9dfb60e6",
+   "game": "Metaphor: ReFantazio",
+   "title": "Homo Tenta Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-11T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/45b40521-9f53-492d-a4ed-293889ab8b2e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9bfa228c-d89b-4e0e-8336-c86b9dfb60e6",
+   "rewards": [
+    {
+     "name": "Homo Tenta Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9bfa228c-d89b-4e0e-8336-c86b9dfb60e6.png"
+  },
+  {
+   "id": "8e14a84b-f220-4bf3-8f6f-187bd858c449",
+   "game": "Shin Megami Tensei V: Vengeance",
+   "title": "Nahobeeho Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-11T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03346f18-8d02-44ce-8e10-5b1e72d0dd1b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e14a84b-f220-4bf3-8f6f-187bd858c449",
+   "rewards": [
+    {
+     "name": "Nahobeeho Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8e14a84b-f220-4bf3-8f6f-187bd858c449.png"
+  },
+  {
+   "id": "d2699638-8766-4635-b542-14b2665062f5",
+   "game": "Persona 4 Golden",
+   "title": "Teddie Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-11T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/675cfa9c-0734-42b1-92ac-9d0f26166e7d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d2699638-8766-4635-b542-14b2665062f5",
+   "rewards": [
+    {
+     "name": "Teddie Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d2699638-8766-4635-b542-14b2665062f5.png"
+  },
+  {
+   "id": "54efd940-9f52-4938-91cb-6b192ec46ab9",
+   "game": "PERSONA3 RELOAD",
+   "title": "Koromaru Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-11T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30a54037-1137-4399-a715-18ad789a7610.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=54efd940-9f52-4938-91cb-6b192ec46ab9",
+   "rewards": [
+    {
+     "name": "Koromaru Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/54efd940-9f52-4938-91cb-6b192ec46ab9.png"
+  },
+  {
+   "id": "cc3e3fb4-f513-43ad-bd9f-3638464ce841",
+   "game": "Persona 5 Royal",
+   "title": "Morgana Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-10-11T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T16:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9274a1d8-0b83-4f25-ae80-e4435ff24902.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc3e3fb4-f513-43ad-bd9f-3638464ce841",
+   "rewards": [
+    {
+     "name": "Morgana Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cc3e3fb4-f513-43ad-bd9f-3638464ce841.png"
   }
  ],
  "archive": [
+  {
+   "id": "a75637d9-b720-4f97-8156-a8444a760505",
+   "game": "World of Warships",
+   "title": "Update 15.8 Drop: Week 2",
+   "startAt": "2026-09-17T16:00:00+00:00",
+   "endAt": "2026-09-24T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ca441968-1306-4d7c-8279-43dc53bb5345",
    "game": "Out of the Park Baseball 27",
@@ -7937,19 +8065,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.61
+   "score": 22.6
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.55
+   "score": 3.54
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.45
+   "score": 22.44
   },
   "Once Human": {
    "favorites": 2,
