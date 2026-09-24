@@ -3332,6 +3332,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6810fd47-b24c-4a0f-b78e-ad28c923f487.jpg"
+  },
+  {
+   "id": "fd08f113-4582-4760-9c8d-20fc5100df18",
+   "game": "Rust",
+   "title": "Rust Isles General Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:30:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T18:30:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e784e0df-fa18-46ba-bcaf-daecc9832565.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fd08f113-4582-4760-9c8d-20fc5100df18",
+   "rewards": [
+    {
+     "name": "Rust Isles Sm Box",
+     "minutes": 180
+    },
+    {
+     "name": "Rust Isles Pants",
+     "minutes": 240
+    },
+    {
+     "name": "Rust Isles Boots",
+     "minutes": 300
+    },
+    {
+     "name": "Rust Isles Hoodie",
+     "minutes": 360
+    },
+    {
+     "name": "Rustoria Med Box",
+     "minutes": 60
+    },
+    {
+     "name": "Rustoria Turret",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/fd08f113-4582-4760-9c8d-20fc5100df18.png"
   }
  ],
  "archive": [
@@ -8099,13 +8139,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.55
+   "score": 22.54
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8117,25 +8157,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.4
+   "score": 22.39
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8159,7 +8199,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   }
  },
  "favoriteWeights": {
