@@ -2610,46 +2610,6 @@
    "asset": "assets/4655b913-9701-4ff3-8983-5048257e6c92.png"
   },
   {
-   "id": "bd453151-01e6-4f0c-ba79-29d935eb5b86",
-   "game": "Rise Online",
-   "title": "ROW Drop 596",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T17:59:00+00:00",
-   "endAt": "2026-09-24T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-23T18:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/698a9ed3-88fc-4db4-81ce-6a846945cd9b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd453151-01e6-4f0c-ba79-29d935eb5b86",
-   "rewards": [
-    {
-     "name": "ROW Drop 596",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bd453151-01e6-4f0c-ba79-29d935eb5b86.png"
-  },
-  {
-   "id": "30cf5069-447e-4b29-9b29-7a4ed01f0e27",
-   "game": "Rise Online",
-   "title": "Mobile Drop 167",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T17:59:00+00:00",
-   "endAt": "2026-09-24T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-23T18:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35684d38-b825-43ab-8b3e-fe1e0ac5d468.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30cf5069-447e-4b29-9b29-7a4ed01f0e27",
-   "rewards": [
-    {
-     "name": "Mobile Drop 167",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/30cf5069-447e-4b29-9b29-7a4ed01f0e27.png"
-  },
-  {
    "id": "e56300d1-f0ef-4705-b5c0-453d6e97c5b1",
    "game": "Eternal Return",
    "title": "MID SEASON DROPS [0924]",
@@ -3332,9 +3292,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9caf8f97-2bf0-4a98-babc-9f34c699df5d.png"
+  },
+  {
+   "id": "62fde3be-f54b-4764-91e1-eaaed89caf28",
+   "game": "Rise Online",
+   "title": "Mobile Drop 168",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T17:59:00+00:00",
+   "endAt": "2026-09-25T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-24T18:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/adaa40dc-2117-4850-8bee-0d83e45a9f97.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=62fde3be-f54b-4764-91e1-eaaed89caf28",
+   "rewards": [
+    {
+     "name": "Mobile Drop 168",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/62fde3be-f54b-4764-91e1-eaaed89caf28.png"
+  },
+  {
+   "id": "6810fd47-b24c-4a0f-b78e-ad28c923f487",
+   "game": "Rise Online",
+   "title": "ROW Drop 597",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T17:59:00+00:00",
+   "endAt": "2026-09-25T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-24T18:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a7cd41cd-e53e-4476-8f57-4dbd88a6a58c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6810fd47-b24c-4a0f-b78e-ad28c923f487",
+   "rewards": [
+    {
+     "name": "ROW Drop 597",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6810fd47-b24c-4a0f-b78e-ad28c923f487.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "bd453151-01e6-4f0c-ba79-29d935eb5b86",
+   "game": "Rise Online",
+   "title": "ROW Drop 596",
+   "startAt": "2026-09-23T17:59:00+00:00",
+   "endAt": "2026-09-24T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "30cf5069-447e-4b29-9b29-7a4ed01f0e27",
+   "game": "Rise Online",
+   "title": "Mobile Drop 167",
+   "startAt": "2026-09-23T17:59:00+00:00",
+   "endAt": "2026-09-24T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "95ee95e9-fe83-42f6-b627-1fb2a8431ace",
    "game": "Madden NFL 27",
@@ -8089,7 +8105,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.56
+   "score": 22.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8101,7 +8117,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.41
+   "score": 22.4
   },
   "Once Human": {
    "favorites": 2,
@@ -8131,13 +8147,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.67
+   "score": 7.66
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.34
+   "score": 8.33
   },
   "Where Winds Meet": {
    "favorites": 2,
@@ -8147,17 +8163,17 @@
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 26,
+  "ARC Raiders": 25,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 32,
   "LEGO Batman: Legacy of the Dark Knight": 32,
   "Marvel Rivals": 10,
-  "Once Human": 26,
-  "Palia": 26,
-  "Predecessor": 26,
+  "Once Human": 25,
+  "Palia": 25,
+  "Predecessor": 25,
   "Tom Clancy's The Division 2": 17,
   "Warframe": 18,
-  "Where Winds Meet": 26
+  "Where Winds Meet": 25
  }
 }
