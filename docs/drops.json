@@ -3114,30 +3114,6 @@
    "asset": "assets/49ba3042-b88d-4547-aea5-fb72fa727126.png"
   },
   {
-   "id": "95ee95e9-fe83-42f6-b627-1fb2a8431ace",
-   "game": "Madden NFL 27",
-   "title": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T14:00:00+00:00",
-   "endAt": "2026-09-24T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-24T14:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3671f7a0-9687-4ad9-be08-76078fc8f0ac.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=95ee95e9-fe83-42f6-b627-1fb2a8431ace",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/95ee95e9-fe83-42f6-b627-1fb2a8431ace.png"
-  },
-  {
    "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
    "game": "Tom Clancy's The Division 2",
    "title": "TD2 Y8S3 Red Moon Rising",
@@ -3319,6 +3295,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "95ee95e9-fe83-42f6-b627-1fb2a8431ace",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-09-24T14:00:00+00:00",
+   "endAt": "2026-09-24T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
@@ -8059,13 +8043,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.6
+   "score": 22.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8077,25 +8061,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.44
+   "score": 22.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8107,19 +8091,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.68
+   "score": 7.67
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.35
+   "score": 8.34
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   }
  },
  "favoriteWeights": {
