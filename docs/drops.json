@@ -2474,26 +2474,6 @@
    "asset": "assets/9edec8ee-fef9-4d71-97aa-c4bb18855788.png"
   },
   {
-   "id": "1818752e-119d-4213-9ab1-22891204f8ff",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 23)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T12:00:00+00:00",
-   "endAt": "2026-09-24T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T12:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0bb4821f-8129-4a52-8c13-bd0f0706d54f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1818752e-119d-4213-9ab1-22891204f8ff",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 23)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/1818752e-119d-4213-9ab1-22891204f8ff.png"
-  },
-  {
    "id": "ca441968-1306-4d7c-8279-43dc53bb5345",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/23/26",
@@ -3024,9 +3004,69 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/93001378-02cd-4b83-871b-8a96653935bb.png"
+  },
+  {
+   "id": "23176dc8-75fe-4f58-86e0-6e3636254448",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 24)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T12:00:00+00:00",
+   "endAt": "2026-09-25T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T12:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e8b9964-5102-42ef-895f-3edc15271571.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23176dc8-75fe-4f58-86e0-6e3636254448",
+   "rewards": [
+    {
+     "name": "1 Hour (Sep 24)",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/23176dc8-75fe-4f58-86e0-6e3636254448.png"
+  },
+  {
+   "id": "0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
+   "game": "PAYDAY 3",
+   "title": "PAYDAY 3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T12:00:00+00:00",
+   "endAt": "2026-10-10T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T12:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4fca48d-8cee-4965-8174-ef4e8cb495a8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
+   "rewards": [
+    {
+     "name": "Dallas",
+     "minutes": 0
+    },
+    {
+     "name": "Chains",
+     "minutes": 30
+    },
+    {
+     "name": "Hoxton",
+     "minutes": 60
+    },
+    {
+     "name": "Wolf",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
   }
  ],
  "archive": [
+  {
+   "id": "1818752e-119d-4213-9ab1-22891204f8ff",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 23)",
+   "startAt": "2026-09-23T12:00:00+00:00",
+   "endAt": "2026-09-24T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bc3e9e8e-b253-4baa-927e-8eae8bec43fd",
    "game": "Albion Online",
@@ -7743,13 +7783,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.1
+   "score": 16.09
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.7
+   "score": 22.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7761,25 +7801,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.54
+   "score": 22.53
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.1
+   "score": 16.09
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.1
+   "score": 16.09
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.1
+   "score": 16.09
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7803,7 +7843,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.1
+   "score": 16.09
   }
  },
  "favoriteWeights": {
