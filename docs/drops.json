@@ -814,34 +814,6 @@
    "asset": "assets/ce649625-7dae-4946-b60a-1b78285c4833.png"
   },
   {
-   "id": "c8b36b61-cd45-447f-9be3-09e02ff85007",
-   "game": "THE FINALS",
-   "title": "RED BROADCAST BLAZE",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T10:30:00+00:00",
-   "endAt": "2026-09-24T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T10:30:52+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/847d3836-42ba-47c0-b2b3-9a2145064c50.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c8b36b61-cd45-447f-9be3-09e02ff85007",
-   "rewards": [
-    {
-     "name": "Broadcast Blaze Hover Pad",
-     "minutes": 60
-    },
-    {
-     "name": "Broadcast Blaze Barricade",
-     "minutes": 120
-    },
-    {
-     "name": "Broadcast Blaze Tracking Dart",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/c8b36b61-cd45-447f-9be3-09e02ff85007.png"
-  },
-  {
    "id": "788b1110-d24f-46d5-9659-badfa6acc93c",
    "game": "For Honor",
    "title": "Entire Directory Sep 2026",
@@ -3032,9 +3004,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a08129f9-86ff-4200-b503-38d8816b661b.png"
+  },
+  {
+   "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T09:00:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T09:00:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42dfd444-2fbd-4a4a-85b6-5a6088eb0c43.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e50f291f-c1e8-4610-b456-f32c96346a89",
+   "rewards": [
+    {
+     "name": "\"Prepared\" Title\t\t\t",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e50f291f-c1e8-4610-b456-f32c96346a89.png"
   }
  ],
  "archive": [
+  {
+   "id": "c8b36b61-cd45-447f-9be3-09e02ff85007",
+   "game": "THE FINALS",
+   "title": "RED BROADCAST BLAZE",
+   "startAt": "2026-09-10T10:30:00+00:00",
+   "endAt": "2026-09-24T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "61c74d49-7963-4f4a-a422-54c3eae7d4ed",
    "game": "Rise of Agon",
@@ -7741,7 +7741,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.76
+   "score": 22.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7753,7 +7753,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.61
+   "score": 22.6
   },
   "Once Human": {
    "favorites": 2,
