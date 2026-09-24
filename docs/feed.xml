@@ -180,13 +180,6 @@
     <pubDate>2026-09-10T06:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>THE FINALS — RED BROADCAST BLAZE</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=c8b36b61-cd45-447f-9be3-09e02ff85007</link>
-    <guid isPermaLink="false">c8b36b61-cd45-447f-9be3-09e02ff85007</guid>
-    <description>Broadcast Blaze Hover Pad · Broadcast Blaze Barricade · Broadcast Blaze Tracking Dart — runs 2026-09-10T10:30:00+00:00 → 2026-09-24T08:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-10T10:30:00+00:00</pubDate>
-  </item>
-  <item>
     <title>For Honor — Entire Directory Sep 2026</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=788b1110-d24f-46d5-9659-badfa6acc93c</link>
     <guid isPermaLink="false">788b1110-d24f-46d5-9659-badfa6acc93c</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">829a3b01-5502-453a-abd4-a19a4cb99345</guid>
     <description>Gilded Package · Construction Package · Arcane Package · Soul Taker Package · Fortification Package · Smith Package — runs 2026-09-18T14:00:00+00:00 → 2026-09-24T21:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-18T14:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Active Matter — Release Drops: Week I</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=b444df04-11b1-4bfe-94d1-3545d48a077c</link>
+    <guid isPermaLink="false">b444df04-11b1-4bfe-94d1-3545d48a077c</guid>
+    <description>Weapon kit · Shadow Sleeve · Beacon · Medical kit · Small weapon kit · Dog tag — runs 2026-09-18T15:00:00+00:00 → 2026-09-25T14:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-18T15:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
