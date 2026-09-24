@@ -1482,50 +1482,6 @@
    "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
   },
   {
-   "id": "829a3b01-5502-453a-abd4-a19a4cb99345",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T14:00:00+00:00",
-   "endAt": "2026-09-24T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-18T14:01:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6bdfa4c7-9e1d-4dad-bcc1-68f4a7520cd6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=829a3b01-5502-453a-abd4-a19a4cb99345",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/829a3b01-5502-453a-abd4-a19a4cb99345.png"
-  },
-  {
    "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
    "game": "Active Matter",
    "title": "Release Drops: Week I",
@@ -2610,42 +2566,6 @@
    "asset": "assets/4655b913-9701-4ff3-8983-5048257e6c92.png"
   },
   {
-   "id": "7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
-   "game": "DOFUS Touch",
-   "title": "J10 - 2x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T22:00:00+00:00",
-   "endAt": "2026-09-24T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T22:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7a19b8d-8ca4-48b0-b82e-563583a72220.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
-   "rewards": [
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 150
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7bffdafe-32a8-4f78-94ef-d4338c0e62f8.png"
-  },
-  {
    "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
    "game": "World of Warships",
    "title": "15.8 WOWS Channel Drop",
@@ -3040,26 +2960,6 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/e0d75414-81f7-4e1a-9615-8cf128262c9c.png"
-  },
-  {
-   "id": "4ff563ad-2043-4406-8a4c-3a95f2d58267",
-   "game": "World of Tanks",
-   "title": "OLS Caster Standoff",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T16:00:00+00:00",
-   "endAt": "2026-09-24T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T16:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9daa277-71b4-4f7f-a4fb-aa3e0a1e4777.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ff563ad-2043-4406-8a4c-3a95f2d58267",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4ff563ad-2043-4406-8a4c-3a95f2d58267.jpg"
   },
   {
    "id": "9d67449f-31e8-4474-8a3d-ce40baca6bbb",
@@ -3654,26 +3554,6 @@
    "asset": "assets/1feb839d-afba-4473-84de-a0d903048d26.png"
   },
   {
-   "id": "e6eb7682-9d82-4c2f-93be-86525577f26b",
-   "game": "Hearthstone",
-   "title": "Black Empire Reveals 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T21:00:00+00:00",
-   "endAt": "2026-09-24T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T21:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8ef79cff-11aa-42f2-91a4-414e36cd0b95.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e6eb7682-9d82-4c2f-93be-86525577f26b",
-   "rewards": [
-    {
-     "name": "Black Empire Pack",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e6eb7682-9d82-4c2f-93be-86525577f26b.png"
-  },
-  {
    "id": "65e68b8c-5f89-4ac3-8a4c-e8b460055fa7",
    "game": "Path of Exile",
    "title": "PoE1 ExileCon 4/4",
@@ -3692,9 +3572,77 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/65e68b8c-5f89-4ac3-8a4c-e8b460055fa7.png"
+  },
+  {
+   "id": "5351658e-4575-4cd8-9194-22c3813e41b9",
+   "game": "DOFUS Touch",
+   "title": "J11 - 2x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T22:00:00+00:00",
+   "endAt": "2026-09-25T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T22:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7ff3db3e-37e6-4d93-8512-b42b589d8ce4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5351658e-4575-4cd8-9194-22c3813e41b9",
+   "rewards": [
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5351658e-4575-4cd8-9194-22c3813e41b9.png"
   }
  ],
  "archive": [
+  {
+   "id": "7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
+   "game": "DOFUS Touch",
+   "title": "J10 - 2x Temporix Cps",
+   "startAt": "2026-09-23T22:00:00+00:00",
+   "endAt": "2026-09-24T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4ff563ad-2043-4406-8a4c-3a95f2d58267",
+   "game": "World of Tanks",
+   "title": "OLS Caster Standoff",
+   "startAt": "2026-09-24T16:00:00+00:00",
+   "endAt": "2026-09-24T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e6eb7682-9d82-4c2f-93be-86525577f26b",
+   "game": "Hearthstone",
+   "title": "Black Empire Reveals 3",
+   "startAt": "2026-09-24T21:00:00+00:00",
+   "endAt": "2026-09-24T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "829a3b01-5502-453a-abd4-a19a4cb99345",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-09-18T14:00:00+00:00",
+   "endAt": "2026-09-24T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e56300d1-f0ef-4705-b5c0-453d6e97c5b1",
    "game": "Eternal Return",
@@ -8475,13 +8423,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.94
+   "score": 15.93
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.48
+   "score": 22.47
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8493,25 +8441,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.32
+   "score": 22.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.94
+   "score": 15.93
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.94
+   "score": 15.93
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.94
+   "score": 15.93
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8523,7 +8471,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.64
+   "score": 7.63
   },
   "Warframe": {
    "favorites": 1,
@@ -8535,7 +8483,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.94
+   "score": 15.93
   }
  },
  "favoriteWeights": {
