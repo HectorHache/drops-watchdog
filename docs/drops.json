@@ -1486,54 +1486,6 @@
    "asset": "assets/19081222-1eea-4d6a-8d6f-c9bedd5dac68.png"
   },
   {
-   "id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
-   "game": "World of Warships",
-   "title": "15.8 Worth Their Salt #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T06:00:00+00:00",
-   "endAt": "2026-09-24T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T06:01:03+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfe03fab-a727-4c7c-b7a4-7bfc00557adf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
-   "rewards": [
-    {
-     "name": "Worth Their Salt Week 2",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bbbf1ac4-0098-42ea-a97e-91cdfa86038b.png"
-  },
-  {
-   "id": "8e351ef6-791e-4d7a-85d2-2a75081a03b6",
-   "game": "World of Warships",
-   "title": "15.8 Salt for Subs #2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-17T06:00:00+00:00",
-   "endAt": "2026-09-24T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-17T06:01:03+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fe1c9b0-574d-4208-b8db-9e932e111361.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e351ef6-791e-4d7a-85d2-2a75081a03b6",
-   "rewards": [
-    {
-     "name": "Salt for Subs #4",
-     "minutes": 0
-    },
-    {
-     "name": "Salt for Subs #5",
-     "minutes": 0
-    },
-    {
-     "name": "Salt for Subs #6",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8e351ef6-791e-4d7a-85d2-2a75081a03b6.png"
-  },
-  {
    "id": "a75637d9-b720-4f97-8156-a8444a760505",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 2",
@@ -3044,9 +2996,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/69e7d15e-b1e0-40d8-9c4b-a71446896005.png"
+  },
+  {
+   "id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T06:00:00+00:00",
+   "endAt": "2026-10-01T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T06:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfcbadfd-4bd8-4883-a346-7ea32a7d6657.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a87b9bd2-dfcb-400a-aeec-4f208e72be76",
+   "rewards": [
+    {
+     "name": "Worth Their Salt Week 3",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png"
   }
  ],
  "archive": [
+  {
+   "id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #2",
+   "startAt": "2026-09-17T06:00:00+00:00",
+   "endAt": "2026-09-24T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8e351ef6-791e-4d7a-85d2-2a75081a03b6",
+   "game": "World of Warships",
+   "title": "15.8 Salt for Subs #2",
+   "startAt": "2026-09-17T06:00:00+00:00",
+   "endAt": "2026-09-24T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d",
    "game": "Lords Mobile",
@@ -7723,13 +7711,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.19
+   "score": 16.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.83
+   "score": 22.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7741,25 +7729,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.67
+   "score": 22.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.19
+   "score": 16.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.19
+   "score": 16.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.19
+   "score": 16.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7771,7 +7759,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.76
+   "score": 7.75
   },
   "Warframe": {
    "favorites": 1,
@@ -7783,7 +7771,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.19
+   "score": 16.18
   }
  },
  "favoriteWeights": {
