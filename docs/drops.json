@@ -2996,6 +2996,42 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png"
+  },
+  {
+   "id": "a08129f9-86ff-4200-b503-38d8816b661b",
+   "game": "UFL",
+   "title": "Sept #4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T08:05:00+00:00",
+   "endAt": "2026-09-30T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T08:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35309a22-9351-40ea-a73e-e9304323eb40.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a08129f9-86ff-4200-b503-38d8816b661b",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a08129f9-86ff-4200-b503-38d8816b661b.png"
   }
  ],
  "archive": [
@@ -7699,13 +7735,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.77
+   "score": 22.76
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7717,37 +7753,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.62
+   "score": 22.61
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.79
+   "score": 1.78
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.74
+   "score": 7.73
   },
   "Warframe": {
    "favorites": 1,
@@ -7759,7 +7795,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   }
  },
  "favoriteWeights": {
