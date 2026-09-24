@@ -2474,42 +2474,6 @@
    "asset": "assets/9edec8ee-fef9-4d71-97aa-c4bb18855788.png"
   },
   {
-   "id": "ca441968-1306-4d7c-8279-43dc53bb5345",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/23/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T13:00:00+00:00",
-   "endAt": "2026-09-24T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T13:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d7a49bba-190f-4f60-9f51-e58340587b07.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca441968-1306-4d7c-8279-43dc53bb5345",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ca441968-1306-4d7c-8279-43dc53bb5345.png"
-  },
-  {
    "id": "5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -3056,9 +3020,133 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
+  },
+  {
+   "id": "d1120f75-c1e8-450c-b5e6-30856ddc3270",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Souer Games STREAMGANG",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T13:00:00+00:00",
+   "endAt": "2026-09-24T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T13:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c5887db4-d10b-46cb-a68e-bc84bff041e4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1120f75-c1e8-450c-b5e6-30856ddc3270",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 150
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d1120f75-c1e8-450c-b5e6-30856ddc3270.png"
+  },
+  {
+   "id": "834adef6-b9dd-4d30-89a1-14a8c2403c04",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T13:00:00+00:00",
+   "endAt": "2026-09-25T00:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T13:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb48d45b-4d4b-4078-baf3-85bc55861dd5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=834adef6-b9dd-4d30-89a1-14a8c2403c04",
+   "rewards": [
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    },
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/834adef6-b9dd-4d30-89a1-14a8c2403c04.png"
+  },
+  {
+   "id": "49ba3042-b88d-4547-aea5-fb72fa727126",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/24/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T13:00:00+00:00",
+   "endAt": "2026-09-25T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T13:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a5048e37-c859-45a1-993e-6f12845b1d9c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49ba3042-b88d-4547-aea5-fb72fa727126",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/49ba3042-b88d-4547-aea5-fb72fa727126.png"
   }
  ],
  "archive": [
+  {
+   "id": "ca441968-1306-4d7c-8279-43dc53bb5345",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/23/26",
+   "startAt": "2026-09-23T13:00:00+00:00",
+   "endAt": "2026-09-24T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1818752e-119d-4213-9ab1-22891204f8ff",
    "game": "Black Desert",
@@ -7783,43 +7871,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.67
+   "score": 22.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.56
+   "score": 3.55
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.52
+   "score": 22.51
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7837,13 +7925,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.38
+   "score": 8.37
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   }
  },
  "favoriteWeights": {
