@@ -3372,6 +3372,326 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/fd08f113-4582-4760-9c8d-20fc5100df18.png"
+  },
+  {
+   "id": "fbd182c6-2414-4355-858b-b61413b994cb",
+   "game": "Rust",
+   "title": "Rust Isles Tac Gloves",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:31:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/99e6e609-dc3a-4d10-b03a-b04ca116e46c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fbd182c6-2414-4355-858b-b61413b994cb",
+   "rewards": [
+    {
+     "name": "Rust Isles Tac Gloves",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/fbd182c6-2414-4355-858b-b61413b994cb.png"
+  },
+  {
+   "id": "03b87dc1-4caf-4090-a1d5-85e7b77e34ec",
+   "game": "Rust",
+   "title": "Rust Isles Facemask",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:32:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1d4c923b-5722-4faf-bcb4-84410095a47e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=03b87dc1-4caf-4090-a1d5-85e7b77e34ec",
+   "rewards": [
+    {
+     "name": "Rust Isles Facemask",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/03b87dc1-4caf-4090-a1d5-85e7b77e34ec.png"
+  },
+  {
+   "id": "e46b02fe-5afd-4ed0-8d75-170683077c89",
+   "game": "Rust",
+   "title": "Rust Isles Chestplate",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:33:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d49e1b8d-1351-4467-a4e2-831d97a37603.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e46b02fe-5afd-4ed0-8d75-170683077c89",
+   "rewards": [
+    {
+     "name": "Rust Isles Chestplate",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/e46b02fe-5afd-4ed0-8d75-170683077c89.png"
+  },
+  {
+   "id": "946958be-d0b8-442b-a6be-30a18a007265",
+   "game": "Rust",
+   "title": "Rust Isles Jacket",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:34:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc76acfe-7997-4dbb-9235-22035b011091.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=946958be-d0b8-442b-a6be-30a18a007265",
+   "rewards": [
+    {
+     "name": "Rust Isles Jacket",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/946958be-d0b8-442b-a6be-30a18a007265.png"
+  },
+  {
+   "id": "4a6aeb5e-e47e-40c4-871e-26fa37d9b859",
+   "game": "Rust",
+   "title": "Rust Isles Locker",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:35:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a30d413a-8099-4517-ab50-0bde461442b8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4a6aeb5e-e47e-40c4-871e-26fa37d9b859",
+   "rewards": [
+    {
+     "name": "Rust Isles Locker",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4a6aeb5e-e47e-40c4-871e-26fa37d9b859.png"
+  },
+  {
+   "id": "a115a044-c633-4a72-b163-c124b870d29f",
+   "game": "Rust",
+   "title": "Rust Isles Garage Door",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:36:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1b86429-5cea-44a2-b9b3-22c99a74ee1b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a115a044-c633-4a72-b163-c124b870d29f",
+   "rewards": [
+    {
+     "name": "Rust Isles Garage Door",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a115a044-c633-4a72-b163-c124b870d29f.png"
+  },
+  {
+   "id": "32c93a64-ad3e-4d91-ac1a-6bd0ed82d062",
+   "game": "Rust",
+   "title": "Rust Isles Sword",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:37:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ecb273ad-fa4f-41ee-b3bb-38d8e809055f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=32c93a64-ad3e-4d91-ac1a-6bd0ed82d062",
+   "rewards": [
+    {
+     "name": "Rust Isles Sword",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/32c93a64-ad3e-4d91-ac1a-6bd0ed82d062.png"
+  },
+  {
+   "id": "ab849e29-f685-48e2-97c4-2d2be976af01",
+   "game": "Rust",
+   "title": "Rust Isles Lg Box",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:38:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61e05210-68b2-4231-afe0-454faa1fd6b4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab849e29-f685-48e2-97c4-2d2be976af01",
+   "rewards": [
+    {
+     "name": "Rust Isles Lg Box",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ab849e29-f685-48e2-97c4-2d2be976af01.png"
+  },
+  {
+   "id": "b546584d-af17-4413-acbc-9e082ad2d6ea",
+   "game": "Rust",
+   "title": "Rust Isles Wood Door",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:39:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/40fa2106-b2e9-4414-a8c6-713f51864300.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b546584d-af17-4413-acbc-9e082ad2d6ea",
+   "rewards": [
+    {
+     "name": "Rust Isles Wood Door",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b546584d-af17-4413-acbc-9e082ad2d6ea.png"
+  },
+  {
+   "id": "c26e8fc0-e80b-43c7-81a6-be252d1c490c",
+   "game": "Rust",
+   "title": "Rust Isles Furnace",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:40:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdc72548-da8d-441c-b6bf-96cd1e9afc05.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c26e8fc0-e80b-43c7-81a6-be252d1c490c",
+   "rewards": [
+    {
+     "name": "Rust Isles Furnace",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c26e8fc0-e80b-43c7-81a6-be252d1c490c.png"
+  },
+  {
+   "id": "e0c760d7-3e41-4466-b8fd-489d8410c1f9",
+   "game": "Rust",
+   "title": "Rust Isles Backpack",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:41:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0af850e-3d98-41ab-ab6c-cf3e0d1b75f1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0c760d7-3e41-4466-b8fd-489d8410c1f9",
+   "rewards": [
+    {
+     "name": "Rust Isles Backpack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/e0c760d7-3e41-4466-b8fd-489d8410c1f9.png"
+  },
+  {
+   "id": "d251f62f-8e9b-469b-9b97-60064ff411ad",
+   "game": "Rust",
+   "title": "Rust Isles Boonie",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:42:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56ab9d4c-0180-4f54-bbeb-ba517904fbcf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d251f62f-8e9b-469b-9b97-60064ff411ad",
+   "rewards": [
+    {
+     "name": "Rust Isles Boonie",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d251f62f-8e9b-469b-9b97-60064ff411ad.png"
+  },
+  {
+   "id": "98b3e674-8b93-48f3-93db-ec293d595835",
+   "game": "Rust",
+   "title": "Rust Isles DB",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:43:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0628987d-4e5e-479d-b455-500d7b57777b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98b3e674-8b93-48f3-93db-ec293d595835",
+   "rewards": [
+    {
+     "name": "Rust Isles DB",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/98b3e674-8b93-48f3-93db-ec293d595835.png"
+  },
+  {
+   "id": "b7c42d19-0a30-4786-b5d7-8a3f3508541a",
+   "game": "Rust",
+   "title": "Rust Isles SAR",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:44:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ef91d4b-72bf-4f01-b4eb-617a93f0d89a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b7c42d19-0a30-4786-b5d7-8a3f3508541a",
+   "rewards": [
+    {
+     "name": "Rust Isles SAR",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b7c42d19-0a30-4786-b5d7-8a3f3508541a.png"
+  },
+  {
+   "id": "fb08089e-d453-411b-845b-eb5c54a2e6e8",
+   "game": "Rust",
+   "title": "Rust Isles AR",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:45:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c8494cb-6d53-49ba-9824-704c911902ac.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb08089e-d453-411b-845b-eb5c54a2e6e8",
+   "rewards": [
+    {
+     "name": "Rust Isles AR",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/fb08089e-d453-411b-845b-eb5c54a2e6e8.png"
+  },
+  {
+   "id": "b2b8e712-05ae-4e29-8e43-48458e7c2f75",
+   "game": "Rust",
+   "title": "Rust Isles Launcher",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T18:46:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "firstSeenAt": "2026-09-24T19:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eba89e16-67a5-49ca-9031-e30545242cb6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2b8e712-05ae-4e29-8e43-48458e7c2f75",
+   "rewards": [
+    {
+     "name": "Rust Isles Launcher",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b2b8e712-05ae-4e29-8e43-48458e7c2f75.png"
   }
  ],
  "archive": [
@@ -8139,43 +8459,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.54
+   "score": 22.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.54
+   "score": 3.53
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.39
+   "score": 22.38
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8193,13 +8513,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.33
+   "score": 8.32
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   }
  },
  "favoriteWeights": {
