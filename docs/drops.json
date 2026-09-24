@@ -3160,6 +3160,42 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/95ee95e9-fe83-42f6-b627-1fb2a8431ace.png"
+  },
+  {
+   "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
+   "game": "Tom Clancy's The Division 2",
+   "title": "TD2 Y8S3 Red Moon Rising",
+   "status": "ACTIVE",
+   "startAt": "2026-09-24T15:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-24T15:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0c1fd9c9-8b61-4004-a958-77152beb1440.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0d75414-81f7-4e1a-9615-8cf128262c9c",
+   "rewards": [
+    {
+     "name": "Red Moon Marauder",
+     "minutes": 30
+    },
+    {
+     "name": "Named Cache",
+     "minutes": 60
+    },
+    {
+     "name": "Red Moon Black Tusk",
+     "minutes": 120
+    },
+    {
+     "name": "Exotic Cache ",
+     "minutes": 180
+    },
+    {
+     "name": "Red Moon Rising",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/e0d75414-81f7-4e1a-9615-8cf128262c9c.png"
   }
  ],
  "archive": [
@@ -7895,13 +7931,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.63
+   "score": 22.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -7913,25 +7949,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.48
+   "score": 22.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   },
   "THE FINALS": {
    "favorites": 0,
@@ -7955,7 +7991,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   }
  },
  "favoriteWeights": {
