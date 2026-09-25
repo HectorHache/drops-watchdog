@@ -3764,6 +3764,82 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1455b54f-00c4-4df6-a4d2-e1a05c879369.png"
+  },
+  {
+   "id": "52e2bff5-077c-41bb-864c-a4911bbe89af",
+   "game": "Marvel Rivals",
+   "title": "Ignite Stage2 W2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T08:00:00+00:00",
+   "endAt": "2026-09-28T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T08:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c0b54ca-4c3e-4c44-999e-5c429e2c2384.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52e2bff5-077c-41bb-864c-a4911bbe89af",
+   "rewards": [
+    {
+     "name": "Chrono Tokens *100",
+     "minutes": 30
+    },
+    {
+     "name": "Cyclops\u300cWill of Galacta\u300dNameplate",
+     "minutes": 90
+    },
+    {
+     "name": "\u300cThe Walls\u300dSpray",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/52e2bff5-077c-41bb-864c-a4911bbe89af.png"
+  },
+  {
+   "id": "7d105aa8-74af-4606-ae64-a1660768c6c2",
+   "game": "Medivia Online",
+   "title": "Blood Moon Event",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T08:00:00+00:00",
+   "endAt": "2026-09-28T07:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T08:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7d105aa8-74af-4606-ae64-a1660768c6c2",
+   "rewards": [
+    {
+     "name": "Dummy Scroll (4 hours) + 1000 Mana Points",
+     "minutes": 120
+    },
+    {
+     "name": "50% XP Boost (1 hour) + 50 Tears of the Blood Moon",
+     "minutes": 180
+    },
+    {
+     "name": "1 day Premium Time + 1000 Mana Points",
+     "minutes": 240
+    },
+    {
+     "name": "50% Skill Boost (1 hour) + Dummy Scroll (4 hours) + 50 Tears of the Blood Moon",
+     "minutes": 300
+    },
+    {
+     "name": "50% XP Boost (1 hour) + 1000 Mana Points",
+     "minutes": 360
+    },
+    {
+     "name": "1000 Mana Points + 50 Tears of the Blood Moon",
+     "minutes": 15
+    },
+    {
+     "name": "50% Skill Boost (1 hour) + 50 Tears of the Blood Moon",
+     "minutes": 30
+    },
+    {
+     "name": "1 day Premium Time + 1000 Mana Points + 50 Tears of the Blood Moon",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7d105aa8-74af-4606-ae64-a1660768c6c2.png"
   }
  ],
  "archive": [
@@ -8603,13 +8679,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.79
+   "score": 15.78
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.26
+   "score": 22.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8621,31 +8697,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.11
+   "score": 22.1
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.79
+   "score": 15.78
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.79
+   "score": 15.78
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.79
+   "score": 15.78
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.75
+   "score": 1.74
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -8657,13 +8733,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.23
+   "score": 8.22
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.79
+   "score": 15.78
   }
  },
  "favoriteWeights": {
