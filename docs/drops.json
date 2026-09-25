@@ -1482,70 +1482,6 @@
    "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
   },
   {
-   "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
-   "game": "Active Matter",
-   "title": "Release Drops: Week I",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:00:00+00:00",
-   "endAt": "2026-09-25T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T15:00:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b513dc5c-851d-48cf-aa9c-dd6c4c4ce11c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b444df04-11b1-4bfe-94d1-3545d48a077c",
-   "rewards": [
-    {
-     "name": "Weapon kit",
-     "minutes": 360
-    },
-    {
-     "name": "Shadow Sleeve",
-     "minutes": 420
-    },
-    {
-     "name": "Beacon",
-     "minutes": 60
-    },
-    {
-     "name": "Medical kit",
-     "minutes": 120
-    },
-    {
-     "name": "Small weapon kit",
-     "minutes": 180
-    },
-    {
-     "name": "Dog tag",
-     "minutes": 240
-    },
-    {
-     "name": "Large safe container",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b444df04-11b1-4bfe-94d1-3545d48a077c.jpg"
-  },
-  {
-   "id": "088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T15:00:00+00:00",
-   "endAt": "2026-09-25T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T15:00:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/986ecbbf-a93f-466f-a30f-a3efbe25a7eb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #3",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7.jpg"
-  },
-  {
    "id": "f2761eae-cf4d-4f39-aeeb-a012db335518",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 3",
@@ -1720,34 +1656,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
-  },
-  {
-   "id": "39784ad3-3488-4825-bbe6-0d435ca30806",
-   "game": "RavenQuest",
-   "title": "September 04",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T20:00:00+00:00",
-   "endAt": "2026-09-25T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T20:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98f646a0-8617-44a4-bf8e-2f10a2564cc2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=39784ad3-3488-4825-bbe6-0d435ca30806",
-   "rewards": [
-    {
-     "name": "2x Treasure Below RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "Drops Twitch Pack 1",
-     "minutes": 360
-    },
-    {
-     "name": "Drops Twitch Pack 2",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/39784ad3-3488-4825-bbe6-0d435ca30806.png"
   },
   {
    "id": "65cd09c0-62bc-45a6-a636-7a99f00996cb",
@@ -4052,9 +3960,225 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
+  },
+  {
+   "id": "34de57f3-0928-41ac-b851-823cc98fefb4",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #10",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-26T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ecbceae3-9d6b-4046-b5c8-856d2579cfee.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=34de57f3-0928-41ac-b851-823cc98fefb4",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/34de57f3-0928-41ac-b851-823cc98fefb4.jpg"
+  },
+  {
+   "id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
+   "game": "World of Tanks",
+   "title": "Agent Skill4ltu",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3113e66e-b2c5-4928-bebe-2c5ded311232.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5.png"
+  },
+  {
+   "id": "d089b7f1-9eb4-4183-bcae-7f431f72ac36",
+   "game": "World of Tanks",
+   "title": "Agent QuickyBaby",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6712d035-5148-49e9-8c3a-4934b5f79b2f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d089b7f1-9eb4-4183-bcae-7f431f72ac36",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d089b7f1-9eb4-4183-bcae-7f431f72ac36.png"
+  },
+  {
+   "id": "941634b1-68a3-4355-a34b-fa0a1e4a2582",
+   "game": "World of Tanks",
+   "title": "Agent MouzAkrobat",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81d25214-a2b9-4ade-9c28-e344ad53ba56.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=941634b1-68a3-4355-a34b-fa0a1e4a2582",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/941634b1-68a3-4355-a34b-fa0a1e4a2582.png"
+  },
+  {
+   "id": "ab004798-f388-43de-a9d1-4414ccfe3984",
+   "game": "World of Tanks",
+   "title": "Agent Dakillzor",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e79dab3d-1599-4e82-9de7-11b1b51f3cc4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab004798-f388-43de-a9d1-4414ccfe3984",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ab004798-f388-43de-a9d1-4414ccfe3984.png"
+  },
+  {
+   "id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d74e7ee8-573a-45ec-ab89-aacc38a86c7d.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a8c849a6-cd2c-4004-b1ec-9e982d15fe0d.jpg"
+  },
+  {
+   "id": "40d27f46-f8e8-49e3-ada9-63ee087adf4b",
+   "game": "Active Matter",
+   "title": "Release Drops: Week II",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8cae7f41-cf30-4b37-bf44-0289a2550eb8.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=40d27f46-f8e8-49e3-ada9-63ee087adf4b",
+   "rewards": [
+    {
+     "name": "Small weapon kit",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical beacon",
+     "minutes": 120
+    },
+    {
+     "name": "Equipment kit",
+     "minutes": 180
+    },
+    {
+     "name": "Weapon camo",
+     "minutes": 240
+    },
+    {
+     "name": "Medium Safe Container",
+     "minutes": 300
+    },
+    {
+     "name": "Prime",
+     "minutes": 360
+    },
+    {
+     "name": "Character camo: Wave",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/40d27f46-f8e8-49e3-ada9-63ee087adf4b.jpg"
+  },
+  {
+   "id": "75c796ed-3170-41ed-ab88-918d7ca3a65c",
+   "game": "RavenQuest",
+   "title": "September 05",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/776e1bb0-9dcf-4236-8f07-4b74c27b2215.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75c796ed-3170-41ed-ab88-918d7ca3a65c",
+   "rewards": [
+    {
+     "name": "Drops Twitch Pack 1",
+     "minutes": 360
+    },
+    {
+     "name": "Drops Twitch Pack 2",
+     "minutes": 600
+    },
+    {
+     "name": "2x Treasure Below RavenPacks",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
   }
  ],
  "archive": [
+  {
+   "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
+   "game": "Active Matter",
+   "title": "Release Drops: Week I",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "088c9e94-6c5f-49b6-ae0d-5c6c1c3dbba7",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 3",
+   "startAt": "2026-09-18T15:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "39784ad3-3488-4825-bbe6-0d435ca30806",
+   "game": "RavenQuest",
+   "title": "September 04",
+   "startAt": "2026-09-19T20:00:00+00:00",
+   "endAt": "2026-09-25T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "49ba3042-b88d-4547-aea5-fb72fa727126",
    "game": "Out of the Park Baseball 27",
@@ -8929,7 +9053,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.11
+   "score": 22.1
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8941,7 +9065,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.96
+   "score": 21.95
   },
   "Once Human": {
    "favorites": 2,
