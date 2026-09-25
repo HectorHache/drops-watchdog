@@ -3932,6 +3932,126 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e7d6a206-d715-44b8-983a-d1abaaf2ae2f.png"
+  },
+  {
+   "id": "e166be8a-c62c-4f13-aa8b-295afb44034b",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-25T14:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba716732-d6b1-44ec-81ce-7a7c40e9b9a3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e166be8a-c62c-4f13-aa8b-295afb44034b",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e166be8a-c62c-4f13-aa8b-295afb44034b.png"
+  },
+  {
+   "id": "566449fe-0311-4fa7-bf08-26cff77418de",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-10-01T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-25T14:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/410f8e68-0455-463a-9e29-97313e4e0716.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=566449fe-0311-4fa7-bf08-26cff77418de",
+   "rewards": [
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    },
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/566449fe-0311-4fa7-bf08-26cff77418de.png"
+  },
+  {
+   "id": "1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
+   "game": "Skull and Bones",
+   "title": "SAB - Supereloy77",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-10-09T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T14:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/421ca4a2-f570-4278-857f-ca08b236e746.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
+   "rewards": [
+    {
+     "name": "Raider's Bet",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   }
  ],
  "archive": [
@@ -8803,13 +8923,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.13
+   "score": 22.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8821,31 +8941,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.98
+   "score": 21.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.74
+   "score": 1.73
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -8857,13 +8977,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.18
+   "score": 8.17
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   }
  },
  "favoriteWeights": {
