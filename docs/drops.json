@@ -2754,42 +2754,6 @@
    "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
   },
   {
-   "id": "49ba3042-b88d-4547-aea5-fb72fa727126",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/24/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T13:00:00+00:00",
-   "endAt": "2026-09-25T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T13:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a5048e37-c859-45a1-993e-6f12845b1d9c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49ba3042-b88d-4547-aea5-fb72fa727126",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/49ba3042-b88d-4547-aea5-fb72fa727126.png"
-  },
-  {
    "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
    "game": "Tom Clancy's The Division 2",
    "title": "TD2 Y8S3 Red Moon Rising",
@@ -3666,46 +3630,6 @@
    "asset": "assets/8379bc7b-4082-4f4b-b83a-9812625f55a1.png"
   },
   {
-   "id": "b451b605-87a7-485b-acf2-d5c08f1c1aad",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Free Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T01:00:00+00:00",
-   "endAt": "2026-09-25T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T01:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdea8ce7-d4db-4047-81ae-f6ed224c67b1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b451b605-87a7-485b-acf2-d5c08f1c1aad",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b451b605-87a7-485b-acf2-d5c08f1c1aad.png"
-  },
-  {
    "id": "1455b54f-00c4-4df6-a4d2-e1a05c879369",
    "game": "Big Walk",
    "title": "Big Walk badge",
@@ -3872,9 +3796,141 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/30661251-1c97-46b4-bf1d-b3667cbca0c7.png"
+  },
+  {
+   "id": "0bf8bcc0-35cc-430f-bd89-8f57756b46da",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T13:00:00+00:00",
+   "endAt": "2026-09-25T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T13:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/37482bdf-8712-495d-878c-bc2d2f4783a2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bf8bcc0-35cc-430f-bd89-8f57756b46da",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 150
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0bf8bcc0-35cc-430f-bd89-8f57756b46da.png"
+  },
+  {
+   "id": "b8be37f6-00ff-4912-ade6-5e7d628fafa8",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T13:00:00+00:00",
+   "endAt": "2026-09-26T00:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T13:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c5f5ff9-72ab-47c9-b573-decdb082a6ac.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b8be37f6-00ff-4912-ade6-5e7d628fafa8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop  2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b8be37f6-00ff-4912-ade6-5e7d628fafa8.png"
+  },
+  {
+   "id": "e7d6a206-d715-44b8-983a-d1abaaf2ae2f",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/25/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T13:00:00+00:00",
+   "endAt": "2026-09-26T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T13:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e70d61f-3793-4226-984a-6c56f46a5383.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e7d6a206-d715-44b8-983a-d1abaaf2ae2f",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e7d6a206-d715-44b8-983a-d1abaaf2ae2f.png"
   }
  ],
  "archive": [
+  {
+   "id": "49ba3042-b88d-4547-aea5-fb72fa727126",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/24/26",
+   "startAt": "2026-09-24T13:00:00+00:00",
+   "endAt": "2026-09-25T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b451b605-87a7-485b-acf2-d5c08f1c1aad",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "startAt": "2026-09-25T01:00:00+00:00",
+   "endAt": "2026-09-25T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "23176dc8-75fe-4f58-86e0-6e3636254448",
    "game": "Black Desert",
@@ -8733,7 +8789,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.16
+   "score": 22.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8745,7 +8801,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.0
+   "score": 21.99
   },
   "Once Human": {
    "favorites": 2,
@@ -8775,13 +8831,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.53
+   "score": 7.52
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.19
+   "score": 8.18
   },
   "Where Winds Meet": {
    "favorites": 2,
@@ -8795,7 +8851,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 32,
-  "LEGO Batman: Legacy of the Dark Knight": 32,
+  "LEGO Batman: Legacy of the Dark Knight": 31,
   "Marvel Rivals": 10,
   "Once Human": 25,
   "Palia": 25,
