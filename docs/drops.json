@@ -4152,6 +4152,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
+  },
+  {
+   "id": "6fe70e25-323d-4150-9740-1c472019d515",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Playoffs 2_DAY1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T15:30:00+00:00",
+   "endAt": "2026-09-25T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-25T15:30:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/311a1378-6b46-4df9-9ab4-111043ac1b72.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6fe70e25-323d-4150-9740-1c472019d515",
+   "rewards": [
+    {
+     "name": "PEC: Fall Playoffs 2_Victory Dance 60",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/6fe70e25-323d-4150-9740-1c472019d515.png"
   }
  ],
  "archive": [
@@ -9047,43 +9067,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.1
+   "score": 22.09
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.47
+   "score": 3.46
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.95
+   "score": 21.94
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9101,13 +9121,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.17
+   "score": 8.16
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   }
  },
  "favoriteWeights": {
