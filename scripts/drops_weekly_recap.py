@@ -11,12 +11,13 @@ Cron: hermes cron create "0 19 * * 0" --name drops-weekly-recap
 import datetime
 import html
 import json
+import os
 import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get("DROPS_ROOT", str(Path.home() / "Documents" / "Workspaces" / "drops")))
 sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
