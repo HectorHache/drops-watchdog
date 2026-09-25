@@ -1482,46 +1482,6 @@
    "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
   },
   {
-   "id": "f2761eae-cf4d-4f39-aeeb-a012db335518",
-   "game": "MARVEL Contest of Champions",
-   "title": "September Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T17:00:00+00:00",
-   "endAt": "2026-09-25T16:44:59.999+00:00",
-   "firstSeenAt": "2026-09-18T17:00:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f2761eae-cf4d-4f39-aeeb-a012db335518",
-   "rewards": [
-    {
-     "name": "Drop 1 - PRG Gated Signature Stones",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - 1x Observance",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3 - PRG Gated Awakening Materials",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4 - 1x Observance",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5 - PRG Gated Ascension Materials",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 6 - PRG Gated Crystal Shards",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f2761eae-cf4d-4f39-aeeb-a012db335518.png"
-  },
-  {
    "id": "ca0adab9-6474-4ed3-bed1-4405ef65814f",
    "game": "Delta Force",
    "title": "DF Streamer Ladder FINNAL",
@@ -2822,46 +2782,6 @@
    "asset": "assets/cc3e3fb4-f513-43ad-bd9f-3638464ce841.png"
   },
   {
-   "id": "9caf8f97-2bf0-4a98-babc-9f34c699df5d",
-   "game": "Madden NFL 27",
-   "title": "Madden Live",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T17:00:00+00:00",
-   "endAt": "2026-09-25T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T17:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3106a21-27d3-43dd-84e2-81033d89366d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9caf8f97-2bf0-4a98-babc-9f34c699df5d",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9caf8f97-2bf0-4a98-babc-9f34c699df5d.png"
-  },
-  {
    "id": "62fde3be-f54b-4764-91e1-eaaed89caf28",
    "game": "Rise Online",
    "title": "Mobile Drop 168",
@@ -3726,46 +3646,6 @@
    "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
   },
   {
-   "id": "0bf8bcc0-35cc-430f-bd89-8f57756b46da",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Free Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T13:00:00+00:00",
-   "endAt": "2026-09-25T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T13:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/37482bdf-8712-495d-878c-bc2d2f4783a2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bf8bcc0-35cc-430f-bd89-8f57756b46da",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0bf8bcc0-35cc-430f-bd89-8f57756b46da.png"
-  },
-  {
    "id": "b8be37f6-00ff-4912-ade6-5e7d628fafa8",
    "game": "Escape from Tarkov: Arena",
    "title": "Arena Free Weekend",
@@ -4220,9 +4100,129 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f713cf7d-a45b-45ef-aac9-d404b4f21f6f.png"
+  },
+  {
+   "id": "50abdee4-8ac7-4626-b511-3b12d4390370",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-09-26T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T17:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f9b36bdd-1a40-4c29-b24d-a0e6e0eb1096.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=50abdee4-8ac7-4626-b511-3b12d4390370",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/50abdee4-8ac7-4626-b511-3b12d4390370.png"
+  },
+  {
+   "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 4 - CCP",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-10-02T16:44:59.999+00:00",
+   "firstSeenAt": "2026-09-25T17:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
+   "rewards": [
+    {
+     "name": "CCP Drop 1 - PRG Gated Rank Up Gem",
+     "minutes": 120
+    },
+    {
+     "name": "CCP Drop 2 - 1x Observance",
+     "minutes": 180
+    },
+    {
+     "name": "CCP Drop 3 - PRG Gated Ascension Materials",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2.png"
+  },
+  {
+   "id": "4c45c164-06c1-4175-a6e7-cadc4d57c077",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-10-02T16:44:59.999+00:00",
+   "firstSeenAt": "2026-09-25T17:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c45c164-06c1-4175-a6e7-cadc4d57c077",
+   "rewards": [
+    {
+     "name": "Drop 1 - 3x Rebirth Crystals",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3 - PRG Gated Signature Stones",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4c45c164-06c1-4175-a6e7-cadc4d57c077.png"
   }
  ],
  "archive": [
+  {
+   "id": "9caf8f97-2bf0-4a98-babc-9f34c699df5d",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "startAt": "2026-09-24T17:00:00+00:00",
+   "endAt": "2026-09-25T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0bf8bcc0-35cc-430f-bd89-8f57756b46da",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "startAt": "2026-09-25T13:00:00+00:00",
+   "endAt": "2026-09-25T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f2761eae-cf4d-4f39-aeeb-a012db335518",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 3",
+   "startAt": "2026-09-18T17:00:00+00:00",
+   "endAt": "2026-09-25T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b444df04-11b1-4bfe-94d1-3545d48a077c",
    "game": "Active Matter",
@@ -9121,7 +9121,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.07
+   "score": 22.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9133,7 +9133,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.92
+   "score": 21.91
   },
   "Once Human": {
    "favorites": 2,
