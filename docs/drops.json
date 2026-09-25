@@ -3142,26 +3142,6 @@
    "asset": "assets/b2b8e712-05ae-4e29-8e43-48458e7c2f75.png"
   },
   {
-   "id": "65e68b8c-5f89-4ac3-8a4c-e8b460055fa7",
-   "game": "Path of Exile",
-   "title": "PoE1 ExileCon 4/4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T21:00:00+00:00",
-   "endAt": "2026-09-25T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T21:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4f5e62eb-1c8b-474f-a229-b2724325ee45.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=65e68b8c-5f89-4ac3-8a4c-e8b460055fa7",
-   "rewards": [
-    {
-     "name": "Scavenger Bat",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/65e68b8c-5f89-4ac3-8a4c-e8b460055fa7.png"
-  },
-  {
    "id": "5351658e-4575-4cd8-9194-22c3813e41b9",
    "game": "DOFUS Touch",
    "title": "J11 - 2x Temporix Cps",
@@ -3966,26 +3946,6 @@
    "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
   },
   {
-   "id": "6fe70e25-323d-4150-9740-1c472019d515",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Playoffs 2_DAY1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:30:00+00:00",
-   "endAt": "2026-09-25T21:00:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:30:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/311a1378-6b46-4df9-9ab4-111043ac1b72.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6fe70e25-323d-4150-9740-1c472019d515",
-   "rewards": [
-    {
-     "name": "PEC: Fall Playoffs 2_Victory Dance 60",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/6fe70e25-323d-4150-9740-1c472019d515.png"
-  },
-  {
    "id": "99a8d86e-19ab-4431-9d7e-958af4e28494",
    "game": "Marbles on Stream",
    "title": "Marble Day 267",
@@ -4196,9 +4156,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e955ba39-dcf5-4cf0-ba32-d5971a8de123.png"
+  },
+  {
+   "id": "069b8c3c-04d3-4770-87a7-9ac05f60bda9",
+   "game": "Hearthstone",
+   "title": "Black Empire Reveals 4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T21:00:00+00:00",
+   "endAt": "2026-09-25T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T21:30:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/331b95e8-132c-4b42-835e-3726c9c2ab5c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=069b8c3c-04d3-4770-87a7-9ac05f60bda9",
+   "rewards": [
+    {
+     "name": "Black Empire Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/069b8c3c-04d3-4770-87a7-9ac05f60bda9.png"
+  },
+  {
+   "id": "c0e0afc6-fac6-4030-9377-186307155a83",
+   "game": "Halo: The Master Chief Collection",
+   "title": "Halo 3 Stream-SEP25",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T21:00:00+00:00",
+   "endAt": "2026-09-26T03:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T21:30:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6cd94f2b-66ae-4c3f-aacd-7b5ab694e0dd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c0e0afc6-fac6-4030-9377-186307155a83",
+   "rewards": [
+    {
+     "name": "Brust Fire Nameplate",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c0e0afc6-fac6-4030-9377-186307155a83.png"
   }
  ],
  "archive": [
+  {
+   "id": "6fe70e25-323d-4150-9740-1c472019d515",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Playoffs 2_DAY1",
+   "startAt": "2026-09-25T15:30:00+00:00",
+   "endAt": "2026-09-25T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "65e68b8c-5f89-4ac3-8a4c-e8b460055fa7",
+   "game": "Path of Exile",
+   "title": "PoE1 ExileCon 4/4",
+   "startAt": "2026-09-24T21:00:00+00:00",
+   "endAt": "2026-09-25T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1feb839d-afba-4473-84de-a0d903048d26",
    "game": "Eternal Return",
@@ -9139,43 +9155,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.59
+   "score": 15.58
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.99
+   "score": 21.96
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.45
+   "score": 3.44
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.84
+   "score": 21.82
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.59
+   "score": 15.58
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.59
+   "score": 15.58
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.59
+   "score": 15.58
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9187,19 +9203,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.47
+   "score": 7.46
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.12
+   "score": 8.11
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.59
+   "score": 15.58
   }
  },
  "favoriteWeights": {
