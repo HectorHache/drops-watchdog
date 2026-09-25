@@ -3798,6 +3798,26 @@
    "asset": "assets/30661251-1c97-46b4-bf1d-b3667cbca0c7.png"
   },
   {
+   "id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Wasteland circuit",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T12:53:54+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T13:30:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e05a21b-e794-47cd-8022-9d3b5b95e169.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
+   "rewards": [
+    {
+     "name": "OL'CLANKER",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
+  },
+  {
    "id": "0bf8bcc0-35cc-430f-bd89-8f57756b46da",
    "game": "Escape from Tarkov: Arena",
    "title": "Arena Free Weekend",
@@ -8783,13 +8803,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.71
+   "score": 15.7
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.15
+   "score": 22.13
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8801,25 +8821,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.99
+   "score": 21.98
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.71
+   "score": 15.7
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.71
+   "score": 15.7
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.71
+   "score": 15.7
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8843,7 +8863,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.71
+   "score": 15.7
   }
  },
  "favoriteWeights": {
