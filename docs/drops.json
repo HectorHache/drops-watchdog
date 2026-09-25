@@ -2606,62 +2606,6 @@
    "asset": "assets/828ae239-eff0-4ac1-b4d6-9a2b23da92a4.png"
   },
   {
-   "id": "134c7031-eada-46af-b96c-f7039c478801",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T00:00:00+00:00",
-   "endAt": "2026-09-24T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T00:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8016e46b-686f-4266-83fb-1dc16805687b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=134c7031-eada-46af-b96c-f7039c478801",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/134c7031-eada-46af-b96c-f7039c478801.png"
-  },
-  {
-   "id": "4b434b61-8954-4157-911a-04143d62a084",
-   "game": "Delta Force",
-   "title": "DF Streamer Ladder Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T00:00:00+00:00",
-   "endAt": "2026-09-24T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T00:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/49f0035d-09db-4fb6-8977-9abcd71b8796.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b434b61-8954-4157-911a-04143d62a084",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Adv. E-product Lucky Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Adv Weapon Select Pack",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "M7 - Street Art",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/4b434b61-8954-4157-911a-04143d62a084.png"
-  },
-  {
    "id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0",
    "game": "Dungeons & Dragons",
    "title": "/dnd d20 Badge",
@@ -2848,46 +2792,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
-  },
-  {
-   "id": "834adef6-b9dd-4d30-89a1-14a8c2403c04",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Free Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T13:00:00+00:00",
-   "endAt": "2026-09-25T00:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T13:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb48d45b-4d4b-4078-baf3-85bc55861dd5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=834adef6-b9dd-4d30-89a1-14a8c2403c04",
-   "rewards": [
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    },
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/834adef6-b9dd-4d30-89a1-14a8c2403c04.png"
   },
   {
    "id": "49ba3042-b88d-4547-aea5-fb72fa727126",
@@ -3608,9 +3512,265 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5351658e-4575-4cd8-9194-22c3813e41b9.png"
+  },
+  {
+   "id": "31cd2273-63ca-4193-8a81-c7f80146bd23",
+   "game": "Delta Force",
+   "title": "ZywOo's Bootcamp",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-09-25T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f34363c2-c67e-4f65-97e3-37afecc29b41.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=31cd2273-63ca-4193-8a81-c7f80146bd23",
+   "rewards": [
+    {
+     "name": "Ops Challenge Supply Pack",
+     "minutes": 20
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 30
+    },
+    {
+     "name": "CCard - Deltaversary Cake",
+     "minutes": 45
+    },
+    {
+     "name": "Avatar-Bountiful Harvest",
+     "minutes": 60
+    },
+    {
+     "name": "CI-19 - Alpha Dragon",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/31cd2273-63ca-4193-8a81-c7f80146bd23.jpg"
+  },
+  {
+   "id": "e3cf9574-f025-4d24-8904-8c1189589fbf",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-09-25T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52e06d54-4506-455a-9a9a-b2ea58cbdbee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e3cf9574-f025-4d24-8904-8c1189589fbf",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e3cf9574-f025-4d24-8904-8c1189589fbf.png"
+  },
+  {
+   "id": "3b2982ca-5a52-4d53-8ffe-9da4c8a3b5aa",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-09-25T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cbb41917-8b3c-409c-ac7b-2729f834e4f1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b2982ca-5a52-4d53-8ffe-9da4c8a3b5aa",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Adv. E-product Lucky Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Select Pack",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "M7 - Street Art",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/3b2982ca-5a52-4d53-8ffe-9da4c8a3b5aa.png"
+  },
+  {
+   "id": "5e51bea9-6f05-4d84-9d90-0f35d3bed668",
+   "game": "Delta Force",
+   "title": "AM&EMEA Group Stage D3-4",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-09-27T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3bc0cf31-a09b-47a5-b893-f7dc4892c7f9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5e51bea9-6f05-4d84-9d90-0f35d3bed668",
+   "rewards": [
+    {
+     "name": "Spray-RISE SERIES SEASON2",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Avatar-RISESERIES SEASON2",
+     "minutes": 90
+    },
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Ammo Selection Pack Lv.4",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/5e51bea9-6f05-4d84-9d90-0f35d3bed668.png"
+  },
+  {
+   "id": "11dfb85b-329a-4bf2-9a1b-9fb8dc021e2c",
+   "game": "Coin Pusher World",
+   "title": "CPW 2026 Autumn",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-09-28T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b0045ae-3fa5-43b8-bc43-b9715bee3f55.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=11dfb85b-329a-4bf2-9a1b-9fb8dc021e2c",
+   "rewards": [
+    {
+     "name": "10K Tickets",
+     "minutes": 60
+    },
+    {
+     "name": "tdrop31",
+     "minutes": 180
+    },
+    {
+     "name": "tdrop32",
+     "minutes": 360
+    },
+    {
+     "name": "tdrop33",
+     "minutes": 540
+    },
+    {
+     "name": "50K Tickets",
+     "minutes": 720
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/11dfb85b-329a-4bf2-9a1b-9fb8dc021e2c.png"
+  },
+  {
+   "id": "8379bc7b-4082-4f4b-b83a-9812625f55a1",
+   "game": "Airport Baggage Simulator",
+   "title": "Night Shift Update",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T00:00:00+00:00",
+   "endAt": "2026-10-22T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9f9e4c1e-6155-497f-a5e4-8260a64c0d6d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8379bc7b-4082-4f4b-b83a-9812625f55a1",
+   "rewards": [
+    {
+     "name": "Decoration: Twitch Mug",
+     "minutes": 15
+    },
+    {
+     "name": "Decoration: Twitch Poster",
+     "minutes": 30
+    },
+    {
+     "name": "Decoration: Twitch Statue",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8379bc7b-4082-4f4b-b83a-9812625f55a1.png"
+  },
+  {
+   "id": "b451b605-87a7-485b-acf2-d5c08f1c1aad",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T01:00:00+00:00",
+   "endAt": "2026-09-25T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T01:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdea8ce7-d4db-4047-81ae-f6ed224c67b1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b451b605-87a7-485b-acf2-d5c08f1c1aad",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b451b605-87a7-485b-acf2-d5c08f1c1aad.png"
   }
  ],
  "archive": [
+  {
+   "id": "834adef6-b9dd-4d30-89a1-14a8c2403c04",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "startAt": "2026-09-24T13:00:00+00:00",
+   "endAt": "2026-09-25T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "134c7031-eada-46af-b96c-f7039c478801",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-24T00:00:00+00:00",
+   "endAt": "2026-09-24T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4b434b61-8954-4157-911a-04143d62a084",
+   "game": "Delta Force",
+   "title": "DF Streamer Ladder Drops",
+   "startAt": "2026-09-24T00:00:00+00:00",
+   "endAt": "2026-09-24T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7bffdafe-32a8-4f78-94ef-d4338c0e62f8",
    "game": "DOFUS Touch",
@@ -8423,67 +8583,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.83
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.46
+   "score": 22.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.52
+   "score": 3.5
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.3
+   "score": 22.16
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.83
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.83
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.83
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.76
+   "score": 1.75
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.63
+   "score": 7.58
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.3
+   "score": 8.24
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.83
   }
  },
  "favoriteWeights": {
