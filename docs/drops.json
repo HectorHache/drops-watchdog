@@ -3840,6 +3840,38 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e63f8d3e-8dc3-4df1-ad44-821c05249d83.png"
+  },
+  {
+   "id": "5519254f-3747-4b0e-a021-9fd74f5e4581",
+   "game": "Brawlhalla",
+   "title": "AUTUMN DOUBLES ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T11:00:00+00:00",
+   "endAt": "2026-09-29T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T11:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5519254f-3747-4b0e-a021-9fd74f5e4581",
+   "rewards": [
+    {
+     "name": "Lady Vera V6",
+     "minutes": 60
+    },
+    {
+     "name": "Ada V6",
+     "minutes": 180
+    },
+    {
+     "name": "Live, Laugh, Lose Stocks",
+     "minutes": 300
+    },
+    {
+     "name": "Zariel v7 + Neo City",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/5519254f-3747-4b0e-a021-9fd74f5e4581.png"
   }
  ],
  "archive": [
@@ -8693,7 +8725,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.2
+   "score": 22.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8705,7 +8737,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.05
+   "score": 22.04
   },
   "Once Human": {
    "favorites": 2,
