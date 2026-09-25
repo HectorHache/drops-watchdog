@@ -4172,6 +4172,54 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/6fe70e25-323d-4150-9740-1c472019d515.png"
+  },
+  {
+   "id": "99a8d86e-19ab-4431-9d7e-958af4e28494",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 267",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T16:00:00+00:00",
+   "endAt": "2026-09-26T15:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T16:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d410ff5c-0721-448e-b4c7-b0f05e1b797e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99a8d86e-19ab-4431-9d7e-958af4e28494",
+   "rewards": [
+    {
+     "name": "DROP",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/99a8d86e-19ab-4431-9d7e-958af4e28494.png"
+  },
+  {
+   "id": "f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 9",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T16:00:00+00:00",
+   "endAt": "2026-09-29T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T16:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/631a3f58-3286-4f07-8f30-9f9a83fae97f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
+   "rewards": [
+    {
+     "name": "Camo Voucher",
+     "minutes": 240
+    },
+    {
+     "name": "Modern Armor Blobs Camo",
+     "minutes": 480
+    },
+    {
+     "name": "5 x1.25 Silver Boosters",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f713cf7d-a45b-45ef-aac9-d404b4f21f6f.png"
   }
  ],
  "archive": [
@@ -9067,13 +9115,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.67
+   "score": 15.66
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.09
+   "score": 22.08
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9085,25 +9133,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.94
+   "score": 21.93
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.67
+   "score": 15.66
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.67
+   "score": 15.66
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.67
+   "score": 15.66
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9115,7 +9163,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.51
+   "score": 7.5
   },
   "Warframe": {
    "favorites": 1,
@@ -9127,7 +9175,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.67
+   "score": 15.66
   }
  },
  "favoriteWeights": {
