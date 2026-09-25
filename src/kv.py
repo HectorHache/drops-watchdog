@@ -39,7 +39,11 @@ def _pull(endpoint: str, since: int, timeout: int = 20) -> list[dict]:
     except Exception as e:
         print(f"[kv] pull failed: {e}", file=sys.stderr)
         return []
-    return data.get("interactions", []) if data.get("ok") else []
+    # tolerate malformed payloads (JSON array, HTML error page) — never crash a run
+    if not isinstance(data, dict) or not isinstance(data.get("interactions"), list):
+        print(f"[kv] pull returned unexpected payload type: {type(data).__name__}", file=sys.stderr)
+        return []
+    return data["interactions"] if data.get("ok") else []
 
 
 def kv_pull(conn, endpoint: str = DEFAULT_ENDPOINT) -> int:

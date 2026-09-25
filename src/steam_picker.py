@@ -5,7 +5,6 @@ Provides an in-CLI interactive session to browse played Steam games, search,
 toggle/batch-select favorites, auto-seed by hours, and sync changes to drops.db
 and the public drops.hector.app site. Stdlib only.
 """
-import os
 import re
 import sys
 from pathlib import Path
