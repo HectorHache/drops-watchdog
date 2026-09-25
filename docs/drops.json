@@ -2722,26 +2722,6 @@
    "asset": "assets/e50f291f-c1e8-4610-b456-f32c96346a89.png"
   },
   {
-   "id": "23176dc8-75fe-4f58-86e0-6e3636254448",
-   "game": "Black Desert",
-   "title": "Donghwa's Gift (Sep 24)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T12:00:00+00:00",
-   "endAt": "2026-09-25T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T12:01:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e8b9964-5102-42ef-895f-3edc15271571.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23176dc8-75fe-4f58-86e0-6e3636254448",
-   "rewards": [
-    {
-     "name": "1 Hour (Sep 24)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/23176dc8-75fe-4f58-86e0-6e3636254448.png"
-  },
-  {
    "id": "0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
    "game": "PAYDAY 3",
    "title": "PAYDAY 3",
@@ -3872,9 +3852,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/5519254f-3747-4b0e-a021-9fd74f5e4581.png"
+  },
+  {
+   "id": "30661251-1c97-46b4-bf1d-b3667cbca0c7",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 25)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T12:00:00+00:00",
+   "endAt": "2026-09-26T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-25T12:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0ed365be-f17e-4838-9911-77dc119b6fd2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30661251-1c97-46b4-bf1d-b3667cbca0c7",
+   "rewards": [
+    {
+     "name": "1 Hour (Sep 25)",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/30661251-1c97-46b4-bf1d-b3667cbca0c7.png"
   }
  ],
  "archive": [
+  {
+   "id": "23176dc8-75fe-4f58-86e0-6e3636254448",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 24)",
+   "startAt": "2026-09-24T12:00:00+00:00",
+   "endAt": "2026-09-25T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "93001378-02cd-4b83-871b-8a96653935bb",
    "game": "Albion Online",
@@ -8719,13 +8727,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.72
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.18
+   "score": 22.17
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8737,25 +8745,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.03
+   "score": 22.02
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.72
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.72
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.72
   },
   "THE FINALS": {
    "favorites": 0,
@@ -8767,7 +8775,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.54
+   "score": 7.53
   },
   "Warframe": {
    "favorites": 1,
@@ -8779,7 +8787,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.72
   }
  },
  "favoriteWeights": {
