@@ -3744,6 +3744,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b451b605-87a7-485b-acf2-d5c08f1c1aad.png"
+  },
+  {
+   "id": "1455b54f-00c4-4df6-a4d2-e1a05c879369",
+   "game": "Big Walk",
+   "title": "Big Walk badge",
+   "status": "ACTIVE",
+   "startAt": "2026-09-25T07:00:00+00:00",
+   "endAt": "2026-10-04T06:58:59.999+00:00",
+   "firstSeenAt": "2026-09-25T07:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/96d13db6-ca9a-4687-985d-22a4777faa5f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1455b54f-00c4-4df6-a4d2-e1a05c879369",
+   "rewards": [
+    {
+     "name": "Big Walk badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1455b54f-00c4-4df6-a4d2-e1a05c879369.png"
   }
  ],
  "archive": [
@@ -8589,7 +8609,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 22.28
+   "score": 22.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -8601,7 +8621,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 22.13
+   "score": 22.12
   },
   "Once Human": {
    "favorites": 2,
