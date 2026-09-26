@@ -1482,50 +1482,6 @@
    "asset": "assets/ca0adab9-6474-4ed3-bed1-4405ef65814f.png"
   },
   {
-   "id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e",
-   "game": "SMITE 2",
-   "title": "Sept Week 3!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T11:00:00+00:00",
-   "endAt": "2026-09-26T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-19T11:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1fee0cde-7933-44d1-8544-345843500347.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=92a7189f-2cf4-4313-b790-43d2ab5cb84e",
-   "rewards": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Market Coins Bundle 5",
-     "minutes": 600
-    },
-    {
-     "name": "Market Coins Bundle 6",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coins Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/92a7189f-2cf4-4313-b790-43d2ab5cb84e.jpg"
-  },
-  {
    "id": "8bce7df4-b03e-4e1e-8829-7513d54016ec",
    "game": "War Robots: Frontiers",
    "title": "Shadowed Bastion",
@@ -4212,9 +4168,105 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/14e2c1b8-6730-4edf-b46f-92f6926d4565.png"
+  },
+  {
+   "id": "445ffafc-81d2-4a32-b77b-8ab927edfb03",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T10:45:00+00:00",
+   "endAt": "2026-09-26T20:54:59.999+00:00",
+   "firstSeenAt": "2026-09-26T11:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec527b2e-6940-46d9-8208-f307d1c45d2d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=445ffafc-81d2-4a32-b77b-8ab927edfb03",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_1",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_2",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_3",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_4",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_5",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_6",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_7",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/445ffafc-81d2-4a32-b77b-8ab927edfb03.png"
+  },
+  {
+   "id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1",
+   "game": "SMITE 2",
+   "title": "Sept Wk 4 Blue Lotus!",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T11:00:00+00:00",
+   "endAt": "2026-10-03T10:57:59.999+00:00",
+   "firstSeenAt": "2026-09-26T11:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3b1ac8e-a906-4bbb-8966-1793a9a701ce.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=542a2fb4-97d1-427c-861b-3ebc5229a0e1",
+   "rewards": [
+    {
+     "name": "Market Coin Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coin Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coin Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coin Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coin Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Blue Lotus Ne Zha",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coin Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/542a2fb4-97d1-427c-861b-3ebc5229a0e1.png"
   }
  ],
  "archive": [
+  {
+   "id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e",
+   "game": "SMITE 2",
+   "title": "Sept Week 3!",
+   "startAt": "2026-09-19T11:00:00+00:00",
+   "endAt": "2026-09-26T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e63f8d3e-8dc3-4df1-ad44-821c05249d83",
    "game": "Albion Online",
@@ -9273,7 +9325,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.69
+   "score": 21.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9285,7 +9337,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.54
+   "score": 21.53
   },
   "Once Human": {
    "favorites": 2,
