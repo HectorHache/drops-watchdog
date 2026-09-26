@@ -4268,6 +4268,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ea80edc3-ab19-4bfa-8fa8-caafb996ea36.png"
+  },
+  {
+   "id": "b8111c81-b52c-401d-bf6e-a3ca0a631fe2",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Playoffs 2_DAY2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T22:30:00+00:00",
+   "endAt": "2026-09-27T04:30:59.999+00:00",
+   "firstSeenAt": "2026-09-26T22:30:29+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/73286ea4-2084-4a41-8193-b135755226a9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b8111c81-b52c-401d-bf6e-a3ca0a631fe2",
+   "rewards": [
+    {
+     "name": "PAS2 Playoffs 2_DAY2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/b8111c81-b52c-401d-bf6e-a3ca0a631fe2.png"
   }
  ],
  "archive": [
@@ -9449,7 +9469,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.45
+   "score": 21.44
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9461,7 +9481,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.31
+   "score": 21.3
   },
   "Once Human": {
    "favorites": 2,
@@ -9497,7 +9517,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.93
+   "score": 7.92
   },
   "Where Winds Meet": {
    "favorites": 2,
