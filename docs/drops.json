@@ -4172,6 +4172,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/360efbd5-b609-459b-860b-c9e4eece2522.png"
+  },
+  {
+   "id": "3497580a-93c3-4981-aaa9-7695a97182e1",
+   "game": "Albion Online",
+   "title": "Dragonfire 4 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T10:00:00+00:00",
+   "endAt": "2026-09-27T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-26T10:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c72bb60-3800-4dfd-b7de-e309ca4e934a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3497580a-93c3-4981-aaa9-7695a97182e1",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3497580a-93c3-4981-aaa9-7695a97182e1.png"
   }
  ],
  "archive": [
@@ -9227,13 +9247,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.4
+   "score": 15.39
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.71
+   "score": 21.7
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9245,25 +9265,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.56
+   "score": 21.55
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.4
+   "score": 15.39
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.4
+   "score": 15.39
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.4
+   "score": 15.39
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9275,7 +9295,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.38
+   "score": 7.37
   },
   "Warframe": {
    "favorites": 1,
@@ -9287,7 +9307,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.4
+   "score": 15.39
   }
  },
  "favoriteWeights": {
