@@ -874,26 +874,6 @@
    "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
   },
   {
-   "id": "99be36da-64c7-49b1-b338-4bdc091ac085",
-   "game": "Diablo IV",
-   "title": "Diablo Badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T17:00:00+00:00",
-   "endAt": "2026-09-26T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-12T20:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13dfccda-f3ee-4a76-b018-391b54659b35.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99be36da-64c7-49b1-b338-4bdc091ac085",
-   "rewards": [
-    {
-     "name": "Diablo Chat Badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99be36da-64c7-49b1-b338-4bdc091ac085.png"
-  },
-  {
    "id": "4cd6da06-5e0c-449a-88ae-58fe1d3b502e",
    "game": "LEGO Batman: Legacy of the Dark Knight",
    "title": "Mayhem Collection Launch",
@@ -3630,26 +3610,6 @@
    "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
   },
   {
-   "id": "99a8d86e-19ab-4431-9d7e-958af4e28494",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 267",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T16:00:00+00:00",
-   "endAt": "2026-09-26T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T16:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d410ff5c-0721-448e-b4c7-b0f05e1b797e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99a8d86e-19ab-4431-9d7e-958af4e28494",
-   "rewards": [
-    {
-     "name": "DROP",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99a8d86e-19ab-4431-9d7e-958af4e28494.png"
-  },
-  {
    "id": "f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
    "game": "World of Tanks Console",
    "title": "Mayhem Weekend 9",
@@ -3676,46 +3636,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f713cf7d-a45b-45ef-aac9-d404b4f21f6f.png"
-  },
-  {
-   "id": "50abdee4-8ac7-4626-b511-3b12d4390370",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Live",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T17:00:00+00:00",
-   "endAt": "2026-09-26T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T17:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f9b36bdd-1a40-4c29-b24d-a0e6e0eb1096.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=50abdee4-8ac7-4626-b511-3b12d4390370",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/50abdee4-8ac7-4626-b511-3b12d4390370.png"
   },
   {
    "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
@@ -3772,46 +3692,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4c45c164-06c1-4175-a6e7-cadc4d57c077.png"
-  },
-  {
-   "id": "c4345b91-247a-4b8b-b916-3109751ea275",
-   "game": "Rise Online",
-   "title": "Mobile Drop 169",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T17:59:00+00:00",
-   "endAt": "2026-09-26T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-25T18:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8d1d5d8-56e9-4568-bcc9-3743408c48f4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c4345b91-247a-4b8b-b916-3109751ea275",
-   "rewards": [
-    {
-     "name": "Mobile Drop 169",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c4345b91-247a-4b8b-b916-3109751ea275.png"
-  },
-  {
-   "id": "e3119b6d-d1b3-4c22-b1e6-67a142529223",
-   "game": "Rise Online",
-   "title": "ROW Drop 598",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T17:59:00+00:00",
-   "endAt": "2026-09-26T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-25T18:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5032ecb0-0251-4888-8282-48e07176bffc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e3119b6d-d1b3-4c22-b1e6-67a142529223",
-   "rewards": [
-    {
-     "name": "ROW Drop 598",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e3119b6d-d1b3-4c22-b1e6-67a142529223.png"
   },
   {
    "id": "e955ba39-dcf5-4cf0-ba32-d5971a8de123",
@@ -4182,46 +4062,6 @@
    "asset": "assets/26db9699-42b1-4069-9061-18f9eca54cf7.png"
   },
   {
-   "id": "63679da8-1e96-4bbf-b69b-c66406ba4801",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Free Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T13:00:00+00:00",
-   "endAt": "2026-09-26T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-26T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a7e984c-f918-4b96-8fd2-8d90b17912df.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63679da8-1e96-4bbf-b69b-c66406ba4801",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/63679da8-1e96-4bbf-b69b-c66406ba4801.png"
-  },
-  {
    "id": "2fce0170-4f7d-4abd-a152-5a595f12494a",
    "game": "World of Tanks: HEAT",
    "title": "CCB Sub Contest",
@@ -4316,9 +4156,233 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d3ea4a78-df2c-4ac4-9958-842ea38579bf.png"
+  },
+  {
+   "id": "3171d55e-bf48-4ae2-a539-14df77e2fab4",
+   "game": "Rise of Agon",
+   "title": "Rise of Agon: Server Slam",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T14:00:00+00:00",
+   "endAt": "2026-09-27T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3171d55e-bf48-4ae2-a539-14df77e2fab4",
+   "rewards": [
+    {
+     "name": "Zombie Pet",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3171d55e-bf48-4ae2-a539-14df77e2fab4.png"
+  },
+  {
+   "id": "c2989f11-c6a6-45f0-82f2-e78794cb853b",
+   "game": "Fortnite",
+   "title": "Global Championship 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T14:00:00+00:00",
+   "endAt": "2026-09-27T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0366191c-007a-48b7-bde8-0a699ddcbc76.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c2989f11-c6a6-45f0-82f2-e78794cb853b",
+   "rewards": [
+    {
+     "name": "Champion's Chargers",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c2989f11-c6a6-45f0-82f2-e78794cb853b.png"
+  },
+  {
+   "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
+   "game": "Predecessor",
+   "title": "\ud83c\udfc6 PCC Fall",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T14:00:00+00:00",
+   "endAt": "2026-10-05T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41c79471-fdc4-4fd2-a4ad-ae72c00cd616.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
+   "rewards": [
+    {
+     "name": "Ion Core",
+     "minutes": 60
+    },
+    {
+     "name": "Summer Winners Icons",
+     "minutes": 120
+    },
+    {
+     "name": "Thinking... Overhead Emote",
+     "minutes": 240
+    },
+    {
+     "name": "Summer Winners Banners",
+     "minutes": 360
+    },
+    {
+     "name": "Summer Winners Overhead Emotes",
+     "minutes": 480
+    },
+    {
+     "name": "Six Seven Overhead Emote",
+     "minutes": 600
+    },
+    {
+     "name": "Quantum Core",
+     "minutes": 720
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
+  },
+  {
+   "id": "c803fb73-873a-44ed-b02c-1ee883adb508",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Playoffs 2_DAY2",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T15:30:00+00:00",
+   "endAt": "2026-09-26T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f03e5c00-fa86-46fa-adaf-869f9471d4b9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c803fb73-873a-44ed-b02c-1ee883adb508",
+   "rewards": [
+    {
+     "name": "PEC: Fall Playoffs 2 DAY2_Tactical Tabby (Spray)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c803fb73-873a-44ed-b02c-1ee883adb508.png"
+  },
+  {
+   "id": "e1641a0b-5fcb-4adc-83fb-2af53e7b0dc3",
+   "game": "Halo Infinite",
+   "title": "Global GR Cup2 Day1-SEP26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T16:00:00+00:00",
+   "endAt": "2026-09-26T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7dd689b5-92c2-4e25-888e-4e99aba4181b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e1641a0b-5fcb-4adc-83fb-2af53e7b0dc3",
+   "rewards": [
+    {
+     "name": "Sangheili Suns Armor Coating",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/e1641a0b-5fcb-4adc-83fb-2af53e7b0dc3.png"
+  },
+  {
+   "id": "1be6af89-2240-4a1f-9eb8-b2328a9f47c6",
+   "game": "Legion TD 2",
+   "title": "September Nova Cup",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T16:30:00+00:00",
+   "endAt": "2026-09-27T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b107d773-b7ca-4c1a-b126-429153369842.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1be6af89-2240-4a1f-9eb8-b2328a9f47c6",
+   "rewards": [
+    {
+     "name": "2000 Essence",
+     "minutes": 60
+    },
+    {
+     "name": "4000 Essence",
+     "minutes": 120
+    },
+    {
+     "name": "Random Card",
+     "minutes": 240
+    },
+    {
+     "name": "Random Secret Card",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1be6af89-2240-4a1f-9eb8-b2328a9f47c6.png"
+  },
+  {
+   "id": "763365d8-b1a3-45cf-a607-9aac29cde8ee",
+   "game": "Rise Online",
+   "title": "ROW Drop 599",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T17:59:00+00:00",
+   "endAt": "2026-09-27T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-26T19:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5fc06d8f-2284-4127-bbb3-eca05597ac64.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=763365d8-b1a3-45cf-a607-9aac29cde8ee",
+   "rewards": [
+    {
+     "name": "ROW Drop 599",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/763365d8-b1a3-45cf-a607-9aac29cde8ee.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "c4345b91-247a-4b8b-b916-3109751ea275",
+   "game": "Rise Online",
+   "title": "Mobile Drop 169",
+   "startAt": "2026-09-25T17:59:00+00:00",
+   "endAt": "2026-09-26T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e3119b6d-d1b3-4c22-b1e6-67a142529223",
+   "game": "Rise Online",
+   "title": "ROW Drop 598",
+   "startAt": "2026-09-25T17:59:00+00:00",
+   "endAt": "2026-09-26T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "99be36da-64c7-49b1-b338-4bdc091ac085",
+   "game": "Diablo IV",
+   "title": "Diablo Badge",
+   "startAt": "2026-09-11T17:00:00+00:00",
+   "endAt": "2026-09-26T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "50abdee4-8ac7-4626-b511-3b12d4390370",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-09-26T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "63679da8-1e96-4bbf-b69b-c66406ba4801",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "startAt": "2026-09-26T13:00:00+00:00",
+   "endAt": "2026-09-26T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "99a8d86e-19ab-4431-9d7e-958af4e28494",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 267",
+   "startAt": "2026-09-25T16:00:00+00:00",
+   "endAt": "2026-09-26T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e7d6a206-d715-44b8-983a-d1abaaf2ae2f",
    "game": "Out of the Park Baseball 27",
@@ -9403,67 +9467,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.34
+   "score": 15.26
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.63
+   "score": 21.51
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.39
+   "score": 3.37
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.48
+   "score": 21.37
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.34
+   "score": 15.26
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.34
+   "score": 15.26
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.34
+   "score": 15.26
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.7
+   "score": 1.69
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.35
+   "score": 7.31
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.99
+   "score": 7.95
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.34
+   "score": 15.26
   }
  },
  "favoriteWeights": {
