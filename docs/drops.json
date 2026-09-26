@@ -3694,42 +3694,6 @@
    "asset": "assets/4c45c164-06c1-4175-a6e7-cadc4d57c077.png"
   },
   {
-   "id": "a761e484-049d-4505-b338-4a6f609f5bba",
-   "game": "DOFUS Touch",
-   "title": "J12 - 2x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T22:00:00+00:00",
-   "endAt": "2026-09-26T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T22:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f20ade61-e1e2-4f3c-848f-d3d13b812e52.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a761e484-049d-4505-b338-4a6f609f5bba",
-   "rewards": [
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a761e484-049d-4505-b338-4a6f609f5bba.png"
-  },
-  {
    "id": "b4b41791-29a4-45df-9e5b-6e0647b29c0a",
    "game": "Delta Force",
    "title": "DF Streamer Ladder Drops",
@@ -3988,26 +3952,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/26db9699-42b1-4069-9061-18f9eca54cf7.png"
-  },
-  {
-   "id": "2fce0170-4f7d-4abd-a152-5a595f12494a",
-   "game": "World of Tanks: HEAT",
-   "title": "CCB Sub Contest",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T13:00:00+00:00",
-   "endAt": "2026-09-26T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-26T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4611fe2b-8769-45e3-86d8-47a95e0564ff.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2fce0170-4f7d-4abd-a152-5a595f12494a",
-   "rewards": [
-    {
-     "name": "Sulfur Starter Pack + Boosters",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2fce0170-4f7d-4abd-a152-5a595f12494a.png"
   },
   {
    "id": "be624060-080c-4bd8-98f4-0846bd260ec7",
@@ -4288,9 +4232,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d1ae5aff-2312-46df-8ba4-eb481646f242.png"
+  },
+  {
+   "id": "ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
+   "game": "DOFUS Touch",
+   "title": "J13 - 2x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T22:00:00+00:00",
+   "endAt": "2026-09-27T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T22:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fecfd9b7-1401-4797-8375-5a7a14e3ee6e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
+   "rewards": [
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ea80edc3-ab19-4bfa-8fa8-caafb996ea36.png"
   }
  ],
  "archive": [
+  {
+   "id": "a761e484-049d-4505-b338-4a6f609f5bba",
+   "game": "DOFUS Touch",
+   "title": "J12 - 2x Temporix Cps",
+   "startAt": "2026-09-25T22:00:00+00:00",
+   "endAt": "2026-09-26T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2fce0170-4f7d-4abd-a152-5a595f12494a",
+   "game": "World of Tanks: HEAT",
+   "title": "CCB Sub Contest",
+   "startAt": "2026-09-26T13:00:00+00:00",
+   "endAt": "2026-09-26T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c803fb73-873a-44ed-b02c-1ee883adb508",
    "game": "PUBG: BATTLEGROUNDS",
@@ -9447,43 +9443,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.22
+   "score": 15.21
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.46
+   "score": 21.45
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.37
+   "score": 3.36
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.32
+   "score": 21.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.22
+   "score": 15.21
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.22
+   "score": 15.21
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.22
+   "score": 15.21
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9507,7 +9503,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.22
+   "score": 15.21
   }
  },
  "favoriteWeights": {
