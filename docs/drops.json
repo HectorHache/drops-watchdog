@@ -4192,6 +4192,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3497580a-93c3-4981-aaa9-7695a97182e1.png"
+  },
+  {
+   "id": "14e2c1b8-6730-4edf-b46f-92f6926d4565",
+   "game": "Coryphaeus Championships",
+   "title": "Summer Drops Fall",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T10:04:46+00:00",
+   "endAt": "2026-10-03T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-26T10:30:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0658b82e-a3ab-49bc-a804-5f2705f39264.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=14e2c1b8-6730-4edf-b46f-92f6926d4565",
+   "rewards": [
+    {
+     "name": "500 C-Coins",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/14e2c1b8-6730-4edf-b46f-92f6926d4565.png"
   }
  ],
  "archive": [
@@ -9247,13 +9267,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.7
+   "score": 21.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9265,25 +9285,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.55
+   "score": 21.54
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9301,13 +9321,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.02
+   "score": 8.01
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   }
  },
  "favoriteWeights": {
