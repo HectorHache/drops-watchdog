@@ -3318,26 +3318,6 @@
    "asset": "assets/5519254f-3747-4b0e-a021-9fd74f5e4581.png"
   },
   {
-   "id": "30661251-1c97-46b4-bf1d-b3667cbca0c7",
-   "game": "Black Desert",
-   "title": "Donghwa's Gift (Sep 25)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T12:00:00+00:00",
-   "endAt": "2026-09-26T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T12:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0ed365be-f17e-4838-9911-77dc119b6fd2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30661251-1c97-46b4-bf1d-b3667cbca0c7",
-   "rewards": [
-    {
-     "name": "1 Hour (Sep 25)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/30661251-1c97-46b4-bf1d-b3667cbca0c7.png"
-  },
-  {
    "id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
    "game": "Rainbow Six Siege",
    "title": "R6S Wasteland circuit",
@@ -4256,9 +4236,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/542a2fb4-97d1-427c-861b-3ebc5229a0e1.png"
+  },
+  {
+   "id": "26db9699-42b1-4069-9061-18f9eca54cf7",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 26)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-26T12:00:00+00:00",
+   "endAt": "2026-09-27T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-26T12:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b75b4010-ffbd-41e2-834d-d7ea0c5a0646.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=26db9699-42b1-4069-9061-18f9eca54cf7",
+   "rewards": [
+    {
+     "name": "1 Hour (Sep 26)",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/26db9699-42b1-4069-9061-18f9eca54cf7.png"
   }
  ],
  "archive": [
+  {
+   "id": "30661251-1c97-46b4-bf1d-b3667cbca0c7",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 25)",
+   "startAt": "2026-09-25T12:00:00+00:00",
+   "endAt": "2026-09-26T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e",
    "game": "SMITE 2",
@@ -9319,13 +9327,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.37
+   "score": 15.35
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.67
+   "score": 21.65
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9337,25 +9345,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.52
+   "score": 21.5
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.37
+   "score": 15.35
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.37
+   "score": 15.35
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.37
+   "score": 15.35
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9373,13 +9381,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 8.01
+   "score": 8.0
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 15.37
+   "score": 15.35
   }
  },
  "favoriteWeights": {
@@ -9393,7 +9401,7 @@
   "Palia": 25,
   "Predecessor": 25,
   "Tom Clancy's The Division 2": 17,
-  "Warframe": 18,
+  "Warframe": 17,
   "Where Winds Meet": 25
  }
 }
