@@ -1522,38 +1522,6 @@
    "asset": "assets/65cd09c0-62bc-45a6-a636-7a99f00996cb.png"
   },
   {
-   "id": "ebf71845-8b38-451d-87e3-9b95853e6e1a",
-   "game": "Mobile Dungeon",
-   "title": "MD Drops Set 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T00:00:00+00:00",
-   "endAt": "2026-09-27T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T00:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8de14a7-6fed-4605-99ae-93b9c6acceee.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ebf71845-8b38-451d-87e3-9b95853e6e1a",
-   "rewards": [
-    {
-     "name": "4x Arena Ticket",
-     "minutes": 30
-    },
-    {
-     "name": "25x Crystal",
-     "minutes": 60
-    },
-    {
-     "name": "24x Thirst for Adventure",
-     "minutes": 90
-    },
-    {
-     "name": "6x Dungeon Key",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ebf71845-8b38-451d-87e3-9b95853e6e1a.png"
-  },
-  {
    "id": "73ba0fe1-84c2-4ab5-9975-59c97dcda696",
    "game": "Modern Warships",
    "title": "Weekly Supply Drops #34",
@@ -1716,50 +1684,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/68900705-0b38-4644-87b5-4a6c6fb00639.png"
-  },
-  {
-   "id": "c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 1/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T14:00:00+00:00",
-   "endAt": "2026-09-27T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-21T14:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0834eb6-348b-4431-9099-44b435131f7c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Potion Package",
-     "minutes": 30
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 60
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 90
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 120
-    },
-    {
-     "name": "Time Jump Package",
-     "minutes": 150
-    },
-    {
-     "name": "Gem Package",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c5138a92-e415-4ee4-bdd8-9d86b3881fb5.png"
   },
   {
    "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
@@ -2040,50 +1964,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/728141da-5f87-49de-8afd-7fa0be33545f.png"
-  },
-  {
-   "id": "5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 2/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T14:00:00+00:00",
-   "endAt": "2026-09-27T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-23T14:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/44624de1-298a-47f1-a656-1bbeade24b84.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Winged Package",
-     "minutes": 30
-    },
-    {
-     "name": "Metal Package",
-     "minutes": 60
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 90
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 120
-    },
-    {
-     "name": "Fruit Basket",
-     "minutes": 150
-    },
-    {
-     "name": "Random Twitch Epic",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5d7ee621-919f-4aa0-a31f-9aeb45d95c2a.png"
   },
   {
    "id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
@@ -3198,62 +3078,6 @@
    "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
   },
   {
-   "id": "e166be8a-c62c-4f13-aa8b-295afb44034b",
-   "game": "Shakes and Fidget",
-   "title": "S&F Drops 3/3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T14:00:00+00:00",
-   "endAt": "2026-09-27T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-25T14:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba716732-d6b1-44ec-81ce-7a7c40e9b9a3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e166be8a-c62c-4f13-aa8b-295afb44034b",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Clover Package",
-     "minutes": 30
-    },
-    {
-     "name": "Lumberjack Package",
-     "minutes": 60
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 90
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 120
-    },
-    {
-     "name": "Achievement Drop",
-     "minutes": 150
-    },
-    {
-     "name": "Big Fruit Basket",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Frame",
-     "minutes": 210
-    },
-    {
-     "name": "Constitution Package",
-     "minutes": 240
-    },
-    {
-     "name": "Gem Package",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e166be8a-c62c-4f13-aa8b-295afb44034b.png"
-  },
-  {
    "id": "566449fe-0311-4fa7-bf08-26cff77418de",
    "game": "Shakes and Fidget",
    "title": "S&F Droplets",
@@ -3730,74 +3554,6 @@
    "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
   },
   {
-   "id": "1be6af89-2240-4a1f-9eb8-b2328a9f47c6",
-   "game": "Legion TD 2",
-   "title": "September Nova Cup",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T16:30:00+00:00",
-   "endAt": "2026-09-27T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-26T19:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b107d773-b7ca-4c1a-b126-429153369842.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1be6af89-2240-4a1f-9eb8-b2328a9f47c6",
-   "rewards": [
-    {
-     "name": "2000 Essence",
-     "minutes": 60
-    },
-    {
-     "name": "4000 Essence",
-     "minutes": 120
-    },
-    {
-     "name": "Random Card",
-     "minutes": 240
-    },
-    {
-     "name": "Random Secret Card",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1be6af89-2240-4a1f-9eb8-b2328a9f47c6.png"
-  },
-  {
-   "id": "ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
-   "game": "DOFUS Touch",
-   "title": "J13 - 2x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T22:00:00+00:00",
-   "endAt": "2026-09-27T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-26T22:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fecfd9b7-1401-4797-8375-5a7a14e3ee6e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
-   "rewards": [
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "2x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ea80edc3-ab19-4bfa-8fa8-caafb996ea36.png"
-  },
-  {
    "id": "5dd047e9-844b-4edd-9ae0-8790398127e9",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -4184,9 +3940,93 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e.png"
+  },
+  {
+   "id": "72d6b4f9-5993-4da1-ae98-a99a8fd37ca0",
+   "game": "DOFUS Touch",
+   "title": "J14 - 2x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T22:00:00+00:00",
+   "endAt": "2026-09-28T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-27T22:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c1440efd-dd40-47ae-b501-405f0a858ef8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=72d6b4f9-5993-4da1-ae98-a99a8fd37ca0",
+   "rewards": [
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "2x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/72d6b4f9-5993-4da1-ae98-a99a8fd37ca0.png"
   }
  ],
  "archive": [
+  {
+   "id": "ebf71845-8b38-451d-87e3-9b95853e6e1a",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 3",
+   "startAt": "2026-09-21T00:00:00+00:00",
+   "endAt": "2026-09-27T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1be6af89-2240-4a1f-9eb8-b2328a9f47c6",
+   "game": "Legion TD 2",
+   "title": "September Nova Cup",
+   "startAt": "2026-09-26T16:30:00+00:00",
+   "endAt": "2026-09-27T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
+   "game": "DOFUS Touch",
+   "title": "J13 - 2x Temporix Cps",
+   "startAt": "2026-09-26T22:00:00+00:00",
+   "endAt": "2026-09-27T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c5138a92-e415-4ee4-bdd8-9d86b3881fb5",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 1/3",
+   "startAt": "2026-09-21T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5d7ee621-919f-4aa0-a31f-9aeb45d95c2a",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e166be8a-c62c-4f13-aa8b-295afb44034b",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-09-27T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
    "game": "Rocket League",
@@ -9549,7 +9389,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.97
+   "score": 20.96
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9561,7 +9401,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.83
+   "score": 20.82
   },
   "Once Human": {
    "favorites": 2,
@@ -9591,13 +9431,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.13
+   "score": 7.12
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.75
+   "score": 7.74
   },
   "Where Winds Meet": {
    "favorites": 2,
