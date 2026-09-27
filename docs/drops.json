@@ -4268,6 +4268,50 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/578f05a3-fb04-4f05-8b85-980e96232272.png"
+  },
+  {
+   "id": "c78dbbcc-7c67-4990-968a-8f270628999b",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T10:45:00+00:00",
+   "endAt": "2026-09-27T20:54:59.999+00:00",
+   "firstSeenAt": "2026-09-27T11:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8e24371-daf7-41d6-b5eb-9f5b5b72b938.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c78dbbcc-7c67-4990-968a-8f270628999b",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_8",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_9",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_10",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_11",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_12",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_13",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_14",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c78dbbcc-7c67-4990-968a-8f270628999b.png"
   }
  ],
  "archive": [
@@ -9521,7 +9565,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.2
+   "score": 21.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9533,7 +9577,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.05
+   "score": 21.04
   },
   "Once Human": {
    "favorites": 2,
