@@ -4050,26 +4050,6 @@
    "asset": "assets/ab4db377-8a49-41cc-9143-49b9a96a55a5.png"
   },
   {
-   "id": "5479e613-9eed-40df-8054-b2acbc8926ac",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Playoffs 2_DAY3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T15:30:00+00:00",
-   "endAt": "2026-09-27T21:00:59.999+00:00",
-   "firstSeenAt": "2026-09-27T15:30:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b66783c6-1821-499d-9114-03eb373596ea.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5479e613-9eed-40df-8054-b2acbc8926ac",
-   "rewards": [
-    {
-     "name": "PEC: Fall Playoffs 2 - PUBG Creed - Helmet (Level 2)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/5479e613-9eed-40df-8054-b2acbc8926ac.png"
-  },
-  {
    "id": "ebfeefee-50cd-4c9d-90a8-c744e2e05b9f",
    "game": "Halo Infinite",
    "title": "Global GR Cup2 Day2-SEP27",
@@ -4088,34 +4068,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ebfeefee-50cd-4c9d-90a8-c744e2e05b9f.png"
-  },
-  {
-   "id": "4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
-   "game": "Rocket League",
-   "title": "CRL League Play",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T16:30:00+00:00",
-   "endAt": "2026-09-27T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-27T16:30:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13e05d84-22dd-41df-ad06-0050e780147d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
-   "rewards": [
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 120
-    },
-    {
-     "name": "RLCS Very Rare Drop",
-     "minutes": 30
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/4ef8dcaf-bcb1-4dbc-b904-bccbef424e07.png"
   },
   {
    "id": "1909a584-68e5-4517-b806-d644aff28f71",
@@ -4235,6 +4187,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
+   "game": "Rocket League",
+   "title": "CRL League Play",
+   "startAt": "2026-09-27T16:30:00+00:00",
+   "endAt": "2026-09-27T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5479e613-9eed-40df-8054-b2acbc8926ac",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Playoffs 2_DAY3",
+   "startAt": "2026-09-27T15:30:00+00:00",
+   "endAt": "2026-09-27T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9edec8ee-fef9-4d71-97aa-c4bb18855788",
    "game": "Caliber",
@@ -9575,13 +9543,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.88
+   "score": 14.87
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.98
+   "score": 20.97
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9593,31 +9561,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.84
+   "score": 20.83
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.88
+   "score": 14.87
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.88
+   "score": 14.87
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.88
+   "score": 14.87
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.65
+   "score": 1.64
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -9635,7 +9603,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.88
+   "score": 14.87
   }
  },
  "favoriteWeights": {
