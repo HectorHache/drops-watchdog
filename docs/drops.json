@@ -1794,38 +1794,6 @@
    "asset": "assets/c5138a92-e415-4ee4-bdd8-9d86b3881fb5.png"
   },
   {
-   "id": "8348ea15-3e95-4214-bd46-242ed3dea53c",
-   "game": "Rocket League",
-   "title": "RL Worlds Drop Rush",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T16:00:00+00:00",
-   "endAt": "2026-09-27T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T16:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27c83487-10a2-4aaa-b9bf-c96c83d23472.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8348ea15-3e95-4214-bd46-242ed3dea53c",
-   "rewards": [
-    {
-     "name": "Nemesis Car Body (Random Painted)",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical Nuke Goal Explosion (Random Painted)",
-     "minutes": 120
-    },
-    {
-     "name": "Viled Decal (Random Painted)",
-     "minutes": 180
-    },
-    {
-     "name": "Point Break Goal Explosion (Random Painted)",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/8348ea15-3e95-4214-bd46-242ed3dea53c.jpg"
-  },
-  {
    "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 4",
@@ -4340,9 +4308,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/5479e613-9eed-40df-8054-b2acbc8926ac.png"
+  },
+  {
+   "id": "ebfeefee-50cd-4c9d-90a8-c744e2e05b9f",
+   "game": "Halo Infinite",
+   "title": "Global GR Cup2 Day2-SEP27",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T16:00:00+00:00",
+   "endAt": "2026-09-28T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-27T16:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ae4c3908-198a-4883-b2d4-1b497e263cbf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ebfeefee-50cd-4c9d-90a8-c744e2e05b9f",
+   "rewards": [
+    {
+     "name": "Ninja Charm",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ebfeefee-50cd-4c9d-90a8-c744e2e05b9f.png"
   }
  ],
  "archive": [
+  {
+   "id": "8348ea15-3e95-4214-bd46-242ed3dea53c",
+   "game": "Rocket League",
+   "title": "RL Worlds Drop Rush",
+   "startAt": "2026-09-21T16:00:00+00:00",
+   "endAt": "2026-09-27T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d3ea4a78-df2c-4ac4-9958-842ea38579bf",
    "game": "Out of the Park Baseball 27",
@@ -9619,13 +9615,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.96
+   "score": 14.95
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.09
+   "score": 21.08
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9637,25 +9633,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.95
+   "score": 20.94
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.96
+   "score": 14.95
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.96
+   "score": 14.95
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.96
+   "score": 14.95
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9667,7 +9663,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.17
+   "score": 7.16
   },
   "Warframe": {
    "favorites": 1,
@@ -9679,7 +9675,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.96
+   "score": 14.95
   }
  },
  "favoriteWeights": {
