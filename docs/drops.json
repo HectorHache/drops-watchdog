@@ -4320,6 +4320,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ab4db377-8a49-41cc-9143-49b9a96a55a5.png"
+  },
+  {
+   "id": "5479e613-9eed-40df-8054-b2acbc8926ac",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Playoffs 2_DAY3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T15:30:00+00:00",
+   "endAt": "2026-09-27T21:00:59.999+00:00",
+   "firstSeenAt": "2026-09-27T15:30:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b66783c6-1821-499d-9114-03eb373596ea.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5479e613-9eed-40df-8054-b2acbc8926ac",
+   "rewards": [
+    {
+     "name": "PEC: Fall Playoffs 2 - PUBG Creed - Helmet (Level 2)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/5479e613-9eed-40df-8054-b2acbc8926ac.png"
   }
  ],
  "archive": [
@@ -9599,13 +9619,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.97
+   "score": 14.96
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.1
+   "score": 21.09
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9617,25 +9637,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.96
+   "score": 20.95
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.97
+   "score": 14.96
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.97
+   "score": 14.96
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.97
+   "score": 14.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9653,13 +9673,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.8
+   "score": 7.79
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.97
+   "score": 14.96
   }
  },
  "favoriteWeights": {
