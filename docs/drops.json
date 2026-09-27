@@ -3818,34 +3818,6 @@
    "asset": "assets/1be6af89-2240-4a1f-9eb8-b2328a9f47c6.png"
   },
   {
-   "id": "d1ae5aff-2312-46df-8ba4-eb481646f242",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0927]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T20:00:00+00:00",
-   "endAt": "2026-09-27T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-26T20:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/009541fe-a054-4b3a-92e4-604fd963df13.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1ae5aff-2312-46df-8ba4-eb481646f242",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d1ae5aff-2312-46df-8ba4-eb481646f242.png"
-  },
-  {
    "id": "ea80edc3-ab19-4bfa-8fa8-caafb996ea36",
    "game": "DOFUS Touch",
    "title": "J13 - 2x Temporix Cps",
@@ -4332,9 +4304,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/584271ae-1fa6-42df-8da8-d6b601d7fb96.png"
+  },
+  {
+   "id": "ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0928]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T20:00:00+00:00",
+   "endAt": "2026-09-28T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-27T20:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/214bee0d-fc64-462f-a9de-90c51840b8a4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e.png"
   }
  ],
  "archive": [
+  {
+   "id": "d1ae5aff-2312-46df-8ba4-eb481646f242",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0927]",
+   "startAt": "2026-09-26T20:00:00+00:00",
+   "endAt": "2026-09-27T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "763365d8-b1a3-45cf-a607-9aac29cde8ee",
    "game": "Rise Online",
@@ -9657,19 +9665,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.01
+   "score": 21.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.3
+   "score": 3.29
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.87
+   "score": 20.86
   },
   "Once Human": {
    "favorites": 2,
