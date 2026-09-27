@@ -3754,26 +3754,6 @@
    "asset": "assets/360efbd5-b609-459b-860b-c9e4eece2522.png"
   },
   {
-   "id": "3497580a-93c3-4981-aaa9-7695a97182e1",
-   "game": "Albion Online",
-   "title": "Dragonfire 4 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T10:00:00+00:00",
-   "endAt": "2026-09-27T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-26T10:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c72bb60-3800-4dfd-b7de-e309ca4e934a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3497580a-93c3-4981-aaa9-7695a97182e1",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3497580a-93c3-4981-aaa9-7695a97182e1.png"
-  },
-  {
    "id": "14e2c1b8-6730-4edf-b46f-92f6926d4565",
    "game": "Coryphaeus Championships",
    "title": "Summer Drops Fall",
@@ -4232,9 +4212,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/43f7ce57-7140-4e49-ba89-3b81a91f4304.png"
+  },
+  {
+   "id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
+   "game": "Storm Striker",
+   "title": "Storm Striker JP Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T07:32:54+00:00",
+   "endAt": "2026-09-30T16:59:59.999+00:00",
+   "firstSeenAt": "2026-09-27T09:30:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ebc4b323-22ef-4ad3-af27-93c1791c3d5f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
+   "rewards": [
+    {
+     "name": "1\u6642\u9593\u8996\u8074\u5831\u916c",
+     "minutes": 60
+    },
+    {
+     "name": "2\u6642\u9593\u8996\u8074\u5831\u916c",
+     "minutes": 120
+    },
+    {
+     "name": "4\u6642\u9593\u8996\u8074\u5831\u916c",
+     "minutes": 240
+    },
+    {
+     "name": "6\u6642\u9593\u8996\u8074\u5831\u916c",
+     "minutes": 360
+    },
+    {
+     "name": "30\u5206\u8996\u8074\u5831\u916c",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "3497580a-93c3-4981-aaa9-7695a97182e1",
+   "game": "Albion Online",
+   "title": "Dragonfire 4 - #6/7",
+   "startAt": "2026-09-26T10:00:00+00:00",
+   "endAt": "2026-09-27T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fe54b38b-c7d4-4199-9028-e27fad054d1e",
    "game": "Halo Infinite",
@@ -9477,7 +9501,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.23
+   "score": 21.22
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9489,7 +9513,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 21.08
+   "score": 21.07
   },
   "Once Human": {
    "favorites": 2,
