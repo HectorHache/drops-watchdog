@@ -4328,6 +4328,34 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ebfeefee-50cd-4c9d-90a8-c744e2e05b9f.png"
+  },
+  {
+   "id": "4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
+   "game": "Rocket League",
+   "title": "CRL League Play",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T16:30:00+00:00",
+   "endAt": "2026-09-27T21:29:59.999+00:00",
+   "firstSeenAt": "2026-09-27T16:30:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13e05d84-22dd-41df-ad06-0050e780147d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ef8dcaf-bcb1-4dbc-b904-bccbef424e07",
+   "rewards": [
+    {
+     "name": "RLCS Exotic Drop",
+     "minutes": 120
+    },
+    {
+     "name": "RLCS Very Rare Drop",
+     "minutes": 30
+    },
+    {
+     "name": "RLCS Import Drop",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4ef8dcaf-bcb1-4dbc-b904-bccbef424e07.png"
   }
  ],
  "archive": [
@@ -9621,19 +9649,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.08
+   "score": 21.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.31
+   "score": 3.3
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.94
+   "score": 20.93
   },
   "Once Human": {
    "favorites": 2,
