@@ -4284,6 +4284,26 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/4ef8dcaf-bcb1-4dbc-b904-bccbef424e07.png"
+  },
+  {
+   "id": "1909a584-68e5-4517-b806-d644aff28f71",
+   "game": "Kirka.io",
+   "title": "Detective X",
+   "status": "ACTIVE",
+   "startAt": "2026-09-27T17:12:11+00:00",
+   "endAt": "2026-10-04T23:29:59.999+00:00",
+   "firstSeenAt": "2026-09-27T17:30:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2dff2873-88c6-41df-a97b-859c0ff471be.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1909a584-68e5-4517-b806-d644aff28f71",
+   "rewards": [
+    {
+     "name": "Detective X",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1909a584-68e5-4517-b806-d644aff28f71.png"
   }
  ],
  "archive": [
@@ -9587,13 +9607,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 21.06
+   "score": 21.05
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9605,25 +9625,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.92
+   "score": 20.91
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9635,7 +9655,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.16
+   "score": 7.15
   },
   "Warframe": {
    "favorites": 1,
@@ -9647,7 +9667,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   }
  },
  "favoriteWeights": {
