@@ -3704,6 +3704,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/db4c54b1-2b97-416e-947e-eaf7b08d61e9.png"
+  },
+  {
+   "id": "f1355575-647b-48b6-8a25-a02e145a19bb",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T10:00:00+00:00",
+   "endAt": "2026-09-29T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-28T10:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a46b7471-0789-4a03-ac2d-db2beac34393.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f1355575-647b-48b6-8a25-a02e145a19bb",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f1355575-647b-48b6-8a25-a02e145a19bb.png"
+  },
+  {
+   "id": "60a14f16-7aa7-4be8-b659-91fae0ffe351",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T10:00:00+00:00",
+   "endAt": "2026-09-29T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-28T10:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b30483a-3c74-4014-8735-375118f67321.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60a14f16-7aa7-4be8-b659-91fae0ffe351",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/60a14f16-7aa7-4be8-b659-91fae0ffe351.png"
   }
  ],
  "archive": [
@@ -9261,7 +9301,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.73
+   "score": 20.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9273,7 +9313,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.59
+   "score": 20.58
   },
   "Once Human": {
    "favorites": 2,
@@ -9297,7 +9337,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.63
+   "score": 1.62
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
