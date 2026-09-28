@@ -3246,46 +3246,6 @@
    "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
   },
   {
-   "id": "43f7ce57-7140-4e49-ba89-3b81a91f4304",
-   "game": "Hunt Club On Stream",
-   "title": "Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T03:49:51+00:00",
-   "endAt": "2026-09-28T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-27T04:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/175b74ce-2efa-4441-a503-8e5b52caaa53.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=43f7ce57-7140-4e49-ba89-3b81a91f4304",
-   "rewards": [
-    {
-     "name": "Bronze",
-     "minutes": 60
-    },
-    {
-     "name": "Silver",
-     "minutes": 180
-    },
-    {
-     "name": "Gold",
-     "minutes": 360
-    },
-    {
-     "name": "Random",
-     "minutes": 660
-    },
-    {
-     "name": "Epic",
-     "minutes": 900
-    },
-    {
-     "name": "Subs",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/43f7ce57-7140-4e49-ba89-3b81a91f4304.png"
-  },
-  {
    "id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
    "game": "Storm Striker",
    "title": "Storm Striker JP Drops",
@@ -3744,9 +3704,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/60a14f16-7aa7-4be8-b659-91fae0ffe351.png"
+  },
+  {
+   "id": "464f7663-0555-4ca4-a5a5-2dc566fbf488",
+   "game": "EVE Online",
+   "title": "GM Week Drop 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T11:00:00+00:00",
+   "endAt": "2026-10-02T10:56:59.999+00:00",
+   "firstSeenAt": "2026-09-28T11:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb55e526-cbc1-41a6-8357-469c3dd15f24.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=464f7663-0555-4ca4-a5a5-2dc566fbf488",
+   "rewards": [
+    {
+     "name": "Vigil MET SKIN",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/464f7663-0555-4ca4-a5a5-2dc566fbf488.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "43f7ce57-7140-4e49-ba89-3b81a91f4304",
+   "game": "Hunt Club On Stream",
+   "title": "Drops",
+   "startAt": "2026-09-27T03:49:51+00:00",
+   "endAt": "2026-09-28T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "578f05a3-fb04-4f05-8b85-980e96232272",
    "game": "Albion Online",
@@ -9295,13 +9283,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.69
+   "score": 14.68
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.71
+   "score": 20.7
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9313,25 +9301,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.57
+   "score": 20.56
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.69
+   "score": 14.68
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.69
+   "score": 14.68
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.69
+   "score": 14.68
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9343,7 +9331,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.04
+   "score": 7.03
   },
   "Warframe": {
    "favorites": 1,
@@ -9355,7 +9343,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.69
+   "score": 14.68
   }
  },
  "favoriteWeights": {
