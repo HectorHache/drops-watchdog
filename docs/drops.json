@@ -1442,30 +1442,6 @@
    "asset": "assets/d13db74f-a56d-4985-af69-3bf01adde336.png"
   },
   {
-   "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | September Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T21:00:00+00:00",
-   "endAt": "2026-09-28T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T21:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eee13451-105d-46ad-a3f8-4dbf14afc956.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/acfe75f6-bbbe-41d5-a0b6-f42a4807845e.png"
-  },
-  {
    "id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b",
    "game": "Predecessor",
    "title": "Bloodtide Drops \ud83e\ude78",
@@ -3808,9 +3784,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/56034612-e5e0-479f-a917-86da9abbe67e.png"
+  },
+  {
+   "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | Oct Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T21:00:00+00:00",
+   "endAt": "2026-10-05T20:59:59.999+00:00",
+   "firstSeenAt": "2026-09-28T21:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcab03a6-2efd-4eea-9fa3-33fd73e8df94.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f707e9d2-0c99-499b-8f15-f835763e050a",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f707e9d2-0c99-499b-8f15-f835763e050a.png"
   }
  ],
  "archive": [
+  {
+   "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | September Week 4",
+   "startAt": "2026-09-21T21:00:00+00:00",
+   "endAt": "2026-09-28T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
    "game": "Eternal Return",
@@ -9447,13 +9451,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.51
+   "score": 20.5
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9465,25 +9469,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.37
+   "score": 20.36
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9507,7 +9511,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   }
  },
  "favoriteWeights": {
