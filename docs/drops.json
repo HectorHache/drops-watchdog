@@ -3206,34 +3206,6 @@
    "asset": "assets/1909a584-68e5-4517-b806-d644aff28f71.png"
   },
   {
-   "id": "ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
-   "game": "Eternal Return",
-   "title": "MID SEASON DROPS [0928]",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T20:00:00+00:00",
-   "endAt": "2026-09-28T19:59:59.999+00:00",
-   "firstSeenAt": "2026-09-27T20:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/214bee0d-fc64-462f-a9de-90c51840b8a4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e.png"
-  },
-  {
    "id": "72d6b4f9-5993-4da1-ae98-a99a8fd37ca0",
    "game": "DOFUS Touch",
    "title": "J14 - 2x Temporix Cps",
@@ -3626,54 +3598,6 @@
    "asset": "assets/0ddbdf36-f2b4-441c-ac49-597c5954c44d.png"
   },
   {
-   "id": "6f1b6bbe-5679-42b2-8ef9-6c86fa9369ce",
-   "game": "Standoff 2",
-   "title": "O2 JumbleRumble: S7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T13:45:00+00:00",
-   "endAt": "2026-09-28T19:54:59.999+00:00",
-   "firstSeenAt": "2026-09-28T14:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/16c12371-fbd3-47bb-ae35-17b8f7c6dd77.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6f1b6bbe-5679-42b2-8ef9-6c86fa9369ce",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_15",
-     "minutes": 60
-    },
-    {
-     "name": "reward_stream_crate_16",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_16",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_17",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_18",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_19",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_20",
-     "minutes": 360
-    },
-    {
-     "name": "reward_stream_crate_21",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6f1b6bbe-5679-42b2-8ef9-6c86fa9369ce.png"
-  },
-  {
    "id": "ff428749-e5df-43d4-9b00-db2b851f0153",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.9 #11",
@@ -3856,9 +3780,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/98214e9e-4536-4728-94b9-c2759a9d6889.png"
+  },
+  {
+   "id": "56034612-e5e0-479f-a917-86da9abbe67e",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0929]",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T20:00:00+00:00",
+   "endAt": "2026-09-29T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-28T20:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ac41ec7f-79c7-49e1-9577-573e08ec8ce0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56034612-e5e0-479f-a917-86da9abbe67e",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/56034612-e5e0-479f-a917-86da9abbe67e.png"
   }
  ],
  "archive": [
+  {
+   "id": "ec471e26-0fe3-4acd-a129-0e9ca7e8ea1e",
+   "game": "Eternal Return",
+   "title": "MID SEASON DROPS [0928]",
+   "startAt": "2026-09-27T20:00:00+00:00",
+   "endAt": "2026-09-28T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6f1b6bbe-5679-42b2-8ef9-6c86fa9369ce",
+   "game": "Standoff 2",
+   "title": "O2 JumbleRumble: S7",
+   "startAt": "2026-09-28T13:45:00+00:00",
+   "endAt": "2026-09-28T19:54:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "40f8e705-d3c7-4056-97f7-309947ccf271",
    "game": "Rise Online",
@@ -9485,7 +9453,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.53
+   "score": 20.52
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9497,7 +9465,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.39
+   "score": 20.38
   },
   "Once Human": {
    "favorites": 2,
@@ -9527,13 +9495,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.98
+   "score": 6.97
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.59
+   "score": 7.58
   },
   "Where Winds Meet": {
    "favorites": 2,
