@@ -3322,26 +3322,6 @@
    "asset": "assets/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpg"
   },
   {
-   "id": "578f05a3-fb04-4f05-8b85-980e96232272",
-   "game": "Albion Online",
-   "title": "Dragonfire 4 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T10:00:00+00:00",
-   "endAt": "2026-09-28T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-27T10:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/58056d56-4a47-4e18-911e-20d2b3d48791.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=578f05a3-fb04-4f05-8b85-980e96232272",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/578f05a3-fb04-4f05-8b85-980e96232272.png"
-  },
-  {
    "id": "7e7e33d4-1c88-425f-ac21-b3637046c69d",
    "game": "Black Desert",
    "title": "Donghwa's Gift (Sep 27)",
@@ -3727,6 +3707,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "578f05a3-fb04-4f05-8b85-980e96232272",
+   "game": "Albion Online",
+   "title": "Dragonfire 4 - #7/7",
+   "startAt": "2026-09-27T10:00:00+00:00",
+   "endAt": "2026-09-28T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7d105aa8-74af-4606-ae64-a1660768c6c2",
    "game": "Medivia Online",
@@ -9267,13 +9255,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.71
+   "score": 14.7
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.74
+   "score": 20.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9285,25 +9273,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.6
+   "score": 20.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.71
+   "score": 14.7
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.71
+   "score": 14.7
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.71
+   "score": 14.7
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9315,7 +9303,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.05
+   "score": 7.04
   },
   "Warframe": {
    "favorites": 1,
@@ -9327,7 +9315,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.71
+   "score": 14.7
   }
  },
  "favoriteWeights": {
