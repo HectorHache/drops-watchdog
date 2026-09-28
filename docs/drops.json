@@ -3282,26 +3282,6 @@
    "asset": "assets/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpg"
   },
   {
-   "id": "7e7e33d4-1c88-425f-ac21-b3637046c69d",
-   "game": "Black Desert",
-   "title": "Donghwa's Gift (Sep 27)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T12:00:00+00:00",
-   "endAt": "2026-09-28T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-27T12:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a34dcba-3e5f-47f3-86e3-2802e2708640.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7e7e33d4-1c88-425f-ac21-b3637046c69d",
-   "rewards": [
-    {
-     "name": "1 Hour (Sep 27)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/7e7e33d4-1c88-425f-ac21-b3637046c69d.png"
-  },
-  {
    "id": "ab4db377-8a49-41cc-9143-49b9a96a55a5",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/27/26",
@@ -3724,9 +3704,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/464f7663-0555-4ca4-a5a5-2dc566fbf488.jpg"
+  },
+  {
+   "id": "a5f641e2-affd-449d-91c9-2dadc41bb736",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 28)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T12:00:00+00:00",
+   "endAt": "2026-09-29T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-28T12:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eb1de263-f48e-42f2-a6f2-75414d5ceab4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a5f641e2-affd-449d-91c9-2dadc41bb736",
+   "rewards": [
+    {
+     "name": "1 Hour (Sep 28)",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a5f641e2-affd-449d-91c9-2dadc41bb736.png"
   }
  ],
  "archive": [
+  {
+   "id": "7e7e33d4-1c88-425f-ac21-b3637046c69d",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 27)",
+   "startAt": "2026-09-27T12:00:00+00:00",
+   "endAt": "2026-09-28T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "43f7ce57-7140-4e49-ba89-3b81a91f4304",
    "game": "Hunt Club On Stream",
@@ -9283,13 +9291,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.68
+   "score": 14.67
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.69
+   "score": 20.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9301,25 +9309,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.55
+   "score": 20.54
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.68
+   "score": 14.67
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.68
+   "score": 14.67
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.68
+   "score": 14.67
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9343,7 +9351,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.68
+   "score": 14.67
   }
  },
  "favoriteWeights": {
