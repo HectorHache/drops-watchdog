@@ -3796,6 +3796,38 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/aa05e383-ee2e-4af2-a204-bb5e405ae984.jpg"
+  },
+  {
+   "id": "08a9a458-d4a9-47c2-9b84-e8ddce98f654",
+   "game": "Heroes of the Storm",
+   "title": "Xal'atath Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T16:00:00+00:00",
+   "endAt": "2026-10-05T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-28T16:00:38+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a26958c-5774-4545-bd8f-8d35b00a527f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=08a9a458-d4a9-47c2-9b84-e8ddce98f654",
+   "rewards": [
+    {
+     "name": "1 Hour Drop",
+     "minutes": 60
+    },
+    {
+     "name": "2 Hour Drop",
+     "minutes": 120
+    },
+    {
+     "name": "4 Hour Drop",
+     "minutes": 240
+    },
+    {
+     "name": "8 Hour Drop",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/08a9a458-d4a9-47c2-9b84-e8ddce98f654.png"
   }
  ],
  "archive": [
@@ -9403,13 +9435,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.62
+   "score": 14.61
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.61
+   "score": 20.6
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9421,25 +9453,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.47
+   "score": 20.46
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.62
+   "score": 14.61
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.62
+   "score": 14.61
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.62
+   "score": 14.61
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9457,13 +9489,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.62
+   "score": 7.61
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.62
+   "score": 14.61
   }
  },
  "favoriteWeights": {
