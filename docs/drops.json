@@ -1462,82 +1462,6 @@
    "asset": "assets/d13db74f-a56d-4985-af69-3bf01adde336.png"
   },
   {
-   "id": "c8fc5817-6e94-4e59-8e46-a4e66bb45436",
-   "game": "Out of the Park Baseball 27",
-   "title": "Laptophound 20",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T13:00:00+00:00",
-   "endAt": "2026-09-28T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T14:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2357b04b-7011-48ac-9003-eef28345ae4e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c8fc5817-6e94-4e59-8e46-a4e66bb45436",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 120
-    },
-    {
-     "name": "2",
-     "minutes": 240
-    },
-    {
-     "name": "3",
-     "minutes": 360
-    },
-    {
-     "name": "4",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c8fc5817-6e94-4e59-8e46-a4e66bb45436.png"
-  },
-  {
-   "id": "68900705-0b38-4644-87b5-4a6c6fb00639",
-   "game": "Out of the Park Baseball 27",
-   "title": "Official 20",
-   "status": "ACTIVE",
-   "startAt": "2026-09-21T13:00:00+00:00",
-   "endAt": "2026-09-28T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-21T14:30:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b5401260-36ae-44d9-90ef-e2958f72d627.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=68900705-0b38-4644-87b5-4a6c6fb00639",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 90
-    },
-    {
-     "name": "2",
-     "minutes": 180
-    },
-    {
-     "name": "3",
-     "minutes": 270
-    },
-    {
-     "name": "4",
-     "minutes": 360
-    },
-    {
-     "name": "5",
-     "minutes": 450
-    },
-    {
-     "name": "6",
-     "minutes": 540
-    },
-    {
-     "name": "7",
-     "minutes": 630
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/68900705-0b38-4644-87b5-4a6c6fb00639.png"
-  },
-  {
    "id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e",
    "game": "MARVEL Strike Force",
    "title": "MSF | September Week 4",
@@ -3282,42 +3206,6 @@
    "asset": "assets/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpg"
   },
   {
-   "id": "ab4db377-8a49-41cc-9143-49b9a96a55a5",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/27/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T13:00:00+00:00",
-   "endAt": "2026-09-28T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-27T13:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d1b7bc91-f848-4c74-9979-87c1c9ec1f07.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab4db377-8a49-41cc-9143-49b9a96a55a5",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ab4db377-8a49-41cc-9143-49b9a96a55a5.png"
-  },
-  {
    "id": "1909a584-68e5-4517-b806-d644aff28f71",
    "game": "Kirka.io",
    "title": "Detective X",
@@ -3522,46 +3410,6 @@
    "asset": "assets/209f7db3-5ccd-40b5-bee1-f92328b849d5.png"
   },
   {
-   "id": "4ba0f42b-97f9-4a23-a04a-d78101103740",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Free Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T01:00:00+00:00",
-   "endAt": "2026-09-28T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T01:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6aa3d7df-d8b6-40fc-b5e3-7e11ed5028a3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ba0f42b-97f9-4a23-a04a-d78101103740",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4ba0f42b-97f9-4a23-a04a-d78101103740.png"
-  },
-  {
    "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
    "game": "Honkai: Star Rail",
    "title": "V4.6 Honkai: Star Rail",
@@ -3724,9 +3572,77 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/a5f641e2-affd-449d-91c9-2dadc41bb736.png"
+  },
+  {
+   "id": "d14c83c2-c459-48c8-8cc0-76447f84424c",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/28/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-28T13:00:00+00:00",
+   "endAt": "2026-09-29T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-28T13:00:18+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e4a0d3b-ba37-430b-8d3e-6d5f4c1675b1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d14c83c2-c459-48c8-8cc0-76447f84424c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d14c83c2-c459-48c8-8cc0-76447f84424c.png"
   }
  ],
  "archive": [
+  {
+   "id": "c8fc5817-6e94-4e59-8e46-a4e66bb45436",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 20",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "68900705-0b38-4644-87b5-4a6c6fb00639",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 20",
+   "startAt": "2026-09-21T13:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ab4db377-8a49-41cc-9143-49b9a96a55a5",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/27/26",
+   "startAt": "2026-09-27T13:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4ba0f42b-97f9-4a23-a04a-d78101103740",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Free Weekend",
+   "startAt": "2026-09-28T01:00:00+00:00",
+   "endAt": "2026-09-28T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7e7e33d4-1c88-425f-ac21-b3637046c69d",
    "game": "Black Desert",
@@ -9291,13 +9207,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.66
+   "score": 14.65
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.67
+   "score": 20.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9309,25 +9225,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.53
+   "score": 20.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.66
+   "score": 14.65
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.66
+   "score": 14.65
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.66
+   "score": 14.65
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9345,13 +9261,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.64
+   "score": 7.63
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.66
+   "score": 14.65
   }
  },
  "favoriteWeights": {
