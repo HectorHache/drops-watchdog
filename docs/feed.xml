@@ -180,13 +180,6 @@
     <pubDate>2026-09-15T12:30:00+00:00</pubDate>
   </item>
   <item>
-    <title>Rocket League — RL Worlds Sub Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=75359535-d3c0-4c73-8c3d-38ce6ea623b8</link>
-    <guid isPermaLink="false">75359535-d3c0-4c73-8c3d-38ce6ea623b8</guid>
-    <description>Torque TX: Inverted Wheels (Crimson) — runs 2026-09-15T16:00:00+00:00 → 2026-09-29T15:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-15T16:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Aniimo — Aniimo Global Launch</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=75c84956-e49d-417f-a8c4-aae97d724d7a</link>
     <guid isPermaLink="false">75c84956-e49d-417f-a8c4-aae97d724d7a</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">69e7d15e-b1e0-40d8-9c4b-a71446896005</guid>
     <description>D&amp;D Ampersand Badge — runs 2026-09-24T01:15:00+00:00 → 2026-10-21T06:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T01:15:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Infinity Nikki — V2.10 Infinity Nikki</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=65f8f2a5-074c-48ca-8505-f525bb8d75f5</link>
+    <guid isPermaLink="false">65f8f2a5-074c-48ca-8505-f525bb8d75f5</guid>
+    <description>Diamond×10 · Diamond×20 · Bling×20,000 · Thread of Purity×100 · Shining Particle×100 · Shiny Bubbles x100 — runs 2026-09-24T03:00:00+00:00 → 2026-10-22T01:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T03:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
