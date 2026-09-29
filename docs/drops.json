@@ -1402,34 +1402,6 @@
    "asset": "assets/84f27bd4-9c9f-4a03-acc5-096b84081db8.png"
   },
   {
-   "id": "4d5ba927-9c9e-4a89-bd69-8843467878f3",
-   "game": "World of Tanks Console",
-   "title": "Master of Mayhem Week 9",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T15:00:00+00:00",
-   "endAt": "2026-09-29T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T15:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98a690ae-f447-406f-afbc-05c5474b11de.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d5ba927-9c9e-4a89-bd69-8843467878f3",
-   "rewards": [
-    {
-     "name": "10 Enhanced Med Kits",
-     "minutes": 120
-    },
-    {
-     "name": "4 x3 Vehicle XP Boosters",
-     "minutes": 240
-    },
-    {
-     "name": "Camo Voucher",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4d5ba927-9c9e-4a89-bd69-8843467878f3.png"
-  },
-  {
    "id": "f59a4880-7181-4c58-9aff-1d5e9644af7a",
    "game": "Ravendawn",
    "title": "September 04",
@@ -2798,34 +2770,6 @@
    "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
   },
   {
-   "id": "f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
-   "game": "World of Tanks Console",
-   "title": "Mayhem Weekend 9",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T16:00:00+00:00",
-   "endAt": "2026-09-29T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T16:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/631a3f58-3286-4f07-8f30-9f9a83fae97f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
-   "rewards": [
-    {
-     "name": "Camo Voucher",
-     "minutes": 240
-    },
-    {
-     "name": "Modern Armor Blobs Camo",
-     "minutes": 480
-    },
-    {
-     "name": "5 x1.25 Silver Boosters",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f713cf7d-a45b-45ef-aac9-d404b4f21f6f.png"
-  },
-  {
    "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 4 - CCP",
@@ -3667,6 +3611,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "4d5ba927-9c9e-4a89-bd69-8843467878f3",
+   "game": "World of Tanks Console",
+   "title": "Master of Mayhem Week 9",
+   "startAt": "2026-09-22T15:00:00+00:00",
+   "endAt": "2026-09-29T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f713cf7d-a45b-45ef-aac9-d404b4f21f6f",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 9",
+   "startAt": "2026-09-25T16:00:00+00:00",
+   "endAt": "2026-09-29T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a3f7a56a-f943-46d2-a780-3700684883f1",
    "game": "ELDEN RING",
@@ -9375,13 +9335,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.38
+   "score": 14.37
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.28
+   "score": 20.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9393,25 +9353,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.14
+   "score": 20.13
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.38
+   "score": 14.37
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.38
+   "score": 14.37
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.38
+   "score": 14.37
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9435,7 +9395,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.38
+   "score": 14.37
   }
  },
  "favoriteWeights": {
