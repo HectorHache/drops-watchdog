@@ -3074,26 +3074,6 @@
    "asset": "assets/464f7663-0555-4ca4-a5a5-2dc566fbf488.jpg"
   },
   {
-   "id": "a5f641e2-affd-449d-91c9-2dadc41bb736",
-   "game": "Black Desert",
-   "title": "Donghwa's Gift (Sep 28)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T12:00:00+00:00",
-   "endAt": "2026-09-29T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T12:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eb1de263-f48e-42f2-a6f2-75414d5ceab4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a5f641e2-affd-449d-91c9-2dadc41bb736",
-   "rewards": [
-    {
-     "name": "1 Hour (Sep 28)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a5f641e2-affd-449d-91c9-2dadc41bb736.png"
-  },
-  {
    "id": "d14c83c2-c459-48c8-8cc0-76447f84424c",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/28/26",
@@ -3680,9 +3660,61 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png"
+  },
+  {
+   "id": "a8709daa-2057-4499-a928-16fbab9a4009",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 29)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T12:00:00+00:00",
+   "endAt": "2026-09-30T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T12:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf2d4b69-d909-4918-9a6d-222b816ccec3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8709daa-2057-4499-a928-16fbab9a4009",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 29)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a8709daa-2057-4499-a928-16fbab9a4009.png"
+  },
+  {
+   "id": "42dc35f9-da23-4eaf-8a19-8f1838d58168",
+   "game": "Warhammer 40,000: Darktide",
+   "title": "Depths of the Damned Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T12:00:00+00:00",
+   "endAt": "2026-10-13T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T12:01:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13287687-5484-4d78-833a-6008a48f0357.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=42dc35f9-da23-4eaf-8a19-8f1838d58168",
+   "rewards": [
+    {
+     "name": "PoT Combat Shotgun",
+     "minutes": 30
+    },
+    {
+     "name": "PoT Maul & Shield",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
   }
  ],
  "archive": [
+  {
+   "id": "a5f641e2-affd-449d-91c9-2dadc41bb736",
+   "game": "Black Desert",
+   "title": "Donghwa's Gift (Sep 28)",
+   "startAt": "2026-09-28T12:00:00+00:00",
+   "endAt": "2026-09-29T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
    "game": "World of Tanks",
@@ -9455,13 +9487,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.34
+   "score": 14.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.22
+   "score": 20.21
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9473,31 +9505,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.08
+   "score": 20.07
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.34
+   "score": 14.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.34
+   "score": 14.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.34
+   "score": 14.33
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.59
+   "score": 1.58
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -9515,7 +9547,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.34
+   "score": 14.33
   }
  },
  "favoriteWeights": {
