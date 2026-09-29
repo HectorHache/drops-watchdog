@@ -310,230 +310,6 @@
    "asset": "assets/de253dac-3f0e-4a55-8daf-432da97ef8da.png"
   },
   {
-   "id": "0ea81c31-1547-485f-83c2-f93656dfa0fd",
-   "game": "Night Crows",
-   "title": "NC DROPS_SSS (26_SEP)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T09:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T09:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f87a34f3-8ad2-4e2b-9c35-2c87c2e26bed.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ea81c31-1547-485f-83c2-f93656dfa0fd",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 60
-    },
-    {
-     "name": "4",
-     "minutes": 180
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 420
-    },
-    {
-     "name": "7",
-     "minutes": 540
-    },
-    {
-     "name": "8",
-     "minutes": 660
-    },
-    {
-     "name": "9",
-     "minutes": 780
-    },
-    {
-     "name": "10",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpg"
-  },
-  {
-   "id": "e813f285-2992-4e0e-9b75-c20c2ec539a4",
-   "game": "Night Crows",
-   "title": "NC DROPS ALL (26_SEP)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T09:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T09:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0df8a958-847c-4c97-8403-8f06b992f561.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e813f285-2992-4e0e-9b75-c20c2ec539a4",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 60
-    },
-    {
-     "name": "4",
-     "minutes": 180
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 420
-    },
-    {
-     "name": "7",
-     "minutes": 540
-    },
-    {
-     "name": "8",
-     "minutes": 660
-    },
-    {
-     "name": "9",
-     "minutes": 780
-    },
-    {
-     "name": "10",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpg"
-  },
-  {
-   "id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765",
-   "game": "Legend of YMIR",
-   "title": "LOY DROPS_ALL (26_SEP)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T09:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T09:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61a01cc7-9ba3-40a7-afe0-7e8d8ab91250.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1c6330d1-3e5c-48a9-a07f-ee1058fe9765",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 60
-    },
-    {
-     "name": "4",
-     "minutes": 180
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 420
-    },
-    {
-     "name": "7",
-     "minutes": 540
-    },
-    {
-     "name": "8",
-     "minutes": 660
-    },
-    {
-     "name": "9",
-     "minutes": 780
-    },
-    {
-     "name": "10",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpg"
-  },
-  {
-   "id": "771ba310-56c6-4a12-94d2-a9deeca752e1",
-   "game": "Legend of YMIR",
-   "title": "LOY DROPS_SSS (26_SEP)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T09:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T09:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f91e7633-d502-425a-9bc9-bbd6b5aabb09.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=771ba310-56c6-4a12-94d2-a9deeca752e1",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 60
-    },
-    {
-     "name": "4",
-     "minutes": 180
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    },
-    {
-     "name": "6",
-     "minutes": 420
-    },
-    {
-     "name": "7",
-     "minutes": 540
-    },
-    {
-     "name": "8",
-     "minutes": 660
-    },
-    {
-     "name": "9",
-     "minutes": 780
-    },
-    {
-     "name": "10",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/771ba310-56c6-4a12-94d2-a9deeca752e1.jpg"
-  },
-  {
    "id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
    "game": "Grand Theft Auto V",
    "title": "nopixel V",
@@ -1402,46 +1178,6 @@
    "asset": "assets/84f27bd4-9c9f-4a03-acc5-096b84081db8.png"
   },
   {
-   "id": "f59a4880-7181-4c58-9aff-1d5e9644af7a",
-   "game": "Ravendawn",
-   "title": "September 04",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T15:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T15:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7f0e5941-9543-4d08-a617-74fc8b5c1fdd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f59a4880-7181-4c58-9aff-1d5e9644af7a",
-   "rewards": [
-    {
-     "name": "2x RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 360
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 540
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 720
-    },
-    {
-     "name": "100x Ghostly Infusion",
-     "minutes": 900
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f59a4880-7181-4c58-9aff-1d5e9644af7a.png"
-  },
-  {
    "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
    "game": "Relic Arena",
    "title": "Solo Queue Challenge",
@@ -1612,26 +1348,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
-  },
-  {
-   "id": "bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87",
-   "game": "World of Tanks",
-   "title": "Waffentr\u00e4ger: Genesis #3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T15:00:00+00:00",
-   "endAt": "2026-09-29T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T15:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/156a05ec-0111-48a3-a516-f0d076bf669c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87.jpg"
   },
   {
    "id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
@@ -3704,9 +3420,161 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f12f19ea-9f9d-413c-973b-431b98e368ae.png"
+  },
+  {
+   "id": "530846e9-a394-486c-9aa9-172c6efaa11b",
+   "game": "DOFUS Touch",
+   "title": "J15 - 3x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-09-29T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T15:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72b09f26-5e7d-4f7f-b0e7-95a497d087c5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=530846e9-a394-486c-9aa9-172c6efaa11b",
+   "rewards": [
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/530846e9-a394-486c-9aa9-172c6efaa11b.png"
+  },
+  {
+   "id": "ba1eac35-c604-4017-8d0b-50873fc00bae",
+   "game": "World of Tanks Console",
+   "title": "Master of Mayhem Week 10",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-10-06T08:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T15:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be9bbbb9-8ac8-4da7-9f88-ccd40abe202a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba1eac35-c604-4017-8d0b-50873fc00bae",
+   "rewards": [
+    {
+     "name": "10 Enhanced Med Kits",
+     "minutes": 120
+    },
+    {
+     "name": "4 x3 Vehicle XP Boosters",
+     "minutes": 240
+    },
+    {
+     "name": "2 x6 Commander XP Boosters",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ba1eac35-c604-4017-8d0b-50873fc00bae.png"
+  },
+  {
+   "id": "99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
+   "game": "Ravendawn",
+   "title": "September 05",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T15:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c90fe90e-0571-4c0e-a94f-e33a72e87c57.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
+   "rewards": [
+    {
+     "name": "2x RavenPacks",
+     "minutes": 60
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 360
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 540
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 720
+    },
+    {
+     "name": "100x Ghostly Infusion",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/99da4f31-56d8-4460-b8ce-b4cc8f9d669f.png"
   }
  ],
  "archive": [
+  {
+   "id": "0ea81c31-1547-485f-83c2-f93656dfa0fd",
+   "game": "Night Crows",
+   "title": "NC DROPS_SSS (26_SEP)",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e813f285-2992-4e0e-9b75-c20c2ec539a4",
+   "game": "Night Crows",
+   "title": "NC DROPS ALL (26_SEP)",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_ALL (26_SEP)",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "771ba310-56c6-4a12-94d2-a9deeca752e1",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_SSS (26_SEP)",
+   "startAt": "2026-09-08T09:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f59a4880-7181-4c58-9aff-1d5e9644af7a",
+   "game": "Ravendawn",
+   "title": "September 04",
+   "startAt": "2026-09-22T15:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bf3d6b0d-4a5c-443b-bf63-f6ee5bc71a87",
+   "game": "World of Tanks",
+   "title": "Waffentr\u00e4ger: Genesis #3",
+   "startAt": "2026-09-23T15:00:00+00:00",
+   "endAt": "2026-09-29T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d14c83c2-c459-48c8-8cc0-76447f84424c",
    "game": "Out of the Park Baseball 27",
@@ -9495,13 +9363,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.16
+   "score": 20.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9513,25 +9381,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.02
+   "score": 20.01
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9549,13 +9417,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.45
+   "score": 7.44
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   }
  },
  "favoriteWeights": {
