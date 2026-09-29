@@ -3294,42 +3294,6 @@
    "asset": "assets/f12f19ea-9f9d-413c-973b-431b98e368ae.png"
   },
   {
-   "id": "530846e9-a394-486c-9aa9-172c6efaa11b",
-   "game": "DOFUS Touch",
-   "title": "J15 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T15:00:00+00:00",
-   "endAt": "2026-09-29T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T15:01:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72b09f26-5e7d-4f7f-b0e7-95a497d087c5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=530846e9-a394-486c-9aa9-172c6efaa11b",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/530846e9-a394-486c-9aa9-172c6efaa11b.png"
-  },
-  {
    "id": "ba1eac35-c604-4017-8d0b-50873fc00bae",
    "game": "World of Tanks Console",
    "title": "Master of Mayhem Week 10",
@@ -3552,9 +3516,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ff2ca865-8f69-4a88-863b-a6e35dde33d7.png"
+  },
+  {
+   "id": "1aa2a1cb-8745-4121-bc83-04de64552d08",
+   "game": "Halo Infinite",
+   "title": "GR Charity Stream-SEP29",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T22:00:00+00:00",
+   "endAt": "2026-09-30T05:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T22:00:24+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/609d5024-a675-44c0-9f56-bba09880371d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1aa2a1cb-8745-4121-bc83-04de64552d08",
+   "rewards": [
+    {
+     "name": "Resonant Element Armor Coating",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/1aa2a1cb-8745-4121-bc83-04de64552d08.png"
+  },
+  {
+   "id": "88a95cd1-65ac-452a-b821-32293f2406af",
+   "game": "DOFUS Touch",
+   "title": "J16 - 3x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T22:00:00+00:00",
+   "endAt": "2026-09-30T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T22:00:24+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/983bda23-7c7d-4310-9e7c-1e0f8c42425d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=88a95cd1-65ac-452a-b821-32293f2406af",
+   "rewards": [
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/88a95cd1-65ac-452a-b821-32293f2406af.png"
   }
  ],
  "archive": [
+  {
+   "id": "530846e9-a394-486c-9aa9-172c6efaa11b",
+   "game": "DOFUS Touch",
+   "title": "J15 - 3x Temporix Cps",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-09-29T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "56034612-e5e0-479f-a917-86da9abbe67e",
    "game": "Eternal Return",
@@ -9453,7 +9481,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.03
+   "score": 20.02
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9465,7 +9493,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.89
+   "score": 19.88
   },
   "Once Human": {
    "favorites": 2,
