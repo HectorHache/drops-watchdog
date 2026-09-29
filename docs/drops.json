@@ -3042,42 +3042,6 @@
    "asset": "assets/5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1.png"
   },
   {
-   "id": "de3fff01-85d0-4aa7-a7d5-1bbb52458936",
-   "game": "Predecessor",
-   "title": "Grizzzly's Sub Drops!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T10:00:00+00:00",
-   "endAt": "2026-09-29T22:29:59.999+00:00",
-   "firstSeenAt": "2026-09-29T10:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a351293a-ae7a-436f-a25d-e44254324e93.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de3fff01-85d0-4aa7-a7d5-1bbb52458936",
-   "rewards": [
-    {
-     "name": "Ion Core 2",
-     "minutes": 0
-    },
-    {
-     "name": "Ion Core 3",
-     "minutes": 0
-    },
-    {
-     "name": "Ion Core 4",
-     "minutes": 0
-    },
-    {
-     "name": "Quantum Core",
-     "minutes": 0
-    },
-    {
-     "name": "Ion Core 1",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/de3fff01-85d0-4aa7-a7d5-1bbb52458936.png"
-  },
-  {
    "id": "6824f425-66de-4313-bdf7-b4dee9b90b29",
    "game": "Albion Online",
    "title": "AOCP Flamescale 4 - #2/7",
@@ -3575,6 +3539,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "de3fff01-85d0-4aa7-a7d5-1bbb52458936",
+   "game": "Predecessor",
+   "title": "Grizzzly's Sub Drops!",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-29T22:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "530846e9-a394-486c-9aa9-172c6efaa11b",
    "game": "DOFUS Touch",
@@ -9475,13 +9447,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.02
+   "score": 20.01
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9493,25 +9465,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.88
+   "score": 19.87
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9529,13 +9501,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.4
+   "score": 7.39
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   }
  },
  "favoriteWeights": {
