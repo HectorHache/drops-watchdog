@@ -3532,6 +3532,26 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/84d02589-5095-4c35-9f00-41a04c7675c3.png"
+  },
+  {
+   "id": "39067c53-2efb-4dcf-be67-223ef58c114f",
+   "game": "Neighbors: Suburban Warfare",
+   "title": "Neighbors 1.0 Release",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T19:00:00+00:00",
+   "endAt": "2026-10-04T18:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T19:00:31+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c70d59f9-e55a-45d0-af1c-f40239a33620.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=39067c53-2efb-4dcf-be67-223ef58c114f",
+   "rewards": [
+    {
+     "name": "Modern TV set",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/39067c53-2efb-4dcf-be67-223ef58c114f.png"
   }
  ],
  "archive": [
@@ -9425,7 +9445,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.08
+   "score": 20.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9437,7 +9457,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.95
+   "score": 19.94
   },
   "Once Human": {
    "favorites": 2,
