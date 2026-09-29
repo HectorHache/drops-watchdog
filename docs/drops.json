@@ -2598,86 +2598,6 @@
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   },
   {
-   "id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
-   "game": "World of Tanks",
-   "title": "Agent Skill4ltu",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-09-29T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3113e66e-b2c5-4928-bebe-2c5ded311232.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5.png"
-  },
-  {
-   "id": "d089b7f1-9eb4-4183-bcae-7f431f72ac36",
-   "game": "World of Tanks",
-   "title": "Agent QuickyBaby",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-09-29T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6712d035-5148-49e9-8c3a-4934b5f79b2f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d089b7f1-9eb4-4183-bcae-7f431f72ac36",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d089b7f1-9eb4-4183-bcae-7f431f72ac36.png"
-  },
-  {
-   "id": "941634b1-68a3-4355-a34b-fa0a1e4a2582",
-   "game": "World of Tanks",
-   "title": "Agent MouzAkrobat",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-09-29T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/81d25214-a2b9-4ade-9c28-e344ad53ba56.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=941634b1-68a3-4355-a34b-fa0a1e4a2582",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/941634b1-68a3-4355-a34b-fa0a1e4a2582.png"
-  },
-  {
-   "id": "ab004798-f388-43de-a9d1-4414ccfe3984",
-   "game": "World of Tanks",
-   "title": "Agent Dakillzor",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-09-29T09:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e79dab3d-1599-4e82-9de7-11b1b51f3cc4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab004798-f388-43de-a9d1-4414ccfe3984",
-   "rewards": [
-    {
-     "name": "Drop",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ab004798-f388-43de-a9d1-4414ccfe3984.png"
-  },
-  {
    "id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
    "game": "Mir Korabley",
    "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 4",
@@ -3588,9 +3508,213 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1.png"
+  },
+  {
+   "id": "de3fff01-85d0-4aa7-a7d5-1bbb52458936",
+   "game": "Predecessor",
+   "title": "Grizzzly's Sub Drops!",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-29T22:29:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a351293a-ae7a-436f-a25d-e44254324e93.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de3fff01-85d0-4aa7-a7d5-1bbb52458936",
+   "rewards": [
+    {
+     "name": "Ion Core 2",
+     "minutes": 0
+    },
+    {
+     "name": "Ion Core 3",
+     "minutes": 0
+    },
+    {
+     "name": "Ion Core 4",
+     "minutes": 0
+    },
+    {
+     "name": "Quantum Core",
+     "minutes": 0
+    },
+    {
+     "name": "Ion Core 1",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/de3fff01-85d0-4aa7-a7d5-1bbb52458936.png"
+  },
+  {
+   "id": "6824f425-66de-4313-bdf7-b4dee9b90b29",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-30T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2dda858-7b00-4ed5-9ec6-8c170256cef7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6824f425-66de-4313-bdf7-b4dee9b90b29",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6824f425-66de-4313-bdf7-b4dee9b90b29.png"
+  },
+  {
+   "id": "c353737c-c0ee-4b43-9fdd-4b75b1656bb0",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-30T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94f27b5e-c147-4620-a10c-f5167db62538.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c353737c-c0ee-4b43-9fdd-4b75b1656bb0",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c353737c-c0ee-4b43-9fdd-4b75b1656bb0.png"
+  },
+  {
+   "id": "c7b62569-3b75-4f72-9700-957479fe3460",
+   "game": "The Witcher 3: Wild Hunt",
+   "title": "The Witcher 3 Remaster",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-10-27T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13a9cacc-0e5c-4827-a51d-b0fe1b9aaf29.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c7b62569-3b75-4f72-9700-957479fe3460",
+   "rewards": [
+    {
+     "name": "Wolf Medallion",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c7b62569-3b75-4f72-9700-957479fe3460.png"
+  },
+  {
+   "id": "5ccd33aa-a869-4de4-aca7-44775bf07823",
+   "game": "The Witcher 3: Wild Hunt",
+   "title": "Remastered Release",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-10-27T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6ec1ecee-7ceb-4ed7-b07b-ab4872a68c36.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5ccd33aa-a869-4de4-aca7-44775bf07823",
+   "rewards": [
+    {
+     "name": "Fire Horse saddlebags",
+     "minutes": 30
+    },
+    {
+     "name": "Fire Horse blinders",
+     "minutes": 60
+    },
+    {
+     "name": "Fire Horse saddle",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/5ccd33aa-a869-4de4-aca7-44775bf07823.jpg"
+  },
+  {
+   "id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e",
+   "game": "The Witcher 3: Wild Hunt Remastered",
+   "title": "Remastered Release",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-10-27T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3c527e47-b974-446f-8fe9-8d4838a73d2f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef300faa-a1ad-4bff-b55d-bb1c7500b26e",
+   "rewards": [
+    {
+     "name": "Fire Horse blinders",
+     "minutes": 60
+    },
+    {
+     "name": "Fire Horse saddle",
+     "minutes": 90
+    },
+    {
+     "name": "Fire Horse saddlebags",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ef300faa-a1ad-4bff-b55d-bb1c7500b26e.jpg"
+  },
+  {
+   "id": "4f180222-4cce-4ebf-bbab-d2e3ff19aee3",
+   "game": "The Witcher 3: Wild Hunt Remastered",
+   "title": "Witcher 3 Remaster",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-10-27T09:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T10:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/301e1e88-f640-417a-9232-14348753b08b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4f180222-4cce-4ebf-bbab-d2e3ff19aee3",
+   "rewards": [
+    {
+     "name": "Wolf Medallion",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png"
   }
  ],
  "archive": [
+  {
+   "id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5",
+   "game": "World of Tanks",
+   "title": "Agent Skill4ltu",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d089b7f1-9eb4-4183-bcae-7f431f72ac36",
+   "game": "World of Tanks",
+   "title": "Agent QuickyBaby",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "941634b1-68a3-4355-a34b-fa0a1e4a2582",
+   "game": "World of Tanks",
+   "title": "Agent MouzAkrobat",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ab004798-f388-43de-a9d1-4414ccfe3984",
+   "game": "World of Tanks",
+   "title": "Agent Dakillzor",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-09-29T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f1355575-647b-48b6-8a25-a02e145a19bb",
    "game": "Albion Online",
@@ -9331,13 +9455,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.26
+   "score": 20.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9349,25 +9473,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.12
+   "score": 20.11
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9391,7 +9515,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   }
  },
  "favoriteWeights": {
