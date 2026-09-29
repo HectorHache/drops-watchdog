@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>ELDEN RING — Sorcerer Rogier </title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=a3f7a56a-f943-46d2-a780-3700684883f1</link>
-    <guid isPermaLink="false">a3f7a56a-f943-46d2-a780-3700684883f1</guid>
-    <description>Sorcerer Rogier — runs 2026-09-01T07:00:00+00:00 → 2026-09-29T06:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-01T07:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Special Events — Ironmouse Subathon 2026</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=4185d21c-7dd1-41f8-9e8f-4f52c7b27622</link>
     <guid isPermaLink="false">4185d21c-7dd1-41f8-9e8f-4f52c7b27622</guid>
@@ -124,13 +117,6 @@
     <pubDate>2026-09-08T09:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Solasta II — Solasta II Game Launch</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=72c07412-ffee-4c3d-b46d-ded8c8626aab</link>
-    <guid isPermaLink="false">72c07412-ffee-4c3d-b46d-ded8c8626aab</guid>
-    <description>Solasta 2 Multiplayer — runs 2026-09-08T10:30:52+00:00 → 2026-09-29T06:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-08T10:30:52+00:00</pubDate>
-  </item>
-  <item>
     <title>Grand Theft Auto V — nopixel V</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c</link>
     <guid isPermaLink="false">4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c</guid>
@@ -227,13 +213,6 @@
     <guid isPermaLink="false">75359535-d3c0-4c73-8c3d-38ce6ea623b8</guid>
     <description>Torque TX: Inverted Wheels (Crimson) — runs 2026-09-15T16:00:00+00:00 → 2026-09-29T15:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-15T16:00:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Diablo IV — S15 Launch Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=bee9dbba-cc7e-42d8-9bfa-ef40a5073342</link>
-    <guid isPermaLink="false">bee9dbba-cc7e-42d8-9bfa-ef40a5073342</guid>
-    <description>Deforestation — runs 2026-09-15T18:00:00+00:00 → 2026-09-29T06:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-15T18:00:00+00:00</pubDate>
   </item>
   <item>
     <title>Aniimo — Aniimo Global Launch</title>
@@ -353,6 +332,27 @@
     <guid isPermaLink="false">1445f6b3-c20d-4a8a-bfc1-7af87d697e9c</guid>
     <description>1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint · 1000 Glint — runs 2026-09-22T17:00:00+00:00 → 2026-10-06T16:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-22T17:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Genshin Impact — V7.1 Genshin Impact Drops</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=728141da-5f87-49de-8afd-7fa0be33545f</link>
+    <guid isPermaLink="false">728141da-5f87-49de-8afd-7fa0be33545f</guid>
+    <description>Genshin Impact Drops · Genshin Impact Drops · Genshin Impact Drops · Genshin Impact Drops · Genshin Impact Drops — runs 2026-09-23T03:00:00+00:00 → 2026-10-13T03:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-23T03:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rainbow Six Siege — R6S Wasteland circuit</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=ca5a0e74-fbc4-4281-b234-44ed2e4ba594</link>
+    <guid isPermaLink="false">ca5a0e74-fbc4-4281-b234-44ed2e4ba594</guid>
+    <description>Test · OL'CLANKER — runs 2026-09-23T14:00:00+00:00 → 2026-10-13T13:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-23T14:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rainbow Six Siege — DRON-E Chat Badge</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=3376e74e-68e8-45b9-a147-ef80b16a6c93</link>
+    <guid isPermaLink="false">3376e74e-68e8-45b9-a147-ef80b16a6c93</guid>
+    <description>DRON-E Chat Badge — runs 2026-09-23T14:00:00+00:00 → 2026-10-13T13:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-23T14:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>

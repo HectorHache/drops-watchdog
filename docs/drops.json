@@ -2,26 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "a3f7a56a-f943-46d2-a780-3700684883f1",
-   "game": "ELDEN RING",
-   "title": "Sorcerer Rogier ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T07:00:00+00:00",
-   "endAt": "2026-09-29T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f54806b1-498d-4bfc-8ff7-f4a348ff4471.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a3f7a56a-f943-46d2-a780-3700684883f1",
-   "rewards": [
-    {
-     "name": "Sorcerer Rogier",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a3f7a56a-f943-46d2-a780-3700684883f1.png"
-  },
-  {
    "id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
    "game": "Special Events",
    "title": "Ironmouse Subathon 2026",
@@ -554,26 +534,6 @@
    "asset": "assets/771ba310-56c6-4a12-94d2-a9deeca752e1.jpg"
   },
   {
-   "id": "72c07412-ffee-4c3d-b46d-ded8c8626aab",
-   "game": "Solasta II",
-   "title": "Solasta II Game Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T10:30:52+00:00",
-   "endAt": "2026-09-29T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T16:30:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8a92dc59-639f-4235-88f9-00c9f765983d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=72c07412-ffee-4c3d-b46d-ded8c8626aab",
-   "rewards": [
-    {
-     "name": "Solasta 2 Multiplayer",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/72c07412-ffee-4c3d-b46d-ded8c8626aab.png"
-  },
-  {
    "id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
    "game": "Grand Theft Auto V",
    "title": "nopixel V",
@@ -1032,26 +992,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/75359535-d3c0-4c73-8c3d-38ce6ea623b8.png"
-  },
-  {
-   "id": "bee9dbba-cc7e-42d8-9bfa-ef40a5073342",
-   "game": "Diablo IV",
-   "title": "S15 Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T18:00:00+00:00",
-   "endAt": "2026-09-29T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T18:00:21+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfd3c5bf-0336-4ab5-829b-9588e3df4b21.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bee9dbba-cc7e-42d8-9bfa-ef40a5073342",
-   "rewards": [
-    {
-     "name": "Deforestation",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bee9dbba-cc7e-42d8-9bfa-ef40a5073342.png"
   },
   {
    "id": "75c84956-e49d-417f-a8c4-aae97d724d7a",
@@ -3695,6 +3635,30 @@
   }
  ],
  "archive": [
+  {
+   "id": "a3f7a56a-f943-46d2-a780-3700684883f1",
+   "game": "ELDEN RING",
+   "title": "Sorcerer Rogier ",
+   "startAt": "2026-09-01T07:00:00+00:00",
+   "endAt": "2026-09-29T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "72c07412-ffee-4c3d-b46d-ded8c8626aab",
+   "game": "Solasta II",
+   "title": "Solasta II Game Launch",
+   "startAt": "2026-09-08T10:30:52+00:00",
+   "endAt": "2026-09-29T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bee9dbba-cc7e-42d8-9bfa-ef40a5073342",
+   "game": "Diablo IV",
+   "title": "S15 Launch Drops",
+   "startAt": "2026-09-15T18:00:00+00:00",
+   "endAt": "2026-09-29T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ff428749-e5df-43d4-9b00-db2b851f0153",
    "game": "Mir Korabley",
@@ -9379,43 +9343,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.41
+   "score": 14.4
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.32
+   "score": 20.31
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.19
+   "score": 3.18
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.18
+   "score": 20.17
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.41
+   "score": 14.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.41
+   "score": 14.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.41
+   "score": 14.4
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9433,13 +9397,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.51
+   "score": 7.5
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.41
+   "score": 14.4
   }
  },
  "favoriteWeights": {
