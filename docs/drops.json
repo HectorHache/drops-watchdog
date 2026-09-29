@@ -3074,42 +3074,6 @@
    "asset": "assets/464f7663-0555-4ca4-a5a5-2dc566fbf488.jpg"
   },
   {
-   "id": "d14c83c2-c459-48c8-8cc0-76447f84424c",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/28/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T13:00:00+00:00",
-   "endAt": "2026-09-29T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T13:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e4a0d3b-ba37-430b-8d3e-6d5f4c1675b1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d14c83c2-c459-48c8-8cc0-76447f84424c",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d14c83c2-c459-48c8-8cc0-76447f84424c.png"
-  },
-  {
    "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
    "game": "Out of the Park Baseball 27",
    "title": "Laptophound 21",
@@ -3704,9 +3668,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
+  },
+  {
+   "id": "f12f19ea-9f9d-413c-973b-431b98e368ae",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/29/26",
+   "status": "ACTIVE",
+   "startAt": "2026-09-29T13:00:00+00:00",
+   "endAt": "2026-09-30T12:59:59.999+00:00",
+   "firstSeenAt": "2026-09-29T13:01:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61a19fc2-12a5-4bc4-b8f1-5cebe8da0bb4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f12f19ea-9f9d-413c-973b-431b98e368ae",
+   "rewards": [
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f12f19ea-9f9d-413c-973b-431b98e368ae.png"
   }
  ],
  "archive": [
+  {
+   "id": "d14c83c2-c459-48c8-8cc0-76447f84424c",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/28/26",
+   "startAt": "2026-09-28T13:00:00+00:00",
+   "endAt": "2026-09-29T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a5f641e2-affd-449d-91c9-2dadc41bb736",
    "game": "Black Desert",
@@ -9487,13 +9495,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 20.2
+   "score": 20.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9505,25 +9513,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 20.06
+   "score": 20.05
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9547,7 +9555,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   }
  },
  "favoriteWeights": {
