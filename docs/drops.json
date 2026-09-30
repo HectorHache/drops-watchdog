@@ -3316,6 +3316,70 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/be4a0575-c793-4d03-a9f7-15fdcc499348.png"
+  },
+  {
+   "id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
+   "game": "Doomsday: Last Survivors",
+   "title": "Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T09:05:57+00:00",
+   "endAt": "2026-10-27T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T10:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/811f576c-f892-403c-9d90-1eae7dfcdb73.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
+   "rewards": [
+    {
+     "name": "15-Minute Reward",
+     "minutes": 15
+    },
+    {
+     "name": "30-Minute Reward",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
+  },
+  {
+   "id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T10:00:00+00:00",
+   "endAt": "2026-10-01T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-30T10:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f1ded07f-b0db-4885-8a4a-d19cac17c0d8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png"
+  },
+  {
+   "id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T10:00:00+00:00",
+   "endAt": "2026-10-01T09:29:59.999+00:00",
+   "firstSeenAt": "2026-09-30T10:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be35fddd-9444-4a3f-96bb-6c253515d1bb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ee36be6f-0383-48ed-b051-1bb4e6ddb298",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ee36be6f-0383-48ed-b051-1bb4e6ddb298.png"
   }
  ],
  "archive": [
@@ -9347,13 +9411,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.8
+   "score": 19.79
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9365,25 +9429,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.66
+   "score": 19.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9395,7 +9459,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.73
+   "score": 6.72
   },
   "Warframe": {
    "favorites": 1,
@@ -9407,7 +9471,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   }
  },
  "favoriteWeights": {
