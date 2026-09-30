@@ -106,38 +106,6 @@
    "asset": "assets/aa82829e-9f3c-4572-a120-39d2eb36729b.png"
   },
   {
-   "id": "2627f082-1448-4a4b-a721-41e942aa5bc6",
-   "game": "The First Descendant",
-   "title": "Conquest Mode Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-04T05:00:00+00:00",
-   "endAt": "2026-09-30T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-04T05:01:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2627f082-1448-4a4b-a721-41e942aa5bc6",
-   "rewards": [
-    {
-     "name": "Twitch Violet Color Paints",
-     "minutes": 30
-    },
-    {
-     "name": "EXP Boost Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Crystallization Catalyst & Energy Activator",
-     "minutes": 90
-    },
-    {
-     "name": "Gold, Kuiper Shards & Superheated Material",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/2627f082-1448-4a4b-a721-41e942aa5bc6.png"
-  },
-  {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
    "title": "Civ VII Pax Livestream",
@@ -3294,26 +3262,6 @@
    "asset": "assets/ee36be6f-0383-48ed-b051-1bb4e6ddb298.png"
   },
   {
-   "id": "7676340b-b777-46a0-b856-b054d5f133d9",
-   "game": "Eternal Return",
-   "title": "\u3088\u3080ER\u30ab\u30b9\u30bf\u30e0",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T11:00:00+00:00",
-   "endAt": "2026-09-30T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T11:00:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/98d1262c-2000-4fcf-8795-348de33f530d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7676340b-b777-46a0-b856-b054d5f133d9",
-   "rewards": [
-    {
-     "name": "Emote",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7676340b-b777-46a0-b856-b054d5f133d9.png"
-  },
-  {
    "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 30)",
@@ -3480,9 +3428,89 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cfa9f10e-82b2-4e77-beeb-cf8dd121409c.png"
+  },
+  {
+   "id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
+   "game": "Hearthstone",
+   "title": "Tentacle Rave",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-09-30T22:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T15:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61281c4e-f40c-465c-b782-10f2b119f332.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
+   "rewards": [
+    {
+     "name": "Black Empire Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01.png"
+  },
+  {
+   "id": "9b6b9651-ffb0-484b-a1d2-6feb4483925b",
+   "game": "Rise of Agon",
+   "title": "Open Beta Launch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-09-30T23:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T15:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b6b9651-ffb0-484b-a1d2-6feb4483925b",
+   "rewards": [
+    {
+     "name": "Hairy Spider Pet",
+     "minutes": 180
+    },
+    {
+     "name": "Mana Missle: Crimson",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9b6b9651-ffb0-484b-a1d2-6feb4483925b.png"
+  },
+  {
+   "id": "07e086a0-6d49-489f-8200-53b533fda643",
+   "game": "World of Tanks",
+   "title": "Extra Supplies ",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-10-01T14:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T15:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb0c2216-fdd3-48cb-b695-afbb4952fe95.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=07e086a0-6d49-489f-8200-53b533fda643",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/07e086a0-6d49-489f-8200-53b533fda643.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "2627f082-1448-4a4b-a721-41e942aa5bc6",
+   "game": "The First Descendant",
+   "title": "Conquest Mode Drops ",
+   "startAt": "2026-09-04T05:00:00+00:00",
+   "endAt": "2026-09-30T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7676340b-b777-46a0-b856-b054d5f133d9",
+   "game": "Eternal Return",
+   "title": "\u3088\u3080ER\u30ab\u30b9\u30bf\u30e0",
+   "startAt": "2026-09-30T11:00:00+00:00",
+   "endAt": "2026-09-30T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f12f19ea-9f9d-413c-973b-431b98e368ae",
    "game": "Out of the Park Baseball 27",
@@ -9541,7 +9569,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.7
+   "score": 19.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9553,7 +9581,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.57
+   "score": 19.56
   },
   "Once Human": {
    "favorites": 2,
