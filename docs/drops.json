@@ -3254,26 +3254,6 @@
    "asset": "assets/ff2ca865-8f69-4a88-863b-a6e35dde33d7.png"
   },
   {
-   "id": "1aa2a1cb-8745-4121-bc83-04de64552d08",
-   "game": "Halo Infinite",
-   "title": "GR Charity Stream-SEP29",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T22:00:00+00:00",
-   "endAt": "2026-09-30T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T22:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/609d5024-a675-44c0-9f56-bba09880371d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1aa2a1cb-8745-4121-bc83-04de64552d08",
-   "rewards": [
-    {
-     "name": "Resonant Element Armor Coating",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/1aa2a1cb-8745-4121-bc83-04de64552d08.png"
-  },
-  {
    "id": "88a95cd1-65ac-452a-b821-32293f2406af",
    "game": "DOFUS Touch",
    "title": "J16 - 3x Temporix Cps",
@@ -3467,6 +3447,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "1aa2a1cb-8745-4121-bc83-04de64552d08",
+   "game": "Halo Infinite",
+   "title": "GR Charity Stream-SEP29",
+   "startAt": "2026-09-29T22:00:00+00:00",
+   "endAt": "2026-09-30T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "db4c54b1-2b97-416e-947e-eaf7b08d61e9",
    "game": "Rainbow Six Siege",
@@ -9461,19 +9449,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.87
+   "score": 19.86
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.12
+   "score": 3.11
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.74
+   "score": 19.73
   },
   "Once Human": {
    "favorites": 2,
