@@ -270,42 +270,6 @@
    "asset": "assets/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png"
   },
   {
-   "id": "4d11821c-2856-45c9-9a4d-fa1717d3aae0",
-   "game": "Sonic Rumble Party",
-   "title": "September 2026 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T08:00:00+00:00",
-   "endAt": "2026-09-30T07:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T08:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3e4216e9-705a-4e12-8c15-014f43989ca9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d11821c-2856-45c9-9a4d-fa1717d3aae0",
-   "rewards": [
-    {
-     "name": "Red Star Ring*100",
-     "minutes": 120
-    },
-    {
-     "name": "Knuckles vs. Rouge*1",
-     "minutes": 15
-    },
-    {
-     "name": "Tails vs. Dr. Eggman*1",
-     "minutes": 30
-    },
-    {
-     "name": "Wish for Peace (Tikal)*1",
-     "minutes": 60
-    },
-    {
-     "name": "Perfect Chaos (Chaos)*1",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png"
-  },
-  {
    "id": "ce649625-7dae-4946-b60a-1b78285c4833",
    "game": "DRAGON BALL GEKISHIN SQUADRA",
    "title": "SQUADRA SEASON 7 Drops",
@@ -3447,6 +3411,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "4d11821c-2856-45c9-9a4d-fa1717d3aae0",
+   "game": "Sonic Rumble Party",
+   "title": "September 2026 Drops",
+   "startAt": "2026-09-09T08:00:00+00:00",
+   "endAt": "2026-09-30T07:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1aa2a1cb-8745-4121-bc83-04de64552d08",
    "game": "Halo Infinite",
@@ -9443,13 +9415,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.07
+   "score": 14.06
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.83
+   "score": 19.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9461,31 +9433,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.7
+   "score": 19.69
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.07
+   "score": 14.06
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.07
+   "score": 14.06
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.07
+   "score": 14.06
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.56
+   "score": 1.55
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -9497,13 +9469,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.33
+   "score": 7.32
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.07
+   "score": 14.06
   }
  },
  "favoriteWeights": {
