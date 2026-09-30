@@ -3368,6 +3368,94 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e2829998-72ba-4854-8182-f96b4410035e.png"
+  },
+  {
+   "id": "977e256a-df6b-403b-8aff-480bb8edfceb",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #12",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-10-01T01:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T14:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be5589b7-4c76-46e4-9d9e-8b3a34479fe7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=977e256a-df6b-403b-8aff-480bb8edfceb",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/977e256a-df6b-403b-8aff-480bb8edfceb.jpg"
+  },
+  {
+   "id": "5454eb48-0c26-4e18-871d-c4363129d5ad",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-10-04T21:58:59.999+00:00",
+   "firstSeenAt": "2026-09-30T14:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aefd8e5b-dcbf-4076-8b5f-370de5d877ca.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5454eb48-0c26-4e18-871d-c4363129d5ad",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5454eb48-0c26-4e18-871d-c4363129d5ad.png"
+  },
+  {
+   "id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc",
+   "game": "The Elder Scrolls Online",
+   "title": "High Seas of Tamriel",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-10-14T13:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T14:00:12+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c75bb35-e689-4e4b-8982-1482307c85a0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=54136633-c8ea-4a41-ac8e-262b5b18f5fc",
+   "rewards": [
+    {
+     "name": "100x Trade Bars",
+     "minutes": 60
+    },
+    {
+     "name": "100x Trade Bars",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpg"
   }
  ],
  "archive": [
@@ -9423,13 +9511,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.99
+   "score": 13.98
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.72
+   "score": 19.71
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9441,25 +9529,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.59
+   "score": 19.58
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.99
+   "score": 13.98
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.99
+   "score": 13.98
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.99
+   "score": 13.98
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9477,13 +9565,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.29
+   "score": 7.28
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.99
+   "score": 13.98
   }
  },
  "favoriteWeights": {
