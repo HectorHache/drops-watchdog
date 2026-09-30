@@ -170,42 +170,6 @@
    "asset": "assets/4c304edf-da41-4abb-934b-ff7541bd5cab.png"
   },
   {
-   "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
-   "game": "Zenless Zone Zero",
-   "title": "V3.2 Zenless Zone Zero",
-   "status": "ACTIVE",
-   "startAt": "2026-09-09T02:00:00+00:00",
-   "endAt": "2026-09-30T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-09T02:01:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
-   "rewards": [
-    {
-     "name": "\u4e01\u5c3c*12000",
-     "minutes": 15
-    },
-    {
-     "name": "\u8d44\u6df1\u8c03\u67e5\u5458\u8bb0\u5f55*2",
-     "minutes": 30
-    },
-    {
-     "name": "\u97f3\u64ce\u80fd\u6e90\u6a21\u5757*3",
-     "minutes": 45
-    },
-    {
-     "name": "\u90a6\u5e03\u7cfb\u7edf\u63a7\u4ef6*2",
-     "minutes": 60
-    },
-    {
-     "name": "\u83f2\u6797*50",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png"
-  },
-  {
    "id": "ce649625-7dae-4946-b60a-1b78285c4833",
    "game": "DRAGON BALL GEKISHIN SQUADRA",
    "title": "SQUADRA SEASON 7 Drops",
@@ -988,30 +952,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
-  },
-  {
-   "id": "4655b913-9701-4ff3-8983-5048257e6c92",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T16:00:00+00:00",
-   "endAt": "2026-09-30T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-23T16:00:26+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d628744-361b-4de0-b17c-7775af30dbb3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4655b913-9701-4ff3-8983-5048257e6c92",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4655b913-9701-4ff3-8983-5048257e6c92.png"
   },
   {
    "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
@@ -3515,6 +3455,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
+   "game": "Zenless Zone Zero",
+   "title": "V3.2 Zenless Zone Zero",
+   "startAt": "2026-09-09T02:00:00+00:00",
+   "endAt": "2026-09-30T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4655b913-9701-4ff3-8983-5048257e6c92",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 4",
+   "startAt": "2026-09-23T16:00:00+00:00",
+   "endAt": "2026-09-30T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
    "game": "Warframe",
@@ -9591,43 +9547,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.96
+   "score": 13.95
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.68
+   "score": 19.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.09
+   "score": 3.08
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.55
+   "score": 19.54
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.96
+   "score": 13.95
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.96
+   "score": 13.95
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.96
+   "score": 13.95
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9639,7 +9595,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.69
+   "score": 6.68
   },
   "Warframe": {
    "favorites": 1,
@@ -9651,7 +9607,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.96
+   "score": 13.95
   }
  },
  "favoriteWeights": {
