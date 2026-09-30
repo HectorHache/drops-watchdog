@@ -2066,42 +2066,6 @@
    "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
   },
   {
-   "id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
-   "game": "Storm Striker",
-   "title": "Storm Striker JP Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T07:32:54+00:00",
-   "endAt": "2026-09-30T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-27T09:30:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ebc4b323-22ef-4ad3-af27-93c1791c3d5f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
-   "rewards": [
-    {
-     "name": "1\u6642\u9593\u8996\u8074\u5831\u916c",
-     "minutes": 60
-    },
-    {
-     "name": "2\u6642\u9593\u8996\u8074\u5831\u916c",
-     "minutes": 120
-    },
-    {
-     "name": "4\u6642\u9593\u8996\u8074\u5831\u916c",
-     "minutes": 240
-    },
-    {
-     "name": "6\u6642\u9593\u8996\u8074\u5831\u916c",
-     "minutes": 360
-    },
-    {
-     "name": "30\u5206\u8996\u8074\u5831\u916c",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpg"
-  },
-  {
    "id": "1909a584-68e5-4517-b806-d644aff28f71",
    "game": "Kirka.io",
    "title": "Detective X",
@@ -3431,6 +3395,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
+   "game": "Storm Striker",
+   "title": "Storm Striker JP Drops",
+   "startAt": "2026-09-27T07:32:54+00:00",
+   "endAt": "2026-09-30T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cfa9f10e-82b2-4e77-beeb-cf8dd121409c",
    "game": "Madden NFL 27",
@@ -9539,13 +9511,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.95
+   "score": 13.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.66
+   "score": 19.65
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9557,25 +9529,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.53
+   "score": 19.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.95
+   "score": 13.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.95
+   "score": 13.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.95
+   "score": 13.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9599,7 +9571,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.95
+   "score": 13.94
   }
  },
  "favoriteWeights": {
