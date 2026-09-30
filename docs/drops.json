@@ -82,30 +82,6 @@
    "asset": "assets/1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f.png"
   },
   {
-   "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
-   "game": "WARDOGS",
-   "title": "WARDOGS Beta & Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T18:00:00+00:00",
-   "endAt": "2026-09-30T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-03T18:00:18+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ffe5dd89-20be-4578-b78e-f17eaaa0e4c8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa82829e-9f3c-4572-a120-39d2eb36729b",
-   "rewards": [
-    {
-     "name": "WARDOG",
-     "minutes": 30
-    },
-    {
-     "name": "WARLORD",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/aa82829e-9f3c-4572-a120-39d2eb36729b.png"
-  },
-  {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
    "title": "Civ VII Pax Livestream",
@@ -2722,46 +2698,6 @@
    "asset": "assets/99da4f31-56d8-4460-b8ce-b4cc8f9d669f.png"
   },
   {
-   "id": "efc796c4-0218-499c-bd1f-8fbbfa8bc0c6",
-   "game": "Rise Online",
-   "title": "Mobile Drop 173",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T17:59:00+00:00",
-   "endAt": "2026-09-30T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-29T18:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/033ecb64-3833-433b-af54-9c7ca7f07c79.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=efc796c4-0218-499c-bd1f-8fbbfa8bc0c6",
-   "rewards": [
-    {
-     "name": "Mobile Drop 173",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/efc796c4-0218-499c-bd1f-8fbbfa8bc0c6.png"
-  },
-  {
-   "id": "8c8dba9f-7eb0-4f08-bb9b-92638c79d213",
-   "game": "Rise Online",
-   "title": "ROW Drop 602",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T17:59:00+00:00",
-   "endAt": "2026-09-30T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-29T18:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6427fe5e-d6a3-4366-bd6e-4e79a5144af9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8c8dba9f-7eb0-4f08-bb9b-92638c79d213",
-   "rewards": [
-    {
-     "name": "ROW Drop 602",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8c8dba9f-7eb0-4f08-bb9b-92638c79d213.png"
-  },
-  {
    "id": "1d05b631-ee01-471b-9e33-2a2b23529123",
    "game": "League of Legends",
    "title": "Split 3 - Sub Drop (Pt.2)",
@@ -3392,9 +3328,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/989bb268-3603-458e-b9ae-e317582878f5.png"
+  },
+  {
+   "id": "053bbea5-0d64-4a87-bb89-26e4f3ac332f",
+   "game": "Rise Online",
+   "title": "Mobile Drop 174",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T17:59:00+00:00",
+   "endAt": "2026-10-01T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-30T18:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3deaad54-491f-492a-b7df-165335766a1b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=053bbea5-0d64-4a87-bb89-26e4f3ac332f",
+   "rewards": [
+    {
+     "name": "Mobile Drop 174",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/053bbea5-0d64-4a87-bb89-26e4f3ac332f.png"
+  },
+  {
+   "id": "52f41ab3-dc57-4b7b-895c-49b10992f575",
+   "game": "Rise Online",
+   "title": "ROW Drop 603",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T17:59:00+00:00",
+   "endAt": "2026-10-01T17:56:59.999+00:00",
+   "firstSeenAt": "2026-09-30T18:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/edbb9411-ea3e-499d-9c15-d2866cf3d4ef.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52f41ab3-dc57-4b7b-895c-49b10992f575",
+   "rewards": [
+    {
+     "name": "ROW Drop 603",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/52f41ab3-dc57-4b7b-895c-49b10992f575.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "aa82829e-9f3c-4572-a120-39d2eb36729b",
+   "game": "WARDOGS",
+   "title": "WARDOGS Beta & Launch",
+   "startAt": "2026-09-03T18:00:00+00:00",
+   "endAt": "2026-09-30T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "efc796c4-0218-499c-bd1f-8fbbfa8bc0c6",
+   "game": "Rise Online",
+   "title": "Mobile Drop 173",
+   "startAt": "2026-09-29T17:59:00+00:00",
+   "endAt": "2026-09-30T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8c8dba9f-7eb0-4f08-bb9b-92638c79d213",
+   "game": "Rise Online",
+   "title": "ROW Drop 602",
+   "startAt": "2026-09-29T17:59:00+00:00",
+   "endAt": "2026-09-30T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11",
    "game": "Storm Striker",
@@ -9517,7 +9517,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.64
+   "score": 19.63
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9529,7 +9529,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.51
+   "score": 19.5
   },
   "Once Human": {
    "favorites": 2,
@@ -9565,7 +9565,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.26
+   "score": 7.25
   },
   "Where Winds Meet": {
    "favorites": 2,
