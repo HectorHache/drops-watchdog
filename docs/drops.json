@@ -3340,29 +3340,17 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/52f41ab3-dc57-4b7b-895c-49b10992f575.jpg"
-  },
+  }
+ ],
+ "archive": [
   {
    "id": "840c45c1-783b-422d-a9b8-8b746cdea645",
    "game": "Warframe",
    "title": "Emisi\u00f3n Tenno #347 Raid",
-   "status": "ACTIVE",
    "startAt": "2026-09-30T20:00:00+00:00",
    "endAt": "2026-09-30T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-30T20:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5da02c0a-9ccb-4c02-a8bf-48c338e32b5a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=840c45c1-783b-422d-a9b8-8b746cdea645",
-   "rewards": [
-    {
-     "name": "Beach Kavat Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/840c45c1-783b-422d-a9b8-8b746cdea645.jpg"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
   {
    "id": "ff2ca865-8f69-4a88-863b-a6e35dde33d7",
    "game": "Eternal Return",
@@ -9519,13 +9507,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.89
+   "score": 13.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.58
+   "score": 19.57
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9537,31 +9525,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.44
+   "score": 19.43
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.89
+   "score": 13.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.89
+   "score": 13.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.89
+   "score": 13.88
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.54
+   "score": 1.53
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -9579,7 +9567,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.89
+   "score": 13.88
   }
  },
  "favoriteWeights": {
