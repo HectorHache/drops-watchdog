@@ -208,13 +208,6 @@
     <pubDate>2026-09-23T14:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>World of Warships — 15.8 WOWS Channel Drop</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=81a6d0ee-ba45-42e8-a55e-a0ed98c040a9</link>
-    <guid isPermaLink="false">81a6d0ee-ba45-42e8-a55e-a0ed98c040a9</guid>
-    <description>Week 3: 250 Community Tokens — runs 2026-09-23T22:00:00+00:00 → 2026-09-30T21:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-23T22:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>REMATCH — Rematch x Blue Lock</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=828ae239-eff0-4ac1-b4d6-9a2b23da92a4</link>
     <guid isPermaLink="false">828ae239-eff0-4ac1-b4d6-9a2b23da92a4</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">946958be-d0b8-442b-a6be-30a18a007265</guid>
     <description>Rust Isles Jacket — runs 2026-09-24T18:34:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:34:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles Locker</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=4a6aeb5e-e47e-40c4-871e-26fa37d9b859</link>
+    <guid isPermaLink="false">4a6aeb5e-e47e-40c4-871e-26fa37d9b859</guid>
+    <description>Rust Isles Locker — runs 2026-09-24T18:35:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:35:00+00:00</pubDate>
   </item>
 </channel>
 </rss>

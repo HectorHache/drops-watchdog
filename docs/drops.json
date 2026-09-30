@@ -906,26 +906,6 @@
    "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
   },
   {
-   "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
-   "game": "World of Warships",
-   "title": "15.8 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T22:00:00+00:00",
-   "endAt": "2026-09-30T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T22:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b3b4e45-6c8b-4107-bec8-dd28f3d00fcf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
-   "rewards": [
-    {
-     "name": "Week 3: 250 Community Tokens",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/81a6d0ee-ba45-42e8-a55e-a0ed98c040a9.png"
-  },
-  {
    "id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
    "game": "REMATCH",
    "title": "Rematch x Blue Lock",
@@ -2766,42 +2746,6 @@
    "asset": "assets/39067c53-2efb-4dcf-be67-223ef58c114f.png"
   },
   {
-   "id": "88a95cd1-65ac-452a-b821-32293f2406af",
-   "game": "DOFUS Touch",
-   "title": "J16 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T22:00:00+00:00",
-   "endAt": "2026-09-30T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T22:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/983bda23-7c7d-4310-9e7c-1e0f8c42425d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=88a95cd1-65ac-452a-b821-32293f2406af",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/88a95cd1-65ac-452a-b821-32293f2406af.png"
-  },
-  {
    "id": "17aab383-e78a-41d1-865b-d307e26635c6",
    "game": "The Quinfall",
    "title": "September Drops",
@@ -3340,9 +3284,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/52f41ab3-dc57-4b7b-895c-49b10992f575.jpg"
+  },
+  {
+   "id": "9745755d-2061-469a-8ac1-5ed408a07076",
+   "game": "DOFUS Touch",
+   "title": "J17 - 3x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T22:00:00+00:00",
+   "endAt": "2026-10-01T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T22:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/91a475f5-8168-4e69-98f4-549f281454bd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9745755d-2061-469a-8ac1-5ed408a07076",
+   "rewards": [
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9745755d-2061-469a-8ac1-5ed408a07076.png"
+  },
+  {
+   "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T22:00:00+00:00",
+   "endAt": "2026-10-07T21:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T22:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/137cd23d-5e86-414a-9b2c-caf905fda441.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c1776a1-ba10-4589-8b23-9179d0b502c6",
+   "rewards": [
+    {
+     "name": "Week 4: 250 Community Tokens",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2c1776a1-ba10-4589-8b23-9179d0b502c6.png"
   }
  ],
  "archive": [
+  {
+   "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "startAt": "2026-09-23T22:00:00+00:00",
+   "endAt": "2026-09-30T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "88a95cd1-65ac-452a-b821-32293f2406af",
+   "game": "DOFUS Touch",
+   "title": "J16 - 3x Temporix Cps",
+   "startAt": "2026-09-29T22:00:00+00:00",
+   "endAt": "2026-09-30T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "840c45c1-783b-422d-a9b8-8b746cdea645",
    "game": "Warframe",
@@ -9507,13 +9523,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.87
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.57
+   "score": 19.56
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9531,19 +9547,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.87
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.87
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.87
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9567,7 +9583,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.87
   }
  },
  "favoriteWeights": {
