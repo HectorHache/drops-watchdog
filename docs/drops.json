@@ -990,34 +990,6 @@
    "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
   },
   {
-   "id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
-   "game": "Warframe",
-   "title": "Iceblade of Narin",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T15:30:00+00:00",
-   "endAt": "2026-09-30T15:29:59.999+00:00",
-   "firstSeenAt": "2026-09-23T15:30:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f2bf2fd-3ac6-4e1b-9808-3206bdc5c92e.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
-   "rewards": [
-    {
-     "name": "Kuva Globule Decoration",
-     "minutes": 60
-    },
-    {
-     "name": "Parallax Landing Craft",
-     "minutes": 120
-    },
-    {
-     "name": "Niveus Sumdali",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/c3228c6d-d3f6-46ca-a167-7e4e573e80ca.jpg"
-  },
-  {
    "id": "4655b913-9701-4ff3-8983-5048257e6c92",
    "game": "World of Tanks: HEAT",
    "title": "HEAT Season 2 - Week 4",
@@ -3492,9 +3464,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/07e086a0-6d49-489f-8200-53b533fda643.jpg"
+  },
+  {
+   "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
+   "game": "AION 2",
+   "title": "AION 2 Early Access Event",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T15:02:40+00:00",
+   "endAt": "2026-10-17T06:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T15:30:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04cfd23d-0eed-40c2-92ac-646755921280.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
+   "rewards": [
+    {
+     "name": "Cyber Glasses",
+     "minutes": 15
+    },
+    {
+     "name": "Customization Voucher",
+     "minutes": 30
+    },
+    {
+     "name": "Odyle Energy",
+     "minutes": 45
+    },
+    {
+     "name": "Soul Codex",
+     "minutes": 60
+    },
+    {
+     "name": "Enhance Stone",
+     "minutes": 120
+    },
+    {
+     "name": "Resurrection Spiritstone",
+     "minutes": 240
+    },
+    {
+     "name": "Kina Bundle 500,000",
+     "minutes": 360
+    },
+    {
+     "name": "White Headset",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png"
   }
  ],
  "archive": [
+  {
+   "id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca",
+   "game": "Warframe",
+   "title": "Iceblade of Narin",
+   "startAt": "2026-09-23T15:30:00+00:00",
+   "endAt": "2026-09-30T15:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2627f082-1448-4a4b-a721-41e942aa5bc6",
    "game": "The First Descendant",
@@ -9563,13 +9591,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.97
+   "score": 13.96
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.69
+   "score": 19.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9581,25 +9609,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.56
+   "score": 19.55
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.97
+   "score": 13.96
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.97
+   "score": 13.96
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.97
+   "score": 13.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9617,13 +9645,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.28
+   "score": 7.27
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.97
+   "score": 13.96
   }
  },
  "favoriteWeights": {

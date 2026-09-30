@@ -229,13 +229,6 @@
     <pubDate>2026-09-23T14:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Warframe — Iceblade of Narin</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=c3228c6d-d3f6-46ca-a167-7e4e573e80ca</link>
-    <guid isPermaLink="false">c3228c6d-d3f6-46ca-a167-7e4e573e80ca</guid>
-    <description>Kuva Globule Decoration · Parallax Landing Craft · Niveus Sumdali — runs 2026-09-23T15:30:00+00:00 → 2026-09-30T15:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-23T15:30:00+00:00</pubDate>
-  </item>
-  <item>
     <title>World of Tanks: HEAT — HEAT Season 2 - Week 4</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=4655b913-9701-4ff3-8983-5048257e6c92</link>
     <guid isPermaLink="false">4655b913-9701-4ff3-8983-5048257e6c92</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">cc3e3fb4-f513-43ad-bd9f-3638464ce841</guid>
     <description>Morgana Badge — runs 2026-09-24T16:00:00+00:00 → 2026-10-11T06:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T16:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles General Drops</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=fd08f113-4582-4760-9c8d-20fc5100df18</link>
+    <guid isPermaLink="false">fd08f113-4582-4760-9c8d-20fc5100df18</guid>
+    <description>Rust Isles Sm Box · Rust Isles Pants · Rust Isles Boots · Rust Isles Hoodie · Rustoria Med Box · Rustoria Turret — runs 2026-09-24T18:30:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:30:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
