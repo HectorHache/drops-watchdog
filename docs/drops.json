@@ -178,38 +178,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
-   "game": "Grand Theft Auto V",
-   "title": "nopixel V",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T12:00:00+00:00",
-   "endAt": "2026-09-30T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-08T12:00:02+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/800525f2-bd33-4e00-9a94-f84f66770eeb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
-   "rewards": [
-    {
-     "name": "GTA$250K",
-     "minutes": 60
-    },
-    {
-     "name": "GTA$250K",
-     "minutes": 120
-    },
-    {
-     "name": "Burger Shot Tracksuit",
-     "minutes": 360
-    },
-    {
-     "name": "GTA$1M",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c.jpg"
-  },
-  {
    "id": "4c304edf-da41-4abb-934b-ff7541bd5cab",
    "game": "EA Sports FC 27",
    "title": "FC27 First Gameplay",
@@ -2842,26 +2810,6 @@
    "asset": "assets/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png"
   },
   {
-   "id": "a8709daa-2057-4499-a928-16fbab9a4009",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 29)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T12:00:00+00:00",
-   "endAt": "2026-09-30T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T12:01:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf2d4b69-d909-4918-9a6d-222b816ccec3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8709daa-2057-4499-a928-16fbab9a4009",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 29)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a8709daa-2057-4499-a928-16fbab9a4009.png"
-  },
-  {
    "id": "42dc35f9-da23-4eaf-8a19-8f1838d58168",
    "game": "Warhammer 40,000: Darktide",
    "title": "Depths of the Damned Drop",
@@ -3400,9 +3348,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/7676340b-b777-46a0-b856-b054d5f133d9.png"
+  },
+  {
+   "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 30)",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T12:00:00+00:00",
+   "endAt": "2026-10-01T11:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T12:00:05+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a3feab4-1d7e-48a0-a85b-7fa1bb0c5454.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=781befbd-87d0-4a40-be6d-89442b47c1c6",
+   "rewards": [
+    {
+     "name": "2 Hours (Sep 30)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/781befbd-87d0-4a40-be6d-89442b47c1c6.png"
   }
  ],
  "archive": [
+  {
+   "id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c",
+   "game": "Grand Theft Auto V",
+   "title": "nopixel V",
+   "startAt": "2026-09-08T12:00:00+00:00",
+   "endAt": "2026-09-30T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a8709daa-2057-4499-a928-16fbab9a4009",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 29)",
+   "startAt": "2026-09-29T12:00:00+00:00",
+   "endAt": "2026-09-30T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6824f425-66de-4313-bdf7-b4dee9b90b29",
    "game": "Albion Online",
@@ -9437,7 +9421,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.76
+   "score": 19.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9449,7 +9433,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.62
+   "score": 19.61
   },
   "Once Human": {
    "favorites": 2,
