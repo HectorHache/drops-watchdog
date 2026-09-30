@@ -146,30 +146,6 @@
    "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
   },
   {
-   "id": "4c304edf-da41-4abb-934b-ff7541bd5cab",
-   "game": "EA Sports FC 27",
-   "title": "FC27 First Gameplay",
-   "status": "ACTIVE",
-   "startAt": "2026-09-08T16:03:55+00:00",
-   "endAt": "2026-09-30T16:02:59.999+00:00",
-   "firstSeenAt": "2026-09-15T16:30:01+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e773dd1b-524f-436f-ad68-d1e6422dfc3c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c304edf-da41-4abb-934b-ff7541bd5cab",
-   "rewards": [
-    {
-     "name": "Small Electrum Players Pack",
-     "minutes": 15
-    },
-    {
-     "name": "2500 Coins + Coin Boost (500 x 10 matches)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4c304edf-da41-4abb-934b-ff7541bd5cab.png"
-  },
-  {
    "id": "ce649625-7dae-4946-b60a-1b78285c4833",
    "game": "DRAGON BALL GEKISHIN SQUADRA",
    "title": "SQUADRA SEASON 7 Drops",
@@ -3318,30 +3294,6 @@
    "asset": "assets/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpg"
   },
   {
-   "id": "cfa9f10e-82b2-4e77-beeb-cf8dd121409c",
-   "game": "Madden NFL 27",
-   "title": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T14:00:00+00:00",
-   "endAt": "2026-09-30T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-30T14:30:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c652cb1c-e7b5-4a52-a776-91f970eac6a5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cfa9f10e-82b2-4e77-beeb-cf8dd121409c",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cfa9f10e-82b2-4e77-beeb-cf8dd121409c.png"
-  },
-  {
    "id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
    "game": "Hearthstone",
    "title": "Tentacle Rave",
@@ -3452,9 +3404,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png"
+  },
+  {
+   "id": "989bb268-3603-458e-b9ae-e317582878f5",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 5",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T16:00:00+00:00",
+   "endAt": "2026-10-07T15:58:59.999+00:00",
+   "firstSeenAt": "2026-09-30T16:30:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60f74710-9890-4a5c-a971-f136a4167d2d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989bb268-3603-458e-b9ae-e317582878f5",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/989bb268-3603-458e-b9ae-e317582878f5.png"
   }
  ],
  "archive": [
+  {
+   "id": "cfa9f10e-82b2-4e77-beeb-cf8dd121409c",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-09-30T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4c304edf-da41-4abb-934b-ff7541bd5cab",
+   "game": "EA Sports FC 27",
+   "title": "FC27 First Gameplay",
+   "startAt": "2026-09-08T16:03:55+00:00",
+   "endAt": "2026-09-30T16:02:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a",
    "game": "Zenless Zone Zero",
@@ -9553,7 +9545,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.67
+   "score": 19.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9565,7 +9557,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.54
+   "score": 19.53
   },
   "Once Human": {
    "favorites": 2,
@@ -9601,7 +9593,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.27
+   "score": 7.26
   },
   "Where Winds Meet": {
    "favorites": 2,
