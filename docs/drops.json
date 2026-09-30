@@ -3368,6 +3368,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/52f41ab3-dc57-4b7b-895c-49b10992f575.jpg"
+  },
+  {
+   "id": "a9b68a02-aadb-445b-abf1-3b95ba930f11",
+   "game": "Warframe",
+   "title": "Emisi\u00f3n Tenno #347",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T19:00:00+00:00",
+   "endAt": "2026-09-30T19:59:59.999+00:00",
+   "firstSeenAt": "2026-09-30T19:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/63bc0af3-e4bd-4595-b4f1-3b0bb346ab64.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a9b68a02-aadb-445b-abf1-3b95ba930f11",
+   "rewards": [
+    {
+     "name": "Built Forma",
+     "minutes": 20
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/a9b68a02-aadb-445b-abf1-3b95ba930f11.jpg"
   }
  ],
  "archive": [
@@ -9511,7 +9531,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   },
   "Delta Force": {
    "favorites": 3,
@@ -9529,25 +9549,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.49
+   "score": 19.48
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9559,7 +9579,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.67
+   "score": 6.66
   },
   "Warframe": {
    "favorites": 1,
@@ -9571,7 +9591,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   }
  },
  "favoriteWeights": {
