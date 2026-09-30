@@ -2746,46 +2746,6 @@
    "asset": "assets/5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1.png"
   },
   {
-   "id": "6824f425-66de-4313-bdf7-b4dee9b90b29",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 4 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T10:00:00+00:00",
-   "endAt": "2026-09-30T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-29T10:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2dda858-7b00-4ed5-9ec6-8c170256cef7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6824f425-66de-4313-bdf7-b4dee9b90b29",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6824f425-66de-4313-bdf7-b4dee9b90b29.png"
-  },
-  {
-   "id": "c353737c-c0ee-4b43-9fdd-4b75b1656bb0",
-   "game": "Albion Online",
-   "title": "Dragonfire 5 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T10:00:00+00:00",
-   "endAt": "2026-09-30T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-29T10:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94f27b5e-c147-4620-a10c-f5167db62538.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c353737c-c0ee-4b43-9fdd-4b75b1656bb0",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c353737c-c0ee-4b43-9fdd-4b75b1656bb0.png"
-  },
-  {
    "id": "c7b62569-3b75-4f72-9700-957479fe3460",
    "game": "The Witcher 3: Wild Hunt",
    "title": "The Witcher 3 Remaster",
@@ -3359,6 +3319,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "6824f425-66de-4313-bdf7-b4dee9b90b29",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #2/7",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-30T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c353737c-c0ee-4b43-9fdd-4b75b1656bb0",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #2/7",
+   "startAt": "2026-09-29T10:00:00+00:00",
+   "endAt": "2026-09-30T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ac324042-c913-470a-8b19-6018446878ca",
    "game": "Kakele Online - MMORPG",
@@ -9371,43 +9347,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.81
+   "score": 19.8
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.11
+   "score": 3.1
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.67
+   "score": 19.66
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9425,13 +9401,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.32
+   "score": 7.31
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   }
  },
  "favoriteWeights": {
