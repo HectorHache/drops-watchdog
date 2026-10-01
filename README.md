@@ -29,6 +29,27 @@ python3 src/main.py personal [--dry]   24/7 favorites DM check (cron)
 python3 -m unittest discover -s tests
 ```
 
+## Development
+
+Everything runs on the Python standard library — no install needed for the
+pipeline or the test suite.
+
+```bash
+# tests (any of these):
+python3 -m unittest discover -s tests       # CI command
+python3 -m pytest                            # same suite via pytest (pyproject)
+
+# optional dev tooling:
+python3 -m venv .venv && .venv/bin/pip install -e ".[dev]"
+.venv/bin/ruff check src tests               # F + E9 (bug-catching only)
+```
+
+Tests are fully offline: they use the fixtures in `tests/fixtures/` plus
+temp SQLite databases — nothing is fetched and nothing writes to `data/` or
+`docs/`. Material-change detection in the digest compares against the
+**pre-seed snapshot** (see `cmd_sync`) so reward edits and end-date shifts
+survive the seed step.
+
 ## Scheduling (Phase 4)
 Hermes cron job `twitch-drops-sync` (`b9870369ed3a`), schedule `0,30 7-23,0 * * *`
 (wake hours Europe/Madrid), script `~/.hermes/scripts/twitch_drops_sync.sh` →

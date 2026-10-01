@@ -15,7 +15,6 @@ favorites selector read from there. Run:  python3 src/main.py steam-import
 import json
 import os
 import sys
-import time
 import urllib.parse
 import urllib.request
 from pathlib import Path

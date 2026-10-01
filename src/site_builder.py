@@ -10,7 +10,6 @@ import datetime
 import json
 import shutil
 import sys
-import time
 import urllib.request
 import urllib.error
 import xml.sax.saxutils
@@ -87,7 +86,6 @@ def build_drops_json(conn, cfg) -> dict:
     campaigns, archive = [], []
     for c in rows.values():
         end = wd.parse_dt(c["end_at"])
-        start = wd.parse_dt(c["start_at"])
         active = c["status"] == "ACTIVE" and end and end > now
         rewards = [dict(r) for r in conn.execute(
             "SELECT name, required_minutes AS minutes FROM rewards WHERE campaign_id=? ORDER BY sort",
@@ -199,7 +197,6 @@ HEADERS = """/drops.json
 
 
 def cmd_build(args):
-    cfg = json.loads((ROOT / "src" / "config.yaml").read_text()) if False else None
     dbp = Path(args.db)
     conn = dbm.init_db(dbp)
     data = build_drops_json(conn, None)
@@ -222,7 +219,7 @@ def cmd_build(args):
 
     (DOCS / "feed.xml").write_text(build_feed(data))
 
-    favicons = sync_favicons()
+    sync_favicons()
 
     now = datetime.datetime.now(datetime.timezone.utc)
     ending24 = sum(1 for c in data["campaigns"]

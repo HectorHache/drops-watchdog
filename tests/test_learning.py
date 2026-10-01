@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Tests for the Phase 7 learning loop (src/learning.py)."""
 import datetime
-import json
-import os
 import sys
 import tempfile
 import unittest
@@ -13,7 +11,6 @@ sys.path.insert(0, str(ROOT / "src"))
 
 import db as dbm
 import learning as lrn
-import watchdog as wd
 
 
 def _now():

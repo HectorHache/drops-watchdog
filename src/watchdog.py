@@ -58,6 +58,17 @@ def classify(known: dict, live: list[dict], now: datetime.datetime | None = None
     }
 
 
+def _reward_signature(rewards) -> frozenset:
+    """Order-independent signature of a reward list (name + required minutes)."""
+    if not rewards:
+        return frozenset()
+    sig = set()
+    for r in rewards:
+        if isinstance(r, dict):
+            sig.add((str(r.get("name") or ""), int(r.get("required_minutes") or 0)))
+    return frozenset(sig)
+
+
 def _materially_changed(row, c, end_delta_min: int = 5) -> bool:
     old_end = parse_dt(row.get("end_at"))
     new_end = parse_dt(c.get("end_at"))
@@ -65,13 +76,14 @@ def _materially_changed(row, c, end_delta_min: int = 5) -> bool:
         return True
     if row.get("title") != c.get("title") or row.get("game_name") != c.get("game_name"):
         return True
-    old_rewards = json_rewards(row.get("raw_json")) if False else None
-    # rewards compared via raw_json is unreliable; compare stored count indirectly
+    # reward set/rules changed (only when BOTH snapshot and live carry rewards —
+    # a plain get_campaigns() row lacks the key and must skip comparison)
+    if "rewards" in row and "rewards" in c:
+        old_sig = _reward_signature(row.get("rewards"))
+        new_sig = _reward_signature(c.get("rewards"))
+        if old_sig != new_sig:
+            return True
     return False
-
-
-def json_rewards(raw):  # helper placeholder (rewards live in rewards table; comparison in Phase 1 uses count via caller)
-    return None
 
 
 def fmt_dt(dt, tz_name: str) -> str:
@@ -238,7 +250,7 @@ def compose_digest(state: dict, now: datetime.datetime, tz_name: str,
                 break
             kept.append(ln)
             total += add
-        msg = "\n".join(kept).rstrip() + f"\n…+ more on <a href=\"https://drops.hector.app\">drops.hector.app</a>"
+        msg = "\n".join(kept).rstrip() + "\n…+ more on <a href=\"https://drops.hector.app\">drops.hector.app</a>"
     return msg
 def compose_digests_multipart(state: dict, now: datetime.datetime, tz_name: str,
                               favorites: set | None = None, cap: int = 3800,

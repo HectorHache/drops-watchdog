@@ -149,3 +149,46 @@ class TestCompose(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestMaterialChange(unittest.TestCase):
+    """Reward-set/rules changes are material — plus unit coverage of the fix."""
+
+    def test_reward_added_is_material(self):
+        row = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+               "rewards": [{"name": "A", "required_minutes": 60}]}
+        c = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+             "rewards": [{"name": "A", "required_minutes": 60}, {"name": "B", "required_minutes": 30}]}
+        self.assertTrue(wd._materially_changed(row, c))
+
+    def test_reward_minutes_change_is_material(self):
+        row = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+               "rewards": [{"name": "A", "required_minutes": 60}]}
+        c = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+             "rewards": [{"name": "A", "required_minutes": 120}]}
+        self.assertTrue(wd._materially_changed(row, c))
+
+    def test_identical_rewards_not_material(self):
+        row = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+               "rewards": [{"name": "A", "required_minutes": 60}, {"name": "B", "required_minutes": 30}]}
+        c = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+             "rewards": [{"name": "B", "required_minutes": 30}, {"name": "A", "required_minutes": 60}]}
+        self.assertFalse(wd._materially_changed(row, c))
+
+    def test_rows_without_rewards_key_skip_reward_check(self):
+        # plain get_campaigns() rows have no "rewards" key -> no reward comparison
+        row = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00"}
+        c = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+             "rewards": [{"name": "A", "required_minutes": 60}]}
+        self.assertFalse(wd._materially_changed(row, c))
+
+    def test_empty_rewards_versus_none_not_material(self):
+        row = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00",
+               "rewards": []}
+        c = {"title": "t", "game_name": "g", "end_at": "2026-09-05T10:00:00+00:00"}
+        self.assertFalse(wd._materially_changed(row, c))
+
+    def test_reward_signature_handles_junk_entries(self):
+        sig = wd._reward_signature([{"name": "A", "required_minutes": 60}, "junk", None])
+        self.assertEqual(sig, frozenset({("A", 60)}))
+        self.assertEqual(wd._reward_signature(None), frozenset())
