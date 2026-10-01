@@ -2778,46 +2778,6 @@
    "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
   },
   {
-   "id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
-   "game": "Albion Online",
-   "title": "Dragonfire 5 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T10:00:00+00:00",
-   "endAt": "2026-10-01T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-30T10:00:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f1ded07f-b0db-4885-8a4a-d19cac17c0d8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png"
-  },
-  {
-   "id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 4 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T10:00:00+00:00",
-   "endAt": "2026-10-01T09:29:59.999+00:00",
-   "firstSeenAt": "2026-09-30T10:00:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be35fddd-9444-4a3f-96bb-6c253515d1bb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ee36be6f-0383-48ed-b051-1bb4e6ddb298",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ee36be6f-0383-48ed-b051-1bb4e6ddb298.png"
-  },
-  {
    "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Sep 30)",
@@ -3464,9 +3424,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ef371a6b-b762-4d7e-b31e-e4211be15030.png"
+  },
+  {
+   "id": "19800c70-7d90-45bc-894b-b1765188b529",
+   "game": "Warhammer 40,000: Space Marine II",
+   "title": "The Anniversary Update II",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T09:20:00+00:00",
+   "endAt": "2026-10-29T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T09:30:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b7b4bb5-f81d-4d7b-b1e9-57cce1a071e6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19800c70-7d90-45bc-894b-b1765188b529",
+   "rewards": [
+    {
+     "name": "100 Accolades + a chat badge",
+     "minutes": 30
+    },
+    {
+     "name": "Infiltrator Helmet",
+     "minutes": 60
+    },
+    {
+     "name": "Victrix Honour Guard Storm Shield",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/19800c70-7d90-45bc-894b-b1765188b529.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #3/7",
+   "startAt": "2026-09-30T10:00:00+00:00",
+   "endAt": "2026-10-01T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #3/7",
+   "startAt": "2026-09-30T10:00:00+00:00",
+   "endAt": "2026-10-01T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
    "game": "Special Events",
@@ -9727,13 +9731,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.73
+   "score": 13.72
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.35
+   "score": 19.34
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9745,25 +9749,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.22
+   "score": 19.21
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.73
+   "score": 13.72
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.73
+   "score": 13.72
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.73
+   "score": 13.72
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9775,7 +9779,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.58
+   "score": 6.57
   },
   "Warframe": {
    "favorites": 1,
@@ -9787,7 +9791,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.73
+   "score": 13.72
   }
  },
  "favoriteWeights": {
