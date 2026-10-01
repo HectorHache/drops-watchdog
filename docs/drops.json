@@ -3612,6 +3612,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b526da0e-74d5-4a7e-971a-695c966b6c95.png"
+  },
+  {
+   "id": "90e6951f-a14f-498c-8ae3-6dcf966a9979",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T17:00:00+00:00",
+   "endAt": "2026-10-02T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T17:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3da712a-e648-4da0-bf40-af5bea2ef65a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=90e6951f-a14f-498c-8ae3-6dcf966a9979",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/90e6951f-a14f-498c-8ae3-6dcf966a9979.png"
   }
  ],
  "archive": [
@@ -9955,13 +9995,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.63
+   "score": 13.62
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.21
+   "score": 19.2
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9973,25 +10013,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.08
+   "score": 19.07
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.63
+   "score": 13.62
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.63
+   "score": 13.62
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.63
+   "score": 13.62
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10015,7 +10055,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.63
+   "score": 13.62
   }
  },
  "favoriteWeights": {
