@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
-   "game": "Coin Pusher Live",
-   "title": "Fall 2026 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T14:44:46+00:00",
-   "endAt": "2026-10-01T14:43:59.999+00:00",
-   "firstSeenAt": "2026-09-03T18:30:22+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94332dba-1d14-4e36-ae13-490ad64650df.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
-   "rewards": [
-    {
-     "name": "Maple Pack",
-     "minutes": 120
-    },
-    {
-     "name": "Pumpkin Pack",
-     "minutes": 240
-    },
-    {
-     "name": "Acorn Pack",
-     "minutes": 360
-    },
-    {
-     "name": "Blood Moon Pack",
-     "minutes": 720
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f.png"
-  },
-  {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
    "title": "Civ VII Pax Livestream",
@@ -2846,26 +2814,6 @@
    "asset": "assets/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpg"
   },
   {
-   "id": "07e086a0-6d49-489f-8200-53b533fda643",
-   "game": "World of Tanks",
-   "title": "Extra Supplies ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T15:00:00+00:00",
-   "endAt": "2026-10-01T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T15:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb0c2216-fdd3-48cb-b695-afbb4952fe95.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=07e086a0-6d49-489f-8200-53b533fda643",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/07e086a0-6d49-489f-8200-53b533fda643.jpg"
-  },
-  {
    "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
    "game": "AION 2",
    "title": "AION 2 Early Access Event",
@@ -3648,9 +3596,97 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b61bded5-8d5a-4c26-a60e-1b6f5f1f6410.png"
+  },
+  {
+   "id": "7a4e231f-dda4-4d32-9f4c-855dee7258d7",
+   "game": "Escape from Tarkov",
+   "title": "Skuuii Trios",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T15:00:00+00:00",
+   "endAt": "2026-10-01T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T15:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d027a5c1-73f3-4045-8fc2-bfa74bcb510b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7a4e231f-dda4-4d32-9f4c-855dee7258d7",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7a4e231f-dda4-4d32-9f4c-855dee7258d7.png"
+  },
+  {
+   "id": "1f1174ef-f5bb-4904-9721-7c6738bd22ca",
+   "game": "World of Tanks",
+   "title": "DOOM Drops#1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T15:00:00+00:00",
+   "endAt": "2026-10-03T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T15:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4f32b883-6b1f-4c82-95e8-c6bb8066a088.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1f1174ef-f5bb-4904-9721-7c6738bd22ca",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1f1174ef-f5bb-4904-9721-7c6738bd22ca.jpg"
+  },
+  {
+   "id": "c1a3bab3-af60-47fd-a8ae-5ba606edb525",
+   "game": "Dead by Daylight",
+   "title": "DbD: October of Horror ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T15:00:00+00:00",
+   "endAt": "2026-10-12T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T15:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ef4fb25b-242e-4adc-8c3b-4cc177109237.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1a3bab3-af60-47fd-a8ae-5ba606edb525",
+   "rewards": [
+    {
+     "name": "Corvidicus Malificus Charm",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c1a3bab3-af60-47fd-a8ae-5ba606edb525.png"
   }
  ],
  "archive": [
+  {
+   "id": "07e086a0-6d49-489f-8200-53b533fda643",
+   "game": "World of Tanks",
+   "title": "Extra Supplies ",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-10-01T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
+   "game": "Coin Pusher Live",
+   "title": "Fall 2026 Drops",
+   "startAt": "2026-09-03T14:44:46+00:00",
+   "endAt": "2026-10-01T14:43:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e2829998-72ba-4854-8182-f96b4410035e",
    "game": "Out of the Park Baseball 27",
@@ -9949,7 +9985,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.25
+   "score": 19.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9961,7 +9997,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.12
+   "score": 19.11
   },
   "Once Human": {
    "favorites": 2,
