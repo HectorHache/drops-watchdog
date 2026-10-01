@@ -3452,6 +3452,78 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/19800c70-7d90-45bc-894b-b1765188b529.jpg"
+  },
+  {
+   "id": "b501e03e-3df0-448a-ad3f-9135ddcc40de",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T10:00:00+00:00",
+   "endAt": "2026-10-02T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-01T10:00:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d72daba-7da7-4f78-92d6-e91bb25f634e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b501e03e-3df0-448a-ad3f-9135ddcc40de",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b501e03e-3df0-448a-ad3f-9135ddcc40de.png"
+  },
+  {
+   "id": "55cfd91f-4269-46dd-b377-8a15bde5124c",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T10:00:00+00:00",
+   "endAt": "2026-10-02T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-01T10:00:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd1951f8-2e0d-498b-91b7-f8feac2f5711.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=55cfd91f-4269-46dd-b377-8a15bde5124c",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/55cfd91f-4269-46dd-b377-8a15bde5124c.png"
+  },
+  {
+   "id": "758d7626-d8c1-44a6-a76e-6e464347f45e",
+   "game": "Fishing Planet",
+   "title": "Haunted Fleet Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T10:00:00+00:00",
+   "endAt": "2026-10-19T09:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T10:00:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2299af7a-5990-4e66-b847-7bd3b854ca90.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=758d7626-d8c1-44a6-a76e-6e464347f45e",
+   "rewards": [
+    {
+     "name": "Phantom Revelation Chest",
+     "minutes": 180
+    },
+    {
+     "name": "Supernatural Enlightenment Vault",
+     "minutes": 300
+    },
+    {
+     "name": "Whisper of the Unknown",
+     "minutes": 60
+    },
+    {
+     "name": "Mystic Clue Cache",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/758d7626-d8c1-44a6-a76e-6e464347f45e.png"
   }
  ],
  "archive": [
@@ -9731,13 +9803,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.72
+   "score": 13.71
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.34
+   "score": 19.33
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9749,25 +9821,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.21
+   "score": 19.2
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.72
+   "score": 13.71
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.72
+   "score": 13.71
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.72
+   "score": 13.71
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9785,13 +9857,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.15
+   "score": 7.14
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.72
+   "score": 13.71
   }
  },
  "favoriteWeights": {
