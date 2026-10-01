@@ -2,30 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
-   "game": "Special Events",
-   "title": "Ironmouse Subathon 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-01T07:00:00+00:00",
-   "endAt": "2026-10-01T07:00:00+00:00",
-   "firstSeenAt": "2026-09-01T15:41:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6838852-b685-4943-825b-f9798c90222a.gif",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
-   "rewards": [
-    {
-     "name": "IronmouseWah Emote",
-     "minutes": 30
-    },
-    {
-     "name": "Mouseathon Badge",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
-  },
-  {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
    "game": "Coin Pusher Live",
    "title": "Fall 2026 Drops",
@@ -3308,9 +3284,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0e0e5f02-242a-4bde-ae43-59aeb6fb1826.png"
+  },
+  {
+   "id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d",
+   "game": "ELDEN RING",
+   "title": "Bloody Finger ELDEN RING",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T07:00:00+00:00",
+   "endAt": "2026-10-29T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T07:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5598af71-7e95-4efd-935f-49501355d979.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5e6e8172-09f9-4e28-bf54-0b4bef23804d",
+   "rewards": [
+    {
+     "name": "Bloody Finger ELDEN RING",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5e6e8172-09f9-4e28-bf54-0b4bef23804d.png"
   }
  ],
  "archive": [
+  {
+   "id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622",
+   "game": "Special Events",
+   "title": "Ironmouse Subathon 2026",
+   "startAt": "2026-09-01T07:00:00+00:00",
+   "endAt": "2026-10-01T07:00:00+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76",
    "game": "World of Warships",
@@ -9563,13 +9567,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.76
+   "score": 13.75
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.4
+   "score": 19.39
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9581,25 +9585,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.27
+   "score": 19.26
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.76
+   "score": 13.75
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.76
+   "score": 13.75
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.76
+   "score": 13.75
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9617,13 +9621,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.17
+   "score": 7.16
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.76
+   "score": 13.75
   }
  },
  "favoriteWeights": {

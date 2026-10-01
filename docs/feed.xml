@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Special Events — Ironmouse Subathon 2026</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=4185d21c-7dd1-41f8-9e8f-4f52c7b27622</link>
-    <guid isPermaLink="false">4185d21c-7dd1-41f8-9e8f-4f52c7b27622</guid>
-    <description>IronmouseWah Emote · Mouseathon Badge — runs 2026-09-01T07:00:00+00:00 → 2026-10-01T07:00:00+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-01T07:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Coin Pusher Live — Fall 2026 Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f</link>
     <guid isPermaLink="false">1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">b546584d-af17-4413-acbc-9e082ad2d6ea</guid>
     <description>Rust Isles Wood Door — runs 2026-09-24T18:39:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:39:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles Furnace</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=c26e8fc0-e80b-43c7-81a6-be252d1c490c</link>
+    <guid isPermaLink="false">c26e8fc0-e80b-43c7-81a6-be252d1c490c</guid>
+    <description>Rust Isles Furnace — runs 2026-09-24T18:40:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:40:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
