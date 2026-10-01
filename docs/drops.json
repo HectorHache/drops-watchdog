@@ -3408,6 +3408,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0979f1bb-fa0d-40d8-b175-c19b8d30bab8.png"
+  },
+  {
+   "id": "7beb0750-c45e-400c-8a05-0feb36a4d272",
+   "game": "UFL",
+   "title": "Oct #1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T08:45:00+00:00",
+   "endAt": "2026-10-07T23:58:59.999+00:00",
+   "firstSeenAt": "2026-10-01T09:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/871b6bca-8f24-4ea6-9131-f6ff73bf0c56.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7beb0750-c45e-400c-8a05-0feb36a4d272",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7beb0750-c45e-400c-8a05-0feb36a4d272.png"
+  },
+  {
+   "id": "ef371a6b-b762-4d7e-b31e-e4211be15030",
+   "game": "Alien: Isolation",
+   "title": "Alien: Isolation Horror",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T09:00:00+00:00",
+   "endAt": "2026-10-29T08:58:59.999+00:00",
+   "firstSeenAt": "2026-10-01T09:00:27+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/888d3745-cd1f-40de-8df1-dae29c4132ca.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef371a6b-b762-4d7e-b31e-e4211be15030",
+   "rewards": [
+    {
+     "name": "SEEGSON Synthetics",
+     "minutes": 30
+    },
+    {
+     "name": "Sevastopol Station",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ef371a6b-b762-4d7e-b31e-e4211be15030.png"
   }
  ],
  "archive": [
@@ -9677,19 +9733,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.36
+   "score": 19.35
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.04
+   "score": 3.03
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.23
+   "score": 19.22
   },
   "Once Human": {
    "favorites": 2,
