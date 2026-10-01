@@ -3624,6 +3624,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpg"
+  },
+  {
+   "id": "b61bded5-8d5a-4c26-a60e-1b6f5f1f6410",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T14:09:55+00:00",
+   "endAt": "2026-10-01T16:29:59.999+00:00",
+   "firstSeenAt": "2026-10-01T14:30:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17613131-a4c5-4211-aa9b-8aed166e67e8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b61bded5-8d5a-4c26-a60e-1b6f5f1f6410",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b61bded5-8d5a-4c26-a60e-1b6f5f1f6410.png"
   }
  ],
  "archive": [
@@ -9919,13 +9943,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.66
+   "score": 13.65
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.26
+   "score": 19.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9937,25 +9961,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.13
+   "score": 19.12
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.66
+   "score": 13.65
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.66
+   "score": 13.65
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.66
+   "score": 13.65
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9973,13 +9997,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.12
+   "score": 7.11
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.66
+   "score": 13.65
   }
  },
  "favoriteWeights": {
