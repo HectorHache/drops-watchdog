@@ -222,13 +222,6 @@
     <pubDate>2026-09-24T03:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>World of Warships — 15.8 Worth Their Salt #3</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=a87b9bd2-dfcb-400a-aeec-4f208e72be76</link>
-    <guid isPermaLink="false">a87b9bd2-dfcb-400a-aeec-4f208e72be76</guid>
-    <description>Worth Their Salt Week 3 — runs 2026-09-24T06:00:00+00:00 → 2026-10-01T05:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-24T06:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>VALORANT — VCT26 Champs Shanghai</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=e50f291f-c1e8-4610-b456-f32c96346a89</link>
     <guid isPermaLink="false">e50f291f-c1e8-4610-b456-f32c96346a89</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">ab849e29-f685-48e2-97c4-2d2be976af01</guid>
     <description>Rust Isles Lg Box — runs 2026-09-24T18:38:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:38:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles Wood Door</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=b546584d-af17-4413-acbc-9e082ad2d6ea</link>
+    <guid isPermaLink="false">b546584d-af17-4413-acbc-9e082ad2d6ea</guid>
+    <description>Rust Isles Wood Door — runs 2026-09-24T18:39:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:39:00+00:00</pubDate>
   </item>
 </channel>
 </rss>

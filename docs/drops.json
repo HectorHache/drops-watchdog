@@ -958,26 +958,6 @@
    "asset": "assets/65f8f2a5-074c-48ca-8505-f525bb8d75f5.png"
   },
   {
-   "id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76",
-   "game": "World of Warships",
-   "title": "15.8 Worth Their Salt #3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T06:00:00+00:00",
-   "endAt": "2026-10-01T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T06:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfcbadfd-4bd8-4883-a346-7ea32a7d6657.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a87b9bd2-dfcb-400a-aeec-4f208e72be76",
-   "rewards": [
-    {
-     "name": "Worth Their Salt Week 3",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png"
-  },
-  {
    "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
    "game": "VALORANT",
    "title": "VCT26 Champs Shanghai",
@@ -3308,9 +3288,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/27c7bf80-6b43-405a-b54d-a5c55860bdee.png"
+  },
+  {
+   "id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T06:00:00+00:00",
+   "endAt": "2026-10-08T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T06:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3055cf0e-ca74-4068-a9b1-4d52c0ad4542.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
+   "rewards": [
+    {
+     "name": "Worth Their Salt Week 4",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0e0e5f02-242a-4bde-ae43-59aeb6fb1826.png"
   }
  ],
  "archive": [
+  {
+   "id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #3",
+   "startAt": "2026-09-24T06:00:00+00:00",
+   "endAt": "2026-10-01T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
    "game": "Fortnite",
@@ -9561,19 +9569,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.42
+   "score": 19.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.05
+   "score": 3.04
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.29
+   "score": 19.28
   },
   "Once Human": {
    "favorites": 2,
@@ -9603,7 +9611,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.6
+   "score": 6.59
   },
   "Warframe": {
    "favorites": 1,
