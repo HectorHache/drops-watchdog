@@ -1490,50 +1490,6 @@
    "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
   },
   {
-   "id": "566449fe-0311-4fa7-bf08-26cff77418de",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T14:00:00+00:00",
-   "endAt": "2026-10-01T21:58:59.999+00:00",
-   "firstSeenAt": "2026-09-25T14:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/410f8e68-0455-463a-9e29-97313e4e0716.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=566449fe-0311-4fa7-bf08-26cff77418de",
-   "rewards": [
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    },
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/566449fe-0311-4fa7-bf08-26cff77418de.png"
-  },
-  {
    "id": "1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
    "game": "Skull and Bones",
    "title": "SAB - Supereloy77",
@@ -2670,6 +2626,26 @@
    "asset": "assets/be4a0575-c793-4d03-a9f7-15fdcc499348.png"
   },
   {
+   "id": "b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
+   "game": "AirMech",
+   "title": "AirMech Drops Test",
+   "status": "ACTIVE",
+   "startAt": "2026-09-30T06:04:21+00:00",
+   "endAt": "2026-10-05T06:03:59.999+00:00",
+   "firstSeenAt": "2026-10-01T22:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4587584f-0896-4f6a-b4e9-ff204136e8e2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
+   "rewards": [
+    {
+     "name": "Twitch Capsule - Test",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742.png"
+  },
+  {
    "id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
    "game": "Doomsday: Last Survivors",
    "title": "Twitch Drops",
@@ -2832,42 +2808,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/989bb268-3603-458e-b9ae-e317582878f5.png"
-  },
-  {
-   "id": "9745755d-2061-469a-8ac1-5ed408a07076",
-   "game": "DOFUS Touch",
-   "title": "J17 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T22:00:00+00:00",
-   "endAt": "2026-10-01T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T22:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/91a475f5-8168-4e69-98f4-549f281454bd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9745755d-2061-469a-8ac1-5ed408a07076",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9745755d-2061-469a-8ac1-5ed408a07076.png"
   },
   {
    "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
@@ -3700,9 +3640,89 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
+  },
+  {
+   "id": "df4e636c-1361-4aa4-9d8b-8043cdf763b5",
+   "game": "Warframe",
+   "title": "Prime Time 499 for PMCFQ!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T21:55:00+00:00",
+   "endAt": "2026-10-02T00:14:59.999+00:00",
+   "firstSeenAt": "2026-10-01T22:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fa4fdcad-dd74-431b-9a8b-2fa581550265.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=df4e636c-1361-4aa4-9d8b-8043cdf763b5",
+   "rewards": [
+    {
+     "name": "Random Noggle - PMCFQ",
+     "minutes": 30
+    },
+    {
+     "name": "Random Noggle - PMCFQ",
+     "minutes": 60
+    },
+    {
+     "name": "Random Noggle - PMCFQ",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/df4e636c-1361-4aa4-9d8b-8043cdf763b5.jpg"
+  },
+  {
+   "id": "f62d4334-d70d-46d1-a6c2-b4ac9d450509",
+   "game": "DOFUS Touch",
+   "title": "J18 - 3x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T22:00:00+00:00",
+   "endAt": "2026-10-02T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T22:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c043477-0db4-47dc-9b25-bb3ba2c15bba.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f62d4334-d70d-46d1-a6c2-b4ac9d450509",
+   "rewards": [
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f62d4334-d70d-46d1-a6c2-b4ac9d450509.png"
   }
  ],
  "archive": [
+  {
+   "id": "9745755d-2061-469a-8ac1-5ed408a07076",
+   "game": "DOFUS Touch",
+   "title": "J17 - 3x Temporix Cps",
+   "startAt": "2026-09-30T22:00:00+00:00",
+   "endAt": "2026-10-01T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "566449fe-0311-4fa7-bf08-26cff77418de",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-10-01T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7a4e231f-dda4-4d32-9f4c-855dee7258d7",
    "game": "Escape from Tarkov",
@@ -10067,13 +10087,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.56
+   "score": 13.55
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.12
+   "score": 19.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10085,25 +10105,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.99
+   "score": 18.98
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.56
+   "score": 13.55
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.56
+   "score": 13.55
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.56
+   "score": 13.55
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10115,7 +10135,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.5
+   "score": 6.49
   },
   "Warframe": {
    "favorites": 1,
@@ -10127,7 +10147,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.56
+   "score": 13.55
   }
  },
  "favoriteWeights": {
