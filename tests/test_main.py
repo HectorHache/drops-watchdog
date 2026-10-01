@@ -167,10 +167,25 @@ class TestFixtureDryrun(unittest.TestCase):
         self.assertIn("SILENT RUN", out)
 
     def test_fixture_dryrun_writes_nothing(self):
-        dbm.init_db(self.dbp)  # ensure file exists
-        before = self.dbp.read_bytes()
+        # "Writes nothing" means no DATA is persisted. Comparing raw .db file
+        # bytes is unreliable under PRAGMA journal_mode=WAL: checkpoint timing
+        # differs by platform/SQLite build (green on macOS, red on the Ubuntu
+        # CI runner), so the main file can grow by schema pages alone. Assert
+        # the row counts of every data table are unchanged instead.
+        tables = ("campaigns", "rewards", "notification_ledger", "events",
+                  "favorites", "kv_interactions", "meta", "steam_games")
+
+        def counts():
+            conn = dbm.init_db(self.dbp)
+            try:
+                return {t: conn.execute(f"SELECT count(*) FROM {t}").fetchone()[0]
+                        for t in tables}
+            finally:
+                conn.close()
+
+        before = counts()
         main.cmd_dryrun(argparse.Namespace(fixture=str(FIXTURE)))
-        self.assertEqual(self.dbp.read_bytes(), before)
+        self.assertEqual(counts(), before)
 
 
 class TestPipelineChangeDetection(_DbCase):
