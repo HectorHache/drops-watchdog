@@ -2834,46 +2834,6 @@
    "asset": "assets/989bb268-3603-458e-b9ae-e317582878f5.png"
   },
   {
-   "id": "053bbea5-0d64-4a87-bb89-26e4f3ac332f",
-   "game": "Rise Online",
-   "title": "Mobile Drop 174",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T17:59:00+00:00",
-   "endAt": "2026-10-01T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-30T18:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3deaad54-491f-492a-b7df-165335766a1b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=053bbea5-0d64-4a87-bb89-26e4f3ac332f",
-   "rewards": [
-    {
-     "name": "Mobile Drop 174",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/053bbea5-0d64-4a87-bb89-26e4f3ac332f.png"
-  },
-  {
-   "id": "52f41ab3-dc57-4b7b-895c-49b10992f575",
-   "game": "Rise Online",
-   "title": "ROW Drop 603",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T17:59:00+00:00",
-   "endAt": "2026-10-01T17:56:59.999+00:00",
-   "firstSeenAt": "2026-09-30T18:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/edbb9411-ea3e-499d-9c15-d2866cf3d4ef.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=52f41ab3-dc57-4b7b-895c-49b10992f575",
-   "rewards": [
-    {
-     "name": "ROW Drop 603",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/52f41ab3-dc57-4b7b-895c-49b10992f575.jpg"
-  },
-  {
    "id": "9745755d-2061-469a-8ac1-5ed408a07076",
    "game": "DOFUS Touch",
    "title": "J17 - 3x Temporix Cps",
@@ -3652,9 +3612,125 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/90e6951f-a14f-498c-8ae3-6dcf966a9979.png"
+  },
+  {
+   "id": "2eacdff7-9305-45cd-a5c1-645c6cef4299",
+   "game": "Fortnite",
+   "title": "Ironmouse Drops Rerun! ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T17:57:01+00:00",
+   "endAt": "2026-10-06T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b3dac70-46f4-47f6-a23f-1489cdf3dc3a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2eacdff7-9305-45cd-a5c1-645c6cef4299",
+   "rewards": [
+    {
+     "name": "Chibi Ironmouse Spray",
+     "minutes": 30
+    },
+    {
+     "name": "Guitar Processing Unit Pickaxe",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2eacdff7-9305-45cd-a5c1-645c6cef4299.jpg"
+  },
+  {
+   "id": "a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7",
+   "game": "Rise Online",
+   "title": "Mobile Drop 175",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T17:59:00+00:00",
+   "endAt": "2026-10-02T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ba03382-317f-4e01-a901-23e1ea2816f9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7",
+   "rewards": [
+    {
+     "name": "Mobile Drop 175",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7.png"
+  },
+  {
+   "id": "9a533850-7f8c-45ef-a4ea-6a5666589fb7",
+   "game": "Rise Online",
+   "title": "ROW Drop 604",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T17:59:00+00:00",
+   "endAt": "2026-10-02T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d122cbaa-d445-49fe-b0cf-1e9cc28ab9c5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a533850-7f8c-45ef-a4ea-6a5666589fb7",
+   "rewards": [
+    {
+     "name": "ROW Drop 604",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9a533850-7f8c-45ef-a4ea-6a5666589fb7.png"
+  },
+  {
+   "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
+   "game": "Overwatch",
+   "title": "Reign of Talon S4: Drives",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T18:00:00+00:00",
+   "endAt": "2026-10-06T06:58:59.999+00:00",
+   "firstSeenAt": "2026-10-01T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32a97786-11e8-462c-96de-b7fc073d4b40.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=084d3edc-4ba6-4ea1-9552-c1882733dbad",
+   "rewards": [
+    {
+     "name": "100 Comp Points",
+     "minutes": 120
+    },
+    {
+     "name": "100 Comp Points",
+     "minutes": 240
+    },
+    {
+     "name": "100 Comp Points",
+     "minutes": 360
+    },
+    {
+     "name": "100 Comp Points",
+     "minutes": 480
+    },
+    {
+     "name": "100 Comp Points",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/084d3edc-4ba6-4ea1-9552-c1882733dbad.png"
   }
  ],
  "archive": [
+  {
+   "id": "053bbea5-0d64-4a87-bb89-26e4f3ac332f",
+   "game": "Rise Online",
+   "title": "Mobile Drop 174",
+   "startAt": "2026-09-30T17:59:00+00:00",
+   "endAt": "2026-10-01T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "52f41ab3-dc57-4b7b-895c-49b10992f575",
+   "game": "Rise Online",
+   "title": "ROW Drop 603",
+   "startAt": "2026-09-30T17:59:00+00:00",
+   "endAt": "2026-10-01T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b61bded5-8d5a-4c26-a60e-1b6f5f1f6410",
    "game": "Madden NFL 27",
@@ -10001,7 +10077,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.2
+   "score": 19.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10037,7 +10113,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.51
+   "score": 1.5
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
