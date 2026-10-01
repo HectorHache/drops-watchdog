@@ -2778,42 +2778,6 @@
    "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
   },
   {
-   "id": "e2829998-72ba-4854-8182-f96b4410035e",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 9/30/26",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T13:00:00+00:00",
-   "endAt": "2026-10-01T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T13:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/67ee1772-4c2b-41b6-a0da-7bf74e42da69.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e2829998-72ba-4854-8182-f96b4410035e",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e2829998-72ba-4854-8182-f96b4410035e.png"
-  },
-  {
    "id": "5454eb48-0c26-4e18-871d-c4363129d5ad",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -3604,9 +3568,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ed627963-660c-42bd-bfbe-528bf2720e16.png"
+  },
+  {
+   "id": "d1e708f3-1bca-4390-8408-78c6e8a27799",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/1/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T13:00:00+00:00",
+   "endAt": "2026-10-02T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T13:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8d9885a5-87ac-4e2e-aa0a-f36b0025f0d0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1e708f3-1bca-4390-8408-78c6e8a27799",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d1e708f3-1bca-4390-8408-78c6e8a27799.png"
+  },
+  {
+   "id": "4240c65a-577d-47f4-96f5-9371cc99f5b5",
+   "game": "007 First Light",
+   "title": "Extended Operations",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T13:00:00+00:00",
+   "endAt": "2026-10-16T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T13:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61bd4181-77eb-4fc0-a3b2-21a18143be34.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4240c65a-577d-47f4-96f5-9371cc99f5b5",
+   "rewards": [
+    {
+     "name": "One More",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "e2829998-72ba-4854-8182-f96b4410035e",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 9/30/26",
+   "startAt": "2026-09-30T13:00:00+00:00",
+   "endAt": "2026-10-01T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
    "game": "Black Desert",
@@ -9891,13 +9919,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.29
+   "score": 19.28
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9909,25 +9937,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.16
+   "score": 19.15
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   },
   "THE FINALS": {
    "favorites": 0,
@@ -9945,13 +9973,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.13
+   "score": 7.12
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   }
  },
  "favoriteWeights": {
