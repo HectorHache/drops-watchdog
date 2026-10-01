@@ -2778,26 +2778,6 @@
    "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
   },
   {
-   "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Sep 30)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T12:00:00+00:00",
-   "endAt": "2026-10-01T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T12:00:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a3feab4-1d7e-48a0-a85b-7fa1bb0c5454.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=781befbd-87d0-4a40-be6d-89442b47c1c6",
-   "rewards": [
-    {
-     "name": "2 Hours (Sep 30)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/781befbd-87d0-4a40-be6d-89442b47c1c6.png"
-  },
-  {
    "id": "e2829998-72ba-4854-8182-f96b4410035e",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 9/30/26",
@@ -3552,9 +3532,37 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/bd0498b5-9068-4e4a-8d43-5b66ea0bd992.png"
+  },
+  {
+   "id": "ed627963-660c-42bd-bfbe-528bf2720e16",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 1)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T12:00:00+00:00",
+   "endAt": "2026-10-02T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T12:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a7684444-eb6f-495b-9cb7-9805b75ae0b7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ed627963-660c-42bd-bfbe-528bf2720e16",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 1)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ed627963-660c-42bd-bfbe-528bf2720e16.png"
   }
  ],
  "archive": [
+  {
+   "id": "781befbd-87d0-4a40-be6d-89442b47c1c6",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Sep 30)",
+   "startAt": "2026-09-30T12:00:00+00:00",
+   "endAt": "2026-10-01T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef",
    "game": "Albion Online",
@@ -9837,7 +9845,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.31
+   "score": 19.3
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
