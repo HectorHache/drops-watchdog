@@ -3458,38 +3458,6 @@
    "asset": "assets/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpg"
   },
   {
-   "id": "7a4e231f-dda4-4d32-9f4c-855dee7258d7",
-   "game": "Escape from Tarkov",
-   "title": "Skuuii Trios",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T15:00:00+00:00",
-   "endAt": "2026-10-01T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T15:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d027a5c1-73f3-4045-8fc2-bfa74bcb510b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7a4e231f-dda4-4d32-9f4c-855dee7258d7",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7a4e231f-dda4-4d32-9f4c-855dee7258d7.png"
-  },
-  {
    "id": "1f1174ef-f5bb-4904-9721-7c6738bd22ca",
    "game": "World of Tanks",
    "title": "DOOM Drops#1",
@@ -3712,9 +3680,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/084d3edc-4ba6-4ea1-9552-c1882733dbad.png"
+  },
+  {
+   "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
+   "game": "Street Fighter 6",
+   "title": "Street Fighter 6",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T20:00:00+00:00",
+   "endAt": "2026-10-28T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T20:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30bc36c1-6988-4aec-a1ea-fc7c16f3e26b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
+   "rewards": [
+    {
+     "name": "SFGuile Emote",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   }
  ],
  "archive": [
+  {
+   "id": "7a4e231f-dda4-4d32-9f4c-855dee7258d7",
+   "game": "Escape from Tarkov",
+   "title": "Skuuii Trios",
+   "startAt": "2026-10-01T15:00:00+00:00",
+   "endAt": "2026-10-01T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "053bbea5-0d64-4a87-bb89-26e4f3ac332f",
    "game": "Rise Online",
@@ -10071,13 +10067,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.16
+   "score": 19.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10089,25 +10085,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.03
+   "score": 19.02
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10125,13 +10121,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.08
+   "score": 7.07
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   }
  },
  "favoriteWeights": {
