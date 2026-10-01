@@ -3524,6 +3524,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/758d7626-d8c1-44a6-a76e-6e464347f45e.png"
+  },
+  {
+   "id": "bd0498b5-9068-4e4a-8d43-5b66ea0bd992",
+   "game": "THE FINALS",
+   "title": "FALL IS HERE",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T10:30:00+00:00",
+   "endAt": "2026-10-15T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T10:30:28+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ed71f87-0f44-44af-a049-48c81abea980.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd0498b5-9068-4e4a-8d43-5b66ea0bd992",
+   "rewards": [
+    {
+     "name": "Forage Fortune Charm",
+     "minutes": 60
+    },
+    {
+     "name": "Seed Money Earrings",
+     "minutes": 120
+    },
+    {
+     "name": "Havoc Raker Sledgehammer",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/bd0498b5-9068-4e4a-8d43-5b66ea0bd992.png"
   }
  ],
  "archive": [
@@ -9809,7 +9837,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.33
+   "score": 19.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -9821,7 +9849,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.2
+   "score": 19.19
   },
   "Once Human": {
    "favorites": 2,
