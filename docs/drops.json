@@ -26,30 +26,6 @@
    "asset": "assets/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.jpg"
   },
   {
-   "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
-   "game": "The Blood of Dawnwalker",
-   "title": "Dawnwalker Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-09-03T00:00:00+00:00",
-   "endAt": "2026-09-30T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-03T00:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dfac58e6-a942-43ea-95f7-73f9bb69242b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b94b19f-17db-4edd-80dd-e2eca81f21df",
-   "rewards": [
-    {
-     "name": "Dawnwalker Launch",
-     "minutes": 60
-    },
-    {
-     "name": "Dawnwalker Supporter",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/9b94b19f-17db-4edd-80dd-e2eca81f21df.png"
-  },
-  {
    "id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f",
    "game": "Coin Pusher Live",
    "title": "Fall 2026 Drops",
@@ -558,30 +534,6 @@
    "asset": "assets/60d49775-74c0-4821-91d0-5fd5e7ac0506.png"
   },
   {
-   "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
-   "game": "Fortnite",
-   "title": "Ironmouse x Fortnite ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-18T13:00:00+00:00",
-   "endAt": "2026-10-01T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-18T13:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ceb7c5db-a804-45d8-9efa-8ef0135e95b9.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30c46562-1617-4fc6-babd-6f8fa26afe06",
-   "rewards": [
-    {
-     "name": "Chibi Ironmouse Spray",
-     "minutes": 30
-    },
-    {
-     "name": "Guitar Processing Unit",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/30c46562-1617-4fc6-babd-6f8fa26afe06.jpg"
-  },
-  {
    "id": "8bce7df4-b03e-4e1e-8829-7513d54016ec",
    "game": "War Robots: Frontiers",
    "title": "Shadowed Bastion",
@@ -1024,42 +976,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png"
-  },
-  {
-   "id": "a08129f9-86ff-4200-b503-38d8816b661b",
-   "game": "UFL",
-   "title": "Sept #4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T08:05:00+00:00",
-   "endAt": "2026-09-30T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T08:30:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35309a22-9351-40ea-a73e-e9304323eb40.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a08129f9-86ff-4200-b503-38d8816b661b",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    },
-    {
-     "name": "5",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a08129f9-86ff-4200-b503-38d8816b661b.png"
   },
   {
    "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
@@ -2746,26 +2662,6 @@
    "asset": "assets/39067c53-2efb-4dcf-be67-223ef58c114f.png"
   },
   {
-   "id": "17aab383-e78a-41d1-865b-d307e26635c6",
-   "game": "The Quinfall",
-   "title": "September Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T00:00:00+00:00",
-   "endAt": "2026-09-30T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T00:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ddad9ca5-7b64-4089-93c7-17fa1c27c3bb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=17aab383-e78a-41d1-865b-d307e26635c6",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/17aab383-e78a-41d1-865b-d307e26635c6.png"
-  },
-  {
    "id": "2014df61-45cc-4519-834d-46774dc1b842",
    "game": "NTE: Neverness to Everness",
    "title": "NTE Twitch Drops Event",
@@ -3022,26 +2918,6 @@
    "asset": "assets/e2829998-72ba-4854-8182-f96b4410035e.png"
   },
   {
-   "id": "977e256a-df6b-403b-8aff-480bb8edfceb",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.9 #12",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T14:00:00+00:00",
-   "endAt": "2026-10-01T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T14:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be5589b7-4c76-46e4-9d9e-8b3a34479fe7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=977e256a-df6b-403b-8aff-480bb8edfceb",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/977e256a-df6b-403b-8aff-480bb8edfceb.jpg"
-  },
-  {
    "id": "5454eb48-0c26-4e18-871d-c4363129d5ad",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 2/3",
@@ -3108,50 +2984,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpg"
-  },
-  {
-   "id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
-   "game": "Hearthstone",
-   "title": "Tentacle Rave",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T15:00:00+00:00",
-   "endAt": "2026-09-30T22:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T15:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61281c4e-f40c-465c-b782-10f2b119f332.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
-   "rewards": [
-    {
-     "name": "Black Empire Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01.png"
-  },
-  {
-   "id": "9b6b9651-ffb0-484b-a1d2-6feb4483925b",
-   "game": "Rise of Agon",
-   "title": "Open Beta Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T15:00:00+00:00",
-   "endAt": "2026-09-30T23:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T15:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b6b9651-ffb0-484b-a1d2-6feb4483925b",
-   "rewards": [
-    {
-     "name": "Hairy Spider Pet",
-     "minutes": 180
-    },
-    {
-     "name": "Mana Missle: Crimson",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9b6b9651-ffb0-484b-a1d2-6feb4483925b.png"
   },
   {
    "id": "07e086a0-6d49-489f-8200-53b533fda643",
@@ -3340,9 +3172,209 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c1776a1-ba10-4589-8b23-9179d0b502c6.png"
+  },
+  {
+   "id": "07fb17e3-f694-4f8d-aa47-8309f700c64e",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T00:00:00+00:00",
+   "endAt": "2026-10-01T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T00:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f607d0cf-5734-4510-b157-db2227d7e328.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=07fb17e3-f694-4f8d-aa47-8309f700c64e",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/07fb17e3-f694-4f8d-aa47-8309f700c64e.png"
+  },
+  {
+   "id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
+   "game": "Delta Force",
+   "title": "AM&EMEA Group Stage D5-8",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T00:00:00+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T00:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0762700-5d92-41c1-ab89-c08d00b4288d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Ammo Selection Pack Lv.4",
+     "minutes": 30
+    },
+    {
+     "name": "Spray-RISE SERIES SEASON2",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Avatar-RISESERIES SEASON2",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6.png"
+  },
+  {
+   "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
+   "game": "Wolvesville",
+   "title": "October 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T00:00:00+00:00",
+   "endAt": "2026-10-28T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T00:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c671e005-f956-4823-bf5c-7e18d973fe3c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5b32b5e7-7421-40ae-be32-e45b4df19a12",
+   "rewards": [
+    {
+     "name": "Twitch mask",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5b32b5e7-7421-40ae-be32-e45b4df19a12.png"
+  },
+  {
+   "id": "7b8fbcc7-90f2-4f7e-b707-b4545afcba91",
+   "game": "Last Epoch",
+   "title": "Last Epoch Season 5 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T00:01:00+00:00",
+   "endAt": "2026-10-05T00:00:59.999+00:00",
+   "firstSeenAt": "2026-10-01T00:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbe91736-0010-45ad-aaf8-6b540075b9b3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b8fbcc7-90f2-4f7e-b707-b4545afcba91",
+   "rewards": [
+    {
+     "name": "Enraged Watcher Title",
+     "minutes": 120
+    },
+    {
+     "name": "Hailborne Rod",
+     "minutes": 240
+    },
+    {
+     "name": "Bumble Bear Summon Bear",
+     "minutes": 360
+    },
+    {
+     "name": "Fractured Fireball",
+     "minutes": 480
+    },
+    {
+     "name": "Crimson Lance",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7b8fbcc7-90f2-4f7e-b707-b4545afcba91.png"
+  },
+  {
+   "id": "27c7bf80-6b43-405a-b54d-a5c55860bdee",
+   "game": "Rise of Agon",
+   "title": "Open Beta Launch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-01T00:14:25+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-01T00:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=27c7bf80-6b43-405a-b54d-a5c55860bdee",
+   "rewards": [
+    {
+     "name": "Mana Missle: Crimson",
+     "minutes": 0
+    },
+    {
+     "name": "Hairy Spider Pet",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/27c7bf80-6b43-405a-b54d-a5c55860bdee.png"
   }
  ],
  "archive": [
+  {
+   "id": "30c46562-1617-4fc6-babd-6f8fa26afe06",
+   "game": "Fortnite",
+   "title": "Ironmouse x Fortnite ",
+   "startAt": "2026-09-18T13:00:00+00:00",
+   "endAt": "2026-10-01T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "977e256a-df6b-403b-8aff-480bb8edfceb",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.9 #12",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-10-01T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "447f921b-8162-4d7d-bd23-387ca106cb92",
+   "game": "Rocket League",
+   "title": "The General x RL",
+   "startAt": "2026-09-30T22:37:12+00:00",
+   "endAt": "2026-10-01T00:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "17aab383-e78a-41d1-865b-d307e26635c6",
+   "game": "The Quinfall",
+   "title": "September Drops",
+   "startAt": "2026-09-30T00:00:00+00:00",
+   "endAt": "2026-09-30T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9b6b9651-ffb0-484b-a1d2-6feb4483925b",
+   "game": "Rise of Agon",
+   "title": "Open Beta Launch Drops",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-09-30T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9b94b19f-17db-4edd-80dd-e2eca81f21df",
+   "game": "The Blood of Dawnwalker",
+   "title": "Dawnwalker Launch",
+   "startAt": "2026-09-03T00:00:00+00:00",
+   "endAt": "2026-09-30T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a08129f9-86ff-4200-b503-38d8816b661b",
+   "game": "UFL",
+   "title": "Sept #4",
+   "startAt": "2026-09-24T08:05:00+00:00",
+   "endAt": "2026-09-30T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01",
+   "game": "Hearthstone",
+   "title": "Tentacle Rave",
+   "startAt": "2026-09-30T15:00:00+00:00",
+   "endAt": "2026-09-30T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9",
    "game": "World of Warships",
@@ -9523,67 +9555,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.87
+   "score": 13.78
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.55
+   "score": 19.43
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.07
+   "score": 3.05
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 19.42
+   "score": 19.3
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.87
+   "score": 13.78
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.87
+   "score": 13.78
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.87
+   "score": 13.78
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.53
+   "score": 1.52
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.64
+   "score": 6.6
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.22
+   "score": 7.18
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.87
+   "score": 13.78
   }
  },
  "favoriteWeights": {
