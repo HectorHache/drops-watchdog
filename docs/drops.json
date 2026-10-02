@@ -3754,30 +3754,6 @@
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   },
   {
-   "id": "5dcf1b51-c4f4-4131-b4d5-c96a83e689d3",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Rundown",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T14:30:00+00:00",
-   "endAt": "2026-10-02T16:29:59.999+00:00",
-   "firstSeenAt": "2026-10-02T14:30:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8556a93f-a1cb-4910-b582-ffe2cd0cac5b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5dcf1b51-c4f4-4131-b4d5-c96a83e689d3",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5dcf1b51-c4f4-4131-b4d5-c96a83e689d3.png"
-  },
-  {
    "id": "66486429-866d-41f9-9ebc-e8d2a04c107b",
    "game": "Caliber",
    "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 02.10.2026",
@@ -4047,6 +4023,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "5dcf1b51-c4f4-4131-b4d5-c96a83e689d3",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-10-02T14:30:00+00:00",
+   "endAt": "2026-10-02T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d15e0f7d-0cb2-4b95-9424-ccc62563186f",
    "game": "NARAKA: BLADEPOINT",
@@ -10545,19 +10529,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.78
+   "score": 18.77
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.95
+   "score": 2.94
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.66
+   "score": 18.65
   },
   "Once Human": {
    "favorites": 2,
