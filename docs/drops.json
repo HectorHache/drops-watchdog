@@ -3242,42 +3242,6 @@
    "asset": "assets/bd0498b5-9068-4e4a-8d43-5b66ea0bd992.png"
   },
   {
-   "id": "d1e708f3-1bca-4390-8408-78c6e8a27799",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/1/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T13:00:00+00:00",
-   "endAt": "2026-10-02T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T13:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8d9885a5-87ac-4e2e-aa0a-f36b0025f0d0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d1e708f3-1bca-4390-8408-78c6e8a27799",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d1e708f3-1bca-4390-8408-78c6e8a27799.png"
-  },
-  {
    "id": "4240c65a-577d-47f4-96f5-9371cc99f5b5",
    "game": "007 First Light",
    "title": "Extended Operations",
@@ -3760,9 +3724,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ab85aff0-5d1e-4cb3-8a5f-03118c06a8d3.png"
+  },
+  {
+   "id": "9364e427-69dc-40a3-8629-54675beaac64",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/2/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T13:00:00+00:00",
+   "endAt": "2026-10-03T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T13:00:25+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd73bb0b-44e6-4ddf-b049-58bd2b9db3c6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9364e427-69dc-40a3-8629-54675beaac64",
+   "rewards": [
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9364e427-69dc-40a3-8629-54675beaac64.png"
   }
  ],
  "archive": [
+  {
+   "id": "d1e708f3-1bca-4390-8408-78c6e8a27799",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/1/26",
+   "startAt": "2026-10-01T13:00:00+00:00",
+   "endAt": "2026-10-02T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ed627963-660c-42bd-bfbe-528bf2720e16",
    "game": "Black Desert",
@@ -10207,43 +10215,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.37
+   "score": 13.36
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.85
+   "score": 18.84
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.96
+   "score": 2.95
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.72
+   "score": 18.71
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.37
+   "score": 13.36
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.37
+   "score": 13.36
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.37
+   "score": 13.36
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10267,7 +10275,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.37
+   "score": 13.36
   }
  },
  "favoriteWeights": {
