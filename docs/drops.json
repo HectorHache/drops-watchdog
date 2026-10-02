@@ -1510,62 +1510,6 @@
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   },
   {
-   "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
-   "game": "MARVEL Contest of Champions",
-   "title": "September Week 4 - CCP",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T17:00:00+00:00",
-   "endAt": "2026-10-02T16:44:59.999+00:00",
-   "firstSeenAt": "2026-09-25T17:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
-   "rewards": [
-    {
-     "name": "CCP Drop 1 - PRG Gated Rank Up Gem",
-     "minutes": 120
-    },
-    {
-     "name": "CCP Drop 2 - 1x Observance",
-     "minutes": 180
-    },
-    {
-     "name": "CCP Drop 3 - PRG Gated Ascension Materials",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2.png"
-  },
-  {
-   "id": "4c45c164-06c1-4175-a6e7-cadc4d57c077",
-   "game": "MARVEL Contest of Champions",
-   "title": "September Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T17:00:00+00:00",
-   "endAt": "2026-10-02T16:44:59.999+00:00",
-   "firstSeenAt": "2026-09-25T17:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c45c164-06c1-4175-a6e7-cadc4d57c077",
-   "rewards": [
-    {
-     "name": "Drop 1 - 3x Rebirth Crystals",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - 1x Observance",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3 - PRG Gated Signature Stones",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4c45c164-06c1-4175-a6e7-cadc4d57c077.png"
-  },
-  {
    "id": "14e2c1b8-6730-4edf-b46f-92f6926d4565",
    "game": "Coryphaeus Championships",
    "title": "Summer Drops Fall",
@@ -3234,46 +3178,6 @@
    "asset": "assets/b526da0e-74d5-4a7e-971a-695c966b6c95.png"
   },
   {
-   "id": "90e6951f-a14f-498c-8ae3-6dcf966a9979",
-   "game": "Madden NFL 27",
-   "title": "Madden Live",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T17:00:00+00:00",
-   "endAt": "2026-10-02T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T17:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3da712a-e648-4da0-bf40-af5bea2ef65a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=90e6951f-a14f-498c-8ae3-6dcf966a9979",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/90e6951f-a14f-498c-8ae3-6dcf966a9979.png"
-  },
-  {
    "id": "2eacdff7-9305-45cd-a5c1-645c6cef4299",
    "game": "Fortnite",
    "title": "Ironmouse Drops Rerun! ",
@@ -4020,9 +3924,149 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
+  },
+  {
+   "id": "4b46b173-9fad-42ee-9d43-03c6020c6fde",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Livestream",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T16:45:00+00:00",
+   "endAt": "2026-10-02T18:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T17:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b46b173-9fad-42ee-9d43-03c6020c6fde",
+   "rewards": [
+    {
+     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
+     "minutes": 15
+    },
+    {
+     "name": "Drop 2 - 3x Rebirth Crystals",
+     "minutes": 20
+    },
+    {
+     "name": "Drop 3 - PRG Gated Hero Crystal",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 4 - 2x Observance",
+     "minutes": 45
+    },
+    {
+     "name": "Drop 5 - PRG Gated Ascension Materials",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4b46b173-9fad-42ee-9d43-03c6020c6fde.png"
+  },
+  {
+   "id": "24e429d6-6d9c-4aac-83e1-c14046dcea7d",
+   "game": "Tanki Online",
+   "title": "\u041c\u041f 2026 | MP 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T17:00:00+00:00",
+   "endAt": "2026-10-02T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-02T17:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00ea3248-fcd7-4e81-8b95-52df18d25627.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24e429d6-6d9c-4aac-83e1-c14046dcea7d",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 150
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/24e429d6-6d9c-4aac-83e1-c14046dcea7d.jpg"
+  },
+  {
+   "id": "78d968e7-a72a-440e-8773-2320a21e623a",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T17:00:00+00:00",
+   "endAt": "2026-10-03T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T17:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53cd9068-a646-46f3-adca-ea6f50132b37.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=78d968e7-a72a-440e-8773-2320a21e623a",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/78d968e7-a72a-440e-8773-2320a21e623a.png"
   }
  ],
  "archive": [
+  {
+   "id": "90e6951f-a14f-498c-8ae3-6dcf966a9979",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "startAt": "2026-10-01T17:00:00+00:00",
+   "endAt": "2026-10-02T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 4 - CCP",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-10-02T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4c45c164-06c1-4175-a6e7-cadc4d57c077",
+   "game": "MARVEL Contest of Champions",
+   "title": "September Week 4",
+   "startAt": "2026-09-25T17:00:00+00:00",
+   "endAt": "2026-10-02T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5dcf1b51-c4f4-4131-b4d5-c96a83e689d3",
    "game": "EA Sports College Football 27",
@@ -10523,7 +10567,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.32
+   "score": 13.31
   },
   "Delta Force": {
    "favorites": 3,
@@ -10541,25 +10585,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.65
+   "score": 18.64
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.32
+   "score": 13.31
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.32
+   "score": 13.31
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.32
+   "score": 13.31
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10577,13 +10621,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.94
+   "score": 6.93
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.32
+   "score": 13.31
   }
  },
  "favoriteWeights": {
