@@ -3760,6 +3760,142 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9364e427-69dc-40a3-8629-54675beaac64.png"
+  },
+  {
+   "id": "10f4e5b0-ab27-4904-a8a1-a57f707abd12",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T14:00:00+00:00",
+   "endAt": "2026-10-04T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-02T14:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2324cd62-f33e-40ad-8218-ce37dcb57fe1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=10f4e5b0-ab27-4904-a8a1-a57f707abd12",
+   "rewards": [
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    },
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/10f4e5b0-ab27-4904-a8a1-a57f707abd12.png"
+  },
+  {
+   "id": "a8e98068-8b11-472a-818c-8b66e4bb5f44",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T14:00:00+00:00",
+   "endAt": "2026-10-08T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-02T14:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a19635fa-b7f9-434d-aaa9-3d5cd9c8c924.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8e98068-8b11-472a-818c-8b66e4bb5f44",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a8e98068-8b11-472a-818c-8b66e4bb5f44.png"
+  },
+  {
+   "id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
+   "game": "Krunker",
+   "title": "Krunker Season 10 Update",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T14:00:00+00:00",
+   "endAt": "2026-10-16T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T14:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/75733e3e-7ea1-49f5-bd5b-9d42b59e184f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
+   "rewards": [
+    {
+     "name": "Bits Halo (Hat)",
+     "minutes": 60
+    },
+    {
+     "name": "TTV Spectre (Melee)",
+     "minutes": 120
+    },
+    {
+     "name": "Celestia Veil (Semi Auto)",
+     "minutes": 240
+    },
+    {
+     "name": "Celestia Reign (Famas)",
+     "minutes": 360
+    },
+    {
+     "name": "Celestia Kage (Melee)",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   }
  ],
  "archive": [
@@ -10221,7 +10357,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.83
+   "score": 18.82
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10233,7 +10369,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.7
+   "score": 18.69
   },
   "Once Human": {
    "favorites": 2,
@@ -10263,13 +10399,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.4
+   "score": 6.39
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.96
+   "score": 6.95
   },
   "Where Winds Meet": {
    "favorites": 2,
