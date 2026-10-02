@@ -3918,30 +3918,6 @@
    "asset": "assets/78d968e7-a72a-440e-8773-2320a21e623a.png"
   },
   {
-   "id": "8356898d-aef1-427f-9189-680a9f162591",
-   "game": "World of Tanks Console",
-   "title": "Spooky Season Incoming",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T17:30:00+00:00",
-   "endAt": "2026-10-02T19:29:59.999+00:00",
-   "firstSeenAt": "2026-10-02T18:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4f991b8-2c48-4e58-918b-769621d02e80.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8356898d-aef1-427f-9189-680a9f162591",
-   "rewards": [
-    {
-     "name": "3 Black Cat Emblems",
-     "minutes": 30
-    },
-    {
-     "name": "3 Magic Hazard Emblems",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8356898d-aef1-427f-9189-680a9f162591.png"
-  },
-  {
    "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
    "game": "Rise Online",
    "title": "Mobile Drop 176",
@@ -4075,6 +4051,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "8356898d-aef1-427f-9189-680a9f162591",
+   "game": "World of Tanks Console",
+   "title": "Spooky Season Incoming",
+   "startAt": "2026-10-02T17:30:00+00:00",
+   "endAt": "2026-10-02T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "98214e9e-4536-4728-94b9-c2759a9d6889",
    "game": "MARVEL SNAP",
@@ -10645,7 +10629,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.73
+   "score": 18.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10657,7 +10641,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.6
+   "score": 18.59
   },
   "Once Human": {
    "favorites": 2,
