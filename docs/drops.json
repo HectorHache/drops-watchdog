@@ -3770,26 +3770,6 @@
    "asset": "assets/ac400121-1a39-4797-a486-0c14a8423df7.jpg"
   },
   {
-   "id": "eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PEC: Fall Finals 2_DAY1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:30:00+00:00",
-   "endAt": "2026-10-02T21:00:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:30:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/985658b1-4ba5-4a08-969d-34e9f304f18a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
-   "rewards": [
-    {
-     "name": "PEC: Fall Finals 2 - RIP YOU (Spray)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/eeb09a33-ff31-4f69-98e0-5e9b02444ca7.png"
-  },
-  {
    "id": "29b419ae-5bb8-4964-8cff-381ae7a3d220",
    "game": "Marbles on Stream",
    "title": "Marble Day 268",
@@ -4071,6 +4051,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 2_DAY1",
+   "startAt": "2026-10-02T15:30:00+00:00",
+   "endAt": "2026-10-02T21:00:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b4d1191a-a873-44dc-94ba-600368720c9c",
    "game": "Warframe",
@@ -10651,13 +10639,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.26
+   "score": 13.25
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.69
+   "score": 18.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10669,25 +10657,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.57
+   "score": 18.56
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.26
+   "score": 13.25
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.26
+   "score": 13.25
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.26
+   "score": 13.25
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10705,13 +10693,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.91
+   "score": 6.9
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.26
+   "score": 13.25
   }
  },
  "favoriteWeights": {
