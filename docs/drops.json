@@ -3672,6 +3672,74 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
+  },
+  {
+   "id": "3eefcde2-bdf3-46f1-8cc9-b517dec58cf2",
+   "game": "Eternal Return",
+   "title": "ERM S12 P3 DAY1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T10:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T10:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d389036e-e9ef-4d4d-86e0-0c73597eef85.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3eefcde2-bdf3-46f1-8cc9-b517dec58cf2",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3eefcde2-bdf3-46f1-8cc9-b517dec58cf2.png"
+  },
+  {
+   "id": "f7515cd1-9a92-4c9a-b195-c03c28258cb2",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T10:00:00+00:00",
+   "endAt": "2026-10-03T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-02T10:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/95e57ccf-3870-4627-8c5a-8dba928db4c0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f7515cd1-9a92-4c9a-b195-c03c28258cb2",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f7515cd1-9a92-4c9a-b195-c03c28258cb2.png"
+  },
+  {
+   "id": "5d96051f-4dc3-4de2-890e-5192f4cd4543",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T10:00:00+00:00",
+   "endAt": "2026-10-03T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-02T10:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/176c87d4-570a-4980-a2e7-feb641c59ade.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d96051f-4dc3-4de2-890e-5192f4cd4543",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5d96051f-4dc3-4de2-890e-5192f4cd4543.png"
   }
  ],
  "archive": [
@@ -10103,13 +10171,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.41
+   "score": 13.4
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.9
+   "score": 18.89
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10121,25 +10189,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.77
+   "score": 18.76
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.41
+   "score": 13.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.41
+   "score": 13.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.41
+   "score": 13.4
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10163,7 +10231,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.41
+   "score": 13.4
   }
  },
  "favoriteWeights": {
