@@ -3960,6 +3960,66 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c79b33b8-e46e-4ce9-a5d2-049131899143.png"
+  },
+  {
+   "id": "4966552c-1aa1-451e-a456-256115c5ebd8",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:30:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20cba863-3034-4c64-9c2d-b462dbe896db.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4966552c-1aa1-451e-a456-256115c5ebd8",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.10 #1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4966552c-1aa1-451e-a456-256115c5ebd8.jpg"
+  },
+  {
+   "id": "ac400121-1a39-4797-a486-0c14a8423df7",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.10 #1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:30:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/44084044-80ec-4cbe-9b07-907b39ceb1dd.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac400121-1a39-4797-a486-0c14a8423df7",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ac400121-1a39-4797-a486-0c14a8423df7.jpg"
+  },
+  {
+   "id": "eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 2_DAY1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:30:00+00:00",
+   "endAt": "2026-10-02T21:00:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:30:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/985658b1-4ba5-4a08-969d-34e9f304f18a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 2 - RIP YOU (Spray)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/eeb09a33-ff31-4f69-98e0-5e9b02444ca7.png"
   }
  ],
  "archive": [
@@ -10453,7 +10513,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.8
+   "score": 18.79
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10465,7 +10525,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.67
+   "score": 18.66
   },
   "Once Human": {
    "favorites": 2,
@@ -10501,7 +10561,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.95
+   "score": 6.94
   },
   "Where Winds Meet": {
    "favorites": 2,
