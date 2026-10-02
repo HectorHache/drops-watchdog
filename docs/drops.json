@@ -2740,7 +2740,7 @@
   {
    "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
    "game": "AION 2",
-   "title": "AION 2 Early Access Event",
+   "title": "Early Access Event",
    "status": "ACTIVE",
    "startAt": "2026-09-30T15:02:40+00:00",
    "endAt": "2026-10-17T06:59:59.999+00:00",
@@ -2828,26 +2828,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c1776a1-ba10-4589-8b23-9179d0b502c6.png"
-  },
-  {
-   "id": "07fb17e3-f694-4f8d-aa47-8309f700c64e",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T00:00:00+00:00",
-   "endAt": "2026-10-01T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T00:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f607d0cf-5734-4510-b157-db2227d7e328.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=07fb17e3-f694-4f8d-aa47-8309f700c64e",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/07fb17e3-f694-4f8d-aa47-8309f700c64e.png"
   },
   {
    "id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
@@ -3438,26 +3418,6 @@
    "asset": "assets/c1a3bab3-af60-47fd-a8ae-5ba606edb525.png"
   },
   {
-   "id": "15304e06-c724-4bdc-a959-a3cc6d04230e",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 2 Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T16:00:00+00:00",
-   "endAt": "2026-10-01T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T16:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cc1b2e91-6b63-4d0a-a308-c59918952f43.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=15304e06-c724-4bdc-a959-a3cc6d04230e",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/15304e06-c724-4bdc-a959-a3cc6d04230e.png"
-  },
-  {
    "id": "b526da0e-74d5-4a7e-971a-695c966b6c95",
    "game": "World of Warships",
    "title": "Update 15.8 Drop: Week 4",
@@ -3642,34 +3602,6 @@
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   },
   {
-   "id": "df4e636c-1361-4aa4-9d8b-8043cdf763b5",
-   "game": "Warframe",
-   "title": "Prime Time 499 for PMCFQ!",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T21:55:00+00:00",
-   "endAt": "2026-10-02T00:14:59.999+00:00",
-   "firstSeenAt": "2026-10-01T22:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fa4fdcad-dd74-431b-9a8b-2fa581550265.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=df4e636c-1361-4aa4-9d8b-8043cdf763b5",
-   "rewards": [
-    {
-     "name": "Random Noggle - PMCFQ",
-     "minutes": 30
-    },
-    {
-     "name": "Random Noggle - PMCFQ",
-     "minutes": 60
-    },
-    {
-     "name": "Random Noggle - PMCFQ",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/df4e636c-1361-4aa4-9d8b-8043cdf763b5.jpg"
-  },
-  {
    "id": "f62d4334-d70d-46d1-a6c2-b4ac9d450509",
    "game": "DOFUS Touch",
    "title": "J18 - 3x Temporix Cps",
@@ -3704,9 +3636,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f62d4334-d70d-46d1-a6c2-b4ac9d450509.png"
+  },
+  {
+   "id": "bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T00:00:00+00:00",
+   "endAt": "2026-10-02T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T00:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7361b91f-53e8-4046-8183-e6ff55d9cfb1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bdccb859-8ca1-4c5d-912d-f55f3e23b1ee.png"
   }
  ],
  "archive": [
+  {
+   "id": "d6f398da-5a52-4ab4-abc3-3ad2a45c8cc6",
+   "game": "Warframe",
+   "title": "PMCFQ - LaurieeeLG",
+   "startAt": "2026-10-02T00:00:00+00:00",
+   "endAt": "2026-10-02T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "df4e636c-1361-4aa4-9d8b-8043cdf763b5",
+   "game": "Warframe",
+   "title": "Prime Time 499 for PMCFQ!",
+   "startAt": "2026-10-01T21:55:00+00:00",
+   "endAt": "2026-10-02T00:14:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "07fb17e3-f694-4f8d-aa47-8309f700c64e",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-01T00:00:00+00:00",
+   "endAt": "2026-10-01T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "15304e06-c724-4bdc-a959-a3cc6d04230e",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 Day 2",
+   "startAt": "2026-10-01T16:00:00+00:00",
+   "endAt": "2026-10-01T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9745755d-2061-469a-8ac1-5ed408a07076",
    "game": "DOFUS Touch",
@@ -10087,74 +10071,74 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.55
+   "score": 13.46
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 19.1
+   "score": 18.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 3.0
+   "score": 2.98
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.97
+   "score": 18.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.55
+   "score": 13.46
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.55
+   "score": 13.46
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.55
+   "score": 13.46
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.5
+   "score": 1.49
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.49
+   "score": 6.45
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.06
+   "score": 7.01
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.55
+   "score": 13.46
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 23,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 29,
+  "Delta Force": 28,
   "LEGO Batman: Legacy of the Dark Knight": 28,
   "Marvel Rivals": 10,
   "Once Human": 23,
