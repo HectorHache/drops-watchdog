@@ -3998,26 +3998,6 @@
    "asset": "assets/c90fc89a-4c06-4776-863d-3ee2c978eac7.png"
   },
   {
-   "id": "b4d1191a-a873-44dc-94ba-600368720c9c",
-   "game": "Warframe",
-   "title": "PMCFQ - ItsJustToe",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T19:00:00+00:00",
-   "endAt": "2026-10-02T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T19:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8b08f1f-64cd-4688-a6f9-bdbad0ee2fcb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4d1191a-a873-44dc-94ba-600368720c9c",
-   "rewards": [
-    {
-     "name": "Random Noggle ",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/b4d1191a-a873-44dc-94ba-600368720c9c.jpg"
-  },
-  {
    "id": "1a4e966d-44e4-46b3-811f-9c9c108e14b5",
    "game": "AION 2",
    "title": "War for Atreia - Series 1",
@@ -4068,9 +4048,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ba1d9e10-b425-41f3-8165-cfa771c00f79.png"
+  },
+  {
+   "id": "46f47b0b-2fe7-4806-ba78-391d132e0b87",
+   "game": "Warframe",
+   "title": "PMCFQ - smettbonia",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T21:00:00+00:00",
+   "endAt": "2026-10-02T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T21:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c84f06c8-bddb-4666-8385-3b44b09541d0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46f47b0b-2fe7-4806-ba78-391d132e0b87",
+   "rewards": [
+    {
+     "name": "Random Noggle",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/46f47b0b-2fe7-4806-ba78-391d132e0b87.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "b4d1191a-a873-44dc-94ba-600368720c9c",
+   "game": "Warframe",
+   "title": "PMCFQ - ItsJustToe",
+   "startAt": "2026-10-02T19:00:00+00:00",
+   "endAt": "2026-10-02T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8356898d-aef1-427f-9189-680a9f162591",
    "game": "World of Tanks Console",
@@ -10649,7 +10657,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.7
+   "score": 18.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10661,7 +10669,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.58
+   "score": 18.57
   },
   "Once Human": {
    "favorites": 2,
