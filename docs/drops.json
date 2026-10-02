@@ -3210,42 +3210,6 @@
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   },
   {
-   "id": "f62d4334-d70d-46d1-a6c2-b4ac9d450509",
-   "game": "DOFUS Touch",
-   "title": "J18 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T22:00:00+00:00",
-   "endAt": "2026-10-02T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T22:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c043477-0db4-47dc-9b25-bb3ba2c15bba.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f62d4334-d70d-46d1-a6c2-b4ac9d450509",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f62d4334-d70d-46d1-a6c2-b4ac9d450509.png"
-  },
-  {
    "id": "bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -4048,9 +4012,53 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/46f47b0b-2fe7-4806-ba78-391d132e0b87.jpg"
+  },
+  {
+   "id": "7196201d-a616-43dd-90a4-61b16ba977f9",
+   "game": "DOFUS Touch",
+   "title": "J19 - 3x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T22:00:00+00:00",
+   "endAt": "2026-10-03T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T22:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f55510ee-d2f4-411b-a782-f8740fc70e36.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7196201d-a616-43dd-90a4-61b16ba977f9",
+   "rewards": [
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7196201d-a616-43dd-90a4-61b16ba977f9.png"
   }
  ],
  "archive": [
+  {
+   "id": "f62d4334-d70d-46d1-a6c2-b4ac9d450509",
+   "game": "DOFUS Touch",
+   "title": "J18 - 3x Temporix Cps",
+   "startAt": "2026-10-01T22:00:00+00:00",
+   "endAt": "2026-10-02T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "eeb09a33-ff31-4f69-98e0-5e9b02444ca7",
    "game": "PUBG: BATTLEGROUNDS",
@@ -10657,7 +10665,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.56
+   "score": 18.55
   },
   "Once Human": {
    "favorites": 2,
@@ -10681,7 +10689,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.47
+   "score": 1.46
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
