@@ -1510,98 +1510,6 @@
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   },
   {
-   "id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-10-02T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d74e7ee8-573a-45ec-ab89-aacc38a86c7d.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.9 #4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a8c849a6-cd2c-4004-b1ec-9e982d15fe0d.jpg"
-  },
-  {
-   "id": "40d27f46-f8e8-49e3-ada9-63ee087adf4b",
-   "game": "Active Matter",
-   "title": "Release Drops: Week II",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-10-02T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8cae7f41-cf30-4b37-bf44-0289a2550eb8.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=40d27f46-f8e8-49e3-ada9-63ee087adf4b",
-   "rewards": [
-    {
-     "name": "Small weapon kit",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical beacon",
-     "minutes": 120
-    },
-    {
-     "name": "Equipment kit",
-     "minutes": 180
-    },
-    {
-     "name": "Weapon camo",
-     "minutes": 240
-    },
-    {
-     "name": "Medium Safe Container",
-     "minutes": 300
-    },
-    {
-     "name": "Prime",
-     "minutes": 360
-    },
-    {
-     "name": "Character camo: Wave",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/40d27f46-f8e8-49e3-ada9-63ee087adf4b.jpg"
-  },
-  {
-   "id": "75c796ed-3170-41ed-ab88-918d7ca3a65c",
-   "game": "RavenQuest",
-   "title": "September 05",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T15:00:00+00:00",
-   "endAt": "2026-10-02T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T15:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/776e1bb0-9dcf-4236-8f07-4b74c27b2215.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75c796ed-3170-41ed-ab88-918d7ca3a65c",
-   "rewards": [
-    {
-     "name": "Drops Twitch Pack 1",
-     "minutes": 360
-    },
-    {
-     "name": "Drops Twitch Pack 2",
-     "minutes": 600
-    },
-    {
-     "name": "2x Treasure Below RavenPacks",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/75c796ed-3170-41ed-ab88-918d7ca3a65c.png"
-  },
-  {
    "id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2",
    "game": "MARVEL Contest of Champions",
    "title": "September Week 4 - CCP",
@@ -3598,34 +3506,6 @@
    "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
   },
   {
-   "id": "3eefcde2-bdf3-46f1-8cc9-b517dec58cf2",
-   "game": "Eternal Return",
-   "title": "ERM S12 P3 DAY1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T10:00:00+00:00",
-   "endAt": "2026-10-02T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T10:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d389036e-e9ef-4d4d-86e0-0c73597eef85.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3eefcde2-bdf3-46f1-8cc9-b517dec58cf2",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3eefcde2-bdf3-46f1-8cc9-b517dec58cf2.png"
-  },
-  {
    "id": "f7515cd1-9a92-4c9a-b195-c03c28258cb2",
    "game": "Albion Online",
    "title": "Dragonfire 5 - #5/7",
@@ -3920,9 +3800,201 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5dcf1b51-c4f4-4131-b4d5-c96a83e689d3.png"
+  },
+  {
+   "id": "66486429-866d-41f9-9ebc-e8d2a04c107b",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 02.10.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-04T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/135fae73-9943-4a94-87c5-d6aa793feb48.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=66486429-866d-41f9-9ebc-e8d2a04c107b",
+   "rewards": [
+    {
+     "name": "20 000 credits 02.10",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 02.10",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 02.10",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 02.10",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 02.10",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 02.10",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/66486429-866d-41f9-9ebc-e8d2a04c107b.png"
+  },
+  {
+   "id": "7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
+   "game": "World of Tanks",
+   "title": "German Reunification Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-05T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27eb7864-9eec-48b0-b743-c7fedf1b2661.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7864a8db-fbcf-4e88-8fae-5639b49d9e8d.jpg"
+  },
+  {
+   "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
+   "game": "RavenQuest",
+   "title": "October 01",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/afe481e7-22eb-4cdb-8bcc-f7c5d2f7390e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0be8815e-ba78-4fef-be22-61e49a81d8fc",
+   "rewards": [
+    {
+     "name": "4x Treasure Below RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "Drops Twitch Pack 1",
+     "minutes": 360
+    },
+    {
+     "name": "Drops Twitch Pack 2",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0be8815e-ba78-4fef-be22-61e49a81d8fc.png"
+  },
+  {
+   "id": "32e0221d-1e83-4e38-8cd8-bdb268b457b1",
+   "game": "Active Matter",
+   "title": "Release Drops: Week III",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ed042499-488f-41eb-a139-9d46190900e8.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=32e0221d-1e83-4e38-8cd8-bdb268b457b1",
+   "rewards": [
+    {
+     "name": "Character camo: Pawtern",
+     "minutes": 420
+    },
+    {
+     "name": "Beacon",
+     "minutes": 60
+    },
+    {
+     "name": "Small weapon kit",
+     "minutes": 120
+    },
+    {
+     "name": "Prime",
+     "minutes": 180
+    },
+    {
+     "name": "Medium Safe Container",
+     "minutes": 240
+    },
+    {
+     "name": "Medical kit",
+     "minutes": 300
+    },
+    {
+     "name": "Weapon kit",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/32e0221d-1e83-4e38-8cd8-bdb268b457b1.jpg"
+  },
+  {
+   "id": "c79b33b8-e46e-4ce9-a5d2-049131899143",
+   "game": "RavenQuest",
+   "title": "C\u00d3PIA DE October 01",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T15:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8255793b-6b0c-4978-ac3c-62e5eebb8a88.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c79b33b8-e46e-4ce9-a5d2-049131899143",
+   "rewards": [
+    {
+     "name": "Treasure Below RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "Drops Twitch Pack 1",
+     "minutes": 360
+    },
+    {
+     "name": "Drops Twitch Pack 2",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c79b33b8-e46e-4ce9-a5d2-049131899143.png"
   }
  ],
  "archive": [
+  {
+   "id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.9: \u0427\u0430\u0441\u0442\u044c 4",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "40d27f46-f8e8-49e3-ada9-63ee087adf4b",
+   "game": "Active Matter",
+   "title": "Release Drops: Week II",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "75c796ed-3170-41ed-ab88-918d7ca3a65c",
+   "game": "RavenQuest",
+   "title": "September 05",
+   "startAt": "2026-09-25T15:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3eefcde2-bdf3-46f1-8cc9-b517dec58cf2",
+   "game": "Eternal Return",
+   "title": "ERM S12 P3 DAY1",
+   "startAt": "2026-10-02T10:00:00+00:00",
+   "endAt": "2026-10-02T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d1e708f3-1bca-4390-8408-78c6e8a27799",
    "game": "Out of the Park Baseball 27",
@@ -10375,13 +10447,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.81
+   "score": 18.8
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10393,25 +10465,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.68
+   "score": 18.67
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10435,7 +10507,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   }
  },
  "favoriteWeights": {
