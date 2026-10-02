@@ -1902,26 +1902,6 @@
    "asset": "assets/a9fd9398-3fa5-4f22-96d3-9190377d192f.png"
   },
   {
-   "id": "464f7663-0555-4ca4-a5a5-2dc566fbf488",
-   "game": "EVE Online",
-   "title": "GM Week Drop 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T11:00:00+00:00",
-   "endAt": "2026-10-02T10:56:59.999+00:00",
-   "firstSeenAt": "2026-09-28T11:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb55e526-cbc1-41a6-8357-469c3dd15f24.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=464f7663-0555-4ca4-a5a5-2dc566fbf488",
-   "rewards": [
-    {
-     "name": "Vigil MET SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/464f7663-0555-4ca4-a5a5-2dc566fbf488.jpg"
-  },
-  {
    "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
    "game": "Out of the Park Baseball 27",
    "title": "Laptophound 21",
@@ -3740,9 +3720,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5d96051f-4dc3-4de2-890e-5192f4cd4543.png"
+  },
+  {
+   "id": "f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7",
+   "game": "World of Tanks",
+   "title": "Quickybaby Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T11:00:00+00:00",
+   "endAt": "2026-10-02T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T11:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76d93c5e-5d81-494a-ad05-48a7559b9160.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7.png"
+  },
+  {
+   "id": "cc18e231-717b-4f5d-8af5-28aa9fe0e994",
+   "game": "EVE Online",
+   "title": "GM Week Drop 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T11:00:00+00:00",
+   "endAt": "2026-10-06T10:56:59.999+00:00",
+   "firstSeenAt": "2026-10-02T11:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1f2b275-6291-4830-95a1-5da3013702c0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc18e231-717b-4f5d-8af5-28aa9fe0e994",
+   "rewards": [
+    {
+     "name": "Pioneer MET SKIN",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cc18e231-717b-4f5d-8af5-28aa9fe0e994.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "464f7663-0555-4ca4-a5a5-2dc566fbf488",
+   "game": "EVE Online",
+   "title": "GM Week Drop 1",
+   "startAt": "2026-09-28T11:00:00+00:00",
+   "endAt": "2026-10-02T10:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b501e03e-3df0-448a-ad3f-9135ddcc40de",
    "game": "Albion Online",
@@ -10177,7 +10205,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.88
+   "score": 18.87
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10219,13 +10247,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.42
+   "score": 6.41
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.98
+   "score": 6.97
   },
   "Where Winds Meet": {
    "favorites": 2,
