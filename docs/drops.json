@@ -1926,34 +1926,6 @@
    "asset": "assets/08a9a458-d4a9-47c2-9b84-e8ddce98f654.png"
   },
   {
-   "id": "98214e9e-4536-4728-94b9-c2759a9d6889",
-   "game": "MARVEL SNAP",
-   "title": "Draft is back!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T18:55:44+00:00",
-   "endAt": "2026-10-02T18:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T19:30:52+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba118ba8-5753-4867-9dbf-d4cde2daa0de.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98214e9e-4536-4728-94b9-c2759a9d6889",
-   "rewards": [
-    {
-     "name": "155 Boosters",
-     "minutes": 120
-    },
-    {
-     "name": "Premium Mystery Border",
-     "minutes": 240
-    },
-    {
-     "name": "Premium Mystery Variant",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/98214e9e-4536-4728-94b9-c2759a9d6889.png"
-  },
-  {
    "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 1",
@@ -3866,42 +3838,6 @@
    "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
   },
   {
-   "id": "4b46b173-9fad-42ee-9d43-03c6020c6fde",
-   "game": "MARVEL Contest of Champions",
-   "title": "October Livestream",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T16:45:00+00:00",
-   "endAt": "2026-10-02T18:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T17:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4b46b173-9fad-42ee-9d43-03c6020c6fde",
-   "rewards": [
-    {
-     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
-     "minutes": 15
-    },
-    {
-     "name": "Drop 2 - 3x Rebirth Crystals",
-     "minutes": 20
-    },
-    {
-     "name": "Drop 3 - PRG Gated Hero Crystal",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 4 - 2x Observance",
-     "minutes": 45
-    },
-    {
-     "name": "Drop 5 - PRG Gated Ascension Materials",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4b46b173-9fad-42ee-9d43-03c6020c6fde.png"
-  },
-  {
    "id": "24e429d6-6d9c-4aac-83e1-c14046dcea7d",
    "game": "Tanki Online",
    "title": "\u041c\u041f 2026 | MP 2026",
@@ -4084,9 +4020,77 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c90fc89a-4c06-4776-863d-3ee2c978eac7.png"
+  },
+  {
+   "id": "b4d1191a-a873-44dc-94ba-600368720c9c",
+   "game": "Warframe",
+   "title": "PMCFQ - ItsJustToe",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T19:00:00+00:00",
+   "endAt": "2026-10-02T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T19:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8b08f1f-64cd-4688-a6f9-bdbad0ee2fcb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4d1191a-a873-44dc-94ba-600368720c9c",
+   "rewards": [
+    {
+     "name": "Random Noggle ",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/b4d1191a-a873-44dc-94ba-600368720c9c.jpg"
+  },
+  {
+   "id": "1a4e966d-44e4-46b3-811f-9c9c108e14b5",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T19:00:00+00:00",
+   "endAt": "2026-10-05T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T19:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fa239c72-a5f6-4cc3-b1e0-4ed18eb4ac09.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1a4e966d-44e4-46b3-811f-9c9c108e14b5",
+   "rewards": [
+    {
+     "name": "Appearance Change Voucher (Bound) x1",
+     "minutes": 30
+    },
+    {
+     "name": "Soul Codex (Bound) x10",
+     "minutes": 60
+    },
+    {
+     "name": "Resurrection Spiritstone (Bound) x10",
+     "minutes": 120
+    },
+    {
+     "name": "Mysterious Pet Chest (Bound) x10",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1a4e966d-44e4-46b3-811f-9c9c108e14b5.png"
   }
  ],
  "archive": [
+  {
+   "id": "98214e9e-4536-4728-94b9-c2759a9d6889",
+   "game": "MARVEL SNAP",
+   "title": "Draft is back!",
+   "startAt": "2026-09-28T18:55:44+00:00",
+   "endAt": "2026-10-02T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4b46b173-9fad-42ee-9d43-03c6020c6fde",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Livestream",
+   "startAt": "2026-10-02T16:45:00+00:00",
+   "endAt": "2026-10-02T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b700f0da-268b-492a-a3ea-5f1d0e836714",
    "game": "NBA 2K27",
@@ -10635,13 +10639,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.74
+   "score": 18.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10653,25 +10657,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.61
+   "score": 18.6
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10683,7 +10687,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.37
+   "score": 6.36
   },
   "Warframe": {
    "favorites": 1,
@@ -10695,7 +10699,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   }
  },
  "favoriteWeights": {
