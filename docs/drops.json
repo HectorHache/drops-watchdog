@@ -1926,26 +1926,6 @@
    "asset": "assets/08a9a458-d4a9-47c2-9b84-e8ddce98f654.png"
   },
   {
-   "id": "b700f0da-268b-492a-a3ea-5f1d0e836714",
-   "game": "NBA 2K27",
-   "title": "NBA 2K27 x Nike Ja 4",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T16:00:00+00:00",
-   "endAt": "2026-10-02T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T23:30:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b700f0da-268b-492a-a3ea-5f1d0e836714",
-   "rewards": [
-    {
-     "name": "NBA 2K27 x Nike Ja 4",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b700f0da-268b-492a-a3ea-5f1d0e836714.png"
-  },
-  {
    "id": "98214e9e-4536-4728-94b9-c2759a9d6889",
    "game": "MARVEL SNAP",
    "title": "Draft is back!",
@@ -3202,46 +3182,6 @@
    "asset": "assets/2eacdff7-9305-45cd-a5c1-645c6cef4299.jpg"
   },
   {
-   "id": "a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7",
-   "game": "Rise Online",
-   "title": "Mobile Drop 175",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T17:59:00+00:00",
-   "endAt": "2026-10-02T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-01T18:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ba03382-317f-4e01-a901-23e1ea2816f9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7",
-   "rewards": [
-    {
-     "name": "Mobile Drop 175",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7.png"
-  },
-  {
-   "id": "9a533850-7f8c-45ef-a4ea-6a5666589fb7",
-   "game": "Rise Online",
-   "title": "ROW Drop 604",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T17:59:00+00:00",
-   "endAt": "2026-10-02T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-01T18:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d122cbaa-d445-49fe-b0cf-1e9cc28ab9c5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a533850-7f8c-45ef-a4ea-6a5666589fb7",
-   "rewards": [
-    {
-     "name": "ROW Drop 604",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9a533850-7f8c-45ef-a4ea-6a5666589fb7.png"
-  },
-  {
    "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
    "game": "Overwatch",
    "title": "Reign of Talon S4: Drives",
@@ -4040,9 +3980,137 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/78d968e7-a72a-440e-8773-2320a21e623a.png"
+  },
+  {
+   "id": "8356898d-aef1-427f-9189-680a9f162591",
+   "game": "World of Tanks Console",
+   "title": "Spooky Season Incoming",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T17:30:00+00:00",
+   "endAt": "2026-10-02T19:29:59.999+00:00",
+   "firstSeenAt": "2026-10-02T18:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4f991b8-2c48-4e58-918b-769621d02e80.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8356898d-aef1-427f-9189-680a9f162591",
+   "rewards": [
+    {
+     "name": "3 Black Cat Emblems",
+     "minutes": 30
+    },
+    {
+     "name": "3 Magic Hazard Emblems",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8356898d-aef1-427f-9189-680a9f162591.png"
+  },
+  {
+   "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
+   "game": "Rise Online",
+   "title": "Mobile Drop 176",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T17:59:00+00:00",
+   "endAt": "2026-10-03T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-02T18:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee5074ae-fc8e-4f76-85c7-fe637f4ed65f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
+   "rewards": [
+    {
+     "name": "Mobile Drop 176",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/45c90f5e-423b-499c-8b4e-1dcb7867b4ac.png"
+  },
+  {
+   "id": "0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50",
+   "game": "Rise Online",
+   "title": "ROW Drop 605",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T17:59:00+00:00",
+   "endAt": "2026-10-03T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-02T18:01:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b72c520-f41d-4c7d-8989-8778c37cb117.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50",
+   "rewards": [
+    {
+     "name": "ROW Drop 605",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50.jpg"
+  },
+  {
+   "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 1 ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T18:30:00+00:00",
+   "endAt": "2026-10-09T16:44:59.999+00:00",
+   "firstSeenAt": "2026-10-02T18:31:04+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c90fc89a-4c06-4776-863d-3ee2c978eac7",
+   "rewards": [
+    {
+     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3 - PRG Gated Rank Up Gem Crystal",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4 - 1x Observance",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5 - PRG Gated Ascension Materials",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 6 - PRG Gated Signature Stones",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c90fc89a-4c06-4776-863d-3ee2c978eac7.png"
   }
  ],
  "archive": [
+  {
+   "id": "b700f0da-268b-492a-a3ea-5f1d0e836714",
+   "game": "NBA 2K27",
+   "title": "NBA 2K27 x Nike Ja 4",
+   "startAt": "2026-09-28T16:00:00+00:00",
+   "endAt": "2026-10-02T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7",
+   "game": "Rise Online",
+   "title": "Mobile Drop 175",
+   "startAt": "2026-10-01T17:59:00+00:00",
+   "endAt": "2026-10-02T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9a533850-7f8c-45ef-a4ea-6a5666589fb7",
+   "game": "Rise Online",
+   "title": "ROW Drop 604",
+   "startAt": "2026-10-01T17:59:00+00:00",
+   "endAt": "2026-10-02T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "90e6951f-a14f-498c-8ae3-6dcf966a9979",
    "game": "Madden NFL 27",
@@ -10567,13 +10635,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.76
+   "score": 18.74
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10585,25 +10653,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.63
+   "score": 18.61
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10621,13 +10689,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.93
+   "score": 6.92
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   }
  },
  "favoriteWeights": {
