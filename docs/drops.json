@@ -3450,30 +3450,6 @@
    "asset": "assets/bdccb859-8ca1-4c5d-912d-f55f3e23b1ee.png"
   },
   {
-   "id": "d15e0f7d-0cb2-4b95-9424-ccc62563186f",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T08:00:00+00:00",
-   "endAt": "2026-10-02T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T08:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a16d46b3-3806-40da-8d1e-9a93ebfd305d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d15e0f7d-0cb2-4b95-9424-ccc62563186f",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d15e0f7d-0cb2-4b95-9424-ccc62563186f.png"
-  },
-  {
    "id": "266bcc38-0922-40cf-885b-79555940199c",
    "game": "Marvel Rivals",
    "title": "Ignite Stage2 W3",
@@ -4020,9 +3996,65 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/eeb09a33-ff31-4f69-98e0-5e9b02444ca7.png"
+  },
+  {
+   "id": "29b419ae-5bb8-4964-8cff-381ae7a3d220",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 268",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T16:00:00+00:00",
+   "endAt": "2026-10-03T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T16:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e9634f0-5722-41f2-a283-be12a75b98ee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=29b419ae-5bb8-4964-8cff-381ae7a3d220",
+   "rewards": [
+    {
+     "name": "DROP",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/29b419ae-5bb8-4964-8cff-381ae7a3d220.png"
+  },
+  {
+   "id": "e424ad90-a3ea-440a-b2e1-bfa8304babba",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 10",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T16:00:00+00:00",
+   "endAt": "2026-10-06T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T16:00:44+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56d76469-4183-4270-864a-b3ef9683bad7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e424ad90-a3ea-440a-b2e1-bfa8304babba",
+   "rewards": [
+    {
+     "name": "5 x1.25 Silver Boosters",
+     "minutes": 120
+    },
+    {
+     "name": "Camo Voucher",
+     "minutes": 240
+    },
+    {
+     "name": "Blobs Camo",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
   }
  ],
  "archive": [
+  {
+   "id": "d15e0f7d-0cb2-4b95-9424-ccc62563186f",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.2",
+   "startAt": "2026-10-02T08:00:00+00:00",
+   "endAt": "2026-10-02T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d",
    "game": "Mir Korabley",
@@ -10507,13 +10539,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.79
+   "score": 18.78
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10531,19 +10563,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10555,7 +10587,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.39
+   "score": 6.38
   },
   "Warframe": {
    "favorites": 1,
@@ -10567,7 +10599,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   }
  },
  "favoriteWeights": {
