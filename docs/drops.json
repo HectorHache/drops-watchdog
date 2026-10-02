@@ -3656,6 +3656,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bdccb859-8ca1-4c5d-912d-f55f3e23b1ee.png"
+  },
+  {
+   "id": "d15e0f7d-0cb2-4b95-9424-ccc62563186f",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T08:00:00+00:00",
+   "endAt": "2026-10-02T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T08:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a16d46b3-3806-40da-8d1e-9a93ebfd305d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d15e0f7d-0cb2-4b95-9424-ccc62563186f",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d15e0f7d-0cb2-4b95-9424-ccc62563186f.png"
+  },
+  {
+   "id": "266bcc38-0922-40cf-885b-79555940199c",
+   "game": "Marvel Rivals",
+   "title": "Ignite Stage2 W3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-02T08:01:00+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/de125a24-a2ea-4f58-a7a1-8836f9d089f8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=266bcc38-0922-40cf-885b-79555940199c",
+   "rewards": [
+    {
+     "name": "Chrono Tokens *100",
+     "minutes": 30
+    },
+    {
+     "name": "\u300cVantage Point\u300dSpray",
+     "minutes": 120
+    },
+    {
+     "name": "Chrono Tokens *100",
+     "minutes": 150
+    },
+    {
+     "name": "\u300cGalactic Gaze\u300dMood",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
   }
  ],
  "archive": [
@@ -10071,13 +10127,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.43
+   "score": 13.42
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.94
+   "score": 18.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10089,25 +10145,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.81
+   "score": 18.8
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.43
+   "score": 13.42
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.43
+   "score": 13.42
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.43
+   "score": 13.42
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10125,13 +10181,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 7.0
+   "score": 6.99
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.43
+   "score": 13.42
   }
  },
  "favoriteWeights": {
