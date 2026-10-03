@@ -450,26 +450,6 @@
    "asset": "assets/60d49775-74c0-4821-91d0-5fd5e7ac0506.png"
   },
   {
-   "id": "4d85b517-5d8d-4720-b9bd-b9d1e6c80697",
-   "game": "League of Legends",
-   "title": "WSCI 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-09-19T16:00:00+00:00",
-   "endAt": "2026-10-03T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-19T16:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42d9c6f8-bccb-43fa-bd16-d4fd489efee2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d85b517-5d8d-4720-b9bd-b9d1e6c80697",
-   "rewards": [
-    {
-     "name": "WSCI 2026 Badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4d85b517-5d8d-4720-b9bd-b9d1e6c80697.png"
-  },
-  {
    "id": "d13db74f-a56d-4985-af69-3bf01adde336",
    "game": "Overwatch",
    "title": "OWCS Stage 3 Asia Kickoff",
@@ -3454,26 +3434,6 @@
    "asset": "assets/ac400121-1a39-4797-a486-0c14a8423df7.jpg"
   },
   {
-   "id": "29b419ae-5bb8-4964-8cff-381ae7a3d220",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 268",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T16:00:00+00:00",
-   "endAt": "2026-10-03T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T16:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e9634f0-5722-41f2-a283-be12a75b98ee.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=29b419ae-5bb8-4964-8cff-381ae7a3d220",
-   "rewards": [
-    {
-     "name": "DROP",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/29b419ae-5bb8-4964-8cff-381ae7a3d220.png"
-  },
-  {
    "id": "e424ad90-a3ea-440a-b2e1-bfa8304babba",
    "game": "World of Tanks Console",
    "title": "Mayhem Weekend 10",
@@ -3792,30 +3752,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ab4b5233-d6c4-49aa-bb33-1d02db511b56.png"
-  },
-  {
-   "id": "0d685f38-3aad-4721-9266-e9b8665ec513",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T08:00:00+00:00",
-   "endAt": "2026-10-03T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T08:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d13167f-e56e-405f-96cf-57031eb271a5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0d685f38-3aad-4721-9266-e9b8665ec513",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0d685f38-3aad-4721-9266-e9b8665ec513.png"
   },
   {
    "id": "60020f01-28e4-480f-aa71-1683c91ac426",
@@ -4187,6 +4123,30 @@
   }
  ],
  "archive": [
+  {
+   "id": "4d85b517-5d8d-4720-b9bd-b9d1e6c80697",
+   "game": "League of Legends",
+   "title": "WSCI 2026",
+   "startAt": "2026-09-19T16:00:00+00:00",
+   "endAt": "2026-10-03T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "29b419ae-5bb8-4964-8cff-381ae7a3d220",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 268",
+   "startAt": "2026-10-02T16:00:00+00:00",
+   "endAt": "2026-10-03T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0d685f38-3aad-4721-9266-e9b8665ec513",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.3",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1f1174ef-f5bb-4904-9721-7c6738bd22ca",
    "game": "World of Tanks",
@@ -10901,7 +10861,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.36
+   "score": 18.35
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10913,7 +10873,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.24
+   "score": 18.23
   },
   "Once Human": {
    "favorites": 2,

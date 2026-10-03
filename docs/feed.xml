@@ -103,13 +103,6 @@
     <pubDate>2026-09-16T09:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>League of Legends — WSCI 2026</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=4d85b517-5d8d-4720-b9bd-b9d1e6c80697</link>
-    <guid isPermaLink="false">4d85b517-5d8d-4720-b9bd-b9d1e6c80697</guid>
-    <description>WSCI 2026 Badge — runs 2026-09-19T16:00:00+00:00 → 2026-10-03T15:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-19T16:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Overwatch — OWCS Stage 3 Asia Kickoff</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=d13db74f-a56d-4985-af69-3bf01adde336</link>
     <guid isPermaLink="false">d13db74f-a56d-4985-af69-3bf01adde336</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">b7c42d19-0a30-4786-b5d7-8a3f3508541a</guid>
     <description>Rust Isles SAR — runs 2026-09-24T18:44:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:44:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles AR</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=fb08089e-d453-411b-845b-eb5c54a2e6e8</link>
+    <guid isPermaLink="false">fb08089e-d453-411b-845b-eb5c54a2e6e8</guid>
+    <description>Rust Isles AR — runs 2026-09-24T18:45:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:45:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
