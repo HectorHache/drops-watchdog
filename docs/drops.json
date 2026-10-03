@@ -2382,34 +2382,6 @@
    "asset": "assets/c36d6341-49ef-4c39-9d87-b8f4e6b34e6f.png"
   },
   {
-   "id": "be4a0575-c793-4d03-a9f7-15fdcc499348",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 12",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T05:00:00+00:00",
-   "endAt": "2026-10-03T04:58:59.999+00:00",
-   "firstSeenAt": "2026-09-30T05:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c946f634-d76c-4711-beb3-00eaa1a4d495.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=be4a0575-c793-4d03-a9f7-15fdcc499348",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/be4a0575-c793-4d03-a9f7-15fdcc499348.png"
-  },
-  {
    "id": "b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
    "game": "AirMech",
    "title": "AirMech Drops Test",
@@ -3210,26 +3182,6 @@
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   },
   {
-   "id": "bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T00:00:00+00:00",
-   "endAt": "2026-10-02T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T00:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7361b91f-53e8-4046-8183-e6ff55d9cfb1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bdccb859-8ca1-4c5d-912d-f55f3e23b1ee.png"
-  },
-  {
    "id": "266bcc38-0922-40cf-885b-79555940199c",
    "game": "Marvel Rivals",
    "title": "Ignite Stage2 W3",
@@ -3300,26 +3252,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5d96051f-4dc3-4de2-890e-5192f4cd4543.png"
-  },
-  {
-   "id": "f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7",
-   "game": "World of Tanks",
-   "title": "Quickybaby Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T11:00:00+00:00",
-   "endAt": "2026-10-02T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T11:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/76d93c5e-5d81-494a-ad05-48a7559b9160.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7.png"
   },
   {
    "id": "cc18e231-717b-4f5d-8af5-28aa9fe0e994",
@@ -3782,46 +3714,6 @@
    "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
   },
   {
-   "id": "24e429d6-6d9c-4aac-83e1-c14046dcea7d",
-   "game": "Tanki Online",
-   "title": "\u041c\u041f 2026 | MP 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T17:00:00+00:00",
-   "endAt": "2026-10-02T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-02T17:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00ea3248-fcd7-4e81-8b95-52df18d25627.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24e429d6-6d9c-4aac-83e1-c14046dcea7d",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/24e429d6-6d9c-4aac-83e1-c14046dcea7d.jpg"
-  },
-  {
    "id": "78d968e7-a72a-440e-8773-2320a21e623a",
    "game": "EA Sports College Football 27",
    "title": "CFB Live",
@@ -3994,26 +3886,6 @@
    "asset": "assets/ba1d9e10-b425-41f3-8165-cfa771c00f79.png"
   },
   {
-   "id": "46f47b0b-2fe7-4806-ba78-391d132e0b87",
-   "game": "Warframe",
-   "title": "PMCFQ - smettbonia",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T21:00:00+00:00",
-   "endAt": "2026-10-02T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T21:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c84f06c8-bddb-4666-8385-3b44b09541d0.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=46f47b0b-2fe7-4806-ba78-391d132e0b87",
-   "rewards": [
-    {
-     "name": "Random Noggle",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/46f47b0b-2fe7-4806-ba78-391d132e0b87.jpg"
-  },
-  {
    "id": "7196201d-a616-43dd-90a4-61b16ba977f9",
    "game": "DOFUS Touch",
    "title": "J19 - 3x Temporix Cps",
@@ -4050,27 +3922,139 @@
    "asset": "assets/7196201d-a616-43dd-90a4-61b16ba977f9.png"
   },
   {
-   "id": "ac6866a4-d1cb-4cc3-8b0f-014a5e5ff3e3",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PAS2 Finals 2_Day1",
+   "id": "1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-02T22:30:00+00:00",
-   "endAt": "2026-10-03T04:30:59.999+00:00",
-   "firstSeenAt": "2026-10-02T22:30:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59029e3e-454a-47e5-afe0-4a3dbd800e4e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac6866a4-d1cb-4cc3-8b0f-014a5e5ff3e3",
+   "startAt": "2026-10-03T00:00:00+00:00",
+   "endAt": "2026-10-03T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T00:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1b587085-dab0-4dce-9079-ae78d60ee7e6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
    "rewards": [
     {
-     "name": "PAS2 Finals 2_Day1",
-     "minutes": 120
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/ac6866a4-d1cb-4cc3-8b0f-014a5e5ff3e3.png"
+   "asset": "assets/1bc4cb37-9af4-4762-bf15-9bb7ea12079f.png"
+  },
+  {
+   "id": "71afac67-5881-448d-9d2e-d5cd19f5c53c",
+   "game": "Battlefield REDSEC",
+   "title": "Season 4 Cash Cup #3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T04:00:00+00:00",
+   "endAt": "2026-10-04T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T04:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6c32267-cf87-4295-a560-aa12037db155.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=71afac67-5881-448d-9d2e-d5cd19f5c53c",
+   "rewards": [
+    {
+     "name": "15 min Hardware XP Boost",
+     "minutes": 15
+    },
+    {
+     "name": "30 min Hardware XP Boost",
+     "minutes": 30
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 60
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/71afac67-5881-448d-9d2e-d5cd19f5c53c.png"
+  },
+  {
+   "id": "ab4b5233-d6c4-49aa-bb33-1d02db511b56",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 13",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T05:00:00+00:00",
+   "endAt": "2026-10-05T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-03T05:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03ed9633-377a-4c8f-a8e3-5abe1c8c255f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab4b5233-d6c4-49aa-bb33-1d02db511b56",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ab4b5233-d6c4-49aa-bb33-1d02db511b56.png"
   }
  ],
  "archive": [
+  {
+   "id": "be4a0575-c793-4d03-a9f7-15fdcc499348",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 12",
+   "startAt": "2026-09-30T05:00:00+00:00",
+   "endAt": "2026-10-03T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ac6866a4-d1cb-4cc3-8b0f-014a5e5ff3e3",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 2_Day1",
+   "startAt": "2026-10-02T22:30:00+00:00",
+   "endAt": "2026-10-03T04:30:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bdccb859-8ca1-4c5d-912d-f55f3e23b1ee",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-02T00:00:00+00:00",
+   "endAt": "2026-10-02T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "24e429d6-6d9c-4aac-83e1-c14046dcea7d",
+   "game": "Tanki Online",
+   "title": "\u041c\u041f 2026 | MP 2026",
+   "startAt": "2026-10-02T17:00:00+00:00",
+   "endAt": "2026-10-02T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f8e148b0-f72a-485d-ae32-6b9d8d2ef9a7",
+   "game": "World of Tanks",
+   "title": "Quickybaby Drops",
+   "startAt": "2026-10-02T11:00:00+00:00",
+   "endAt": "2026-10-02T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "46f47b0b-2fe7-4806-ba78-391d132e0b87",
+   "game": "Warframe",
+   "title": "PMCFQ - smettbonia",
+   "startAt": "2026-10-02T21:00:00+00:00",
+   "endAt": "2026-10-02T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f62d4334-d70d-46d1-a6c2-b4ac9d450509",
    "game": "DOFUS Touch",
@@ -10667,67 +10651,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.24
+   "score": 13.16
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.67
+   "score": 18.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.93
+   "score": 2.91
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.54
+   "score": 18.42
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.24
+   "score": 13.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.24
+   "score": 13.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.24
+   "score": 13.16
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.46
+   "score": 1.45
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.34
+   "score": 6.3
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.9
+   "score": 6.85
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.24
+   "score": 13.16
   }
  },
  "favoriteWeights": {
