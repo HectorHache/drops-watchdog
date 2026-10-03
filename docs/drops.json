@@ -2,46 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
-   "game": "Sid Meier's Civilization VII",
-   "title": "Civ VII Pax Livestream",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T16:30:00+00:00",
-   "endAt": "2026-10-03T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-05T16:30:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/caa65159-c9f7-4d00-b8f2-a9ee35fed36a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf82818f-dba3-48fc-88c3-7472f577547e",
-   "rewards": [
-    {
-     "name": "Cavalry Banner",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/bf82818f-dba3-48fc-88c3-7472f577547e.png"
-  },
-  {
-   "id": "a82abb82-628f-4df5-a2bb-5df8cc373983",
-   "game": "Sid Meier's Civilization VII",
-   "title": "Civ VII PAX 26 Livestream",
-   "status": "ACTIVE",
-   "startAt": "2026-09-05T16:30:00+00:00",
-   "endAt": "2026-10-03T16:29:59.999+00:00",
-   "firstSeenAt": "2026-09-05T16:30:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41d417d4-d1c0-4eb0-92ff-ee09c14d3d85.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a82abb82-628f-4df5-a2bb-5df8cc373983",
-   "rewards": [
-    {
-     "name": "Exploration Age Banner",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a82abb82-628f-4df5-a2bb-5df8cc373983.png"
-  },
-  {
    "id": "ce649625-7dae-4946-b60a-1b78285c4833",
    "game": "DRAGON BALL GEKISHIN SQUADRA",
    "title": "SQUADRA SEASON 7 Drops",
@@ -4123,6 +4083,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
+   "game": "Sid Meier's Civilization VII",
+   "title": "Civ VII Pax Livestream",
+   "startAt": "2026-09-05T16:30:00+00:00",
+   "endAt": "2026-10-03T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a82abb82-628f-4df5-a2bb-5df8cc373983",
+   "game": "Sid Meier's Civilization VII",
+   "title": "Civ VII PAX 26 Livestream",
+   "startAt": "2026-09-05T16:30:00+00:00",
+   "endAt": "2026-10-03T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4d85b517-5d8d-4720-b9bd-b9d1e6c80697",
    "game": "League of Legends",
@@ -10855,7 +10831,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.02
+   "score": 13.01
   },
   "Delta Force": {
    "favorites": 3,
@@ -10873,25 +10849,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.23
+   "score": 18.22
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.02
+   "score": 13.01
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.02
+   "score": 13.01
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.02
+   "score": 13.01
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10903,7 +10879,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.24
+   "score": 6.23
   },
   "Warframe": {
    "favorites": 1,
@@ -10915,7 +10891,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.02
+   "score": 13.01
   }
  },
  "favoriteWeights": {

@@ -5,20 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Sid Meier's Civilization VII — Civ VII Pax Livestream</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=bf82818f-dba3-48fc-88c3-7472f577547e</link>
-    <guid isPermaLink="false">bf82818f-dba3-48fc-88c3-7472f577547e</guid>
-    <description>Cavalry Banner — runs 2026-09-05T16:30:00+00:00 → 2026-10-03T16:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-05T16:30:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>Sid Meier's Civilization VII — Civ VII PAX 26 Livestream</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=a82abb82-628f-4df5-a2bb-5df8cc373983</link>
-    <guid isPermaLink="false">a82abb82-628f-4df5-a2bb-5df8cc373983</guid>
-    <description>Exploration Age Banner — runs 2026-09-05T16:30:00+00:00 → 2026-10-03T16:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-05T16:30:00+00:00</pubDate>
-  </item>
-  <item>
     <title>DRAGON BALL GEKISHIN SQUADRA — SQUADRA SEASON 7 Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=ce649625-7dae-4946-b60a-1b78285c4833</link>
     <guid isPermaLink="false">ce649625-7dae-4946-b60a-1b78285c4833</guid>
@@ -353,6 +339,20 @@
     <guid isPermaLink="false">fb08089e-d453-411b-845b-eb5c54a2e6e8</guid>
     <description>Rust Isles AR — runs 2026-09-24T18:45:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:45:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles Launcher</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=b2b8e712-05ae-4e29-8e43-48458e7c2f75</link>
+    <guid isPermaLink="false">b2b8e712-05ae-4e29-8e43-48458e7c2f75</guid>
+    <description>Rust Isles Launcher — runs 2026-09-24T18:46:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:46:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Airport Baggage Simulator — Night Shift Update</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=8379bc7b-4082-4f4b-b83a-9812625f55a1</link>
+    <guid isPermaLink="false">8379bc7b-4082-4f4b-b83a-9812625f55a1</guid>
+    <description>Decoration: Twitch Mug · Decoration: Twitch Poster · Decoration: Twitch Statue — runs 2026-09-25T00:00:00+00:00 → 2026-10-22T23:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-25T00:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
