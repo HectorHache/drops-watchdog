@@ -3422,46 +3422,6 @@
    "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
   },
   {
-   "id": "78d968e7-a72a-440e-8773-2320a21e623a",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Live",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T17:00:00+00:00",
-   "endAt": "2026-10-03T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T17:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53cd9068-a646-46f3-adca-ea6f50132b37.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=78d968e7-a72a-440e-8773-2320a21e623a",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/78d968e7-a72a-440e-8773-2320a21e623a.png"
-  },
-  {
    "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
    "game": "Rise Online",
    "title": "Mobile Drop 176",
@@ -4080,9 +4040,57 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c3394af2-d996-4191-81b7-80f0f9c20851.png"
+  },
+  {
+   "id": "afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Streamer Showmatch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T17:00:00+00:00",
+   "endAt": "2026-10-03T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T17:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a140dfe3-7f37-4fc1-acc2-21b7cb4f4490.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/afd4a9c4-cf9f-4e43-9dcd-b050645d89f8.png"
   }
  ],
  "archive": [
+  {
+   "id": "78d968e7-a72a-440e-8773-2320a21e623a",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "startAt": "2026-10-02T17:00:00+00:00",
+   "endAt": "2026-10-03T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bf82818f-dba3-48fc-88c3-7472f577547e",
    "game": "Sid Meier's Civilization VII",
@@ -10837,7 +10845,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.35
+   "score": 18.34
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10849,7 +10857,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.22
+   "score": 18.21
   },
   "Once Human": {
    "favorites": 2,
@@ -10885,7 +10893,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.78
+   "score": 6.77
   },
   "Where Winds Meet": {
    "favorites": 2,
