@@ -4032,6 +4032,78 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cd5fdcc8-553f-47b4-afbf-bea5cbe3f727.png"
+  },
+  {
+   "id": "0d685f38-3aad-4721-9266-e9b8665ec513",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T08:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d13167f-e56e-405f-96cf-57031eb271a5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0d685f38-3aad-4721-9266-e9b8665ec513",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0d685f38-3aad-4721-9266-e9b8665ec513.png"
+  },
+  {
+   "id": "60020f01-28e4-480f-aa71-1683c91ac426",
+   "game": "World of Tanks",
+   "title": "Mailand Unity Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T08:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3a6e7c6-b6ea-4acf-bd07-f79a6496f2a4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60020f01-28e4-480f-aa71-1683c91ac426",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/60020f01-28e4-480f-aa71-1683c91ac426.png"
+  },
+  {
+   "id": "b1cfadf9-5499-44df-ab60-42e1cda322f1",
+   "game": "World of Tanks",
+   "title": "Mouzakrobat Unity Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T08:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ed5055b-2cc1-4960-8ee1-7c78f8c2db74.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1cfadf9-5499-44df-ab60-42e1cda322f1",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b1cfadf9-5499-44df-ab60-42e1cda322f1.png"
   }
  ],
  "archive": [
@@ -10685,7 +10757,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.51
+   "score": 18.5
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10697,7 +10769,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.38
+   "score": 18.37
   },
   "Once Human": {
    "favorites": 2,
@@ -10727,13 +10799,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.29
+   "score": 6.28
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.84
+   "score": 6.83
   },
   "Where Winds Meet": {
    "favorites": 2,
