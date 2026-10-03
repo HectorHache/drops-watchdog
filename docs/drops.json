@@ -4164,6 +4164,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4e5bc2f7-13ff-47b6-806b-e1d1d86b28fd.png"
+  },
+  {
+   "id": "c3394af2-d996-4191-81b7-80f0f9c20851",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 2_DAY2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T15:30:00+00:00",
+   "endAt": "2026-10-03T21:00:59.999+00:00",
+   "firstSeenAt": "2026-10-03T15:30:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/229b6f37-5424-4a17-8d70-7e095e759926.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c3394af2-d996-4191-81b7-80f0f9c20851",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 2 -Battle Hazard Logo Tee",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c3394af2-d996-4191-81b7-80f0f9c20851.png"
   }
  ],
  "archive": [
@@ -10875,13 +10895,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.03
+   "score": 13.02
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.37
+   "score": 18.36
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10893,25 +10913,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.25
+   "score": 18.24
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.03
+   "score": 13.02
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.03
+   "score": 13.02
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.03
+   "score": 13.02
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10929,13 +10949,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.79
+   "score": 6.78
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.03
+   "score": 13.02
   }
  },
  "favoriteWeights": {
