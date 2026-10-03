@@ -4100,6 +4100,34 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/224c384a-1d4b-43c3-b73e-4099c13ed522.jpg"
+  },
+  {
+   "id": "4d97977f-f944-41a3-a3c2-31669d2cfdad",
+   "game": "Eternal Return",
+   "title": "ERCS S12 P2 LCQ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T19:00:00+00:00",
+   "endAt": "2026-10-04T02:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T19:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8bec2c9f-9c28-4a1b-87dc-6379c51edf1a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d97977f-f944-41a3-a3c2-31669d2cfdad",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4d97977f-f944-41a3-a3c2-31669d2cfdad.png"
   }
  ],
  "archive": [
@@ -10875,13 +10903,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.31
+   "score": 18.3
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10893,25 +10921,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.19
+   "score": 18.18
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10935,7 +10963,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   }
  },
  "favoriteWeights": {
