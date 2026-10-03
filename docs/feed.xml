@@ -103,13 +103,6 @@
     <pubDate>2026-09-16T09:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>War Robots: Frontiers — Shadowed Bastion</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=8bce7df4-b03e-4e1e-8829-7513d54016ec</link>
-    <guid isPermaLink="false">8bce7df4-b03e-4e1e-8829-7513d54016ec</guid>
-    <description>3,000 Credits · 3-Day Premium Account · 15,000 Salvage · 2x Infinite Ammo · 50 Intel · 2x Relic Bulgasari Shoulder — runs 2026-09-19T12:00:00+00:00 → 2026-10-03T11:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-19T12:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>League of Legends — WSCI 2026</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=4d85b517-5d8d-4720-b9bd-b9d1e6c80697</link>
     <guid isPermaLink="false">4d85b517-5d8d-4720-b9bd-b9d1e6c80697</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">98b3e674-8b93-48f3-93db-ec293d595835</guid>
     <description>Rust Isles DB — runs 2026-09-24T18:43:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-24T18:43:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rust — Rust Isles SAR</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=b7c42d19-0a30-4786-b5d7-8a3f3508541a</link>
+    <guid isPermaLink="false">b7c42d19-0a30-4786-b5d7-8a3f3508541a</guid>
+    <description>Rust Isles SAR — runs 2026-09-24T18:44:00+00:00 → 2026-10-04T23:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-24T18:44:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
