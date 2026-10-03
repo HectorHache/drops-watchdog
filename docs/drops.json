@@ -4020,6 +4020,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/750bd0b0-441f-434f-8ca4-0d80b864da6f.png"
+  },
+  {
+   "id": "1c0885b2-df24-4de0-ac76-6677621b711c",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 2_Day2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T22:30:00+00:00",
+   "endAt": "2026-10-04T04:30:59.999+00:00",
+   "firstSeenAt": "2026-10-03T22:30:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5210930a-6a07-423f-9edb-438aca3695a3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1c0885b2-df24-4de0-ac76-6677621b711c",
+   "rewards": [
+    {
+     "name": "PAS2 Finals 2_Day2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/1c0885b2-df24-4de0-ac76-6677621b711c.png"
   }
  ],
  "archive": [
@@ -10857,7 +10877,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.25
+   "score": 18.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
