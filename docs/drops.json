@@ -3634,54 +3634,6 @@
    "asset": "assets/ab4b5233-d6c4-49aa-bb33-1d02db511b56.png"
   },
   {
-   "id": "60020f01-28e4-480f-aa71-1683c91ac426",
-   "game": "World of Tanks",
-   "title": "Mailand Unity Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T08:00:00+00:00",
-   "endAt": "2026-10-03T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T08:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3a6e7c6-b6ea-4acf-bd07-f79a6496f2a4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60020f01-28e4-480f-aa71-1683c91ac426",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/60020f01-28e4-480f-aa71-1683c91ac426.png"
-  },
-  {
-   "id": "b1cfadf9-5499-44df-ab60-42e1cda322f1",
-   "game": "World of Tanks",
-   "title": "Mouzakrobat Unity Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T08:00:00+00:00",
-   "endAt": "2026-10-03T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T08:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ed5055b-2cc1-4960-8ee1-7c78f8c2db74.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1cfadf9-5499-44df-ab60-42e1cda322f1",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b1cfadf9-5499-44df-ab60-42e1cda322f1.png"
-  },
-  {
    "id": "529b4d9d-0a06-4fed-a8dc-6f3df0d836a3",
    "game": "Albion Online",
    "title": "Dragonfire 5 - #6/7",
@@ -4082,26 +4034,6 @@
    "asset": "assets/d656a7a5-f964-4d91-928d-02438586c0a0.png"
   },
   {
-   "id": "224c384a-1d4b-43c3-b73e-4099c13ed522",
-   "game": "Warframe",
-   "title": "PMCFQ - bugbreach",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T18:00:00+00:00",
-   "endAt": "2026-10-03T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T18:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/250d0e69-e251-48a2-9cbc-b62e8d28ee8e.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=224c384a-1d4b-43c3-b73e-4099c13ed522",
-   "rewards": [
-    {
-     "name": "Random Noggle",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/224c384a-1d4b-43c3-b73e-4099c13ed522.jpg"
-  },
-  {
    "id": "4d97977f-f944-41a3-a3c2-31669d2cfdad",
    "game": "Eternal Return",
    "title": "ERCS S12 P2 LCQ",
@@ -4128,9 +4060,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4d97977f-f944-41a3-a3c2-31669d2cfdad.png"
+  },
+  {
+   "id": "21c59903-955b-4d88-a22d-d676848e82c5",
+   "game": "Warframe",
+   "title": "PMCFQ - GreatBardini",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T20:00:00+00:00",
+   "endAt": "2026-10-03T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T20:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a0ef953d-0440-4c82-b38e-953b40fbe9c3.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=21c59903-955b-4d88-a22d-d676848e82c5",
+   "rewards": [
+    {
+     "name": "Random Noggle",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/21c59903-955b-4d88-a22d-d676848e82c5.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "60020f01-28e4-480f-aa71-1683c91ac426",
+   "game": "World of Tanks",
+   "title": "Mailand Unity Drop",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b1cfadf9-5499-44df-ab60-42e1cda322f1",
+   "game": "World of Tanks",
+   "title": "Mouzakrobat Unity Drop",
+   "startAt": "2026-10-03T08:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "224c384a-1d4b-43c3-b73e-4099c13ed522",
+   "game": "Warframe",
+   "title": "PMCFQ - bugbreach",
+   "startAt": "2026-10-03T18:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
    "game": "Rise Online",
@@ -10909,7 +10885,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.29
+   "score": 18.28
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10921,7 +10897,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.17
+   "score": 18.16
   },
   "Once Human": {
    "favorites": 2,
@@ -10951,7 +10927,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.22
+   "score": 6.21
   },
   "Warframe": {
    "favorites": 1,
