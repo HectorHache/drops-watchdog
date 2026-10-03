@@ -3422,46 +3422,6 @@
    "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
   },
   {
-   "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
-   "game": "Rise Online",
-   "title": "Mobile Drop 176",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T17:59:00+00:00",
-   "endAt": "2026-10-03T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-02T18:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee5074ae-fc8e-4f76-85c7-fe637f4ed65f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
-   "rewards": [
-    {
-     "name": "Mobile Drop 176",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/45c90f5e-423b-499c-8b4e-1dcb7867b4ac.png"
-  },
-  {
-   "id": "0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50",
-   "game": "Rise Online",
-   "title": "ROW Drop 605",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T17:59:00+00:00",
-   "endAt": "2026-10-03T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-02T18:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b72c520-f41d-4c7d-8989-8778c37cb117.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50",
-   "rewards": [
-    {
-     "name": "ROW Drop 605",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50.jpg"
-  },
-  {
    "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
    "game": "MARVEL Contest of Champions",
    "title": "October Week 1 ",
@@ -4080,9 +4040,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/afd4a9c4-cf9f-4e43-9dcd-b050645d89f8.png"
+  },
+  {
+   "id": "20b73958-7bcd-48ea-9d8d-c1a4d550c181",
+   "game": "Rise Online",
+   "title": "Mobile Drop 177",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T17:59:00+00:00",
+   "endAt": "2026-10-04T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-03T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31408683-24ba-4998-8e30-2e7461c52938.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=20b73958-7bcd-48ea-9d8d-c1a4d550c181",
+   "rewards": [
+    {
+     "name": "Mobile Drop 177",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/20b73958-7bcd-48ea-9d8d-c1a4d550c181.png"
+  },
+  {
+   "id": "d656a7a5-f964-4d91-928d-02438586c0a0",
+   "game": "Rise Online",
+   "title": "ROW Drop 606",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T17:59:00+00:00",
+   "endAt": "2026-10-04T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-03T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0bee4dc3-bd5b-47ed-9cda-8e4ee0a605ae.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d656a7a5-f964-4d91-928d-02438586c0a0",
+   "rewards": [
+    {
+     "name": "ROW Drop 606",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d656a7a5-f964-4d91-928d-02438586c0a0.png"
+  },
+  {
+   "id": "224c384a-1d4b-43c3-b73e-4099c13ed522",
+   "game": "Warframe",
+   "title": "PMCFQ - bugbreach",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T18:00:00+00:00",
+   "endAt": "2026-10-03T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T18:00:13+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/250d0e69-e251-48a2-9cbc-b62e8d28ee8e.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=224c384a-1d4b-43c3-b73e-4099c13ed522",
+   "rewards": [
+    {
+     "name": "Random Noggle",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/224c384a-1d4b-43c3-b73e-4099c13ed522.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "45c90f5e-423b-499c-8b4e-1dcb7867b4ac",
+   "game": "Rise Online",
+   "title": "Mobile Drop 176",
+   "startAt": "2026-10-02T17:59:00+00:00",
+   "endAt": "2026-10-03T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0bc2ee5c-3d9b-4162-9b40-2ad22ea2fb50",
+   "game": "Rise Online",
+   "title": "ROW Drop 605",
+   "startAt": "2026-10-02T17:59:00+00:00",
+   "endAt": "2026-10-03T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "78d968e7-a72a-440e-8773-2320a21e623a",
    "game": "EA Sports College Football 27",
@@ -10839,13 +10875,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.33
+   "score": 18.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10857,25 +10893,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.2
+   "score": 18.19
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10887,7 +10923,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.23
+   "score": 6.22
   },
   "Warframe": {
    "favorites": 1,
@@ -10899,7 +10935,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   }
  },
  "favoriteWeights": {
