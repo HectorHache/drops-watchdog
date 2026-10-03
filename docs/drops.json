@@ -3138,42 +3138,6 @@
    "asset": "assets/cc18e231-717b-4f5d-8af5-28aa9fe0e994.jpg"
   },
   {
-   "id": "9364e427-69dc-40a3-8629-54675beaac64",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/2/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T13:00:00+00:00",
-   "endAt": "2026-10-03T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T13:00:25+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd73bb0b-44e6-4ddf-b049-58bd2b9db3c6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9364e427-69dc-40a3-8629-54675beaac64",
-   "rewards": [
-    {
-     "name": "5",
-     "minutes": 90
-    },
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9364e427-69dc-40a3-8629-54675beaac64.png"
-  },
-  {
    "id": "10f4e5b0-ab27-4904-a8a1-a57f707abd12",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 3/3",
@@ -4052,9 +4016,173 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/faa79e0c-1a3a-4b81-a80b-ec91529cd766.png"
+  },
+  {
+   "id": "2de7c76c-490b-400b-bbc1-18d356a63382",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/3/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8fb7925c-717e-4f1d-b2be-3dc6db9263bd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2de7c76c-490b-400b-bbc1-18d356a63382",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2de7c76c-490b-400b-bbc1-18d356a63382.png"
+  },
+  {
+   "id": "fa34dd5f-9133-4dd7-b521-d662759bbaae",
+   "game": "Old School RuneScape",
+   "title": "RuneFest 2026 CoStream OS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/96c30d94-c0f6-4b06-87b0-99586c0e120b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa34dd5f-9133-4dd7-b521-d662759bbaae",
+   "rewards": [
+    {
+     "name": "RuneScape Shrimp OS",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fa34dd5f-9133-4dd7-b521-d662759bbaae.png"
+  },
+  {
+   "id": "38d79056-e5cc-435e-946c-4d688e5666c0",
+   "game": "RuneScape",
+   "title": "RuneFest 2026 RS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11b0065b-11ec-4ad7-82e0-53bafc23dce2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=38d79056-e5cc-435e-946c-4d688e5666c0",
+   "rewards": [
+    {
+     "name": "Yellow Party Hat RS",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/38d79056-e5cc-435e-946c-4d688e5666c0.png"
+  },
+  {
+   "id": "b6645492-dea6-4f81-ac4e-803c0ac01502",
+   "game": "RuneScape",
+   "title": "RuneFest 2026 Co-Steam RS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd007749-e454-4e0f-841c-1a0fd0b613e3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b6645492-dea6-4f81-ac4e-803c0ac01502",
+   "rewards": [
+    {
+     "name": "RuneScape Shrimp RS",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b6645492-dea6-4f81-ac4e-803c0ac01502.png"
+  },
+  {
+   "id": "d46ab002-b4f2-4668-b02c-093e80786dc7",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneFest 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b9049ae-7844-4da7-93ee-e56753cc7c75.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d46ab002-b4f2-4668-b02c-093e80786dc7",
+   "rewards": [
+    {
+     "name": "Yellow Party Hat",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d46ab002-b4f2-4668-b02c-093e80786dc7.png"
+  },
+  {
+   "id": "a8665ce5-5621-4bcc-aaef-f3771cd2740e",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneFest 2026 CoStream DW",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ff69b7cf-3c18-4d2b-a062-3deadebb5e9e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8665ce5-5621-4bcc-aaef-f3771cd2740e",
+   "rewards": [
+    {
+     "name": "RuneScape Shrimp DW",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a8665ce5-5621-4bcc-aaef-f3771cd2740e.png"
+  },
+  {
+   "id": "e14df140-3060-41ea-9610-138469a86c72",
+   "game": "Old School RuneScape",
+   "title": "RuneFest 2026 OSRS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T13:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfe74e46-7335-4d79-8b21-0c8ea3a38f0b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e14df140-3060-41ea-9610-138469a86c72",
+   "rewards": [
+    {
+     "name": "Yellow Party Hat OSRS",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e14df140-3060-41ea-9610-138469a86c72.png"
   }
  ],
  "archive": [
+  {
+   "id": "9364e427-69dc-40a3-8629-54675beaac64",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/2/26",
+   "startAt": "2026-10-02T13:00:00+00:00",
+   "endAt": "2026-10-03T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8bce7df4-b03e-4e1e-8829-7513d54016ec",
    "game": "War Robots: Frontiers",
@@ -10745,7 +10873,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.42
+   "score": 18.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10757,7 +10885,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.29
+   "score": 18.28
   },
   "Once Human": {
    "favorites": 2,
@@ -10787,7 +10915,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.26
+   "score": 6.25
   },
   "Warframe": {
    "favorites": 1,
