@@ -1530,50 +1530,6 @@
    "asset": "assets/14e2c1b8-6730-4edf-b46f-92f6926d4565.png"
   },
   {
-   "id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1",
-   "game": "SMITE 2",
-   "title": "Sept Wk 4 Blue Lotus!",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T11:00:00+00:00",
-   "endAt": "2026-10-03T10:57:59.999+00:00",
-   "firstSeenAt": "2026-09-26T11:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3b1ac8e-a906-4bbb-8966-1793a9a701ce.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=542a2fb4-97d1-427c-861b-3ebc5229a0e1",
-   "rewards": [
-    {
-     "name": "Market Coin Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coin Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coin Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coin Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Market Coin Bundle 5",
-     "minutes": 600
-    },
-    {
-     "name": "Blue Lotus Ne Zha",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coin Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/542a2fb4-97d1-427c-861b-3ebc5229a0e1.png"
-  },
-  {
    "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
    "game": "Predecessor",
    "title": "\ud83c\udfc6 PCC Fall",
@@ -4104,9 +4060,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/204b5429-8a12-4bfe-9cd2-d2c7193447d4.png"
+  },
+  {
+   "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
+   "game": "SMITE 2",
+   "title": "Oct Wk 1 - Blue Lotus!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-03T11:00:00+00:00",
+   "endAt": "2026-10-10T10:57:59.999+00:00",
+   "firstSeenAt": "2026-10-03T11:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28a4e07c-a1e0-4db6-85eb-c5b70f46bdab.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7be1def9-6d6a-4c61-bb44-80389da41d1e",
+   "rewards": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Blue Lotus Ne Zha",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   }
  ],
  "archive": [
+  {
+   "id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1",
+   "game": "SMITE 2",
+   "title": "Sept Wk 4 Blue Lotus!",
+   "startAt": "2026-09-26T11:00:00+00:00",
+   "endAt": "2026-10-03T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f7515cd1-9a92-4c9a-b195-c03c28258cb2",
    "game": "Albion Online",
@@ -10767,13 +10775,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.45
+   "score": 18.44
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10785,25 +10793,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.33
+   "score": 18.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10821,13 +10829,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.82
+   "score": 6.81
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   }
  },
  "favoriteWeights": {
