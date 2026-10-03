@@ -3514,42 +3514,6 @@
    "asset": "assets/ba1d9e10-b425-41f3-8165-cfa771c00f79.png"
   },
   {
-   "id": "7196201d-a616-43dd-90a4-61b16ba977f9",
-   "game": "DOFUS Touch",
-   "title": "J19 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T22:00:00+00:00",
-   "endAt": "2026-10-03T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T22:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f55510ee-d2f4-411b-a782-f8740fc70e36.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7196201d-a616-43dd-90a4-61b16ba977f9",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7196201d-a616-43dd-90a4-61b16ba977f9.png"
-  },
-  {
    "id": "1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3914,26 +3878,6 @@
    "asset": "assets/cf158a97-3e1c-470c-a7b0-e2afbb6eaf00.png"
   },
   {
-   "id": "4e5bc2f7-13ff-47b6-806b-e1d1d86b28fd",
-   "game": "World of Warships",
-   "title": "15.8 German Unification",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T15:00:00+00:00",
-   "endAt": "2026-10-03T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T15:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/190fecae-8760-4865-a608-2968c3fa02f3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4e5bc2f7-13ff-47b6-806b-e1d1d86b28fd",
-   "rewards": [
-    {
-     "name": "German Unification 2026",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4e5bc2f7-13ff-47b6-806b-e1d1d86b28fd.png"
-  },
-  {
    "id": "afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
    "game": "Escape from Tarkov: Arena",
    "title": "Arena Streamer Showmatch",
@@ -4042,27 +3986,67 @@
    "asset": "assets/4d97977f-f944-41a3-a3c2-31669d2cfdad.png"
   },
   {
-   "id": "21c59903-955b-4d88-a22d-d676848e82c5",
-   "game": "Warframe",
-   "title": "PMCFQ - GreatBardini",
+   "id": "750bd0b0-441f-434f-8ca4-0d80b864da6f",
+   "game": "DOFUS Touch",
+   "title": "J20 - 3x Temporix Cps",
    "status": "ACTIVE",
-   "startAt": "2026-10-03T20:00:00+00:00",
-   "endAt": "2026-10-03T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T20:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a0ef953d-0440-4c82-b38e-953b40fbe9c3.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=21c59903-955b-4d88-a22d-d676848e82c5",
+   "startAt": "2026-10-03T22:00:00+00:00",
+   "endAt": "2026-10-04T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-03T22:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a2bec84-f89d-4a07-9dcc-0afafb568ff6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=750bd0b0-441f-434f-8ca4-0d80b864da6f",
    "rewards": [
     {
-     "name": "Random Noggle",
+     "name": "3x TemporiX Cps",
      "minutes": 30
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "3x TemporiX Cps",
+     "minutes": 150
     }
    ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/21c59903-955b-4d88-a22d-d676848e82c5.jpg"
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/750bd0b0-441f-434f-8ca4-0d80b864da6f.png"
   }
  ],
  "archive": [
+  {
+   "id": "7196201d-a616-43dd-90a4-61b16ba977f9",
+   "game": "DOFUS Touch",
+   "title": "J19 - 3x Temporix Cps",
+   "startAt": "2026-10-02T22:00:00+00:00",
+   "endAt": "2026-10-03T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4e5bc2f7-13ff-47b6-806b-e1d1d86b28fd",
+   "game": "World of Warships",
+   "title": "15.8 German Unification",
+   "startAt": "2026-10-03T15:00:00+00:00",
+   "endAt": "2026-10-03T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "21c59903-955b-4d88-a22d-d676848e82c5",
+   "game": "Warframe",
+   "title": "PMCFQ - GreatBardini",
+   "startAt": "2026-10-03T20:00:00+00:00",
+   "endAt": "2026-10-03T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c3394af2-d996-4191-81b7-80f0f9c20851",
    "game": "PUBG: BATTLEGROUNDS",
@@ -10867,13 +10851,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.26
+   "score": 18.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10885,25 +10869,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.13
+   "score": 18.12
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10921,13 +10905,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.75
+   "score": 6.74
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.95
+   "score": 12.94
   }
  },
  "favoriteWeights": {
