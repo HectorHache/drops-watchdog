@@ -1338,26 +1338,6 @@
    "asset": "assets/8379bc7b-4082-4f4b-b83a-9812625f55a1.png"
   },
   {
-   "id": "1455b54f-00c4-4df6-a4d2-e1a05c879369",
-   "game": "Big Walk",
-   "title": "Big Walk badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T07:00:00+00:00",
-   "endAt": "2026-10-04T06:58:59.999+00:00",
-   "firstSeenAt": "2026-09-25T07:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/96d13db6-ca9a-4687-985d-22a4777faa5f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1455b54f-00c4-4df6-a4d2-e1a05c879369",
-   "rewards": [
-    {
-     "name": "Big Walk badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1455b54f-00c4-4df6-a4d2-e1a05c879369.png"
-  },
-  {
    "id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
    "game": "Rainbow Six Siege",
    "title": "R6S Wasteland circuit",
@@ -3794,26 +3774,6 @@
    "asset": "assets/e14df140-3060-41ea-9610-138469a86c72.png"
   },
   {
-   "id": "cf158a97-3e1c-470c-a7b0-e2afbb6eaf00",
-   "game": "Black Desert",
-   "title": "AoS: Community Clash",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T14:00:00+00:00",
-   "endAt": "2026-10-04T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T14:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b725960-4bb7-4b59-8a61-6a4f445bc4b8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cf158a97-3e1c-470c-a7b0-e2afbb6eaf00",
-   "rewards": [
-    {
-     "name": "AOS Clash (1 Hour)",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/cf158a97-3e1c-470c-a7b0-e2afbb6eaf00.png"
-  },
-  {
    "id": "20b73958-7bcd-48ea-9d8d-c1a4d550c181",
    "game": "Rise Online",
    "title": "Mobile Drop 177",
@@ -3951,6 +3911,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "cf158a97-3e1c-470c-a7b0-e2afbb6eaf00",
+   "game": "Black Desert",
+   "title": "AoS: Community Clash",
+   "startAt": "2026-10-03T14:00:00+00:00",
+   "endAt": "2026-10-04T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1455b54f-00c4-4df6-a4d2-e1a05c879369",
+   "game": "Big Walk",
+   "title": "Big Walk badge",
+   "startAt": "2026-09-25T07:00:00+00:00",
+   "endAt": "2026-10-04T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1c0885b2-df24-4de0-ac76-6677621b711c",
    "game": "PUBG: BATTLEGROUNDS",
@@ -10827,13 +10803,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.84
+   "score": 12.83
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.1
+   "score": 18.09
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10845,25 +10821,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.98
+   "score": 17.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.84
+   "score": 12.83
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.84
+   "score": 12.83
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.84
+   "score": 12.83
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10881,13 +10857,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.69
+   "score": 6.68
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.84
+   "score": 12.83
   }
  },
  "favoriteWeights": {
