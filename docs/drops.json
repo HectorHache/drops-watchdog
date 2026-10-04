@@ -2546,26 +2546,6 @@
    "asset": "assets/5e6e8172-09f9-4e28-bf54-0b4bef23804d.png"
   },
   {
-   "id": "fcfc8963-c553-4d14-b20e-ab0ec2086290",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.1- 10.4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T08:00:00+00:00",
-   "endAt": "2026-10-04T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T08:00:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d395d2f7-2900-44e1-9315-d2b96a56fce4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fcfc8963-c553-4d14-b20e-ab0ec2086290",
-   "rewards": [
-    {
-     "name": "10x XP Bonus",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fcfc8963-c553-4d14-b20e-ab0ec2086290.png"
-  },
-  {
    "id": "0317f83e-9c61-4bc3-b484-41275e681eae",
    "game": "My Hero Ultra Rumble",
    "title": "Twitch Drops campaign 3rd",
@@ -3818,30 +3798,6 @@
    "asset": "assets/bcba0bd4-fda8-4835-a566-a7950051dbb3.png"
   },
   {
-   "id": "bf139460-dc48-42cc-9b77-f3970636c66a",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T08:00:00+00:00",
-   "endAt": "2026-10-04T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T08:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0c8205de-2876-4c43-b123-8dde1ffa77d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf139460-dc48-42cc-9b77-f3970636c66a",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bf139460-dc48-42cc-9b77-f3970636c66a.png"
-  },
-  {
    "id": "8a8f5c7f-7791-4fa9-bc88-c1892943d143",
    "game": "Albion Online",
    "title": "AOCP Flamescale 4 - #7/7",
@@ -3976,9 +3932,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/67a2a512-24d6-4650-bd6b-0819bfc0b76b.png"
+  },
+  {
+   "id": "a59985cc-e256-4a5c-9084-61205d7d4e69",
+   "game": "Halo Infinite",
+   "title": "LVT Pro Play-OCT4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T16:00:00+00:00",
+   "endAt": "2026-10-05T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T16:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e62230ff-a767-4a67-9645-4f4b6f28a4be.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a59985cc-e256-4a5c-9084-61205d7d4e69",
+   "rewards": [
+    {
+     "name": "Fire Squire Armor coatings",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a59985cc-e256-4a5c-9084-61205d7d4e69.png"
+  },
+  {
+   "id": "96a25a01-ef44-4fe2-b0e6-00abc138282d",
+   "game": "Rocket League",
+   "title": "CRL League Play",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T16:30:00+00:00",
+   "endAt": "2026-10-04T21:29:59.999+00:00",
+   "firstSeenAt": "2026-10-04T16:30:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c95aceec-b6f0-4e39-a4df-c4e6574f0c5c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=96a25a01-ef44-4fe2-b0e6-00abc138282d",
+   "rewards": [
+    {
+     "name": "RLCS Very Rare Drop",
+     "minutes": 30
+    },
+    {
+     "name": "RLCS Import Drop",
+     "minutes": 60
+    },
+    {
+     "name": "RLCS Exotic Drop",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/96a25a01-ef44-4fe2-b0e6-00abc138282d.png"
   }
  ],
  "archive": [
+  {
+   "id": "fcfc8963-c553-4d14-b20e-ab0ec2086290",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.1- 10.4",
+   "startAt": "2026-10-01T08:00:00+00:00",
+   "endAt": "2026-10-04T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bf139460-dc48-42cc-9b77-f3970636c66a",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.4",
+   "startAt": "2026-10-04T08:00:00+00:00",
+   "endAt": "2026-10-04T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b54b9bb4-f29e-4a69-aa61-f5e355000137",
    "game": "Eternal Return",
@@ -10919,13 +10939,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.71
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.94
+   "score": 17.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10937,25 +10957,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.82
+   "score": 17.8
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.71
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.71
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.71
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10967,19 +10987,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.1
+   "score": 6.09
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.63
+   "score": 6.62
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.71
   }
  },
  "favoriteWeights": {
