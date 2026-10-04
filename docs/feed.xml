@@ -33,13 +33,6 @@
     <pubDate>2026-09-15T07:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>RuneScape: Dragonwilds — RuneScape: Dragonwilds</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb</link>
-    <guid isPermaLink="false">b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb</guid>
-    <description>RuneScape Dragonwilds Eye — runs 2026-09-15T12:00:00+00:00 → 2026-10-04T16:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-15T12:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Blue Protocol: Star Resonance — Season 3 Special Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=e75d8e5e-f588-4850-8a62-773fe3492998</link>
     <guid isPermaLink="false">e75d8e5e-f588-4850-8a62-773fe3492998</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">8379bc7b-4082-4f4b-b83a-9812625f55a1</guid>
     <description>Decoration: Twitch Mug · Decoration: Twitch Poster · Decoration: Twitch Statue — runs 2026-09-25T00:00:00+00:00 → 2026-10-22T23:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-09-25T00:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Rainbow Six Siege — R6S Wasteland circuit</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=114f8b92-b6c3-40d7-bd1e-96fed70d2a9b</link>
+    <guid isPermaLink="false">114f8b92-b6c3-40d7-bd1e-96fed70d2a9b</guid>
+    <description>OL'CLANKER — runs 2026-09-25T12:53:54+00:00 → 2026-10-13T13:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-09-25T12:53:54+00:00</pubDate>
   </item>
 </channel>
 </rss>

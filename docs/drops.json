@@ -142,26 +142,6 @@
    "asset": "assets/08012a89-858e-47ca-8dad-5aa11587a233.jpg"
   },
   {
-   "id": "b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
-   "game": "RuneScape: Dragonwilds",
-   "title": "RuneScape: Dragonwilds",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T12:00:00+00:00",
-   "endAt": "2026-10-04T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-15T12:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01974013-abf2-4410-b876-b946093f763e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
-   "rewards": [
-    {
-     "name": "RuneScape Dragonwilds Eye",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb.png"
-  },
-  {
    "id": "e75d8e5e-f588-4850-8a62-773fe3492998",
    "game": "Blue Protocol: Star Resonance",
    "title": "Season 3 Special Drops",
@@ -3980,9 +3960,57 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/96a25a01-ef44-4fe2-b0e6-00abc138282d.png"
+  },
+  {
+   "id": "5647c951-07c5-4e84-bfb4-7e9fb2de8922",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Streamer Showmatch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T17:00:00+00:00",
+   "endAt": "2026-10-05T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T17:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c608386e-6f66-4349-b7aa-1960217f58d8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5647c951-07c5-4e84-bfb4-7e9fb2de8922",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5647c951-07c5-4e84-bfb4-7e9fb2de8922.png"
   }
  ],
  "archive": [
+  {
+   "id": "b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneScape: Dragonwilds",
+   "startAt": "2026-09-15T12:00:00+00:00",
+   "endAt": "2026-10-04T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fcfc8963-c553-4d14-b20e-ab0ec2086290",
    "game": "NARAKA: BLADEPOINT",
@@ -10945,7 +10973,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.93
+   "score": 17.92
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10981,7 +11009,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.41
+   "score": 1.4
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
