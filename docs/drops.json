@@ -3154,6 +3154,42 @@
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   },
   {
+   "id": "ff2f69b4-207e-468c-b719-b71a7c4d920a",
+   "game": "Soulbound: Online",
+   "title": "Autumn Steam Sale Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-02T14:05:00+00:00",
+   "endAt": "2026-10-09T14:04:59.999+00:00",
+   "firstSeenAt": "2026-10-04T11:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc340c46-81f9-416d-a9ff-29ec5ab0ee18.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff2f69b4-207e-468c-b719-b71a7c4d920a",
+   "rewards": [
+    {
+     "name": "Tako Sensei Pants",
+     "minutes": 60
+    },
+    {
+     "name": "Tako Sensei Coat",
+     "minutes": 120
+    },
+    {
+     "name": "Tako Sensei Tentacles",
+     "minutes": 240
+    },
+    {
+     "name": "Crawling Spectacle (Tako pet)",
+     "minutes": 360
+    },
+    {
+     "name": "Tako Sensei Head",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ff2f69b4-207e-468c-b719-b71a7c4d920a.png"
+  },
+  {
    "id": "66486429-866d-41f9-9ebc-e8d2a04c107b",
    "game": "Caliber",
    "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 02.10.2026",
@@ -10871,13 +10907,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.79
+   "score": 12.78
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.03
+   "score": 18.02
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10889,25 +10925,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.91
+   "score": 17.9
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.79
+   "score": 12.78
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.79
+   "score": 12.78
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.79
+   "score": 12.78
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10919,7 +10955,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.13
+   "score": 6.12
   },
   "Warframe": {
    "favorites": 1,
@@ -10931,7 +10967,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.79
+   "score": 12.78
   }
  },
  "favoriteWeights": {
