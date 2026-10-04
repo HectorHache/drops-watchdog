@@ -3562,42 +3562,6 @@
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   },
   {
-   "id": "2de7c76c-490b-400b-bbc1-18d356a63382",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/3/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8fb7925c-717e-4f1d-b2be-3dc6db9263bd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2de7c76c-490b-400b-bbc1-18d356a63382",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2de7c76c-490b-400b-bbc1-18d356a63382.png"
-  },
-  {
    "id": "fa34dd5f-9133-4dd7-b521-d662759bbaae",
    "game": "Old School RuneScape",
    "title": "RuneFest 2026 CoStream OS",
@@ -3964,9 +3928,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/76ac21b2-38f8-432e-a2c1-242e54f93a5f.png"
+  },
+  {
+   "id": "51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/4/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T13:00:00+00:00",
+   "endAt": "2026-10-05T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T13:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0574ef0-ad5f-43d8-80e3-a37df1118558.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
+   "rewards": [
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/51342bb2-dcdf-4f52-8be4-ec238fe1dad0.png"
   }
  ],
  "archive": [
+  {
+   "id": "2de7c76c-490b-400b-bbc1-18d356a63382",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/3/26",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "71afac67-5881-448d-9d2e-d5cd19f5c53c",
    "game": "Battlefield REDSEC",
@@ -10897,7 +10905,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.0
+   "score": 17.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10909,7 +10917,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.87
+   "score": 17.86
   },
   "Once Human": {
    "favorites": 2,
