@@ -3514,46 +3514,6 @@
    "asset": "assets/ab4b5233-d6c4-49aa-bb33-1d02db511b56.png"
   },
   {
-   "id": "529b4d9d-0a06-4fed-a8dc-6f3df0d836a3",
-   "game": "Albion Online",
-   "title": "Dragonfire 5 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T10:00:00+00:00",
-   "endAt": "2026-10-04T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-03T10:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61f7666f-3ef3-4916-8f3c-699ddda921d1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=529b4d9d-0a06-4fed-a8dc-6f3df0d836a3",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/529b4d9d-0a06-4fed-a8dc-6f3df0d836a3.png"
-  },
-  {
-   "id": "204b5429-8a12-4bfe-9cd2-d2c7193447d4",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 4 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T10:00:00+00:00",
-   "endAt": "2026-10-04T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-03T10:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7fc2f05-926b-4e1d-9edf-bcba48ccacf6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=204b5429-8a12-4bfe-9cd2-d2c7193447d4",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/204b5429-8a12-4bfe-9cd2-d2c7193447d4.png"
-  },
-  {
    "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
    "game": "SMITE 2",
    "title": "Oct Wk 1 - Blue Lotus!",
@@ -3963,6 +3923,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "529b4d9d-0a06-4fed-a8dc-6f3df0d836a3",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #6/7",
+   "startAt": "2026-10-03T10:00:00+00:00",
+   "endAt": "2026-10-04T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "204b5429-8a12-4bfe-9cd2-d2c7193447d4",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #6/7",
+   "startAt": "2026-10-03T10:00:00+00:00",
+   "endAt": "2026-10-04T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cf158a97-3e1c-470c-a7b0-e2afbb6eaf00",
    "game": "Black Desert",
@@ -10855,13 +10831,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.06
+   "score": 18.05
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10879,19 +10855,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10903,7 +10879,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.14
+   "score": 6.13
   },
   "Warframe": {
    "favorites": 1,
@@ -10915,7 +10891,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.81
+   "score": 12.8
   }
  },
  "favoriteWeights": {
