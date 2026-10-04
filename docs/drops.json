@@ -3874,34 +3874,6 @@
    "asset": "assets/a59985cc-e256-4a5c-9084-61205d7d4e69.png"
   },
   {
-   "id": "96a25a01-ef44-4fe2-b0e6-00abc138282d",
-   "game": "Rocket League",
-   "title": "CRL League Play",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T16:30:00+00:00",
-   "endAt": "2026-10-04T21:29:59.999+00:00",
-   "firstSeenAt": "2026-10-04T16:30:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c95aceec-b6f0-4e39-a4df-c4e6574f0c5c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=96a25a01-ef44-4fe2-b0e6-00abc138282d",
-   "rewards": [
-    {
-     "name": "RLCS Very Rare Drop",
-     "minutes": 30
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 60
-    },
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/96a25a01-ef44-4fe2-b0e6-00abc138282d.png"
-  },
-  {
    "id": "5647c951-07c5-4e84-bfb4-7e9fb2de8922",
    "game": "Escape from Tarkov: Arena",
    "title": "Arena Streamer Showmatch",
@@ -3982,26 +3954,6 @@
    "asset": "assets/1718dca4-1709-4ea9-9486-6094370dddcf.jpg"
   },
   {
-   "id": "67745c78-a6d9-485b-8cdf-c10e2bdaf897",
-   "game": "Warframe",
-   "title": "PMCFQ - vulcanette",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T18:00:00+00:00",
-   "endAt": "2026-10-04T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c7ce483d-e926-4d04-9a09-accb6f57176b.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=67745c78-a6d9-485b-8cdf-c10e2bdaf897",
-   "rewards": [
-    {
-     "name": "Random Noggle",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/67745c78-a6d9-485b-8cdf-c10e2bdaf897.jpg"
-  },
-  {
    "id": "058967db-018b-4856-9734-29f6c0a0364e",
    "game": "Eternal Return",
    "title": "ERCS S12 P2 Finals",
@@ -4028,9 +3980,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/058967db-018b-4856-9734-29f6c0a0364e.png"
+  },
+  {
+   "id": "034996cb-1458-464f-87f7-23930beb38bb",
+   "game": "Warframe",
+   "title": "PMCFQ - rainbowwaffles",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T20:00:00+00:00",
+   "endAt": "2026-10-04T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T20:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d157c209-4530-43a1-b923-55add5c1e253.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=034996cb-1458-464f-87f7-23930beb38bb",
+   "rewards": [
+    {
+     "name": "Random Noggle",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/034996cb-1458-464f-87f7-23930beb38bb.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "96a25a01-ef44-4fe2-b0e6-00abc138282d",
+   "game": "Rocket League",
+   "title": "CRL League Play",
+   "startAt": "2026-10-04T16:30:00+00:00",
+   "endAt": "2026-10-04T21:29:59.999+00:00",
+   "status": "EXPIRED"
+  },
+  {
+   "id": "67745c78-a6d9-485b-8cdf-c10e2bdaf897",
+   "game": "Warframe",
+   "title": "PMCFQ - vulcanette",
+   "startAt": "2026-10-04T18:00:00+00:00",
+   "endAt": "2026-10-04T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "39067c53-2efb-4dcf-be67-223ef58c114f",
    "game": "Neighbors: Suburban Warfare",
@@ -11019,13 +11007,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.88
+   "score": 17.87
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11037,25 +11025,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.75
+   "score": 17.74
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11079,7 +11067,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   }
  },
  "favoriteWeights": {
