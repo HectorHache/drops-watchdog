@@ -3956,6 +3956,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/49c467d5-42b6-4e98-8f2a-c4b5b05a21a8.png"
+  },
+  {
+   "id": "67a2a512-24d6-4650-bd6b-0819bfc0b76b",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PEC: Fall Finals 2_DAY3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T15:30:00+00:00",
+   "endAt": "2026-10-04T21:00:59.999+00:00",
+   "firstSeenAt": "2026-10-04T15:30:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87a573e5-b5f9-4bcf-902c-6435072d0607.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=67a2a512-24d6-4650-bd6b-0819bfc0b76b",
+   "rewards": [
+    {
+     "name": "PEC: Fall Finals 2 -Winner Winner Hat",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/67a2a512-24d6-4650-bd6b-0819bfc0b76b.png"
   }
  ],
  "archive": [
@@ -10905,19 +10925,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.95
+   "score": 17.94
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.82
+   "score": 2.81
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.83
+   "score": 17.82
   },
   "Once Human": {
    "favorites": 2,
