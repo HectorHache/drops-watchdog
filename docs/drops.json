@@ -3490,38 +3490,6 @@
    "asset": "assets/1a4e966d-44e4-46b3-811f-9c9c108e14b5.png"
   },
   {
-   "id": "71afac67-5881-448d-9d2e-d5cd19f5c53c",
-   "game": "Battlefield REDSEC",
-   "title": "Season 4 Cash Cup #3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T04:00:00+00:00",
-   "endAt": "2026-10-04T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T04:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b6c32267-cf87-4295-a560-aa12037db155.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=71afac67-5881-448d-9d2e-d5cd19f5c53c",
-   "rewards": [
-    {
-     "name": "15 min Hardware XP Boost",
-     "minutes": 15
-    },
-    {
-     "name": "30 min Hardware XP Boost",
-     "minutes": 30
-    },
-    {
-     "name": "60 min Hardware XP Boost",
-     "minutes": 60
-    },
-    {
-     "name": "60 min Hardware XP Boost",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/71afac67-5881-448d-9d2e-d5cd19f5c53c.png"
-  },
-  {
    "id": "ab4b5233-d6c4-49aa-bb33-1d02db511b56",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 13",
@@ -3592,26 +3560,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
-  },
-  {
-   "id": "faa79e0c-1a3a-4b81-a80b-ec91529cd766",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 3)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T12:00:00+00:00",
-   "endAt": "2026-10-04T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T12:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/341be93e-61d4-43ea-b66c-662a391ee5f5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=faa79e0c-1a3a-4b81-a80b-ec91529cd766",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 3)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/faa79e0c-1a3a-4b81-a80b-ec91529cd766.png"
   },
   {
    "id": "2de7c76c-490b-400b-bbc1-18d356a63382",
@@ -3996,9 +3944,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/38e433a7-00de-4e6e-a475-722439633495.png"
+  },
+  {
+   "id": "76ac21b2-38f8-432e-a2c1-242e54f93a5f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 4)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T12:00:00+00:00",
+   "endAt": "2026-10-05T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T12:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7022a85c-4877-4b34-81bb-49cf96b1d40d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76ac21b2-38f8-432e-a2c1-242e54f93a5f",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 4)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/76ac21b2-38f8-432e-a2c1-242e54f93a5f.png"
   }
  ],
  "archive": [
+  {
+   "id": "71afac67-5881-448d-9d2e-d5cd19f5c53c",
+   "game": "Battlefield REDSEC",
+   "title": "Season 4 Cash Cup #3",
+   "startAt": "2026-10-03T04:00:00+00:00",
+   "endAt": "2026-10-04T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "faa79e0c-1a3a-4b81-a80b-ec91529cd766",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 3)",
+   "startAt": "2026-10-03T12:00:00+00:00",
+   "endAt": "2026-10-04T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "529b4d9d-0a06-4fed-a8dc-6f3df0d836a3",
    "game": "Albion Online",
@@ -10907,13 +10891,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.78
+   "score": 12.77
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.01
+   "score": 18.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10925,25 +10909,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.89
+   "score": 17.88
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.78
+   "score": 12.77
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.78
+   "score": 12.77
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.78
+   "score": 12.77
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10961,13 +10945,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.66
+   "score": 6.65
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.78
+   "score": 12.77
   }
  },
  "favoriteWeights": {
