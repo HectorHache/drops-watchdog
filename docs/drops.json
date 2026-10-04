@@ -1398,26 +1398,6 @@
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   },
   {
-   "id": "14e2c1b8-6730-4edf-b46f-92f6926d4565",
-   "game": "Coryphaeus Championships",
-   "title": "Summer Drops Fall",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T10:04:46+00:00",
-   "endAt": "2026-10-03T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-26T10:30:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0658b82e-a3ab-49bc-a804-5f2705f39264.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=14e2c1b8-6730-4edf-b46f-92f6926d4565",
-   "rewards": [
-    {
-     "name": "500 C-Coins",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/14e2c1b8-6730-4edf-b46f-92f6926d4565.png"
-  },
-  {
    "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
    "game": "Predecessor",
    "title": "\ud83c\udfc6 PCC Fall",
@@ -3494,50 +3474,6 @@
    "asset": "assets/1a4e966d-44e4-46b3-811f-9c9c108e14b5.png"
   },
   {
-   "id": "ba1d9e10-b425-41f3-8165-cfa771c00f79",
-   "game": "NBA 2K27",
-   "title": "NBA 2K27 x Nike Ja 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T20:00:00+00:00",
-   "endAt": "2026-10-03T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T20:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94ba1fc0-5b52-4061-a031-4f089fe4e962.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba1d9e10-b425-41f3-8165-cfa771c00f79",
-   "rewards": [
-    {
-     "name": "Nike Ja 4 MyCOURT Mural",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ba1d9e10-b425-41f3-8165-cfa771c00f79.png"
-  },
-  {
-   "id": "1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T00:00:00+00:00",
-   "endAt": "2026-10-03T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T00:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1b587085-dab0-4dce-9079-ae78d60ee7e6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1bc4cb37-9af4-4762-bf15-9bb7ea12079f.png"
-  },
-  {
    "id": "71afac67-5881-448d-9d2e-d5cd19f5c53c",
    "game": "Battlefield REDSEC",
    "title": "Season 4 Cash Cup #3",
@@ -3878,46 +3814,6 @@
    "asset": "assets/cf158a97-3e1c-470c-a7b0-e2afbb6eaf00.png"
   },
   {
-   "id": "afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Streamer Showmatch",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T17:00:00+00:00",
-   "endAt": "2026-10-03T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T17:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a140dfe3-7f37-4fc1-acc2-21b7cb4f4490.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/afd4a9c4-cf9f-4e43-9dcd-b050645d89f8.png"
-  },
-  {
    "id": "20b73958-7bcd-48ea-9d8d-c1a4d550c181",
    "game": "Rise Online",
    "title": "Mobile Drop 177",
@@ -3958,34 +3854,6 @@
    "asset": "assets/d656a7a5-f964-4d91-928d-02438586c0a0.png"
   },
   {
-   "id": "4d97977f-f944-41a3-a3c2-31669d2cfdad",
-   "game": "Eternal Return",
-   "title": "ERCS S12 P2 LCQ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T19:00:00+00:00",
-   "endAt": "2026-10-04T02:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T19:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8bec2c9f-9c28-4a1b-87dc-6379c51edf1a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4d97977f-f944-41a3-a3c2-31669d2cfdad",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4d97977f-f944-41a3-a3c2-31669d2cfdad.png"
-  },
-  {
    "id": "750bd0b0-441f-434f-8ca4-0d80b864da6f",
    "game": "DOFUS Touch",
    "title": "J20 - 3x Temporix Cps",
@@ -4022,27 +3890,115 @@
    "asset": "assets/750bd0b0-441f-434f-8ca4-0d80b864da6f.png"
   },
   {
-   "id": "1c0885b2-df24-4de0-ac76-6677621b711c",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PAS2 Finals 2_Day2",
+   "id": "3a50db2f-57ce-4c8b-915a-5a90d4ab379d",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-03T22:30:00+00:00",
-   "endAt": "2026-10-04T04:30:59.999+00:00",
-   "firstSeenAt": "2026-10-03T22:30:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5210930a-6a07-423f-9edb-438aca3695a3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1c0885b2-df24-4de0-ac76-6677621b711c",
+   "startAt": "2026-10-04T00:00:00+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T00:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7fae99d9-9680-44f5-a140-2609dfb55035.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a50db2f-57ce-4c8b-915a-5a90d4ab379d",
    "rewards": [
     {
-     "name": "PAS2 Finals 2_Day2",
-     "minutes": 120
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/1c0885b2-df24-4de0-ac76-6677621b711c.png"
+   "asset": "assets/3a50db2f-57ce-4c8b-915a-5a90d4ab379d.png"
+  },
+  {
+   "id": "bcba0bd4-fda8-4835-a566-a7950051dbb3",
+   "game": "Delta Force",
+   "title": "2nd Anniversary Event",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T01:00:00+00:00",
+   "endAt": "2026-10-05T09:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T01:00:06+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1383d5f6-b2f6-4e67-873b-1d76d8549e23.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bcba0bd4-fda8-4835-a566-a7950051dbb3",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "C Card - Welcome Home",
+     "minutes": 30
+    },
+    {
+     "name": "Avatar - Caviar Hackclaw",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "ASV - Bombworks",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/bcba0bd4-fda8-4835-a566-a7950051dbb3.png"
   }
  ],
  "archive": [
+  {
+   "id": "1c0885b2-df24-4de0-ac76-6677621b711c",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 2_Day2",
+   "startAt": "2026-10-03T22:30:00+00:00",
+   "endAt": "2026-10-04T04:30:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4d97977f-f944-41a3-a3c2-31669d2cfdad",
+   "game": "Eternal Return",
+   "title": "ERCS S12 P2 LCQ",
+   "startAt": "2026-10-03T19:00:00+00:00",
+   "endAt": "2026-10-04T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1bc4cb37-9af4-4762-bf15-9bb7ea12079f",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-03T00:00:00+00:00",
+   "endAt": "2026-10-03T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "afd4a9c4-cf9f-4e43-9dcd-b050645d89f8",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Streamer Showmatch",
+   "startAt": "2026-10-03T17:00:00+00:00",
+   "endAt": "2026-10-03T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "14e2c1b8-6730-4edf-b46f-92f6926d4565",
+   "game": "Coryphaeus Championships",
+   "title": "Summer Drops Fall",
+   "startAt": "2026-09-26T10:04:46+00:00",
+   "endAt": "2026-10-03T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ba1d9e10-b425-41f3-8165-cfa771c00f79",
+   "game": "NBA 2K27",
+   "title": "NBA 2K27 x Nike Ja 4",
+   "startAt": "2026-10-02T20:00:00+00:00",
+   "endAt": "2026-10-03T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7196201d-a616-43dd-90a4-61b16ba977f9",
    "game": "DOFUS Touch",
@@ -10871,67 +10827,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.86
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 18.24
+   "score": 18.13
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.86
+   "score": 2.84
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 18.12
+   "score": 18.0
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.86
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.86
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.86
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.43
+   "score": 1.42
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.2
+   "score": 6.16
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.74
+   "score": 6.7
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.94
+   "score": 12.86
   }
  },
  "favoriteWeights": {
