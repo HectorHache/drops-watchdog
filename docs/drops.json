@@ -3818,34 +3818,6 @@
    "asset": "assets/bcba0bd4-fda8-4835-a566-a7950051dbb3.png"
   },
   {
-   "id": "b54b9bb4-f29e-4a69-aa61-f5e355000137",
-   "game": "Eternal Return",
-   "title": "ERM S12 P3 DAY3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T07:30:00+00:00",
-   "endAt": "2026-10-04T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T07:30:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/36acec2f-10bc-4987-9882-b7685ce2bf52.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b54b9bb4-f29e-4a69-aa61-f5e355000137",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b54b9bb4-f29e-4a69-aa61-f5e355000137.png"
-  },
-  {
    "id": "bf139460-dc48-42cc-9b77-f3970636c66a",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.4",
@@ -3987,6 +3959,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "b54b9bb4-f29e-4a69-aa61-f5e355000137",
+   "game": "Eternal Return",
+   "title": "ERM S12 P3 DAY3",
+   "startAt": "2026-10-04T07:30:00+00:00",
+   "endAt": "2026-10-04T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2de7c76c-490b-400b-bbc1-18d356a63382",
    "game": "Out of the Park Baseball 27",
@@ -10919,13 +10899,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.96
+   "score": 17.95
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10937,25 +10917,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.84
+   "score": 17.83
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10973,13 +10953,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.64
+   "score": 6.63
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   }
  },
  "favoriteWeights": {
