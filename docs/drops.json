@@ -3964,6 +3964,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/51342bb2-dcdf-4f52-8be4-ec238fe1dad0.png"
+  },
+  {
+   "id": "49c467d5-42b6-4e98-8f2a-c4b5b05a21a8",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 Day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-04T14:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-04T14:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8994c278-5753-4ace-9144-a2030449f320.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49c467d5-42b6-4e98-8f2a-c4b5b05a21a8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/49c467d5-42b6-4e98-8f2a-c4b5b05a21a8.png"
   }
  ],
  "archive": [
@@ -10899,13 +10919,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.98
+   "score": 17.97
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10917,25 +10937,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.86
+   "score": 17.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10959,7 +10979,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   }
  },
  "favoriteWeights": {
