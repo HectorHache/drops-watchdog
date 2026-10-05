@@ -998,50 +998,6 @@
    "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
   },
   {
-   "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
-   "game": "Predecessor",
-   "title": "\ud83c\udfc6 PCC Fall",
-   "status": "ACTIVE",
-   "startAt": "2026-09-26T14:00:00+00:00",
-   "endAt": "2026-10-05T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-26T19:00:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41c79471-fdc4-4fd2-a4ad-ae72c00cd616.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
-   "rewards": [
-    {
-     "name": "Ion Core",
-     "minutes": 60
-    },
-    {
-     "name": "Summer Winners Icons",
-     "minutes": 120
-    },
-    {
-     "name": "Thinking... Overhead Emote",
-     "minutes": 240
-    },
-    {
-     "name": "Summer Winners Banners",
-     "minutes": 360
-    },
-    {
-     "name": "Summer Winners Overhead Emotes",
-     "minutes": 480
-    },
-    {
-     "name": "Six Seven Overhead Emote",
-     "minutes": 600
-    },
-    {
-     "name": "Quantum Core",
-     "minutes": 720
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
-  },
-  {
    "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
    "game": "Honkai: Star Rail",
    "title": "V4.6 Honkai: Star Rail",
@@ -3039,6 +2995,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
+   "game": "Predecessor",
+   "title": "\ud83c\udfc6 PCC Fall",
+   "startAt": "2026-09-26T14:00:00+00:00",
+   "endAt": "2026-10-05T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "08a9a458-d4a9-47c2-9b84-e8ddce98f654",
    "game": "Heroes of the Storm",
@@ -10419,13 +10383,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.65
+   "score": 17.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10437,25 +10401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.53
+   "score": 17.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10479,7 +10443,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.52
+   "score": 12.51
   }
  },
  "favoriteWeights": {
