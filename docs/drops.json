@@ -1642,26 +1642,6 @@
    "asset": "assets/c36d6341-49ef-4c39-9d87-b8f4e6b34e6f.png"
   },
   {
-   "id": "b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
-   "game": "AirMech",
-   "title": "AirMech Drops Test",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T06:04:21+00:00",
-   "endAt": "2026-10-05T06:03:59.999+00:00",
-   "firstSeenAt": "2026-10-01T22:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4587584f-0896-4f6a-b4e9-ff204136e8e2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
-   "rewards": [
-    {
-     "name": "Twitch Capsule - Test",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742.png"
-  },
-  {
    "id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
    "game": "Doomsday: Last Survivors",
    "title": "Twitch Drops",
@@ -3075,6 +3055,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
+   "game": "AirMech",
+   "title": "AirMech Drops Test",
+   "startAt": "2026-09-30T06:04:21+00:00",
+   "endAt": "2026-10-05T06:03:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ab4b5233-d6c4-49aa-bb33-1d02db511b56",
    "game": "Rainbow Six Siege",
@@ -10431,13 +10419,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.55
+   "score": 12.54
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.7
+   "score": 17.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10455,19 +10443,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.55
+   "score": 12.54
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.55
+   "score": 12.54
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.55
+   "score": 12.54
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10485,13 +10473,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.54
+   "score": 6.53
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.55
+   "score": 12.54
   }
  },
  "favoriteWeights": {
