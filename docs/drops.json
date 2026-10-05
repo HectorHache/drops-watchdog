@@ -930,366 +930,6 @@
    "asset": "assets/cc3e3fb4-f513-43ad-bd9f-3638464ce841.png"
   },
   {
-   "id": "fd08f113-4582-4760-9c8d-20fc5100df18",
-   "game": "Rust",
-   "title": "Rust Isles General Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:30:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T18:30:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e784e0df-fa18-46ba-bcaf-daecc9832565.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fd08f113-4582-4760-9c8d-20fc5100df18",
-   "rewards": [
-    {
-     "name": "Rust Isles Sm Box",
-     "minutes": 180
-    },
-    {
-     "name": "Rust Isles Pants",
-     "minutes": 240
-    },
-    {
-     "name": "Rust Isles Boots",
-     "minutes": 300
-    },
-    {
-     "name": "Rust Isles Hoodie",
-     "minutes": 360
-    },
-    {
-     "name": "Rustoria Med Box",
-     "minutes": 60
-    },
-    {
-     "name": "Rustoria Turret",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/fd08f113-4582-4760-9c8d-20fc5100df18.png"
-  },
-  {
-   "id": "fbd182c6-2414-4355-858b-b61413b994cb",
-   "game": "Rust",
-   "title": "Rust Isles Tac Gloves",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:31:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/99e6e609-dc3a-4d10-b03a-b04ca116e46c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fbd182c6-2414-4355-858b-b61413b994cb",
-   "rewards": [
-    {
-     "name": "Rust Isles Tac Gloves",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/fbd182c6-2414-4355-858b-b61413b994cb.png"
-  },
-  {
-   "id": "03b87dc1-4caf-4090-a1d5-85e7b77e34ec",
-   "game": "Rust",
-   "title": "Rust Isles Facemask",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:32:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1d4c923b-5722-4faf-bcb4-84410095a47e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=03b87dc1-4caf-4090-a1d5-85e7b77e34ec",
-   "rewards": [
-    {
-     "name": "Rust Isles Facemask",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/03b87dc1-4caf-4090-a1d5-85e7b77e34ec.png"
-  },
-  {
-   "id": "e46b02fe-5afd-4ed0-8d75-170683077c89",
-   "game": "Rust",
-   "title": "Rust Isles Chestplate",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:33:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d49e1b8d-1351-4467-a4e2-831d97a37603.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e46b02fe-5afd-4ed0-8d75-170683077c89",
-   "rewards": [
-    {
-     "name": "Rust Isles Chestplate",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/e46b02fe-5afd-4ed0-8d75-170683077c89.png"
-  },
-  {
-   "id": "946958be-d0b8-442b-a6be-30a18a007265",
-   "game": "Rust",
-   "title": "Rust Isles Jacket",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:34:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc76acfe-7997-4dbb-9235-22035b011091.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=946958be-d0b8-442b-a6be-30a18a007265",
-   "rewards": [
-    {
-     "name": "Rust Isles Jacket",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/946958be-d0b8-442b-a6be-30a18a007265.png"
-  },
-  {
-   "id": "4a6aeb5e-e47e-40c4-871e-26fa37d9b859",
-   "game": "Rust",
-   "title": "Rust Isles Locker",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:35:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a30d413a-8099-4517-ab50-0bde461442b8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4a6aeb5e-e47e-40c4-871e-26fa37d9b859",
-   "rewards": [
-    {
-     "name": "Rust Isles Locker",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/4a6aeb5e-e47e-40c4-871e-26fa37d9b859.png"
-  },
-  {
-   "id": "a115a044-c633-4a72-b163-c124b870d29f",
-   "game": "Rust",
-   "title": "Rust Isles Garage Door",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:36:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1b86429-5cea-44a2-b9b3-22c99a74ee1b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a115a044-c633-4a72-b163-c124b870d29f",
-   "rewards": [
-    {
-     "name": "Rust Isles Garage Door",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a115a044-c633-4a72-b163-c124b870d29f.png"
-  },
-  {
-   "id": "32c93a64-ad3e-4d91-ac1a-6bd0ed82d062",
-   "game": "Rust",
-   "title": "Rust Isles Sword",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:37:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ecb273ad-fa4f-41ee-b3bb-38d8e809055f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=32c93a64-ad3e-4d91-ac1a-6bd0ed82d062",
-   "rewards": [
-    {
-     "name": "Rust Isles Sword",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/32c93a64-ad3e-4d91-ac1a-6bd0ed82d062.png"
-  },
-  {
-   "id": "ab849e29-f685-48e2-97c4-2d2be976af01",
-   "game": "Rust",
-   "title": "Rust Isles Lg Box",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:38:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61e05210-68b2-4231-afe0-454faa1fd6b4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab849e29-f685-48e2-97c4-2d2be976af01",
-   "rewards": [
-    {
-     "name": "Rust Isles Lg Box",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/ab849e29-f685-48e2-97c4-2d2be976af01.png"
-  },
-  {
-   "id": "b546584d-af17-4413-acbc-9e082ad2d6ea",
-   "game": "Rust",
-   "title": "Rust Isles Wood Door",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:39:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/40fa2106-b2e9-4414-a8c6-713f51864300.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b546584d-af17-4413-acbc-9e082ad2d6ea",
-   "rewards": [
-    {
-     "name": "Rust Isles Wood Door",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b546584d-af17-4413-acbc-9e082ad2d6ea.png"
-  },
-  {
-   "id": "c26e8fc0-e80b-43c7-81a6-be252d1c490c",
-   "game": "Rust",
-   "title": "Rust Isles Furnace",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:40:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdc72548-da8d-441c-b6bf-96cd1e9afc05.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c26e8fc0-e80b-43c7-81a6-be252d1c490c",
-   "rewards": [
-    {
-     "name": "Rust Isles Furnace",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/c26e8fc0-e80b-43c7-81a6-be252d1c490c.png"
-  },
-  {
-   "id": "e0c760d7-3e41-4466-b8fd-489d8410c1f9",
-   "game": "Rust",
-   "title": "Rust Isles Backpack",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:41:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0af850e-3d98-41ab-ab6c-cf3e0d1b75f1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0c760d7-3e41-4466-b8fd-489d8410c1f9",
-   "rewards": [
-    {
-     "name": "Rust Isles Backpack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/e0c760d7-3e41-4466-b8fd-489d8410c1f9.png"
-  },
-  {
-   "id": "d251f62f-8e9b-469b-9b97-60064ff411ad",
-   "game": "Rust",
-   "title": "Rust Isles Boonie",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:42:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56ab9d4c-0180-4f54-bbeb-ba517904fbcf.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d251f62f-8e9b-469b-9b97-60064ff411ad",
-   "rewards": [
-    {
-     "name": "Rust Isles Boonie",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/d251f62f-8e9b-469b-9b97-60064ff411ad.png"
-  },
-  {
-   "id": "98b3e674-8b93-48f3-93db-ec293d595835",
-   "game": "Rust",
-   "title": "Rust Isles DB",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:43:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0628987d-4e5e-479d-b455-500d7b57777b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98b3e674-8b93-48f3-93db-ec293d595835",
-   "rewards": [
-    {
-     "name": "Rust Isles DB",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/98b3e674-8b93-48f3-93db-ec293d595835.png"
-  },
-  {
-   "id": "b7c42d19-0a30-4786-b5d7-8a3f3508541a",
-   "game": "Rust",
-   "title": "Rust Isles SAR",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:44:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ef91d4b-72bf-4f01-b4eb-617a93f0d89a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b7c42d19-0a30-4786-b5d7-8a3f3508541a",
-   "rewards": [
-    {
-     "name": "Rust Isles SAR",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b7c42d19-0a30-4786-b5d7-8a3f3508541a.png"
-  },
-  {
-   "id": "fb08089e-d453-411b-845b-eb5c54a2e6e8",
-   "game": "Rust",
-   "title": "Rust Isles AR",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:45:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c8494cb-6d53-49ba-9824-704c911902ac.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fb08089e-d453-411b-845b-eb5c54a2e6e8",
-   "rewards": [
-    {
-     "name": "Rust Isles AR",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/fb08089e-d453-411b-845b-eb5c54a2e6e8.png"
-  },
-  {
-   "id": "b2b8e712-05ae-4e29-8e43-48458e7c2f75",
-   "game": "Rust",
-   "title": "Rust Isles Launcher",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T18:46:00+00:00",
-   "endAt": "2026-10-04T23:58:59.999+00:00",
-   "firstSeenAt": "2026-09-24T19:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eba89e16-67a5-49ca-9031-e30545242cb6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2b8e712-05ae-4e29-8e43-48458e7c2f75",
-   "rewards": [
-    {
-     "name": "Rust Isles Launcher",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/b2b8e712-05ae-4e29-8e43-48458e7c2f75.png"
-  },
-  {
    "id": "8379bc7b-4082-4f4b-b83a-9812625f55a1",
    "game": "Airport Baggage Simulator",
    "title": "Night Shift Update",
@@ -1402,54 +1042,6 @@
    "asset": "assets/9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74.png"
   },
   {
-   "id": "1909a584-68e5-4517-b806-d644aff28f71",
-   "game": "Kirka.io",
-   "title": "Detective X",
-   "status": "ACTIVE",
-   "startAt": "2026-09-27T17:12:11+00:00",
-   "endAt": "2026-10-04T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-27T17:30:37+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2dff2873-88c6-41df-a97b-859c0ff471be.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1909a584-68e5-4517-b806-d644aff28f71",
-   "rewards": [
-    {
-     "name": "Detective X",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1909a584-68e5-4517-b806-d644aff28f71.png"
-  },
-  {
-   "id": "209f7db3-5ccd-40b5-bee1-f92328b849d5",
-   "game": "Modern Warships",
-   "title": "Weekly Supply Drops #35",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T00:00:00+00:00",
-   "endAt": "2026-10-04T23:29:59.999+00:00",
-   "firstSeenAt": "2026-09-28T00:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1ce90d13-eddf-4dfe-87ac-faf8241adace.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=209f7db3-5ccd-40b5-bee1-f92328b849d5",
-   "rewards": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/209f7db3-5ccd-40b5-bee1-f92328b849d5.png"
-  },
-  {
    "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
    "game": "Honkai: Star Rail",
    "title": "V4.6 Honkai: Star Rail",
@@ -1484,26 +1076,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/520218bf-41ef-4a30-80df-3bd5b0102303.png"
-  },
-  {
-   "id": "a9fd9398-3fa5-4f22-96d3-9190377d192f",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS1 Weekly 9.28",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T04:00:00+00:00",
-   "endAt": "2026-10-05T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T04:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9296cfb8-776e-4a82-a6f1-589c0ea56063.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a9fd9398-3fa5-4f22-96d3-9190377d192f",
-   "rewards": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a9fd9398-3fa5-4f22-96d3-9190377d192f.png"
   },
   {
    "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
@@ -2230,42 +1802,6 @@
    "asset": "assets/2c1776a1-ba10-4589-8b23-9179d0b502c6.png"
   },
   {
-   "id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
-   "game": "Delta Force",
-   "title": "AM&EMEA Group Stage D5-8",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T00:00:00+00:00",
-   "endAt": "2026-10-04T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T00:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0762700-5d92-41c1-ab89-c08d00b4288d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Ammo Selection Pack Lv.4",
-     "minutes": 30
-    },
-    {
-     "name": "Spray-RISE SERIES SEASON2",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "Avatar-RISESERIES SEASON2",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6.png"
-  },
-  {
    "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
    "game": "Wolvesville",
    "title": "October 2026",
@@ -2284,66 +1820,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5b32b5e7-7421-40ae-be32-e45b4df19a12.png"
-  },
-  {
-   "id": "7b8fbcc7-90f2-4f7e-b707-b4545afcba91",
-   "game": "Last Epoch",
-   "title": "Last Epoch Season 5 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T00:01:00+00:00",
-   "endAt": "2026-10-05T00:00:59.999+00:00",
-   "firstSeenAt": "2026-10-01T00:30:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbe91736-0010-45ad-aaf8-6b540075b9b3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7b8fbcc7-90f2-4f7e-b707-b4545afcba91",
-   "rewards": [
-    {
-     "name": "Enraged Watcher Title",
-     "minutes": 120
-    },
-    {
-     "name": "Hailborne Rod",
-     "minutes": 240
-    },
-    {
-     "name": "Bumble Bear Summon Bear",
-     "minutes": 360
-    },
-    {
-     "name": "Fractured Fireball",
-     "minutes": 480
-    },
-    {
-     "name": "Crimson Lance",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7b8fbcc7-90f2-4f7e-b707-b4545afcba91.png"
-  },
-  {
-   "id": "27c7bf80-6b43-405a-b54d-a5c55860bdee",
-   "game": "Rise of Agon",
-   "title": "Open Beta Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T00:14:25+00:00",
-   "endAt": "2026-10-04T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T00:30:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=27c7bf80-6b43-405a-b54d-a5c55860bdee",
-   "rewards": [
-    {
-     "name": "Mana Missle: Crimson",
-     "minutes": 0
-    },
-    {
-     "name": "Hairy Spider Pet",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/27c7bf80-6b43-405a-b54d-a5c55860bdee.png"
   },
   {
    "id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
@@ -3214,34 +2690,6 @@
    "asset": "assets/1a4e966d-44e4-46b3-811f-9c9c108e14b5.png"
   },
   {
-   "id": "ab4b5233-d6c4-49aa-bb33-1d02db511b56",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 13",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T05:00:00+00:00",
-   "endAt": "2026-10-05T04:58:59.999+00:00",
-   "firstSeenAt": "2026-10-03T05:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03ed9633-377a-4c8f-a8e3-5abe1c8c255f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab4b5233-d6c4-49aa-bb33-1d02db511b56",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ab4b5233-d6c4-49aa-bb33-1d02db511b56.png"
-  },
-  {
    "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
    "game": "SMITE 2",
    "title": "Oct Wk 1 - Blue Lotus!",
@@ -3284,150 +2732,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
-  },
-  {
-   "id": "fa34dd5f-9133-4dd7-b521-d662759bbaae",
-   "game": "Old School RuneScape",
-   "title": "RuneFest 2026 CoStream OS",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/96c30d94-c0f6-4b06-87b0-99586c0e120b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa34dd5f-9133-4dd7-b521-d662759bbaae",
-   "rewards": [
-    {
-     "name": "RuneScape Shrimp OS",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fa34dd5f-9133-4dd7-b521-d662759bbaae.png"
-  },
-  {
-   "id": "38d79056-e5cc-435e-946c-4d688e5666c0",
-   "game": "RuneScape",
-   "title": "RuneFest 2026 RS",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11b0065b-11ec-4ad7-82e0-53bafc23dce2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=38d79056-e5cc-435e-946c-4d688e5666c0",
-   "rewards": [
-    {
-     "name": "Yellow Party Hat RS",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/38d79056-e5cc-435e-946c-4d688e5666c0.png"
-  },
-  {
-   "id": "b6645492-dea6-4f81-ac4e-803c0ac01502",
-   "game": "RuneScape",
-   "title": "RuneFest 2026 Co-Steam RS",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd007749-e454-4e0f-841c-1a0fd0b613e3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b6645492-dea6-4f81-ac4e-803c0ac01502",
-   "rewards": [
-    {
-     "name": "RuneScape Shrimp RS",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b6645492-dea6-4f81-ac4e-803c0ac01502.png"
-  },
-  {
-   "id": "d46ab002-b4f2-4668-b02c-093e80786dc7",
-   "game": "RuneScape: Dragonwilds",
-   "title": "RuneFest 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b9049ae-7844-4da7-93ee-e56753cc7c75.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d46ab002-b4f2-4668-b02c-093e80786dc7",
-   "rewards": [
-    {
-     "name": "Yellow Party Hat",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d46ab002-b4f2-4668-b02c-093e80786dc7.png"
-  },
-  {
-   "id": "a8665ce5-5621-4bcc-aaef-f3771cd2740e",
-   "game": "RuneScape: Dragonwilds",
-   "title": "RuneFest 2026 CoStream DW",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ff69b7cf-3c18-4d2b-a062-3deadebb5e9e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8665ce5-5621-4bcc-aaef-f3771cd2740e",
-   "rewards": [
-    {
-     "name": "RuneScape Shrimp DW",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a8665ce5-5621-4bcc-aaef-f3771cd2740e.png"
-  },
-  {
-   "id": "e14df140-3060-41ea-9610-138469a86c72",
-   "game": "Old School RuneScape",
-   "title": "RuneFest 2026 OSRS",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T13:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-03T13:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfe74e46-7335-4d79-8b21-0c8ea3a38f0b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e14df140-3060-41ea-9610-138469a86c72",
-   "rewards": [
-    {
-     "name": "Yellow Party Hat OSRS",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e14df140-3060-41ea-9610-138469a86c72.png"
-  },
-  {
-   "id": "3a50db2f-57ce-4c8b-915a-5a90d4ab379d",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T00:00:00+00:00",
-   "endAt": "2026-10-04T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T00:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7fae99d9-9680-44f5-a140-2609dfb55035.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a50db2f-57ce-4c8b-915a-5a90d4ab379d",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3a50db2f-57ce-4c8b-915a-5a90d4ab379d.png"
   },
   {
    "id": "bcba0bd4-fda8-4835-a566-a7950051dbb3",
@@ -3562,86 +2866,6 @@
    "asset": "assets/51342bb2-dcdf-4f52-8be4-ec238fe1dad0.png"
   },
   {
-   "id": "49c467d5-42b6-4e98-8f2a-c4b5b05a21a8",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 2 Day 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T14:00:00+00:00",
-   "endAt": "2026-10-04T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T14:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8994c278-5753-4ace-9144-a2030449f320.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49c467d5-42b6-4e98-8f2a-c4b5b05a21a8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/49c467d5-42b6-4e98-8f2a-c4b5b05a21a8.png"
-  },
-  {
-   "id": "a59985cc-e256-4a5c-9084-61205d7d4e69",
-   "game": "Halo Infinite",
-   "title": "LVT Pro Play-OCT4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T16:00:00+00:00",
-   "endAt": "2026-10-05T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T16:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e62230ff-a767-4a67-9645-4f4b6f28a4be.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a59985cc-e256-4a5c-9084-61205d7d4e69",
-   "rewards": [
-    {
-     "name": "Fire Squire Armor coatings",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a59985cc-e256-4a5c-9084-61205d7d4e69.png"
-  },
-  {
-   "id": "5647c951-07c5-4e84-bfb4-7e9fb2de8922",
-   "game": "Escape from Tarkov: Arena",
-   "title": "Arena Streamer Showmatch",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T17:00:00+00:00",
-   "endAt": "2026-10-05T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T17:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c608386e-6f66-4349-b7aa-1960217f58d8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5647c951-07c5-4e84-bfb4-7e9fb2de8922",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5647c951-07c5-4e84-bfb4-7e9fb2de8922.png"
-  },
-  {
    "id": "435dd816-229f-484f-8388-8196cc8a186b",
    "game": "Rise Online",
    "title": "Mobile Drop 178",
@@ -3682,34 +2906,6 @@
    "asset": "assets/1718dca4-1709-4ea9-9486-6094370dddcf.jpg"
   },
   {
-   "id": "058967db-018b-4856-9734-29f6c0a0364e",
-   "game": "Eternal Return",
-   "title": "ERCS S12 P2 Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T19:00:00+00:00",
-   "endAt": "2026-10-05T02:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T19:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f733537-ff09-4f98-a547-15f5e54ca673.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=058967db-018b-4856-9734-29f6c0a0364e",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/058967db-018b-4856-9734-29f6c0a0364e.png"
-  },
-  {
    "id": "d69ca746-f1c5-489a-96b9-90e6037f6b3f",
    "game": "DOFUS Touch",
    "title": "J21 - 3x Temporix Cps",
@@ -3746,27 +2942,427 @@
    "asset": "assets/d69ca746-f1c5-489a-96b9-90e6037f6b3f.png"
   },
   {
-   "id": "fc2d91e0-c601-40f0-abaa-539d131b2528",
-   "game": "PUBG: BATTLEGROUNDS",
-   "title": "PAS2 Finals 2_Day3",
+   "id": "ae0d243b-7d47-4cb3-838f-97dfd389a42f",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-04T22:30:00+00:00",
-   "endAt": "2026-10-05T04:30:59.999+00:00",
-   "firstSeenAt": "2026-10-04T22:30:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53e36863-6a54-4ac1-8fc7-43481b1a0f13.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fc2d91e0-c601-40f0-abaa-539d131b2528",
+   "startAt": "2026-10-05T00:00:00+00:00",
+   "endAt": "2026-10-05T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35034c39-e913-4a5c-bb56-00de00067cdb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ae0d243b-7d47-4cb3-838f-97dfd389a42f",
    "rewards": [
     {
-     "name": "PAS2 Finals 2_Day3",
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ae0d243b-7d47-4cb3-838f-97dfd389a42f.png"
+  },
+  {
+   "id": "33b64b3d-0949-49d9-869b-8e530ad9d38c",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T00:00:00+00:00",
+   "endAt": "2026-10-11T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec11ab13-f06e-4be5-bf05-fbf4374f4125.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=33b64b3d-0949-49d9-869b-8e530ad9d38c",
+   "rewards": [
+    {
+     "name": "32x Thirst for Adventure",
+     "minutes": 30
+    },
+    {
+     "name": "2x Dungeon Key",
+     "minutes": 60
+    },
+    {
+     "name": "3x Arena Ticket",
+     "minutes": 90
+    },
+    {
+     "name": "100x Crystal",
      "minutes": 120
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/fc2d91e0-c601-40f0-abaa-539d131b2528.png"
+   "asset": "assets/33b64b3d-0949-49d9-869b-8e530ad9d38c.png"
+  },
+  {
+   "id": "cc7e2087-863c-4ad2-97aa-484644c58089",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #36",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T00:00:00+00:00",
+   "endAt": "2026-10-11T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-05T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3205c8e-c26b-4787-b005-20a65ccb75f4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc7e2087-863c-4ad2-97aa-484644c58089",
+   "rewards": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cc7e2087-863c-4ad2-97aa-484644c58089.png"
+  },
+  {
+   "id": "8c909a6b-23fa-4107-b1e3-7ef882b56356",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 Weekly 10.5",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T04:00:00+00:00",
+   "endAt": "2026-10-09T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T04:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/71f0a12b-ccf6-4ac6-8514-35116b188a6d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8c909a6b-23fa-4107-b1e3-7ef882b56356",
+   "rewards": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8c909a6b-23fa-4107-b1e3-7ef882b56356.png"
+  },
+  {
+   "id": "6d22289f-d90b-41f6-a814-2dd6a7ff473e",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 14",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T05:00:00+00:00",
+   "endAt": "2026-10-07T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-05T05:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4f142c99-06ee-41fc-beb5-33345b61ef6e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6d22289f-d90b-41f6-a814-2dd6a7ff473e",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 540
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6d22289f-d90b-41f6-a814-2dd6a7ff473e.png"
   }
  ],
  "archive": [
+  {
+   "id": "ab4b5233-d6c4-49aa-bb33-1d02db511b56",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 13",
+   "startAt": "2026-10-03T05:00:00+00:00",
+   "endAt": "2026-10-05T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fc2d91e0-c601-40f0-abaa-539d131b2528",
+   "game": "PUBG: BATTLEGROUNDS",
+   "title": "PAS2 Finals 2_Day3",
+   "startAt": "2026-10-04T22:30:00+00:00",
+   "endAt": "2026-10-05T04:30:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a9fd9398-3fa5-4f22-96d3-9190377d192f",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 Weekly 9.28",
+   "startAt": "2026-09-28T04:00:00+00:00",
+   "endAt": "2026-10-05T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "058967db-018b-4856-9734-29f6c0a0364e",
+   "game": "Eternal Return",
+   "title": "ERCS S12 P2 Finals",
+   "startAt": "2026-10-04T19:00:00+00:00",
+   "endAt": "2026-10-05T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a59985cc-e256-4a5c-9084-61205d7d4e69",
+   "game": "Halo Infinite",
+   "title": "LVT Pro Play-OCT4",
+   "startAt": "2026-10-04T16:00:00+00:00",
+   "endAt": "2026-10-05T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5647c951-07c5-4e84-bfb4-7e9fb2de8922",
+   "game": "Escape from Tarkov: Arena",
+   "title": "Arena Streamer Showmatch",
+   "startAt": "2026-10-04T17:00:00+00:00",
+   "endAt": "2026-10-05T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7b8fbcc7-90f2-4f7e-b707-b4545afcba91",
+   "game": "Last Epoch",
+   "title": "Last Epoch Season 5 Drops",
+   "startAt": "2026-10-01T00:01:00+00:00",
+   "endAt": "2026-10-05T00:00:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6",
+   "game": "Delta Force",
+   "title": "AM&EMEA Group Stage D5-8",
+   "startAt": "2026-10-01T00:00:00+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "27c7bf80-6b43-405a-b54d-a5c55860bdee",
+   "game": "Rise of Agon",
+   "title": "Open Beta Launch Drops",
+   "startAt": "2026-10-01T00:14:25+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3a50db2f-57ce-4c8b-915a-5a90d4ab379d",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-04T00:00:00+00:00",
+   "endAt": "2026-10-04T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fd08f113-4582-4760-9c8d-20fc5100df18",
+   "game": "Rust",
+   "title": "Rust Isles General Drops",
+   "startAt": "2026-09-24T18:30:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a115a044-c633-4a72-b163-c124b870d29f",
+   "game": "Rust",
+   "title": "Rust Isles Garage Door",
+   "startAt": "2026-09-24T18:36:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c26e8fc0-e80b-43c7-81a6-be252d1c490c",
+   "game": "Rust",
+   "title": "Rust Isles Furnace",
+   "startAt": "2026-09-24T18:40:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ab849e29-f685-48e2-97c4-2d2be976af01",
+   "game": "Rust",
+   "title": "Rust Isles Lg Box",
+   "startAt": "2026-09-24T18:38:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b7c42d19-0a30-4786-b5d7-8a3f3508541a",
+   "game": "Rust",
+   "title": "Rust Isles SAR",
+   "startAt": "2026-09-24T18:44:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "32c93a64-ad3e-4d91-ac1a-6bd0ed82d062",
+   "game": "Rust",
+   "title": "Rust Isles Sword",
+   "startAt": "2026-09-24T18:37:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4a6aeb5e-e47e-40c4-871e-26fa37d9b859",
+   "game": "Rust",
+   "title": "Rust Isles Locker",
+   "startAt": "2026-09-24T18:35:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e0c760d7-3e41-4466-b8fd-489d8410c1f9",
+   "game": "Rust",
+   "title": "Rust Isles Backpack",
+   "startAt": "2026-09-24T18:41:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fb08089e-d453-411b-845b-eb5c54a2e6e8",
+   "game": "Rust",
+   "title": "Rust Isles AR",
+   "startAt": "2026-09-24T18:45:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "03b87dc1-4caf-4090-a1d5-85e7b77e34ec",
+   "game": "Rust",
+   "title": "Rust Isles Facemask",
+   "startAt": "2026-09-24T18:32:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "98b3e674-8b93-48f3-93db-ec293d595835",
+   "game": "Rust",
+   "title": "Rust Isles DB",
+   "startAt": "2026-09-24T18:43:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b546584d-af17-4413-acbc-9e082ad2d6ea",
+   "game": "Rust",
+   "title": "Rust Isles Wood Door",
+   "startAt": "2026-09-24T18:39:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d251f62f-8e9b-469b-9b97-60064ff411ad",
+   "game": "Rust",
+   "title": "Rust Isles Boonie",
+   "startAt": "2026-09-24T18:42:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fbd182c6-2414-4355-858b-b61413b994cb",
+   "game": "Rust",
+   "title": "Rust Isles Tac Gloves",
+   "startAt": "2026-09-24T18:31:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e46b02fe-5afd-4ed0-8d75-170683077c89",
+   "game": "Rust",
+   "title": "Rust Isles Chestplate",
+   "startAt": "2026-09-24T18:33:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "946958be-d0b8-442b-a6be-30a18a007265",
+   "game": "Rust",
+   "title": "Rust Isles Jacket",
+   "startAt": "2026-09-24T18:34:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b2b8e712-05ae-4e29-8e43-48458e7c2f75",
+   "game": "Rust",
+   "title": "Rust Isles Launcher",
+   "startAt": "2026-09-24T18:46:00+00:00",
+   "endAt": "2026-10-04T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1909a584-68e5-4517-b806-d644aff28f71",
+   "game": "Kirka.io",
+   "title": "Detective X",
+   "startAt": "2026-09-27T17:12:11+00:00",
+   "endAt": "2026-10-04T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "209f7db3-5ccd-40b5-bee1-f92328b849d5",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #35",
+   "startAt": "2026-09-28T00:00:00+00:00",
+   "endAt": "2026-10-04T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fa34dd5f-9133-4dd7-b521-d662759bbaae",
+   "game": "Old School RuneScape",
+   "title": "RuneFest 2026 CoStream OS",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "38d79056-e5cc-435e-946c-4d688e5666c0",
+   "game": "RuneScape",
+   "title": "RuneFest 2026 RS",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b6645492-dea6-4f81-ac4e-803c0ac01502",
+   "game": "RuneScape",
+   "title": "RuneFest 2026 Co-Steam RS",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d46ab002-b4f2-4668-b02c-093e80786dc7",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneFest 2026",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a8665ce5-5621-4bcc-aaef-f3771cd2740e",
+   "game": "RuneScape: Dragonwilds",
+   "title": "RuneFest 2026 CoStream DW",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e14df140-3060-41ea-9610-138469a86c72",
+   "game": "Old School RuneScape",
+   "title": "RuneFest 2026 OSRS",
+   "startAt": "2026-10-03T13:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "49c467d5-42b6-4e98-8f2a-c4b5b05a21a8",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 Day 3",
+   "startAt": "2026-10-04T14:00:00+00:00",
+   "endAt": "2026-10-04T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "11989795-f641-4b47-a8a8-d3475f618750",
    "game": "Mobile Dungeon",
@@ -10835,67 +10431,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.56
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.82
+   "score": 17.71
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.8
+   "score": 2.78
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.7
+   "score": 17.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.56
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.56
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.56
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.4
+   "score": 1.39
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.06
+   "score": 6.02
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.59
+   "score": 6.54
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.64
+   "score": 12.56
   }
  },
  "favoriteWeights": {
