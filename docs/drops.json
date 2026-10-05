@@ -1195,7 +1195,7 @@
   },
   {
    "id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e",
-   "game": "The Witcher 3: Wild Hunt Remastered",
+   "game": "",
    "title": "Remastered Release",
    "status": "ACTIVE",
    "startAt": "2026-09-29T10:00:00+00:00",
@@ -1217,13 +1217,13 @@
      "minutes": 30
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ef300faa-a1ad-4bff-b55d-bb1c7500b26e.jpg"
   },
   {
    "id": "4f180222-4cce-4ebf-bbab-d2e3ff19aee3",
-   "game": "The Witcher 3: Wild Hunt Remastered",
+   "game": "",
    "title": "Witcher 3 Remaster",
    "status": "ACTIVE",
    "startAt": "2026-09-29T10:00:00+00:00",
@@ -1237,7 +1237,7 @@
      "minutes": 0
     }
    ],
-   "inSteamLibrary": true,
+   "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png"
   },
@@ -10549,7 +10549,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.46
+   "score": 17.45
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10561,7 +10561,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.34
+   "score": 17.33
   },
   "Once Human": {
    "favorites": 2,
