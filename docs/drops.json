@@ -1174,38 +1174,6 @@
    "asset": "assets/aa05e383-ee2e-4af2-a204-bb5e405ae984.jpg"
   },
   {
-   "id": "08a9a458-d4a9-47c2-9b84-e8ddce98f654",
-   "game": "Heroes of the Storm",
-   "title": "Xal'atath Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T16:00:00+00:00",
-   "endAt": "2026-10-05T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T16:00:38+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a26958c-5774-4545-bd8f-8d35b00a527f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=08a9a458-d4a9-47c2-9b84-e8ddce98f654",
-   "rewards": [
-    {
-     "name": "1 Hour Drop",
-     "minutes": 60
-    },
-    {
-     "name": "2 Hour Drop",
-     "minutes": 120
-    },
-    {
-     "name": "4 Hour Drop",
-     "minutes": 240
-    },
-    {
-     "name": "8 Hour Drop",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/08a9a458-d4a9-47c2-9b84-e8ddce98f654.png"
-  },
-  {
    "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 1",
@@ -2638,38 +2606,6 @@
    "asset": "assets/c90fc89a-4c06-4776-863d-3ee2c978eac7.png"
   },
   {
-   "id": "1a4e966d-44e4-46b3-811f-9c9c108e14b5",
-   "game": "AION 2",
-   "title": "War for Atreia - Series 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T19:00:00+00:00",
-   "endAt": "2026-10-05T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T19:01:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fa239c72-a5f6-4cc3-b1e0-4ed18eb4ac09.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1a4e966d-44e4-46b3-811f-9c9c108e14b5",
-   "rewards": [
-    {
-     "name": "Appearance Change Voucher (Bound) x1",
-     "minutes": 30
-    },
-    {
-     "name": "Soul Codex (Bound) x10",
-     "minutes": 60
-    },
-    {
-     "name": "Resurrection Spiritstone (Bound) x10",
-     "minutes": 120
-    },
-    {
-     "name": "Mysterious Pet Chest (Bound) x10",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1a4e966d-44e4-46b3-811f-9c9c108e14b5.png"
-  },
-  {
    "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
    "game": "SMITE 2",
    "title": "Oct Wk 1 - Blue Lotus!",
@@ -3055,6 +2991,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "08a9a458-d4a9-47c2-9b84-e8ddce98f654",
+   "game": "Heroes of the Storm",
+   "title": "Xal'atath Launch",
+   "startAt": "2026-09-28T16:00:00+00:00",
+   "endAt": "2026-10-05T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1a4e966d-44e4-46b3-811f-9c9c108e14b5",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 1",
+   "startAt": "2026-10-02T19:00:00+00:00",
+   "endAt": "2026-10-05T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b4b7e38c-0be2-4f3b-b0bb-b63e95cb5742",
    "game": "AirMech",
@@ -10425,7 +10377,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.69
+   "score": 17.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10437,7 +10389,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.57
+   "score": 17.56
   },
   "Once Human": {
    "favorites": 2,
