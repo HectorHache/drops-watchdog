@@ -2878,6 +2878,50 @@
    "asset": "assets/dbfde195-4e55-4534-aba7-26f9bf31fde5.png"
   },
   {
+   "id": "5aa12dd6-1818-4024-ba42-346c8d6b2ed4",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 22",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-12T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T19:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5aa12dd6-1818-4024-ba42-346c8d6b2ed4",
+   "rewards": [
+    {
+     "name": "2",
+     "minutes": 180
+    },
+    {
+     "name": "3",
+     "minutes": 270
+    },
+    {
+     "name": "4",
+     "minutes": 360
+    },
+    {
+     "name": "5",
+     "minutes": 450
+    },
+    {
+     "name": "6",
+     "minutes": 540
+    },
+    {
+     "name": "7",
+     "minutes": 630
+    },
+    {
+     "name": "1",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5aa12dd6-1818-4024-ba42-346c8d6b2ed4.png"
+  },
+  {
    "id": "bc52cc79-40e2-4c9f-bcff-79b5ae55bf61",
    "game": "Neighbors: Suburban Warfare",
    "title": "Neighbors 1.0 Release",
@@ -2974,26 +3018,6 @@
    "asset": "assets/009fc476-0932-4ff7-9a06-c7848461d71c.jpg"
   },
   {
-   "id": "c8622b74-c809-4031-b919-ea314a46c586",
-   "game": "Warframe",
-   "title": "PMCFQ - bluyayogamer",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T17:00:00+00:00",
-   "endAt": "2026-10-05T18:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T17:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/047c64ef-58eb-41da-9357-ef09f68ca039.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c8622b74-c809-4031-b919-ea314a46c586",
-   "rewards": [
-    {
-     "name": "Random Captura Scene",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/c8622b74-c809-4031-b919-ea314a46c586.jpg"
-  },
-  {
    "id": "99df56d7-c8ce-4f33-a5cd-608602e45549",
    "game": "Rise Online",
    "title": "Mobile Drop 179",
@@ -3032,9 +3056,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/78958747-16ad-4c84-b590-3efa616b1acc.png"
+  },
+  {
+   "id": "1e0a5854-96ba-4da2-8b72-00750c80fa3f",
+   "game": "Warframe",
+   "title": "PMCFQ - JustoldPrime",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T19:00:00+00:00",
+   "endAt": "2026-10-05T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T19:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e2330c4c-65bc-4c4c-8c2c-5e912e11781c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1e0a5854-96ba-4da2-8b72-00750c80fa3f",
+   "rewards": [
+    {
+     "name": "Random Captura Scene",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/1e0a5854-96ba-4da2-8b72-00750c80fa3f.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "c8622b74-c809-4031-b919-ea314a46c586",
+   "game": "Warframe",
+   "title": "PMCFQ - bluyayogamer",
+   "startAt": "2026-10-05T17:00:00+00:00",
+   "endAt": "2026-10-05T18:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "435dd816-229f-484f-8388-8196cc8a186b",
    "game": "Rise Online",
@@ -10503,7 +10555,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.39
   },
   "Delta Force": {
    "favorites": 3,
@@ -10527,19 +10579,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.39
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.39
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.39
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10563,7 +10615,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.4
+   "score": 12.39
   }
  },
  "favoriteWeights": {
