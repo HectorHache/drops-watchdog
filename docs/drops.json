@@ -1054,26 +1054,6 @@
    "asset": "assets/aa05e383-ee2e-4af2-a204-bb5e405ae984.jpg"
   },
   {
-   "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | Oct Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T21:00:00+00:00",
-   "endAt": "2026-10-05T20:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T21:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcab03a6-2efd-4eea-9fa3-33fd73e8df94.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f707e9d2-0c99-499b-8f15-f835763e050a",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f707e9d2-0c99-499b-8f15-f835763e050a.png"
-  },
-  {
    "id": "53817dac-8fdb-48cc-91b5-453570e05124",
    "game": "Ace Combat Zero: The Belkan War",
    "title": "ACE COMBAT 8 Nugget",
@@ -3038,27 +3018,63 @@
    "asset": "assets/78958747-16ad-4c84-b590-3efa616b1acc.png"
   },
   {
-   "id": "1e0a5854-96ba-4da2-8b72-00750c80fa3f",
+   "id": "25122ea9-315e-4f2f-8d9e-2a8a69abec15",
    "game": "Warframe",
-   "title": "PMCFQ - JustoldPrime",
+   "title": "PMCFQ - lucianplaysallday",
    "status": "ACTIVE",
-   "startAt": "2026-10-05T19:00:00+00:00",
-   "endAt": "2026-10-05T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T19:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e2330c4c-65bc-4c4c-8c2c-5e912e11781c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1e0a5854-96ba-4da2-8b72-00750c80fa3f",
+   "startAt": "2026-10-05T21:00:00+00:00",
+   "endAt": "2026-10-05T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T21:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7a0cf260-3ebf-435e-beee-488283489c77.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=25122ea9-315e-4f2f-8d9e-2a8a69abec15",
    "rewards": [
     {
-     "name": "Random Captura Scene",
+     "name": "Random Captura",
      "minutes": 30
     }
    ],
    "inSteamLibrary": true,
    "isFavorite": true,
-   "asset": "assets/1e0a5854-96ba-4da2-8b72-00750c80fa3f.jpg"
+   "asset": "assets/25122ea9-315e-4f2f-8d9e-2a8a69abec15.jpg"
+  },
+  {
+   "id": "4471f6d2-2d97-4eac-95c5-12c725d1ad15",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | Oct Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T21:00:00+00:00",
+   "endAt": "2026-10-12T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T21:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2b077432-50c8-49e6-ab34-9e2ba487f190.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4471f6d2-2d97-4eac-95c5-12c725d1ad15",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4471f6d2-2d97-4eac-95c5-12c725d1ad15.png"
   }
  ],
  "archive": [
+  {
+   "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | Oct Week 1",
+   "startAt": "2026-09-28T21:00:00+00:00",
+   "endAt": "2026-10-05T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1e0a5854-96ba-4da2-8b72-00750c80fa3f",
+   "game": "Warframe",
+   "title": "PMCFQ - JustoldPrime",
+   "startAt": "2026-10-05T19:00:00+00:00",
+   "endAt": "2026-10-05T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "50cc989e-29d2-4739-9180-dbf84c3e8f70",
    "game": "World of Tanks",
@@ -10543,13 +10559,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.45
+   "score": 17.44
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10561,25 +10577,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.33
+   "score": 17.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10597,13 +10613,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.45
+   "score": 6.44
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.38
+   "score": 12.37
   }
  },
  "favoriteWeights": {
