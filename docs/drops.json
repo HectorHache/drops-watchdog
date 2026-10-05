@@ -1034,82 +1034,6 @@
    "asset": "assets/520218bf-41ef-4a30-80df-3bd5b0102303.png"
   },
   {
-   "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
-   "game": "Out of the Park Baseball 27",
-   "title": "Laptophound 21",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T13:00:00+00:00",
-   "endAt": "2026-10-05T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T14:30:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce02c6cc-5141-4933-86aa-0afa59b98e6d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=187bf8b6-393a-42f6-b66f-6a845bf06695",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 120
-    },
-    {
-     "name": "2",
-     "minutes": 240
-    },
-    {
-     "name": "3",
-     "minutes": 360
-    },
-    {
-     "name": "4",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/187bf8b6-393a-42f6-b66f-6a845bf06695.png"
-  },
-  {
-   "id": "0ddbdf36-f2b4-441c-ac49-597c5954c44d",
-   "game": "Out of the Park Baseball 27",
-   "title": "Official 21",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T13:00:00+00:00",
-   "endAt": "2026-10-05T12:59:59.999+00:00",
-   "firstSeenAt": "2026-09-28T14:30:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea14becb-74bc-4f94-892a-c20d41056872.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ddbdf36-f2b4-441c-ac49-597c5954c44d",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 90
-    },
-    {
-     "name": "2",
-     "minutes": 180
-    },
-    {
-     "name": "3",
-     "minutes": 270
-    },
-    {
-     "name": "4",
-     "minutes": 360
-    },
-    {
-     "name": "5",
-     "minutes": 450
-    },
-    {
-     "name": "6",
-     "minutes": 540
-    },
-    {
-     "name": "7",
-     "minutes": 630
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0ddbdf36-f2b4-441c-ac49-597c5954c44d.png"
-  },
-  {
    "id": "aa05e383-ee2e-4af2-a204-bb5e405ae984",
    "game": "HITMAN World of Assassination",
    "title": "The Herbalist #3",
@@ -2606,42 +2530,6 @@
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   },
   {
-   "id": "51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/4/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T13:00:00+00:00",
-   "endAt": "2026-10-05T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T13:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0574ef0-ad5f-43d8-80e3-a37df1118558.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
-   "rewards": [
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    },
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/51342bb2-dcdf-4f52-8be4-ec238fe1dad0.png"
-  },
-  {
    "id": "435dd816-229f-484f-8388-8196cc8a186b",
    "game": "Rise Online",
    "title": "Mobile Drop 178",
@@ -2936,9 +2824,113 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/25667858-5b3a-4a73-88ee-9f4f7f412d7f.png"
+  },
+  {
+   "id": "eb57a1e2-bba1-4e37-a062-d91785b81680",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/5/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-06T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T13:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/322847dd-2a42-4cd2-9e30-ad7ea4aee789.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb57a1e2-bba1-4e37-a062-d91785b81680",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/eb57a1e2-bba1-4e37-a062-d91785b81680.png"
+  },
+  {
+   "id": "1214217f-aa1a-40be-ac32-9dffd3698775",
+   "game": "AION 2",
+   "title": "Global Launch Celebration",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-17T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T13:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11998d24-30d3-426d-a2c8-e84ab03dd5e0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1214217f-aa1a-40be-ac32-9dffd3698775",
+   "rewards": [
+    {
+     "name": "Odyle Energy x4",
+     "minutes": 60
+    },
+    {
+     "name": "Skin Chest x1",
+     "minutes": 120
+    },
+    {
+     "name": "Enhance Stone x5,000",
+     "minutes": 180
+    },
+    {
+     "name": "Head Bow x1",
+     "minutes": 240
+    },
+    {
+     "name": "Soul Codex: Reset x2",
+     "minutes": 360
+    },
+    {
+     "name": "Resurrection Stone x10",
+     "minutes": 480
+    },
+    {
+     "name": "Adorable Young Elim x1",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1214217f-aa1a-40be-ac32-9dffd3698775.png"
   }
  ],
  "archive": [
+  {
+   "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 21",
+   "startAt": "2026-09-28T13:00:00+00:00",
+   "endAt": "2026-10-05T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0ddbdf36-f2b4-441c-ac49-597c5954c44d",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 21",
+   "startAt": "2026-09-28T13:00:00+00:00",
+   "endAt": "2026-10-05T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/4/26",
+   "startAt": "2026-10-04T13:00:00+00:00",
+   "endAt": "2026-10-05T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "76ac21b2-38f8-432e-a2c1-242e54f93a5f",
    "game": "Black Desert",
@@ -10365,7 +10357,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.59
+   "score": 17.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10377,7 +10369,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.47
+   "score": 17.46
   },
   "Once Human": {
    "favorites": 2,
@@ -10413,7 +10405,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.5
+   "score": 6.49
   },
   "Where Winds Meet": {
    "favorites": 2,
