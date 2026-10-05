@@ -2606,26 +2606,6 @@
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   },
   {
-   "id": "76ac21b2-38f8-432e-a2c1-242e54f93a5f",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 4)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T12:00:00+00:00",
-   "endAt": "2026-10-05T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T12:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7022a85c-4877-4b34-81bb-49cf96b1d40d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=76ac21b2-38f8-432e-a2c1-242e54f93a5f",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 4)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/76ac21b2-38f8-432e-a2c1-242e54f93a5f.png"
-  },
-  {
    "id": "51342bb2-dcdf-4f52-8be4-ec238fe1dad0",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 10/4/26",
@@ -2936,9 +2916,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fa77fe85-a820-4208-97e8-8732001a4667.png"
+  },
+  {
+   "id": "25667858-5b3a-4a73-88ee-9f4f7f412d7f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 5)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T12:00:00+00:00",
+   "endAt": "2026-10-06T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T12:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/057b4dd3-cf72-4623-801d-a57572719bdf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=25667858-5b3a-4a73-88ee-9f4f7f412d7f",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 5)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/25667858-5b3a-4a73-88ee-9f4f7f412d7f.png"
   }
  ],
  "archive": [
+  {
+   "id": "76ac21b2-38f8-432e-a2c1-242e54f93a5f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 4)",
+   "startAt": "2026-10-04T12:00:00+00:00",
+   "endAt": "2026-10-05T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bcba0bd4-fda8-4835-a566-a7950051dbb3",
    "game": "Delta Force",
@@ -10357,7 +10365,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.6
+   "score": 17.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10369,7 +10377,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.48
+   "score": 17.47
   },
   "Once Human": {
    "favorites": 2,
