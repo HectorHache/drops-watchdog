@@ -2678,26 +2678,6 @@
    "asset": "assets/6d22289f-d90b-41f6-a814-2dd6a7ff473e.png"
   },
   {
-   "id": "50cc989e-29d2-4739-9180-dbf84c3e8f70",
-   "game": "World of Tanks",
-   "title": "DezGamez Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T08:00:00+00:00",
-   "endAt": "2026-10-05T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T08:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7583a16b-3fe0-47dc-bd0b-70ee7ac11fe8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=50cc989e-29d2-4739-9180-dbf84c3e8f70",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/50cc989e-29d2-4739-9180-dbf84c3e8f70.png"
-  },
-  {
    "id": "3bec3616-0c35-4cb8-9533-2db143d26880",
    "game": "Sonic Rumble Party",
    "title": "October 2026 Drops",
@@ -3079,6 +3059,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "50cc989e-29d2-4739-9180-dbf84c3e8f70",
+   "game": "World of Tanks",
+   "title": "DezGamez Drops",
+   "startAt": "2026-10-05T08:00:00+00:00",
+   "endAt": "2026-10-05T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c8622b74-c809-4031-b919-ea314a46c586",
    "game": "Warframe",
@@ -10555,13 +10543,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.39
+   "score": 12.38
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.47
+   "score": 17.46
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10573,25 +10561,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.35
+   "score": 17.34
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.39
+   "score": 12.38
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.39
+   "score": 12.38
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.39
+   "score": 12.38
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10615,7 +10603,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.39
+   "score": 12.38
   }
  },
  "favoriteWeights": {
