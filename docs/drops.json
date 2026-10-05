@@ -2490,42 +2490,6 @@
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   },
   {
-   "id": "d69ca746-f1c5-489a-96b9-90e6037f6b3f",
-   "game": "DOFUS Touch",
-   "title": "J21 - 3x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T22:00:00+00:00",
-   "endAt": "2026-10-05T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-04T22:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/69b86ef8-ad50-4c3e-8a47-8e650a73162c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d69ca746-f1c5-489a-96b9-90e6037f6b3f",
-   "rewards": [
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "3x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d69ca746-f1c5-489a-96b9-90e6037f6b3f.png"
-  },
-  {
    "id": "ae0d243b-7d47-4cb3-838f-97dfd389a42f",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3096,9 +3060,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4471f6d2-2d97-4eac-95c5-12c725d1ad15.png"
+  },
+  {
+   "id": "30637a66-3c55-4c65-98ed-70b7986e1998",
+   "game": "DOFUS Touch",
+   "title": "J22 - 4x Temporix Cps",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T22:00:00+00:00",
+   "endAt": "2026-10-06T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T22:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7adf5144-8a82-4eb3-b0d3-cbbd63e9c938.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30637a66-3c55-4c65-98ed-70b7986e1998",
+   "rewards": [
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30637a66-3c55-4c65-98ed-70b7986e1998.png"
   }
  ],
  "archive": [
+  {
+   "id": "d69ca746-f1c5-489a-96b9-90e6037f6b3f",
+   "game": "DOFUS Touch",
+   "title": "J21 - 3x Temporix Cps",
+   "startAt": "2026-10-04T22:00:00+00:00",
+   "endAt": "2026-10-05T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f707e9d2-0c99-499b-8f15-f835763e050a",
    "game": "MARVEL Strike Force",
