@@ -2980,6 +2980,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/009fc476-0932-4ff7-9a06-c7848461d71c.jpg"
+  },
+  {
+   "id": "c8622b74-c809-4031-b919-ea314a46c586",
+   "game": "Warframe",
+   "title": "PMCFQ - bluyayogamer",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T17:00:00+00:00",
+   "endAt": "2026-10-05T18:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T17:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/047c64ef-58eb-41da-9357-ef09f68ca039.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c8622b74-c809-4031-b919-ea314a46c586",
+   "rewards": [
+    {
+     "name": "Random Captura Scene",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/c8622b74-c809-4031-b919-ea314a46c586.jpg"
   }
  ],
  "archive": [
@@ -10441,7 +10461,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.52
+   "score": 17.51
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10453,7 +10473,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.4
+   "score": 17.39
   },
   "Once Human": {
    "favorites": 2,
