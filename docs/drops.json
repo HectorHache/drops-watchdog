@@ -3018,6 +3018,46 @@
    "asset": "assets/78958747-16ad-4c84-b590-3efa616b1acc.png"
   },
   {
+   "id": "35e7547f-0b2a-430d-850e-bfd9d5729eab",
+   "game": "Coin Pusher Live",
+   "title": "Halloween 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T19:50:37+00:00",
+   "endAt": "2026-10-31T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T21:30:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e2d4984e-80be-408d-92b3-3957e717015d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=35e7547f-0b2a-430d-850e-bfd9d5729eab",
+   "rewards": [
+    {
+     "name": "Bewing Pot",
+     "minutes": 360
+    },
+    {
+     "name": "Ghost's Treasure",
+     "minutes": 480
+    },
+    {
+     "name": "The Spellbook",
+     "minutes": 720
+    },
+    {
+     "name": "Witch's Loot",
+     "minutes": 90
+    },
+    {
+     "name": "Raven's Loot",
+     "minutes": 180
+    },
+    {
+     "name": "Cat's Litterbox",
+     "minutes": 270
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/35e7547f-0b2a-430d-850e-bfd9d5729eab.png"
+  },
+  {
    "id": "25122ea9-315e-4f2f-8d9e-2a8a69abec15",
    "game": "Warframe",
    "title": "PMCFQ - lucianplaysallday",
@@ -10559,43 +10599,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.37
+   "score": 12.36
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.44
+   "score": 17.43
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.74
+   "score": 2.73
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.32
+   "score": 17.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.37
+   "score": 12.36
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.37
+   "score": 12.36
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.37
+   "score": 12.36
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10607,7 +10647,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.93
+   "score": 5.92
   },
   "Warframe": {
    "favorites": 1,
@@ -10619,7 +10659,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.37
+   "score": 12.36
   }
  },
  "favoriteWeights": {
