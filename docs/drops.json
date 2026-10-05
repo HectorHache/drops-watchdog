@@ -2510,46 +2510,6 @@
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
   },
   {
-   "id": "435dd816-229f-484f-8388-8196cc8a186b",
-   "game": "Rise Online",
-   "title": "Mobile Drop 178",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T17:59:00+00:00",
-   "endAt": "2026-10-05T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-04T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b19aba8c-215a-4a56-ba09-d9927eb00990.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=435dd816-229f-484f-8388-8196cc8a186b",
-   "rewards": [
-    {
-     "name": "Mobile Drop 178",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/435dd816-229f-484f-8388-8196cc8a186b.png"
-  },
-  {
-   "id": "1718dca4-1709-4ea9-9486-6094370dddcf",
-   "game": "Rise Online",
-   "title": "ROW Drop 607",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T17:59:00+00:00",
-   "endAt": "2026-10-05T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-04T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b366b284-ad56-4155-a0ee-bd8f56bdb879.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1718dca4-1709-4ea9-9486-6094370dddcf",
-   "rewards": [
-    {
-     "name": "ROW Drop 607",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1718dca4-1709-4ea9-9486-6094370dddcf.jpg"
-  },
-  {
    "id": "d69ca746-f1c5-489a-96b9-90e6037f6b3f",
    "game": "DOFUS Touch",
    "title": "J21 - 3x Temporix Cps",
@@ -2886,6 +2846,38 @@
    "asset": "assets/1214217f-aa1a-40be-ac32-9dffd3698775.png"
   },
   {
+   "id": "dbfde195-4e55-4534-aba7-26f9bf31fde5",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 22",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-12T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-05T18:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dbfde195-4e55-4534-aba7-26f9bf31fde5",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 120
+    },
+    {
+     "name": "2",
+     "minutes": 240
+    },
+    {
+     "name": "3",
+     "minutes": 360
+    },
+    {
+     "name": "4",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/dbfde195-4e55-4534-aba7-26f9bf31fde5.png"
+  },
+  {
    "id": "bc52cc79-40e2-4c9f-bcff-79b5ae55bf61",
    "game": "Neighbors: Suburban Warfare",
    "title": "Neighbors 1.0 Release",
@@ -3000,9 +2992,65 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/c8622b74-c809-4031-b919-ea314a46c586.jpg"
+  },
+  {
+   "id": "99df56d7-c8ce-4f33-a5cd-608602e45549",
+   "game": "Rise Online",
+   "title": "Mobile Drop 179",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T17:59:00+00:00",
+   "endAt": "2026-10-06T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-05T18:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b1606fd-52b1-456e-9814-4135eb24c5ca.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99df56d7-c8ce-4f33-a5cd-608602e45549",
+   "rewards": [
+    {
+     "name": "Mobile Drop 179",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/99df56d7-c8ce-4f33-a5cd-608602e45549.png"
+  },
+  {
+   "id": "78958747-16ad-4c84-b590-3efa616b1acc",
+   "game": "Rise Online",
+   "title": "ROW Drop 608",
+   "status": "ACTIVE",
+   "startAt": "2026-10-05T17:59:00+00:00",
+   "endAt": "2026-10-06T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-05T18:00:14+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cbf3a7d5-949d-4ddc-bf49-97a14553b4e0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=78958747-16ad-4c84-b590-3efa616b1acc",
+   "rewards": [
+    {
+     "name": "ROW Drop 608",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/78958747-16ad-4c84-b590-3efa616b1acc.png"
   }
  ],
  "archive": [
+  {
+   "id": "435dd816-229f-484f-8388-8196cc8a186b",
+   "game": "Rise Online",
+   "title": "Mobile Drop 178",
+   "startAt": "2026-10-04T17:59:00+00:00",
+   "endAt": "2026-10-05T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1718dca4-1709-4ea9-9486-6094370dddcf",
+   "game": "Rise Online",
+   "title": "ROW Drop 607",
+   "startAt": "2026-10-04T17:59:00+00:00",
+   "endAt": "2026-10-05T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
    "game": "World of Tanks",
@@ -10461,7 +10509,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.5
+   "score": 17.49
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10473,7 +10521,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.38
+   "score": 17.37
   },
   "Once Human": {
    "favorites": 2,
@@ -10503,13 +10551,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.95
+   "score": 5.94
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.47
+   "score": 6.46
   },
   "Where Winds Meet": {
    "favorites": 2,
