@@ -2642,46 +2642,6 @@
    "asset": "assets/bcba0bd4-fda8-4835-a566-a7950051dbb3.png"
   },
   {
-   "id": "8a8f5c7f-7791-4fa9-bc88-c1892943d143",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 4 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T10:00:00+00:00",
-   "endAt": "2026-10-05T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-04T10:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03b10b1a-2a90-4518-867d-a9e5cda42d0c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8a8f5c7f-7791-4fa9-bc88-c1892943d143",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8a8f5c7f-7791-4fa9-bc88-c1892943d143.png"
-  },
-  {
-   "id": "38e433a7-00de-4e6e-a475-722439633495",
-   "game": "Albion Online",
-   "title": "Dragonfire 5 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-04T10:00:00+00:00",
-   "endAt": "2026-10-05T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-04T10:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13e1e60f-8532-4c3a-9021-cfd1587522e6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=38e433a7-00de-4e6e-a475-722439633495",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/38e433a7-00de-4e6e-a475-722439633495.png"
-  },
-  {
    "id": "76ac21b2-38f8-432e-a2c1-242e54f93a5f",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Oct 4)",
@@ -2995,6 +2955,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "8a8f5c7f-7791-4fa9-bc88-c1892943d143",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 4 - #7/7",
+   "startAt": "2026-10-04T10:00:00+00:00",
+   "endAt": "2026-10-05T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "38e433a7-00de-4e6e-a475-722439633495",
+   "game": "Albion Online",
+   "title": "Dragonfire 5 - #7/7",
+   "startAt": "2026-10-04T10:00:00+00:00",
+   "endAt": "2026-10-05T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9c19bb4b-fb44-4d04-9ce1-9c7a9bb49e74",
    "game": "Predecessor",
@@ -10431,7 +10407,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.0
+   "score": 5.99
   },
   "Warframe": {
    "favorites": 1,
