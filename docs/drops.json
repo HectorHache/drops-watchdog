@@ -2258,26 +2258,6 @@
    "asset": "assets/ff2f69b4-207e-468c-b719-b71a7c4d920a.png"
   },
   {
-   "id": "7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
-   "game": "World of Tanks",
-   "title": "German Reunification Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-05T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27eb7864-9eec-48b0-b743-c7fedf1b2661.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7864a8db-fbcf-4e88-8fae-5639b49d9e8d.jpg"
-  },
-  {
    "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
    "game": "RavenQuest",
    "title": "October 01",
@@ -3003,6 +2983,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "7864a8db-fbcf-4e88-8fae-5639b49d9e8d",
+   "game": "World of Tanks",
+   "title": "German Reunification Drop",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-05T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "187bf8b6-393a-42f6-b66f-6a845bf06695",
    "game": "Out of the Park Baseball 27",
@@ -10447,13 +10435,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.45
+   "score": 12.44
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.55
+   "score": 17.54
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10465,25 +10453,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.43
+   "score": 17.42
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.45
+   "score": 12.44
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.45
+   "score": 12.44
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.45
+   "score": 12.44
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10507,7 +10495,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.45
+   "score": 12.44
   }
  },
  "favoriteWeights": {
