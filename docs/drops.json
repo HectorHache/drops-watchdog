@@ -526,42 +526,6 @@
    "asset": "assets/e90f396b-6c1c-4875-b41b-d56041c68a48.png"
   },
   {
-   "id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c",
-   "game": "Splinterlands",
-   "title": "September Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T17:00:00+00:00",
-   "endAt": "2026-10-06T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T19:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f1725975-db5f-4541-80bf-a1d0a0537712.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1445f6b3-c20d-4a8a-bfc1-7af87d697e9c",
-   "rewards": [
-    {
-     "name": "1000 Glint",
-     "minutes": 720
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 900
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 180
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 360
-    },
-    {
-     "name": "1000 Glint",
-     "minutes": 540
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1445f6b3-c20d-4a8a-bfc1-7af87d697e9c.png"
-  },
-  {
    "id": "728141da-5f87-49de-8afd-7fa0be33545f",
    "game": "Genshin Impact",
    "title": "V7.1 Genshin Impact Drops",
@@ -3156,9 +3120,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9f706c44-9688-4845-b4f0-295fb2653707.png"
+  },
+  {
+   "id": "2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R1 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T17:00:00+00:00",
+   "endAt": "2026-10-06T19:29:59.999+00:00",
+   "firstSeenAt": "2026-10-06T17:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aebd56e0-de3f-401b-9d35-ad9c21284325.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c",
+   "game": "Splinterlands",
+   "title": "September Week 3",
+   "startAt": "2026-09-22T17:00:00+00:00",
+   "endAt": "2026-10-06T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
    "game": "Tom Clancy's The Division 2",
@@ -10771,13 +10767,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.12
+   "score": 17.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10789,25 +10785,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.0
+   "score": 16.99
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10819,7 +10815,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.82
+   "score": 5.81
   },
   "Warframe": {
    "favorites": 1,
@@ -10831,7 +10827,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.14
+   "score": 12.13
   }
  },
  "favoriteWeights": {
@@ -10839,7 +10835,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 27,
-  "LEGO Batman: Legacy of the Dark Knight": 27,
+  "LEGO Batman: Legacy of the Dark Knight": 26,
   "Marvel Rivals": 10,
   "Once Human": 22,
   "Palia": 22,
