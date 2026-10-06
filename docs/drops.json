@@ -1990,30 +1990,6 @@
    "asset": "assets/b526da0e-74d5-4a7e-971a-695c966b6c95.png"
   },
   {
-   "id": "2eacdff7-9305-45cd-a5c1-645c6cef4299",
-   "game": "Fortnite",
-   "title": "Ironmouse Drops Rerun! ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T17:57:01+00:00",
-   "endAt": "2026-10-06T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T18:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b3dac70-46f4-47f6-a23f-1489cdf3dc3a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2eacdff7-9305-45cd-a5c1-645c6cef4299",
-   "rewards": [
-    {
-     "name": "Chibi Ironmouse Spray",
-     "minutes": 30
-    },
-    {
-     "name": "Guitar Processing Unit Pickaxe",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2eacdff7-9305-45cd-a5c1-645c6cef4299.jpg"
-  },
-  {
    "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
    "game": "Overwatch",
    "title": "Reign of Talon S4: Drives",
@@ -2488,26 +2464,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
-  },
-  {
-   "id": "ae0d243b-7d47-4cb3-838f-97dfd389a42f",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T00:00:00+00:00",
-   "endAt": "2026-10-05T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T00:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35034c39-e913-4a5c-bb56-00de00067cdb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ae0d243b-7d47-4cb3-838f-97dfd389a42f",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ae0d243b-7d47-4cb3-838f-97dfd389a42f.png"
   },
   {
    "id": "33b64b3d-0949-49d9-869b-8e530ad9d38c",
@@ -3022,26 +2978,6 @@
    "asset": "assets/35e7547f-0b2a-430d-850e-bfd9d5729eab.png"
   },
   {
-   "id": "25122ea9-315e-4f2f-8d9e-2a8a69abec15",
-   "game": "Warframe",
-   "title": "PMCFQ - lucianplaysallday",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T21:00:00+00:00",
-   "endAt": "2026-10-05T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T21:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7a0cf260-3ebf-435e-beee-488283489c77.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=25122ea9-315e-4f2f-8d9e-2a8a69abec15",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/25122ea9-315e-4f2f-8d9e-2a8a69abec15.jpg"
-  },
-  {
    "id": "4471f6d2-2d97-4eac-95c5-12c725d1ad15",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 2",
@@ -3096,9 +3032,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/30637a66-3c55-4c65-98ed-70b7986e1998.png"
+  },
+  {
+   "id": "9784a0e2-e2d4-44f5-afa8-981c1db01885",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T00:00:00+00:00",
+   "endAt": "2026-10-06T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3f208e76-0b1f-4961-8210-aaff69957315.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9784a0e2-e2d4-44f5-afa8-981c1db01885",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9784a0e2-e2d4-44f5-afa8-981c1db01885.png"
   }
  ],
  "archive": [
+  {
+   "id": "2eacdff7-9305-45cd-a5c1-645c6cef4299",
+   "game": "Fortnite",
+   "title": "Ironmouse Drops Rerun! ",
+   "startAt": "2026-10-01T17:57:01+00:00",
+   "endAt": "2026-10-06T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ae0d243b-7d47-4cb3-838f-97dfd389a42f",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-05T00:00:00+00:00",
+   "endAt": "2026-10-05T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "25122ea9-315e-4f2f-8d9e-2a8a69abec15",
+   "game": "Warframe",
+   "title": "PMCFQ - lucianplaysallday",
+   "startAt": "2026-10-05T21:00:00+00:00",
+   "endAt": "2026-10-05T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d69ca746-f1c5-489a-96b9-90e6037f6b3f",
    "game": "DOFUS Touch",
@@ -10607,67 +10587,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.35
+   "score": 12.28
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.42
+   "score": 17.31
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.73
+   "score": 2.71
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.3
+   "score": 17.19
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.35
+   "score": 12.28
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.35
+   "score": 12.28
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.35
+   "score": 12.28
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.37
+   "score": 1.36
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.92
+   "score": 5.88
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.43
+   "score": 6.39
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.35
+   "score": 12.28
   }
  },
  "favoriteWeights": {
