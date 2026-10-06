@@ -1246,34 +1246,6 @@
    "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
   },
   {
-   "id": "ba1eac35-c604-4017-8d0b-50873fc00bae",
-   "game": "World of Tanks Console",
-   "title": "Master of Mayhem Week 10",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T15:00:00+00:00",
-   "endAt": "2026-10-06T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T15:01:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/be9bbbb9-8ac8-4da7-9f88-ccd40abe202a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ba1eac35-c604-4017-8d0b-50873fc00bae",
-   "rewards": [
-    {
-     "name": "10 Enhanced Med Kits",
-     "minutes": 120
-    },
-    {
-     "name": "4 x3 Vehicle XP Boosters",
-     "minutes": 240
-    },
-    {
-     "name": "2 x6 Commander XP Boosters",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ba1eac35-c604-4017-8d0b-50873fc00bae.png"
-  },
-  {
    "id": "99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
    "game": "Ravendawn",
    "title": "September 05",
@@ -2318,34 +2290,6 @@
    "asset": "assets/ac400121-1a39-4797-a486-0c14a8423df7.jpg"
   },
   {
-   "id": "e424ad90-a3ea-440a-b2e1-bfa8304babba",
-   "game": "World of Tanks Console",
-   "title": "Mayhem Weekend 10",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T16:00:00+00:00",
-   "endAt": "2026-10-06T08:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T16:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56d76469-4183-4270-864a-b3ef9683bad7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e424ad90-a3ea-440a-b2e1-bfa8304babba",
-   "rewards": [
-    {
-     "name": "5 x1.25 Silver Boosters",
-     "minutes": 120
-    },
-    {
-     "name": "Camo Voucher",
-     "minutes": 240
-    },
-    {
-     "name": "Blobs Camo",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e424ad90-a3ea-440a-b2e1-bfa8304babba.png"
-  },
-  {
    "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
    "game": "MARVEL Contest of Champions",
    "title": "October Week 1 ",
@@ -3016,9 +2960,137 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9784a0e2-e2d4-44f5-afa8-981c1db01885.png"
+  },
+  {
+   "id": "8e15c074-d564-4bfa-8d14-a644696745cc",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_ALL (26_OCT)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T09:00:00+00:00",
+   "endAt": "2026-10-27T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T09:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/68fcc05f-0e88-45d6-ab14-fed2a7a734d6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e15c074-d564-4bfa-8d14-a644696745cc",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8e15c074-d564-4bfa-8d14-a644696745cc.jpg"
+  },
+  {
+   "id": "b08e6c0e-ac1c-4b93-906c-5646ed5559ad",
+   "game": "Legend of YMIR",
+   "title": "LOY DROPS_SSS (26_OCT)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T09:00:00+00:00",
+   "endAt": "2026-10-27T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T09:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27bc8d12-9d17-4d89-8bbb-fea3a4f80482.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b08e6c0e-ac1c-4b93-906c-5646ed5559ad",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b08e6c0e-ac1c-4b93-906c-5646ed5559ad.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "ba1eac35-c604-4017-8d0b-50873fc00bae",
+   "game": "World of Tanks Console",
+   "title": "Master of Mayhem Week 10",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-10-06T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e424ad90-a3ea-440a-b2e1-bfa8304babba",
+   "game": "World of Tanks Console",
+   "title": "Mayhem Weekend 10",
+   "startAt": "2026-10-02T16:00:00+00:00",
+   "endAt": "2026-10-06T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
    "game": "Overwatch",
@@ -10565,19 +10637,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.25
+   "score": 17.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.71
+   "score": 2.7
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.13
+   "score": 17.12
   },
   "Once Human": {
    "favorites": 2,
