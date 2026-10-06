@@ -2494,42 +2494,6 @@
    "asset": "assets/3bec3616-0c35-4cb8-9533-2db143d26880.png"
   },
   {
-   "id": "eb57a1e2-bba1-4e37-a062-d91785b81680",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/5/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T13:00:00+00:00",
-   "endAt": "2026-10-06T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T13:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/322847dd-2a42-4cd2-9e30-ad7ea4aee789.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb57a1e2-bba1-4e37-a062-d91785b81680",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eb57a1e2-bba1-4e37-a062-d91785b81680.png"
-  },
-  {
    "id": "1214217f-aa1a-40be-ac32-9dffd3698775",
    "game": "AION 2",
    "title": "Global Launch Celebration",
@@ -3116,9 +3080,53 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/541bea43-20a9-4361-955c-49ce4a84928f.png"
+  },
+  {
+   "id": "c593522a-44a0-41da-bbaf-d6abd4d5016c",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/6/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T13:00:00+00:00",
+   "endAt": "2026-10-07T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T13:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c593522a-44a0-41da-bbaf-d6abd4d5016c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c593522a-44a0-41da-bbaf-d6abd4d5016c.png"
   }
  ],
  "archive": [
+  {
+   "id": "eb57a1e2-bba1-4e37-a062-d91785b81680",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/5/26",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-06T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "25667858-5b3a-4a73-88ee-9f4f7f412d7f",
    "game": "Black Desert",
@@ -10699,7 +10707,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Delta Force": {
    "favorites": 3,
@@ -10717,25 +10725,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.07
+   "score": 17.06
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10759,7 +10767,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.19
+   "score": 12.18
   }
  },
  "favoriteWeights": {
