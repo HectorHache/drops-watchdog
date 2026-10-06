@@ -2014,26 +2014,6 @@
    "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
   },
   {
-   "id": "cc18e231-717b-4f5d-8af5-28aa9fe0e994",
-   "game": "EVE Online",
-   "title": "GM Week Drop 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T11:00:00+00:00",
-   "endAt": "2026-10-06T10:56:59.999+00:00",
-   "firstSeenAt": "2026-10-02T11:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1f2b275-6291-4830-95a1-5da3013702c0.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc18e231-717b-4f5d-8af5-28aa9fe0e994",
-   "rewards": [
-    {
-     "name": "Pioneer MET SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cc18e231-717b-4f5d-8af5-28aa9fe0e994.jpg"
-  },
-  {
    "id": "a8e98068-8b11-472a-818c-8b66e4bb5f44",
    "game": "Shakes and Fidget",
    "title": "S&F Droplets",
@@ -3072,9 +3052,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b06b8bd1-b48f-46a1-99c2-3ef1db09bac5.png"
+  },
+  {
+   "id": "aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7",
+   "game": "Eternal Return",
+   "title": "\u5b9f\u9a13\u4f53\u7814\u7a76\u6240JP",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T11:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T11:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/66c1e44d-2359-40e3-99f1-c7f0d67c7a52.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7.png"
+  },
+  {
+   "id": "f571bf80-91de-4af1-8762-a73eab76870b",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T11:00:00+00:00",
+   "endAt": "2026-10-09T10:57:59.999+00:00",
+   "firstSeenAt": "2026-10-06T11:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/26154573-5054-4e1b-85b3-eb6606c2b6f9.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f571bf80-91de-4af1-8762-a73eab76870b",
+   "rewards": [
+    {
+     "name": "Mysterious Booster Crate",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f571bf80-91de-4af1-8762-a73eab76870b.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "cc18e231-717b-4f5d-8af5-28aa9fe0e994",
+   "game": "EVE Online",
+   "title": "GM Week Drop 2",
+   "startAt": "2026-10-02T11:00:00+00:00",
+   "endAt": "2026-10-06T10:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fa77fe85-a820-4208-97e8-8732001a4667",
    "game": "Albion Online",
@@ -10639,13 +10671,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.22
+   "score": 17.21
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10657,25 +10689,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.1
+   "score": 17.09
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10699,7 +10731,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.21
+   "score": 12.2
   }
  },
  "favoriteWeights": {
