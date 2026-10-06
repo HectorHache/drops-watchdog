@@ -3096,6 +3096,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f571bf80-91de-4af1-8762-a73eab76870b.jpg"
+  },
+  {
+   "id": "adda5142-106a-4ab8-8fa3-bac1eb78a2da",
+   "game": "Coryphaeus Championships",
+   "title": "Fall Drops ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T11:04:18+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-06T11:30:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b10e2af-8546-44ac-b455-4057eb9da984.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=adda5142-106a-4ab8-8fa3-bac1eb78a2da",
+   "rewards": [
+    {
+     "name": "500 C-Coins",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
   }
  ],
  "archive": [
@@ -10677,7 +10697,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.21
+   "score": 17.2
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10689,7 +10709,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.09
+   "score": 17.08
   },
   "Once Human": {
    "favorites": 2,
@@ -10719,13 +10739,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.85
+   "score": 5.84
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.36
+   "score": 6.35
   },
   "Where Winds Meet": {
    "favorites": 2,
