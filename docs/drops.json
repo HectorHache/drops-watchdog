@@ -1174,26 +1174,6 @@
    "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
   },
   {
-   "id": "1d05b631-ee01-471b-9e33-2a2b23529123",
-   "game": "League of Legends",
-   "title": "Split 3 - Sub Drop (Pt.2)",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T18:00:00+00:00",
-   "endAt": "2026-10-06T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T18:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2cc39dc2-d8db-4e23-9f12-e5b57f0482ad.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1d05b631-ee01-471b-9e33-2a2b23529123",
-   "rewards": [
-    {
-     "name": "2026-LoL-TwitchSubs-Split3Pt2Drop",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1d05b631-ee01-471b-9e33-2a2b23529123.jpg"
-  },
-  {
    "id": "84d02589-5095-4c35-9f00-41a04c7675c3",
    "game": "Palia",
    "title": "Frights & Delights",
@@ -2598,46 +2578,6 @@
    "asset": "assets/009fc476-0932-4ff7-9a06-c7848461d71c.jpg"
   },
   {
-   "id": "99df56d7-c8ce-4f33-a5cd-608602e45549",
-   "game": "Rise Online",
-   "title": "Mobile Drop 179",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T17:59:00+00:00",
-   "endAt": "2026-10-06T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-05T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b1606fd-52b1-456e-9814-4135eb24c5ca.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99df56d7-c8ce-4f33-a5cd-608602e45549",
-   "rewards": [
-    {
-     "name": "Mobile Drop 179",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99df56d7-c8ce-4f33-a5cd-608602e45549.png"
-  },
-  {
-   "id": "78958747-16ad-4c84-b590-3efa616b1acc",
-   "game": "Rise Online",
-   "title": "ROW Drop 608",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T17:59:00+00:00",
-   "endAt": "2026-10-06T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-05T18:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cbf3a7d5-949d-4ddc-bf49-97a14553b4e0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=78958747-16ad-4c84-b590-3efa616b1acc",
-   "rewards": [
-    {
-     "name": "ROW Drop 608",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/78958747-16ad-4c84-b590-3efa616b1acc.png"
-  },
-  {
    "id": "35e7547f-0b2a-430d-850e-bfd9d5729eab",
    "game": "Coin Pusher Live",
    "title": "Halloween 2026",
@@ -3144,9 +3084,133 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9.jpg"
+  },
+  {
+   "id": "cf6c0649-b69e-4e37-936a-b131ccf4ed2b",
+   "game": "Rise Online",
+   "title": "Mobile Drop 180",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T17:59:00+00:00",
+   "endAt": "2026-10-07T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-06T18:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dff9f60e-0554-402c-b944-5db4c864a50f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cf6c0649-b69e-4e37-936a-b131ccf4ed2b",
+   "rewards": [
+    {
+     "name": "Mobile Drop 180",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cf6c0649-b69e-4e37-936a-b131ccf4ed2b.png"
+  },
+  {
+   "id": "8728865e-c69f-4cb1-90d7-d4069cde50c4",
+   "game": "Rise Online",
+   "title": "ROW Drop 609",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T17:59:00+00:00",
+   "endAt": "2026-10-07T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-06T18:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ee9311f-abf1-4496-bfc8-4f4270ed99e6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8728865e-c69f-4cb1-90d7-d4069cde50c4",
+   "rewards": [
+    {
+     "name": "ROW Drop 609",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8728865e-c69f-4cb1-90d7-d4069cde50c4.jpg"
+  },
+  {
+   "id": "d10f24b6-3fa8-41b3-b950-2f6d95e4bf16",
+   "game": "League of Legends",
+   "title": "Worlds - Sub Drop Pt. 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T18:00:00+00:00",
+   "endAt": "2026-10-21T17:58:59.999+00:00",
+   "firstSeenAt": "2026-10-06T18:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0eed2e58-df50-4309-9bd3-13448d816432.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d10f24b6-3fa8-41b3-b950-2f6d95e4bf16",
+   "rewards": [
+    {
+     "name": "Flex On Em",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d10f24b6-3fa8-41b3-b950-2f6d95e4bf16.png"
+  },
+  {
+   "id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15",
+   "game": "Overwatch",
+   "title": "Reign of Talon S5 Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T18:00:00+00:00",
+   "endAt": "2026-11-03T07:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T18:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e50d69d-98e3-4258-8b6b-9dee335663f5.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dfa9c27f-877b-417a-8a49-279ecf0fbb15",
+   "rewards": [
+    {
+     "name": "Heroes of Heart Spray",
+     "minutes": 600
+    },
+    {
+     "name": "Epic Lootbox",
+     "minutes": 900
+    },
+    {
+     "name": "Hollow Hearts Avatar",
+     "minutes": 60
+    },
+    {
+     "name": "Hollow Hearts Spray",
+     "minutes": 180
+    },
+    {
+     "name": "Lootbox",
+     "minutes": 360
+    },
+    {
+     "name": "Heroes of Heart Avatar",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/dfa9c27f-877b-417a-8a49-279ecf0fbb15.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "1d05b631-ee01-471b-9e33-2a2b23529123",
+   "game": "League of Legends",
+   "title": "Split 3 - Sub Drop (Pt.2)",
+   "startAt": "2026-09-29T18:00:00+00:00",
+   "endAt": "2026-10-06T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "99df56d7-c8ce-4f33-a5cd-608602e45549",
+   "game": "Rise Online",
+   "title": "Mobile Drop 179",
+   "startAt": "2026-10-05T17:59:00+00:00",
+   "endAt": "2026-10-06T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "78958747-16ad-4c84-b590-3efa616b1acc",
+   "game": "Rise Online",
+   "title": "ROW Drop 608",
+   "startAt": "2026-10-05T17:59:00+00:00",
+   "endAt": "2026-10-06T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c",
    "game": "Splinterlands",
@@ -10767,13 +10831,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.13
+   "score": 12.12
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.1
+   "score": 17.09
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10791,19 +10855,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.13
+   "score": 12.12
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.13
+   "score": 12.12
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.13
+   "score": 12.12
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10821,13 +10885,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.32
+   "score": 6.31
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.13
+   "score": 12.12
   }
  },
  "favoriteWeights": {
