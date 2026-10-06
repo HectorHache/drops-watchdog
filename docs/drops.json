@@ -794,42 +794,6 @@
    "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
   },
   {
-   "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
-   "game": "Tom Clancy's The Division 2",
-   "title": "TD2 Y8S3 Red Moon Rising",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T15:00:00+00:00",
-   "endAt": "2026-10-06T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T15:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0c1fd9c9-8b61-4004-a958-77152beb1440.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e0d75414-81f7-4e1a-9615-8cf128262c9c",
-   "rewards": [
-    {
-     "name": "Red Moon Marauder",
-     "minutes": 30
-    },
-    {
-     "name": "Named Cache",
-     "minutes": 60
-    },
-    {
-     "name": "Red Moon Black Tusk",
-     "minutes": 120
-    },
-    {
-     "name": "Exotic Cache ",
-     "minutes": 180
-    },
-    {
-     "name": "Red Moon Rising",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/e0d75414-81f7-4e1a-9615-8cf128262c9c.png"
-  },
-  {
    "id": "9bfa228c-d89b-4e0e-8336-c86b9dfb60e6",
    "game": "Metaphor: ReFantazio",
    "title": "Homo Tenta Badge",
@@ -1244,46 +1208,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
-  },
-  {
-   "id": "99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
-   "game": "Ravendawn",
-   "title": "September 05",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T15:00:00+00:00",
-   "endAt": "2026-10-06T14:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T15:01:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c90fe90e-0571-4c0e-a94f-e33a72e87c57.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
-   "rewards": [
-    {
-     "name": "2x RavenPacks",
-     "minutes": 60
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 360
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 540
-    },
-    {
-     "name": "2x RavenPacks",
-     "minutes": 720
-    },
-    {
-     "name": "100x Ghostly Infusion",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/99da4f31-56d8-4460-b8ce-b4cc8f9d669f.png"
   },
   {
    "id": "1d05b631-ee01-471b-9e33-2a2b23529123",
@@ -2998,30 +2922,6 @@
    "asset": "assets/b06b8bd1-b48f-46a1-99c2-3ef1db09bac5.png"
   },
   {
-   "id": "aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7",
-   "game": "Eternal Return",
-   "title": "\u5b9f\u9a13\u4f53\u7814\u7a76\u6240JP",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T11:00:00+00:00",
-   "endAt": "2026-10-06T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T11:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/66c1e44d-2359-40e3-99f1-c7f0d67c7a52.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7.png"
-  },
-  {
    "id": "f571bf80-91de-4af1-8762-a73eab76870b",
    "game": "EVE Online",
    "title": "Crimson Harvest Drop 1",
@@ -3160,9 +3060,109 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/af6f4d87-1374-4371-ae16-5e11bbad468e.png"
+  },
+  {
+   "id": "9c19b147-77ff-4bf6-b8b0-21109ac0910d",
+   "game": "Hearthstone",
+   "title": "Devs VS Streamers - Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-06T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T15:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/203da553-1956-48c2-8bdd-51402002b09d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9c19b147-77ff-4bf6-b8b0-21109ac0910d",
+   "rewards": [
+    {
+     "name": "Reign of the Black Empire Pack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9c19b147-77ff-4bf6-b8b0-21109ac0910d.png"
+  },
+  {
+   "id": "b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
+   "game": "World of Tanks Console",
+   "title": "Steel Asylum #1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T15:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/637b671f-1bfc-4c53-803b-ed92987758d7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
+   "rewards": [
+    {
+     "name": "Steel Aslyum #1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b1857e9e-f290-44bf-81ca-bb7e8e9e3058.png"
+  },
+  {
+   "id": "d7d00cda-729b-44d5-b800-2b666a7cef16",
+   "game": "Tom Clancy's The Division 2",
+   "title": "Legacy Twitch Drops Cache",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-13T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T15:00:20+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce4b2087-779a-4f31-bb02-83255ee93b0f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7d00cda-729b-44d5-b800-2b666a7cef16",
+   "rewards": [
+    {
+     "name": "Legacy Twitch Drops cache",
+     "minutes": 60
+    },
+    {
+     "name": "Legacy Twitch Drops cache",
+     "minutes": 120
+    },
+    {
+     "name": "Legacy Twitch Drops cache",
+     "minutes": 180
+    },
+    {
+     "name": "Legacy Twitch Drops cache",
+     "minutes": 240
+    },
+    {
+     "name": "Legacy Twitch Drops Cache",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/d7d00cda-729b-44d5-b800-2b666a7cef16.png"
   }
  ],
  "archive": [
+  {
+   "id": "e0d75414-81f7-4e1a-9615-8cf128262c9c",
+   "game": "Tom Clancy's The Division 2",
+   "title": "TD2 Y8S3 Red Moon Rising",
+   "startAt": "2026-09-24T15:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "99da4f31-56d8-4460-b8ce-b4cc8f9d669f",
+   "game": "Ravendawn",
+   "title": "September 05",
+   "startAt": "2026-09-29T15:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "aa10d54e-8a89-42e6-b33e-2eb2e8bbcff7",
+   "game": "Eternal Return",
+   "title": "\u5b9f\u9a13\u4f53\u7814\u7a76\u6240JP",
+   "startAt": "2026-10-06T11:00:00+00:00",
+   "endAt": "2026-10-06T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "eb57a1e2-bba1-4e37-a062-d91785b81680",
    "game": "Out of the Park Baseball 27",
@@ -10757,7 +10757,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.15
+   "score": 17.14
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10799,13 +10799,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.83
+   "score": 5.82
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.34
+   "score": 6.33
   },
   "Where Winds Meet": {
    "favorites": 2,
