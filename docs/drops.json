@@ -2638,42 +2638,6 @@
    "asset": "assets/4471f6d2-2d97-4eac-95c5-12c725d1ad15.png"
   },
   {
-   "id": "30637a66-3c55-4c65-98ed-70b7986e1998",
-   "game": "DOFUS Touch",
-   "title": "J22 - 4x Temporix Cps",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T22:00:00+00:00",
-   "endAt": "2026-10-06T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T22:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7adf5144-8a82-4eb3-b0d3-cbbd63e9c938.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30637a66-3c55-4c65-98ed-70b7986e1998",
-   "rewards": [
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/30637a66-3c55-4c65-98ed-70b7986e1998.png"
-  },
-  {
    "id": "9784a0e2-e2d4-44f5-afa8-981c1db01885",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3206,31 +3170,95 @@
    "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
   },
   {
-   "id": "79c3d54f-442f-4b20-8b70-79f4df7e0566",
+   "id": "3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e",
    "game": "Madden NFL 27",
-   "title": "MCS Pregame Show",
+   "title": "MCS Breakouts Pro League",
    "status": "ACTIVE",
-   "startAt": "2026-10-06T21:00:00+00:00",
-   "endAt": "2026-10-06T21:58:59.999+00:00",
-   "firstSeenAt": "2026-10-06T21:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfc3edee-463d-49bd-b42a-afc9c34dc0fd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=79c3d54f-442f-4b20-8b70-79f4df7e0566",
+   "startAt": "2026-10-06T22:00:00+00:00",
+   "endAt": "2026-10-07T02:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T22:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ff7aa99-2400-4654-8d25-086a47282664.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e",
    "rewards": [
     {
-     "name": "Madden Twitch Pack",
+     "name": "Twitch Pack",
      "minutes": 15
     },
     {
-     "name": "Madden Twitch Pack",
+     "name": "Twitch Pack",
      "minutes": 30
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Tre Hawkins Pack",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 120
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/79c3d54f-442f-4b20-8b70-79f4df7e0566.png"
+   "asset": "assets/3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e.png"
+  },
+  {
+   "id": "d7390c29-c409-4f1c-bd7e-9b955dff1b17",
+   "game": "DOFUS Touch",
+   "title": "J23 - 4x Temporix Cps\t",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T22:00:00+00:00",
+   "endAt": "2026-10-07T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T22:00:17+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f34d8fd-4d3c-4479-8c90-73e246fb6763.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7390c29-c409-4f1c-bd7e-9b955dff1b17",
+   "rewards": [
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d7390c29-c409-4f1c-bd7e-9b955dff1b17.png"
   }
  ],
  "archive": [
+  {
+   "id": "30637a66-3c55-4c65-98ed-70b7986e1998",
+   "game": "DOFUS Touch",
+   "title": "J22 - 4x Temporix Cps",
+   "startAt": "2026-10-05T22:00:00+00:00",
+   "endAt": "2026-10-06T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "79c3d54f-442f-4b20-8b70-79f4df7e0566",
+   "game": "Madden NFL 27",
+   "title": "MCS Pregame Show",
+   "startAt": "2026-10-06T21:00:00+00:00",
+   "endAt": "2026-10-06T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c9f9c847-8932-4333-bb5b-6c8323497c22",
    "game": "Warframe",
@@ -10905,7 +10933,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.04
+   "score": 17.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10917,7 +10945,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.92
+   "score": 16.91
   },
   "Once Human": {
    "favorites": 2,
