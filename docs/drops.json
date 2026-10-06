@@ -2514,26 +2514,6 @@
    "asset": "assets/3bec3616-0c35-4cb8-9533-2db143d26880.png"
   },
   {
-   "id": "fa77fe85-a820-4208-97e8-8732001a4667",
-   "game": "Albion Online",
-   "title": "Dragonfire 6 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T10:00:00+00:00",
-   "endAt": "2026-10-06T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-05T10:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ff9459a5-3d44-4ca0-9c56-29afec07cbde.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa77fe85-a820-4208-97e8-8732001a4667",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fa77fe85-a820-4208-97e8-8732001a4667.png"
-  },
-  {
    "id": "25667858-5b3a-4a73-88ee-9f4f7f412d7f",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Oct 5)",
@@ -3075,6 +3055,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "fa77fe85-a820-4208-97e8-8732001a4667",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #1/7",
+   "startAt": "2026-10-05T10:00:00+00:00",
+   "endAt": "2026-10-06T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ba1eac35-c604-4017-8d0b-50873fc00bae",
    "game": "World of Tanks Console",
@@ -10631,13 +10619,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.24
+   "score": 17.23
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10655,19 +10643,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10691,7 +10679,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.23
+   "score": 12.22
   }
  },
  "favoriteWeights": {
