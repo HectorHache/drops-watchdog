@@ -2966,26 +2966,6 @@
    "asset": "assets/af6f4d87-1374-4371-ae16-5e11bbad468e.png"
   },
   {
-   "id": "9c19b147-77ff-4bf6-b8b0-21109ac0910d",
-   "game": "Hearthstone",
-   "title": "Devs VS Streamers - Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T15:00:00+00:00",
-   "endAt": "2026-10-06T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T15:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/203da553-1956-48c2-8bdd-51402002b09d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9c19b147-77ff-4bf6-b8b0-21109ac0910d",
-   "rewards": [
-    {
-     "name": "Reign of the Black Empire Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9c19b147-77ff-4bf6-b8b0-21109ac0910d.png"
-  },
-  {
    "id": "b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
    "game": "World of Tanks Console",
    "title": "Steel Asylum #1",
@@ -3247,6 +3227,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "9c19b147-77ff-4bf6-b8b0-21109ac0910d",
+   "game": "Hearthstone",
+   "title": "Devs VS Streamers - Day 1",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-06T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
    "game": "Tanki Online",
@@ -10899,13 +10887,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.07
+   "score": 17.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10917,25 +10905,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.95
+   "score": 16.94
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10953,13 +10941,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.31
+   "score": 6.3
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.11
+   "score": 12.1
   }
  },
  "favoriteWeights": {
