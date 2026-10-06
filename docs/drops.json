@@ -3184,6 +3184,54 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/dfa9c27f-877b-417a-8a49-279ecf0fbb15.jpg"
+  },
+  {
+   "id": "c9f9c847-8932-4333-bb5b-6c8323497c22",
+   "game": "Warframe",
+   "title": "PMCFQ - tenno_ben",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T19:00:00+00:00",
+   "endAt": "2026-10-06T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T19:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc724558-1e58-4740-9b37-928559af3b90.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c9f9c847-8932-4333-bb5b-6c8323497c22",
+   "rewards": [
+    {
+     "name": "Random Captura",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/c9f9c847-8932-4333-bb5b-6c8323497c22.jpg"
+  },
+  {
+   "id": "63700f7a-69ef-477a-bc07-62b472f3d150",
+   "game": "MARVEL SNAP",
+   "title": "Draft and Golden Gauntlet",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T19:00:00+00:00",
+   "endAt": "2026-10-11T18:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T19:00:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b65c569-236a-4dda-943e-345679dc52ec.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63700f7a-69ef-477a-bc07-62b472f3d150",
+   "rewards": [
+    {
+     "name": "Draft Respawn Tokens",
+     "minutes": 120
+    },
+    {
+     "name": "Draft Tickets",
+     "minutes": 240
+    },
+    {
+     "name": "Draft Tickets and Respawn",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
   }
  ],
  "archive": [
@@ -10831,7 +10879,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.12
+   "score": 12.11
   },
   "Delta Force": {
    "favorites": 3,
@@ -10849,25 +10897,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.97
+   "score": 16.96
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.12
+   "score": 12.11
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.12
+   "score": 12.11
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.12
+   "score": 12.11
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10891,7 +10939,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.12
+   "score": 12.11
   }
  },
  "favoriteWeights": {
