@@ -1990,42 +1990,6 @@
    "asset": "assets/b526da0e-74d5-4a7e-971a-695c966b6c95.png"
   },
   {
-   "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
-   "game": "Overwatch",
-   "title": "Reign of Talon S4: Drives",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T18:00:00+00:00",
-   "endAt": "2026-10-06T06:58:59.999+00:00",
-   "firstSeenAt": "2026-10-01T18:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32a97786-11e8-462c-96de-b7fc073d4b40.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=084d3edc-4ba6-4ea1-9552-c1882733dbad",
-   "rewards": [
-    {
-     "name": "100 Comp Points",
-     "minutes": 120
-    },
-    {
-     "name": "100 Comp Points",
-     "minutes": 240
-    },
-    {
-     "name": "100 Comp Points",
-     "minutes": 360
-    },
-    {
-     "name": "100 Comp Points",
-     "minutes": 480
-    },
-    {
-     "name": "100 Comp Points",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/084d3edc-4ba6-4ea1-9552-c1882733dbad.png"
-  },
-  {
    "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
    "game": "Street Fighter 6",
    "title": "Street Fighter 6",
@@ -3055,6 +3019,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "084d3edc-4ba6-4ea1-9552-c1882733dbad",
+   "game": "Overwatch",
+   "title": "Reign of Talon S4: Drives",
+   "startAt": "2026-10-01T18:00:00+00:00",
+   "endAt": "2026-10-06T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2eacdff7-9305-45cd-a5c1-645c6cef4299",
    "game": "Fortnite",
@@ -10587,13 +10559,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.28
+   "score": 17.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10605,31 +10577,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.17
+   "score": 17.16
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.36
+   "score": 1.35
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -10641,13 +10613,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.39
+   "score": 6.38
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.26
+   "score": 12.25
   }
  },
  "favoriteWeights": {
