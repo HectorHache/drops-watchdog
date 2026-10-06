@@ -3178,26 +3178,6 @@
    "asset": "assets/dfa9c27f-877b-417a-8a49-279ecf0fbb15.jpg"
   },
   {
-   "id": "c9f9c847-8932-4333-bb5b-6c8323497c22",
-   "game": "Warframe",
-   "title": "PMCFQ - tenno_ben",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T19:00:00+00:00",
-   "endAt": "2026-10-06T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T19:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc724558-1e58-4740-9b37-928559af3b90.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c9f9c847-8932-4333-bb5b-6c8323497c22",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/c9f9c847-8932-4333-bb5b-6c8323497c22.jpg"
-  },
-  {
    "id": "63700f7a-69ef-477a-bc07-62b472f3d150",
    "game": "MARVEL SNAP",
    "title": "Draft and Golden Gauntlet",
@@ -3224,9 +3204,41 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
+  },
+  {
+   "id": "79c3d54f-442f-4b20-8b70-79f4df7e0566",
+   "game": "Madden NFL 27",
+   "title": "MCS Pregame Show",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T21:00:00+00:00",
+   "endAt": "2026-10-06T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-06T21:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfc3edee-463d-49bd-b42a-afc9c34dc0fd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=79c3d54f-442f-4b20-8b70-79f4df7e0566",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/79c3d54f-442f-4b20-8b70-79f4df7e0566.png"
   }
  ],
  "archive": [
+  {
+   "id": "c9f9c847-8932-4333-bb5b-6c8323497c22",
+   "game": "Warframe",
+   "title": "PMCFQ - tenno_ben",
+   "startAt": "2026-10-06T19:00:00+00:00",
+   "endAt": "2026-10-06T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9c19b147-77ff-4bf6-b8b0-21109ac0910d",
    "game": "Hearthstone",
@@ -10893,7 +10905,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.05
+   "score": 17.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10905,7 +10917,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.94
+   "score": 16.93
   },
   "Once Human": {
    "favorites": 2,
