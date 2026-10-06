@@ -3136,6 +3136,26 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/d7d00cda-729b-44d5-b800-2b666a7cef16.png"
+  },
+  {
+   "id": "9f706c44-9688-4845-b4f0-295fb2653707",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 Day 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-06T16:00:00+00:00",
+   "endAt": "2026-10-06T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7e919b23-46a6-42a8-882c-ef193a61ac7a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9f706c44-9688-4845-b4f0-295fb2653707",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9f706c44-9688-4845-b4f0-295fb2653707.png"
   }
  ],
  "archive": [
@@ -10769,7 +10789,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 17.02
+   "score": 17.01
   },
   "Once Human": {
    "favorites": 2,
