@@ -3062,28 +3062,40 @@
    "asset": "assets/9f706c44-9688-4845-b4f0-295fb2653707.png"
   },
   {
-   "id": "2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
-   "game": "Tanki Online",
-   "title": "WMR3 2026 R1 (1)",
+   "id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4",
+   "game": "Splinterlands",
+   "title": "October Week 1",
    "status": "ACTIVE",
    "startAt": "2026-10-06T17:00:00+00:00",
-   "endAt": "2026-10-06T19:29:59.999+00:00",
-   "firstSeenAt": "2026-10-06T17:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/aebd56e0-de3f-401b-9d35-ad9c21284325.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
+   "endAt": "2026-10-20T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-06T19:30:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f1cb400-a907-45b0-873c-84df144aa3d1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e6b023b5-f78b-4e56-a048-91e7a1c288a4",
    "rewards": [
     {
-     "name": "Drop 1",
-     "minutes": 30
+     "name": "1000 Glint",
+     "minutes": 180
     },
     {
-     "name": "Drop 2",
-     "minutes": 60
+     "name": "1000 Glint",
+     "minutes": 360
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 540
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 720
+    },
+    {
+     "name": "1000 Glint",
+     "minutes": 900
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9.jpg"
+   "asset": "assets/e6b023b5-f78b-4e56-a048-91e7a1c288a4.png"
   },
   {
    "id": "cf6c0649-b69e-4e37-936a-b131ccf4ed2b",
@@ -3235,6 +3247,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "2c8e6568-ec5b-4d1f-a0b9-7940b85ad3c9",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R1 (1)",
+   "startAt": "2026-10-06T17:00:00+00:00",
+   "endAt": "2026-10-06T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1d05b631-ee01-471b-9e33-2a2b23529123",
    "game": "League of Legends",
@@ -10885,7 +10905,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.08
+   "score": 17.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10897,7 +10917,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.96
+   "score": 16.95
   },
   "Once Human": {
    "favorites": 2,
