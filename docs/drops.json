@@ -1406,26 +1406,6 @@
    "asset": "assets/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png"
   },
   {
-   "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
-   "game": "World of Warships",
-   "title": "15.8 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T22:00:00+00:00",
-   "endAt": "2026-10-07T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T22:00:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/137cd23d-5e86-414a-9b2c-caf905fda441.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c1776a1-ba10-4589-8b23-9179d0b502c6",
-   "rewards": [
-    {
-     "name": "Week 4: 250 Community Tokens",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2c1776a1-ba10-4589-8b23-9179d0b502c6.png"
-  },
-  {
    "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
    "game": "Wolvesville",
    "title": "October 2026",
@@ -2958,42 +2938,6 @@
    "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
   },
   {
-   "id": "d7390c29-c409-4f1c-bd7e-9b955dff1b17",
-   "game": "DOFUS Touch",
-   "title": "J23 - 4x Temporix Cps\t",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T22:00:00+00:00",
-   "endAt": "2026-10-07T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T22:00:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f34d8fd-4d3c-4479-8c90-73e246fb6763.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7390c29-c409-4f1c-bd7e-9b955dff1b17",
-   "rewards": [
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d7390c29-c409-4f1c-bd7e-9b955dff1b17.png"
-  },
-  {
    "id": "abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3626,27 +3570,87 @@
    "asset": "assets/ea5798d3-f85f-4743-aba4-fe12ee5a45db.jpg"
   },
   {
-   "id": "2fd61097-bacc-4008-8b75-51bc41104f14",
-   "game": "Warframe",
-   "title": "PMCFQ - soymistergamer",
+   "id": "47c4d134-bb35-4456-9003-b47c394188f8",
+   "game": "DOFUS Touch",
+   "title": "J24 - 4x Temporix Cps\t",
    "status": "ACTIVE",
-   "startAt": "2026-10-07T20:00:00+00:00",
-   "endAt": "2026-10-07T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T20:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/138f02fd-730f-4b69-9f56-11f934ab0e40.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2fd61097-bacc-4008-8b75-51bc41104f14",
+   "startAt": "2026-10-07T22:00:00+00:00",
+   "endAt": "2026-10-08T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T22:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a009666-af7f-40e9-aedd-5febd690b286.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=47c4d134-bb35-4456-9003-b47c394188f8",
    "rewards": [
     {
-     "name": "Random Captura",
+     "name": "4x TemporiX Cps",
      "minutes": 30
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 150
     }
    ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/2fd61097-bacc-4008-8b75-51bc41104f14.jpg"
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/47c4d134-bb35-4456-9003-b47c394188f8.png"
+  },
+  {
+   "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
+   "game": "World of Warships",
+   "title": "15.9 Mystery Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T22:00:00+00:00",
+   "endAt": "2026-10-14T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T22:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6b80cea1-7641-4850-9b70-4383bc6b70d7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=107f5eb2-1479-4e6c-b154-47ae13517533",
+   "rewards": [
+    {
+     "name": "15.9 Mystery Drop",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/107f5eb2-1479-4e6c-b154-47ae13517533.png"
   }
  ],
  "archive": [
+  {
+   "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
+   "game": "World of Warships",
+   "title": "15.8 WOWS Channel Drop",
+   "startAt": "2026-09-30T22:00:00+00:00",
+   "endAt": "2026-10-07T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d7390c29-c409-4f1c-bd7e-9b955dff1b17",
+   "game": "DOFUS Touch",
+   "title": "J23 - 4x Temporix Cps\t",
+   "startAt": "2026-10-06T22:00:00+00:00",
+   "endAt": "2026-10-07T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2fd61097-bacc-4008-8b75-51bc41104f14",
+   "game": "Warframe",
+   "title": "PMCFQ - soymistergamer",
+   "startAt": "2026-10-07T20:00:00+00:00",
+   "endAt": "2026-10-07T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2b8a3bf3-7686-4523-a747-d0977ea52779",
    "game": "Warframe",
@@ -11443,13 +11447,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.65
+   "score": 16.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11461,37 +11465,37 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.53
+   "score": 16.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.31
+   "score": 1.3
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.66
+   "score": 5.65
   },
   "Warframe": {
    "favorites": 1,
@@ -11503,7 +11507,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.81
+   "score": 11.8
   }
  },
  "favoriteWeights": {
