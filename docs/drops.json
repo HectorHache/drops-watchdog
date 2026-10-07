@@ -3184,6 +3184,158 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/84fdd0fb-a22e-41b5-8e31-86431c76b3a7.png"
+  },
+  {
+   "id": "160d9ae7-de9e-4249-831f-be24789e5405",
+   "game": "Hearthstone",
+   "title": "Devs VS Streamers - Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-08T00:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T09:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f04496e4-9965-4a2a-95e1-2cb42bf40aea.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=160d9ae7-de9e-4249-831f-be24789e5405",
+   "rewards": [
+    {
+     "name": "Reign of the Black Empire Pack",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/160d9ae7-de9e-4249-831f-be24789e5405.png"
+  },
+  {
+   "id": "949e51d4-1322-478d-a669-317d7d769dd0",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T09:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c3cea86a-1d5d-4116-892e-c059d54963b7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=949e51d4-1322-478d-a669-317d7d769dd0",
+   "rewards": [
+    {
+     "name": "\"Stamp of Approval\" Spray\t\t\t\t\t",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/949e51d4-1322-478d-a669-317d7d769dd0.png"
+  },
+  {
+   "id": "16189ff3-a54e-434f-95e8-b8c538814020",
+   "game": "Night Crows",
+   "title": "NC DROPS ALL (26_OCT)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-27T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T09:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3471e4bb-de31-46c4-b288-faa7b9e3398b.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=16189ff3-a54e-434f-95e8-b8c538814020",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/16189ff3-a54e-434f-95e8-b8c538814020.jpg"
+  },
+  {
+   "id": "5f43889c-c819-428c-8419-64c639b8f4f3",
+   "game": "Night Crows",
+   "title": "NC DROPS_SSS (26_OCT)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-27T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T09:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d202f363-7179-4739-ad0e-af17127fa7f7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5f43889c-c819-428c-8419-64c639b8f4f3",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 180
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "6",
+     "minutes": 420
+    },
+    {
+     "name": "7",
+     "minutes": 540
+    },
+    {
+     "name": "8",
+     "minutes": 660
+    },
+    {
+     "name": "9",
+     "minutes": 780
+    },
+    {
+     "name": "10",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/5f43889c-c819-428c-8419-64c639b8f4f3.jpg"
   }
  ],
  "archive": [
@@ -10917,7 +11069,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.86
+   "score": 16.85
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -10929,7 +11081,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.74
+   "score": 16.73
   },
   "Once Human": {
    "favorites": 2,
@@ -10959,13 +11111,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.73
+   "score": 5.72
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.23
+   "score": 6.22
   },
   "Where Winds Meet": {
    "favorites": 2,
