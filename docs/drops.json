@@ -2758,26 +2758,6 @@
    "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
   },
   {
-   "id": "541bea43-20a9-4361-955c-49ce4a84928f",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 6)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T12:00:00+00:00",
-   "endAt": "2026-10-07T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T12:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/73bd0011-1b2a-4f5c-9b32-2bd8ffb38e5d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=541bea43-20a9-4361-955c-49ce4a84928f",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 6)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/541bea43-20a9-4361-955c-49ce4a84928f.png"
-  },
-  {
    "id": "c593522a-44a0-41da-bbaf-d6abd4d5016c",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 10/6/26",
@@ -3392,6 +3372,26 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/9730d758-4de3-42a4-8550-83500d9e4c42.png"
+  },
+  {
+   "id": "dd483005-189a-441b-8ff8-0aa6ffd8db46",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 7)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T12:00:00+00:00",
+   "endAt": "2026-10-08T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T12:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a9b925d-4429-484f-a1cf-8a90b930ac8f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dd483005-189a-441b-8ff8-0aa6ffd8db46",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 7)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/dd483005-189a-441b-8ff8-0aa6ffd8db46.png"
   }
  ],
  "archive": [
@@ -3402,6 +3402,14 @@
    "startAt": "2026-10-06T17:59:00+00:00",
    "endAt": "2026-10-07T17:56:59.999+00:00",
    "status": "EXPIRED"
+  },
+  {
+   "id": "541bea43-20a9-4361-955c-49ce4a84928f",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 6)",
+   "startAt": "2026-10-06T12:00:00+00:00",
+   "endAt": "2026-10-07T11:59:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "b06b8bd1-b48f-46a1-99c2-3ef1db09bac5",
@@ -11127,43 +11135,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.92
+   "score": 11.91
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.81
+   "score": 16.8
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.64
+   "score": 2.63
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.69
+   "score": 16.68
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.92
+   "score": 11.91
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.92
+   "score": 11.91
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.92
+   "score": 11.91
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11187,7 +11195,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.92
+   "score": 11.91
   }
  },
  "favoriteWeights": {
