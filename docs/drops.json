@@ -3626,26 +3626,6 @@
    "asset": "assets/ea5798d3-f85f-4743-aba4-fe12ee5a45db.jpg"
   },
   {
-   "id": "2b8a3bf3-7686-4523-a747-d0977ea52779",
-   "game": "Warframe",
-   "title": "Emisi\u00f3n Tenno #348 Raid",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T20:00:00+00:00",
-   "endAt": "2026-10-07T21:29:59.999+00:00",
-   "firstSeenAt": "2026-10-07T20:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/243c88ff-4838-46f4-b58c-36691b38ff1b.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b8a3bf3-7686-4523-a747-d0977ea52779",
-   "rewards": [
-    {
-     "name": "Ordis Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/2b8a3bf3-7686-4523-a747-d0977ea52779.jpg"
-  },
-  {
    "id": "2fd61097-bacc-4008-8b75-51bc41104f14",
    "game": "Warframe",
    "title": "PMCFQ - soymistergamer",
@@ -3667,6 +3647,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "2b8a3bf3-7686-4523-a747-d0977ea52779",
+   "game": "Warframe",
+   "title": "Emisi\u00f3n Tenno #348 Raid",
+   "startAt": "2026-10-07T20:00:00+00:00",
+   "endAt": "2026-10-07T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5762ceb4-592a-4d13-bb7a-39ef6b79244c",
    "game": "Warframe",
@@ -11473,7 +11461,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.54
+   "score": 16.53
   },
   "Once Human": {
    "favorites": 2,
