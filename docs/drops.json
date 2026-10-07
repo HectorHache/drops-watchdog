@@ -3486,30 +3486,6 @@
    "asset": "assets/0ef8e3ae-45a7-4858-9d91-b34864a88054.png"
   },
   {
-   "id": "2e1bce61-f878-4205-84c3-cfd90c5f957f",
-   "game": "Tanki Online",
-   "title": "WMR3 2026 R1 (2)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T17:00:00+00:00",
-   "endAt": "2026-10-07T19:29:59.999+00:00",
-   "firstSeenAt": "2026-10-07T17:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ac1755c-5ee6-485b-bc1e-bf2c38e5e428.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2e1bce61-f878-4205-84c3-cfd90c5f957f",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2e1bce61-f878-4205-84c3-cfd90c5f957f.jpg"
-  },
-  {
    "id": "991d53f2-eee5-4020-96d9-7f73316fab46",
    "game": "AION 2",
    "title": "War for Atreia - Series 2",
@@ -3671,6 +3647,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "2e1bce61-f878-4205-84c3-cfd90c5f957f",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R1 (2)",
+   "startAt": "2026-10-07T17:00:00+00:00",
+   "endAt": "2026-10-07T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cf6c0649-b69e-4e37-936a-b131ccf4ed2b",
    "game": "Rise Online",
@@ -11449,7 +11433,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.69
+   "score": 16.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11461,7 +11445,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.57
+   "score": 16.56
   },
   "Once Human": {
    "favorites": 2,
