@@ -2718,26 +2718,6 @@
    "asset": "assets/b08e6c0e-ac1c-4b93-906c-5646ed5559ad.jpg"
   },
   {
-   "id": "b06b8bd1-b48f-46a1-99c2-3ef1db09bac5",
-   "game": "Albion Online",
-   "title": "Dragonfire 6 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T10:00:00+00:00",
-   "endAt": "2026-10-07T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-06T10:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1277a46b-2c6b-47c6-9106-c031202c99ab.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b06b8bd1-b48f-46a1-99c2-3ef1db09bac5",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b06b8bd1-b48f-46a1-99c2-3ef1db09bac5.png"
-  },
-  {
    "id": "f571bf80-91de-4af1-8762-a73eab76870b",
    "game": "EVE Online",
    "title": "Crimson Harvest Drop 1",
@@ -3346,6 +3326,14 @@
    "startAt": "2026-10-06T17:59:00+00:00",
    "endAt": "2026-10-07T17:56:59.999+00:00",
    "status": "EXPIRED"
+  },
+  {
+   "id": "b06b8bd1-b48f-46a1-99c2-3ef1db09bac5",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #2/7",
+   "startAt": "2026-10-06T10:00:00+00:00",
+   "endAt": "2026-10-07T09:29:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "6d22289f-d90b-41f6-a814-2dd6a7ff473e",
@@ -11063,13 +11051,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.95
+   "score": 11.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.85
+   "score": 16.84
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11081,25 +11069,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.73
+   "score": 16.72
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.95
+   "score": 11.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.95
+   "score": 11.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.95
+   "score": 11.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11123,7 +11111,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.95
+   "score": 11.94
   }
  },
  "favoriteWeights": {
