@@ -3316,6 +3316,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5f43889c-c819-428c-8419-64c639b8f4f3.jpg"
+  },
+  {
+   "id": "eb3ca3d7-1075-4d7a-86d9-3e53e0d93fdc",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T10:00:00+00:00",
+   "endAt": "2026-10-08T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-07T10:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/574f5104-b83c-412d-84a5-cd55c985e0cb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb3ca3d7-1075-4d7a-86d9-3e53e0d93fdc",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/eb3ca3d7-1075-4d7a-86d9-3e53e0d93fdc.png"
+  },
+  {
+   "id": "3be0845f-ee00-4a0d-bc88-a57c555cb345",
+   "game": "World of Tanks",
+   "title": "3 MoE Challenge",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T10:00:00+00:00",
+   "endAt": "2026-10-09T09:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T10:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec5f6579-4d61-408a-94ad-2feef250e001.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3be0845f-ee00-4a0d-bc88-a57c555cb345",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3be0845f-ee00-4a0d-bc88-a57c555cb345.jpg"
   }
  ],
  "archive": [
@@ -11057,7 +11097,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.84
+   "score": 16.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
