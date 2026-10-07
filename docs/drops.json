@@ -2302,38 +2302,6 @@
    "asset": "assets/8c909a6b-23fa-4107-b1e3-7ef882b56356.png"
   },
   {
-   "id": "6d22289f-d90b-41f6-a814-2dd6a7ff473e",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 14",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T05:00:00+00:00",
-   "endAt": "2026-10-07T04:58:59.999+00:00",
-   "firstSeenAt": "2026-10-05T05:00:09+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4f142c99-06ee-41fc-beb5-33345b61ef6e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6d22289f-d90b-41f6-a814-2dd6a7ff473e",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 540
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6d22289f-d90b-41f6-a814-2dd6a7ff473e.png"
-  },
-  {
    "id": "3bec3616-0c35-4cb8-9533-2db143d26880",
    "game": "Sonic Rumble Party",
    "title": "October 2026 Drops",
@@ -2636,26 +2604,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4471f6d2-2d97-4eac-95c5-12c725d1ad15.png"
-  },
-  {
-   "id": "9784a0e2-e2d4-44f5-afa8-981c1db01885",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T00:00:00+00:00",
-   "endAt": "2026-10-06T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T00:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3f208e76-0b1f-4961-8210-aaff69957315.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9784a0e2-e2d4-44f5-afa8-981c1db01885",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9784a0e2-e2d4-44f5-afa8-981c1db01885.png"
   },
   {
    "id": "8e15c074-d564-4bfa-8d14-a644696745cc",
@@ -2986,26 +2934,6 @@
    "asset": "assets/d7d00cda-729b-44d5-b800-2b666a7cef16.png"
   },
   {
-   "id": "9f706c44-9688-4845-b4f0-295fb2653707",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 2 Day 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T16:00:00+00:00",
-   "endAt": "2026-10-06T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T16:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7e919b23-46a6-42a8-882c-ef193a61ac7a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9f706c44-9688-4845-b4f0-295fb2653707",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9f706c44-9688-4845-b4f0-295fb2653707.png"
-  },
-  {
    "id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4",
    "game": "Splinterlands",
    "title": "October Week 1",
@@ -3170,42 +3098,6 @@
    "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
   },
   {
-   "id": "3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e",
-   "game": "Madden NFL 27",
-   "title": "MCS Breakouts Pro League",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T22:00:00+00:00",
-   "endAt": "2026-10-07T02:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T22:00:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ff7aa99-2400-4654-8d25-086a47282664.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e",
-   "rewards": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Tre Hawkins Pack",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e.png"
-  },
-  {
    "id": "d7390c29-c409-4f1c-bd7e-9b955dff1b17",
    "game": "DOFUS Touch",
    "title": "J23 - 4x Temporix Cps\t",
@@ -3240,9 +3132,101 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d7390c29-c409-4f1c-bd7e-9b955dff1b17.png"
+  },
+  {
+   "id": "abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T00:00:00+00:00",
+   "endAt": "2026-10-07T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T00:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4709052f-a20f-4280-b939-f64eb647dd55.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/abfa6e06-f1fe-4cbc-858a-19b1b15da07b.png"
+  },
+  {
+   "id": "84fdd0fb-a22e-41b5-8e31-86431c76b3a7",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 15",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T05:00:00+00:00",
+   "endAt": "2026-10-10T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-07T05:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/69bc46e0-ddb5-40ba-85d4-3aadb896b55f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84fdd0fb-a22e-41b5-8e31-86431c76b3a7",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 540
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/84fdd0fb-a22e-41b5-8e31-86431c76b3a7.png"
   }
  ],
  "archive": [
+  {
+   "id": "19e81910-e737-4fc2-8911-207029b77c50",
+   "game": "Rise Online",
+   "title": "ROW Drop Rhne",
+   "startAt": "2026-10-06T17:59:00+00:00",
+   "endAt": "2026-10-07T17:56:59.999+00:00",
+   "status": "EXPIRED"
+  },
+  {
+   "id": "6d22289f-d90b-41f6-a814-2dd6a7ff473e",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 14",
+   "startAt": "2026-10-05T05:00:00+00:00",
+   "endAt": "2026-10-07T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3b0fa6e5-db07-4e3e-9a2a-5ae278a7de7e",
+   "game": "Madden NFL 27",
+   "title": "MCS Breakouts Pro League",
+   "startAt": "2026-10-06T22:00:00+00:00",
+   "endAt": "2026-10-07T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9784a0e2-e2d4-44f5-afa8-981c1db01885",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-06T00:00:00+00:00",
+   "endAt": "2026-10-06T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9f706c44-9688-4845-b4f0-295fb2653707",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 Day 4",
+   "startAt": "2026-10-06T16:00:00+00:00",
+   "endAt": "2026-10-06T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "30637a66-3c55-4c65-98ed-70b7986e1998",
    "game": "DOFUS Touch",
@@ -10927,43 +10911,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.07
+   "score": 11.99
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 17.02
+   "score": 16.91
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.67
+   "score": 2.65
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.9
+   "score": 16.8
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.07
+   "score": 11.99
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.07
+   "score": 11.99
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.07
+   "score": 11.99
   },
   "THE FINALS": {
    "favorites": 0,
@@ -10975,33 +10959,33 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.78
+   "score": 5.75
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.29
+   "score": 6.25
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 12.07
+   "score": 11.99
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 22,
+  "ARC Raiders": 21,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 27,
+  "Delta Force": 26,
   "LEGO Batman: Legacy of the Dark Knight": 26,
   "Marvel Rivals": 10,
-  "Once Human": 22,
-  "Palia": 22,
-  "Predecessor": 22,
+  "Once Human": 21,
+  "Palia": 21,
+  "Predecessor": 21,
   "Tom Clancy's The Division 2": 15,
   "Warframe": 16,
-  "Where Winds Meet": 22
+  "Where Winds Meet": 21
  }
 }
