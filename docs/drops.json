@@ -1406,30 +1406,6 @@
    "asset": "assets/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png"
   },
   {
-   "id": "989bb268-3603-458e-b9ae-e317582878f5",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 5",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T16:00:00+00:00",
-   "endAt": "2026-10-07T15:58:59.999+00:00",
-   "firstSeenAt": "2026-09-30T16:30:16+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60f74710-9890-4a5c-a971-f136a4167d2d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=989bb268-3603-458e-b9ae-e317582878f5",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/989bb268-3603-458e-b9ae-e317582878f5.png"
-  },
-  {
    "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
    "game": "World of Warships",
    "title": "15.8 WOWS Channel Drop",
@@ -3496,6 +3472,58 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1428e31c-9782-4dfd-9b09-4f302e864c5f.png"
+  },
+  {
+   "id": "26235968-a64d-4a6f-840d-e559f9f9c278",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 6",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T16:00:00+00:00",
+   "endAt": "2026-10-14T15:58:59.999+00:00",
+   "firstSeenAt": "2026-10-07T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4e9ab6d-ad56-4a7f-8b4e-4553d5f1574c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=26235968-a64d-4a6f-840d-e559f9f9c278",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/26235968-a64d-4a6f-840d-e559f9f9c278.png"
+  },
+  {
+   "id": "0ef8e3ae-45a7-4858-9d91-b34864a88054",
+   "game": "The Crew: Motorfest",
+   "title": "TCM S11 Launch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T16:00:00+00:00",
+   "endAt": "2026-10-14T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T16:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ef8e3ae-45a7-4858-9d91-b34864a88054",
+   "rewards": [
+    {
+     "name": "WIRE MESH WINDOW TINT",
+     "minutes": 60
+    },
+    {
+     "name": "RALLY OUTER BLUE TIRE",
+     "minutes": 120
+    },
+    {
+     "name": "WRANGLER EVO 2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0ef8e3ae-45a7-4858-9d91-b34864a88054.png"
   }
  ],
  "archive": [
@@ -3506,6 +3534,14 @@
    "startAt": "2026-10-06T17:59:00+00:00",
    "endAt": "2026-10-07T17:56:59.999+00:00",
    "status": "EXPIRED"
+  },
+  {
+   "id": "989bb268-3603-458e-b9ae-e317582878f5",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 5",
+   "startAt": "2026-09-30T16:00:00+00:00",
+   "endAt": "2026-10-07T15:58:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "c593522a-44a0-41da-bbaf-d6abd4d5016c",
@@ -11253,19 +11289,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.74
+   "score": 16.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.63
+   "score": 2.62
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.63
+   "score": 16.62
   },
   "Once Human": {
    "favorites": 2,
@@ -11301,7 +11337,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.19
+   "score": 6.18
   },
   "Where Winds Meet": {
    "favorites": 2,
