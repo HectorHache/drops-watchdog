@@ -3524,6 +3524,102 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0ef8e3ae-45a7-4858-9d91-b34864a88054.png"
+  },
+  {
+   "id": "2e1bce61-f878-4205-84c3-cfd90c5f957f",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R1 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T17:00:00+00:00",
+   "endAt": "2026-10-07T19:29:59.999+00:00",
+   "firstSeenAt": "2026-10-07T17:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9ac1755c-5ee6-485b-bc1e-bf2c38e5e428.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2e1bce61-f878-4205-84c3-cfd90c5f957f",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2e1bce61-f878-4205-84c3-cfd90c5f957f.jpg"
+  },
+  {
+   "id": "991d53f2-eee5-4020-96d9-7f73316fab46",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T17:00:00+00:00",
+   "endAt": "2026-10-10T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T17:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/665e31b7-496c-491d-acf2-bfb45e00ec0a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=991d53f2-eee5-4020-96d9-7f73316fab46",
+   "rewards": [
+    {
+     "name": "Customization Voucher x3",
+     "minutes": 30
+    },
+    {
+     "name": "Skin Chest (10 Skins) x1",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Codex: Reset x3",
+     "minutes": 120
+    },
+    {
+     "name": "Pet: Two x1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/991d53f2-eee5-4020-96d9-7f73316fab46.png"
+  },
+  {
+   "id": "e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674",
+   "game": "SPAM",
+   "title": "SPAM Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T17:00:00+00:00",
+   "endAt": "2026-10-11T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T17:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/315e7334-631a-426d-a59c-32e47eee9cb4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674",
+   "rewards": [
+    {
+     "name": "Avatar Sunset",
+     "minutes": 60
+    },
+    {
+     "name": "10 SPAMS",
+     "minutes": 120
+    },
+    {
+     "name": "Avatar Fire pet",
+     "minutes": 180
+    },
+    {
+     "name": "1 Orbe ",
+     "minutes": 240
+    },
+    {
+     "name": "Avatar Fire penguin",
+     "minutes": 300
+    },
+    {
+     "name": "30 SPAMS",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674.png"
   }
  ],
  "archive": [
@@ -11289,7 +11385,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.73
+   "score": 16.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11301,7 +11397,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.61
+   "score": 16.6
   },
   "Once Human": {
    "favorites": 2,
