@@ -3356,6 +3356,42 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3be0845f-ee00-4a0d-bc88-a57c555cb345.jpg"
+  },
+  {
+   "id": "9730d758-4de3-42a4-8550-83500d9e4c42",
+   "game": "Brawlhalla",
+   "title": "Brawlhalloween",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T11:00:00+00:00",
+   "endAt": "2026-10-22T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T11:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9730d758-4de3-42a4-8550-83500d9e4c42",
+   "rewards": [
+    {
+     "name": "Teros CCv2",
+     "minutes": 60
+    },
+    {
+     "name": "Barraza CCv2",
+     "minutes": 120
+    },
+    {
+     "name": "Azoth CCv2",
+     "minutes": 180
+    },
+    {
+     "name": "Brain Rotted Title",
+     "minutes": 240
+    },
+    {
+     "name": "Bitten Diana Skin",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/9730d758-4de3-42a4-8550-83500d9e4c42.png"
   }
  ],
  "archive": [
@@ -11109,7 +11145,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.71
+   "score": 16.7
   },
   "Once Human": {
    "favorites": 2,
@@ -11139,13 +11175,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.72
+   "score": 5.71
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.22
+   "score": 6.21
   },
   "Where Winds Meet": {
    "favorites": 2,
