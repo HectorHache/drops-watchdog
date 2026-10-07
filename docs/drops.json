@@ -3456,6 +3456,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9fd74d51-4779-47e7-9076-ae91c8fb7c96.png"
+  },
+  {
+   "id": "b78f8b92-7461-4fd5-8b30-6f982a508acb",
+   "game": "March of Giants",
+   "title": "MoG - Pioneer Booster",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T14:30:00+00:00",
+   "endAt": "2026-10-18T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T15:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b78f8b92-7461-4fd5-8b30-6f982a508acb",
+   "rewards": [
+    {
+     "name": "Pioneer Booster",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b78f8b92-7461-4fd5-8b30-6f982a508acb.png"
+  },
+  {
+   "id": "1428e31c-9782-4dfd-9b09-4f302e864c5f",
+   "game": "March of Giants",
+   "title": "MoG - Pioneer Giant Token",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T14:30:00+00:00",
+   "endAt": "2026-10-18T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T15:00:15+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1428e31c-9782-4dfd-9b09-4f302e864c5f",
+   "rewards": [
+    {
+     "name": "Giant Token",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1428e31c-9782-4dfd-9b09-4f302e864c5f.png"
   }
  ],
  "archive": [
@@ -11207,13 +11247,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.89
+   "score": 11.88
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.76
+   "score": 16.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11231,19 +11271,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.89
+   "score": 11.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.89
+   "score": 11.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.89
+   "score": 11.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11267,7 +11307,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.89
+   "score": 11.88
   }
  },
  "favoriteWeights": {
