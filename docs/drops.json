@@ -3412,6 +3412,50 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/cebb8a27-dede-47e0-9a83-ac9b0e1fb46e.jpg"
+  },
+  {
+   "id": "9fd74d51-4779-47e7-9076-ae91c8fb7c96",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T14:00:00+00:00",
+   "endAt": "2026-10-11T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-07T14:00:07+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01efa432-628d-4101-b046-fb058be5216f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9fd74d51-4779-47e7-9076-ae91c8fb7c96",
+   "rewards": [
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    },
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9fd74d51-4779-47e7-9076-ae91c8fb7c96.png"
   }
  ],
  "archive": [
@@ -11163,7 +11207,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   },
   "Delta Force": {
    "favorites": 3,
@@ -11181,31 +11225,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.66
+   "score": 16.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.32
+   "score": 1.31
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -11217,13 +11261,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.2
+   "score": 6.19
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.9
+   "score": 11.89
   }
  },
  "favoriteWeights": {
