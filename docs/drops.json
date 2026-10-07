@@ -2758,42 +2758,6 @@
    "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
   },
   {
-   "id": "c593522a-44a0-41da-bbaf-d6abd4d5016c",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/6/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T13:00:00+00:00",
-   "endAt": "2026-10-07T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T13:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c593522a-44a0-41da-bbaf-d6abd4d5016c",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c593522a-44a0-41da-bbaf-d6abd4d5016c.png"
-  },
-  {
    "id": "af6f4d87-1374-4371-ae16-5e11bbad468e",
    "game": "Hunt Club On Stream",
    "title": "Drops",
@@ -3392,6 +3356,62 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/dd483005-189a-441b-8ff8-0aa6ffd8db46.png"
+  },
+  {
+   "id": "30605f6f-fd8c-4968-87e0-9c12958c03cc",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T13:00:00+00:00",
+   "endAt": "2026-10-08T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T13:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30605f6f-fd8c-4968-87e0-9c12958c03cc",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30605f6f-fd8c-4968-87e0-9c12958c03cc.png"
+  },
+  {
+   "id": "cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
+   "game": "Riders Republic",
+   "title": "Riders Republic S20 Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-07T13:00:00+00:00",
+   "endAt": "2026-10-14T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-07T13:00:08+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea134e6a-3769-48dd-aebd-00401ed376a9.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
+   "rewards": [
+    {
+     "name": "Old School BMX",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/cebb8a27-dede-47e0-9a83-ac9b0e1fb46e.jpg"
   }
  ],
  "archive": [
@@ -3402,6 +3422,14 @@
    "startAt": "2026-10-06T17:59:00+00:00",
    "endAt": "2026-10-07T17:56:59.999+00:00",
    "status": "EXPIRED"
+  },
+  {
+   "id": "c593522a-44a0-41da-bbaf-d6abd4d5016c",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/6/26",
+   "startAt": "2026-10-06T13:00:00+00:00",
+   "endAt": "2026-10-07T12:59:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "541bea43-20a9-4361-955c-49ce4a84928f",
@@ -11135,13 +11163,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.79
+   "score": 16.78
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11153,25 +11181,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.68
+   "score": 16.67
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11183,7 +11211,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.71
+   "score": 5.7
   },
   "Warframe": {
    "favorites": 1,
@@ -11195,7 +11223,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.91
+   "score": 11.9
   }
  },
  "favoriteWeights": {
