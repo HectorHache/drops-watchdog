@@ -1426,26 +1426,6 @@
    "asset": "assets/5b32b5e7-7421-40ae-be32-e45b4df19a12.png"
   },
   {
-   "id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
-   "game": "World of Warships",
-   "title": "15.8 Worth Their Salt #4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T06:00:00+00:00",
-   "endAt": "2026-10-08T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T06:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3055cf0e-ca74-4068-a9b1-4d52c0ad4542.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
-   "rewards": [
-    {
-     "name": "Worth Their Salt Week 4",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0e0e5f02-242a-4bde-ae43-59aeb6fb1826.png"
-  },
-  {
    "id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d",
    "game": "ELDEN RING",
    "title": "Bloody Finger ELDEN RING",
@@ -1524,38 +1504,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0979f1bb-fa0d-40d8-b175-c19b8d30bab8.png"
-  },
-  {
-   "id": "7beb0750-c45e-400c-8a05-0feb36a4d272",
-   "game": "UFL",
-   "title": "Oct #1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T08:45:00+00:00",
-   "endAt": "2026-10-07T23:58:59.999+00:00",
-   "firstSeenAt": "2026-10-01T09:00:27+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/871b6bca-8f24-4ea6-9131-f6ff73bf0c56.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7beb0750-c45e-400c-8a05-0feb36a4d272",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7beb0750-c45e-400c-8a05-0feb36a4d272.png"
   },
   {
    "id": "ef371a6b-b762-4d7e-b31e-e4211be15030",
@@ -1760,30 +1708,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/c1a3bab3-af60-47fd-a8ae-5ba606edb525.png"
-  },
-  {
-   "id": "b526da0e-74d5-4a7e-971a-695c966b6c95",
-   "game": "World of Warships",
-   "title": "Update 15.8 Drop: Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T16:00:00+00:00",
-   "endAt": "2026-10-08T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T16:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4795638b-2e60-47c6-8647-92b6ea9ab32d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b526da0e-74d5-4a7e-971a-695c966b6c95",
-   "rewards": [
-    {
-     "name": "Update 15.8 Mission #4",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.8 week #4",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b526da0e-74d5-4a7e-971a-695c966b6c95.png"
   },
   {
    "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
@@ -2938,26 +2862,6 @@
    "asset": "assets/63700f7a-69ef-477a-bc07-62b472f3d150.png"
   },
   {
-   "id": "abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T00:00:00+00:00",
-   "endAt": "2026-10-07T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T00:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4709052f-a20f-4280-b939-f64eb647dd55.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/abfa6e06-f1fe-4cbc-858a-19b1b15da07b.png"
-  },
-  {
    "id": "84fdd0fb-a22e-41b5-8e31-86431c76b3a7",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 15",
@@ -2988,26 +2892,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/84fdd0fb-a22e-41b5-8e31-86431c76b3a7.png"
-  },
-  {
-   "id": "160d9ae7-de9e-4249-831f-be24789e5405",
-   "game": "Hearthstone",
-   "title": "Devs VS Streamers - Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T09:00:00+00:00",
-   "endAt": "2026-10-08T00:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T09:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f04496e4-9965-4a2a-95e1-2cb42bf40aea.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=160d9ae7-de9e-4249-831f-be24789e5405",
-   "rewards": [
-    {
-     "name": "Reign of the Black Empire Pack",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/160d9ae7-de9e-4249-831f-be24789e5405.png"
   },
   {
    "id": "949e51d4-1322-478d-a669-317d7d769dd0",
@@ -3624,9 +3508,169 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/107f5eb2-1479-4e6c-b154-47ae13517533.png"
+  },
+  {
+   "id": "fad2ffca-4178-44a6-a10b-40060932905b",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T00:00:00+00:00",
+   "endAt": "2026-10-08T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T00:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/afbafd89-f860-47b3-ad02-8acd5fd0ed79.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fad2ffca-4178-44a6-a10b-40060932905b",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fad2ffca-4178-44a6-a10b-40060932905b.png"
+  },
+  {
+   "id": "b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
+   "game": "Delta Force",
+   "title": "AM&EMEA Group StageD9-12",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T00:00:00+00:00",
+   "endAt": "2026-10-11T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T00:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a53adca-548a-450d-86b5-58e38aaf26be.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
+   "rewards": [
+    {
+     "name": "Armament Voucher",
+     "minutes": 15
+    },
+    {
+     "name": "Ammo Selection Pack Lv.4",
+     "minutes": 30
+    },
+    {
+     "name": "Spray-RISE SERIES SEASON2",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "Avatar-RISESERIES SEASON2",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5.png"
+  },
+  {
+   "id": "efb9b018-9c9e-4721-8659-6690bfd8cb63",
+   "game": "Modern Warships",
+   "title": "MW: Leviathan Harvest",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T00:00:00+00:00",
+   "endAt": "2026-10-31T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-08T00:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fcf7bc56-0ef5-4bca-9ca8-966ac0021c24.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=efb9b018-9c9e-4721-8659-6690bfd8cb63",
+   "rewards": [
+    {
+     "name": "2 Days of Premium",
+     "minutes": 30
+    },
+    {
+     "name": "Advanced Consumables",
+     "minutes": 60
+    },
+    {
+     "name": "200 UP's",
+     "minutes": 120
+    },
+    {
+     "name": "15 Authorization Keys",
+     "minutes": 240
+    },
+    {
+     "name": "Camo Vicious Harvest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
+  },
+  {
+   "id": "3a565701-88c0-45c5-8853-c6bf86a00591",
+   "game": "Warframe",
+   "title": "PMCFQ - kalon75",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T04:00:00+00:00",
+   "endAt": "2026-10-08T05:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T04:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53254957-398a-462a-816f-709ac9cdd470.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a565701-88c0-45c5-8853-c6bf86a00591",
+   "rewards": [
+    {
+     "name": "Random Captura",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/3a565701-88c0-45c5-8853-c6bf86a00591.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
+   "game": "World of Warships",
+   "title": "15.8 Worth Their Salt #4",
+   "startAt": "2026-10-01T06:00:00+00:00",
+   "endAt": "2026-10-08T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b526da0e-74d5-4a7e-971a-695c966b6c95",
+   "game": "World of Warships",
+   "title": "Update 15.8 Drop: Week 4",
+   "startAt": "2026-10-01T16:00:00+00:00",
+   "endAt": "2026-10-08T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "160d9ae7-de9e-4249-831f-be24789e5405",
+   "game": "Hearthstone",
+   "title": "Devs VS Streamers - Day 2",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-08T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "126e511d-4536-462f-ad6d-e22050e934f0",
+   "game": "Warframe",
+   "title": "PMCFQ - Sharlazard",
+   "startAt": "2026-10-07T23:00:00+00:00",
+   "endAt": "2026-10-08T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "abfa6e06-f1fe-4cbc-858a-19b1b15da07b",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-07T00:00:00+00:00",
+   "endAt": "2026-10-07T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7beb0750-c45e-400c-8a05-0feb36a4d272",
+   "game": "UFL",
+   "title": "Oct #1",
+   "startAt": "2026-10-01T08:45:00+00:00",
+   "endAt": "2026-10-07T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2c1776a1-ba10-4589-8b23-9179d0b502c6",
    "game": "World of Warships",
@@ -11447,43 +11491,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.72
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.63
+   "score": 16.53
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.61
+   "score": 2.59
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.52
+   "score": 16.41
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.72
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.72
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.72
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11495,19 +11539,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.65
+   "score": 5.62
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.14
+   "score": 6.11
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.79
+   "score": 11.72
   }
  },
  "favoriteWeights": {
