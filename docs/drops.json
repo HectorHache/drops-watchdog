@@ -3704,6 +3704,70 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8960fd81-aecd-414b-a75b-d34accd6b90a.png"
+  },
+  {
+   "id": "24895bd6-15a8-42e5-a872-081e59b6b942",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T17:00:00+00:00",
+   "endAt": "2026-10-09T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00823e67-b68b-45d6-8f8b-9978e4a06045.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24895bd6-15a8-42e5-a872-081e59b6b942",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/24895bd6-15a8-42e5-a872-081e59b6b942.png"
+  },
+  {
+   "id": "773f4909-b958-455c-be7a-641ade4067c5",
+   "game": "Vaultbreakers",
+   "title": "Vaultbreakers",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T17:00:00+00:00",
+   "endAt": "2026-11-05T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/109a9e73-93e5-4c54-85f0-0bd7b6c40d26.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=773f4909-b958-455c-be7a-641ade4067c5",
+   "rewards": [
+    {
+     "name": "Vaultbreakers",
+     "minutes": 60
+    },
+    {
+     "name": "Vaultbreakers Golden",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/773f4909-b958-455c-be7a-641ade4067c5.png"
   }
  ],
  "archive": [
