@@ -3426,30 +3426,6 @@
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
   },
   {
-   "id": "cf6c4638-66d6-446a-a149-9fb41f66d8ab",
-   "game": "NARAKA: BLADEPOINT",
-   "title": " NBPL 10.8",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T08:00:00+00:00",
-   "endAt": "2026-10-08T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T08:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d273c78-67b3-4498-8970-068e0f470fe2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cf6c4638-66d6-446a-a149-9fb41f66d8ab",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cf6c4638-66d6-446a-a149-9fb41f66d8ab.png"
-  },
-  {
    "id": "01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.8-11",
@@ -3686,54 +3662,6 @@
    "asset": "assets/379ef4ec-630e-4680-be66-afa041847757.png"
   },
   {
-   "id": "f28d0150-105e-4851-8e85-80ebbadd22e9",
-   "game": "Madden NFL 27",
-   "title": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T14:00:00+00:00",
-   "endAt": "2026-10-08T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T14:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/abf29738-489c-4086-b704-81a75e8c11b0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f28d0150-105e-4851-8e85-80ebbadd22e9",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f28d0150-105e-4851-8e85-80ebbadd22e9.png"
-  },
-  {
-   "id": "fed74e2c-c19a-4cd5-a381-b8e657ff951e",
-   "game": "World of Warships",
-   "title": "Update 15.9 Drop: Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T15:00:00+00:00",
-   "endAt": "2026-10-08T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T15:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c41f948-a0f3-4bcc-a6df-121718056758.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fed74e2c-c19a-4cd5-a381-b8e657ff951e",
-   "rewards": [
-    {
-     "name": "Update 15.9 Mission #1",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.9 week #1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fed74e2c-c19a-4cd5-a381-b8e657ff951e.png"
-  },
-  {
    "id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
    "game": "World of Warships",
    "title": "Update 15.9 Drop: Week 1",
@@ -3756,9 +3684,53 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c7f9376-a07c-4bee-b7ce-38ec089c02cf.png"
+  },
+  {
+   "id": "8960fd81-aecd-414b-a75b-d34accd6b90a",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 End",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T16:00:00+00:00",
+   "endAt": "2026-10-08T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T16:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b906fad4-f67a-476a-aecf-cef381e8ecd6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8960fd81-aecd-414b-a75b-d34accd6b90a",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8960fd81-aecd-414b-a75b-d34accd6b90a.png"
   }
  ],
  "archive": [
+  {
+   "id": "cf6c4638-66d6-446a-a149-9fb41f66d8ab",
+   "game": "NARAKA: BLADEPOINT",
+   "title": " NBPL 10.8",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-08T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f28d0150-105e-4851-8e85-80ebbadd22e9",
+   "game": "Madden NFL 27",
+   "title": "Good Morning Madden",
+   "startAt": "2026-10-08T14:00:00+00:00",
+   "endAt": "2026-10-08T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fed74e2c-c19a-4cd5-a381-b8e657ff951e",
+   "game": "World of Warships",
+   "title": "Update 15.9 Drop: Week 1",
+   "startAt": "2026-10-08T15:00:00+00:00",
+   "endAt": "2026-10-08T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "aa05e383-ee2e-4af2-a204-bb5e405ae984",
    "game": "HITMAN World of Assassination",
@@ -11689,19 +11661,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.36
+   "score": 16.35
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.57
+   "score": 2.56
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.25
+   "score": 16.24
   },
   "Once Human": {
    "favorites": 2,
