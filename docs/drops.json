@@ -3564,6 +3564,82 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
+  },
+  {
+   "id": "cf6c4638-66d6-446a-a149-9fb41f66d8ab",
+   "game": "NARAKA: BLADEPOINT",
+   "title": " NBPL 10.8",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-08T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T08:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d273c78-67b3-4498-8970-068e0f470fe2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cf6c4638-66d6-446a-a149-9fb41f66d8ab",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cf6c4638-66d6-446a-a149-9fb41f66d8ab.png"
+  },
+  {
+   "id": "01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.8-11",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T08:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b771fd86-4943-4342-be19-68fdb2152a7e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
+   "rewards": [
+    {
+     "name": "10x XP Bonus",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/01382127-cc4d-47b4-9e14-7b39a5b8d4ad.png"
+  },
+  {
+   "id": "4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
+   "game": "UFL",
+   "title": "Oct #2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-14T23:58:59.999+00:00",
+   "firstSeenAt": "2026-10-08T08:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4edaa6b4-2820-43d3-8f00-d281c76f5d66.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    },
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094.png"
   }
  ],
  "archive": [
@@ -11457,13 +11533,13 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.49
+   "score": 16.48
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.59
+   "score": 2.58
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
