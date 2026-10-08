@@ -3708,6 +3708,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f28d0150-105e-4851-8e85-80ebbadd22e9.png"
+  },
+  {
+   "id": "fed74e2c-c19a-4cd5-a381-b8e657ff951e",
+   "game": "World of Warships",
+   "title": "Update 15.9 Drop: Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T15:00:00+00:00",
+   "endAt": "2026-10-08T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c41f948-a0f3-4bcc-a6df-121718056758.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fed74e2c-c19a-4cd5-a381-b8e657ff951e",
+   "rewards": [
+    {
+     "name": "Update 15.9 Mission #1",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Container 15.9 week #1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fed74e2c-c19a-4cd5-a381-b8e657ff951e.png"
   }
  ],
  "archive": [
@@ -11641,7 +11665,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.38
+   "score": 16.37
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
