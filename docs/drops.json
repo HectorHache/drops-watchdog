@@ -1706,50 +1706,6 @@
    "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
   },
   {
-   "id": "a8e98068-8b11-472a-818c-8b66e4bb5f44",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T14:00:00+00:00",
-   "endAt": "2026-10-08T21:58:59.999+00:00",
-   "firstSeenAt": "2026-10-02T14:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a19635fa-b7f9-434d-aaa9-3d5cd9c8c924.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a8e98068-8b11-472a-818c-8b66e4bb5f44",
-   "rewards": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a8e98068-8b11-472a-818c-8b66e4bb5f44.png"
-  },
-  {
    "id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
    "game": "Krunker",
    "title": "Krunker Season 10 Update",
@@ -3238,42 +3194,6 @@
    "asset": "assets/ea5798d3-f85f-4743-aba4-fe12ee5a45db.jpg"
   },
   {
-   "id": "47c4d134-bb35-4456-9003-b47c394188f8",
-   "game": "DOFUS Touch",
-   "title": "J24 - 4x Temporix Cps\t",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T22:00:00+00:00",
-   "endAt": "2026-10-08T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T22:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a009666-af7f-40e9-aedd-5febd690b286.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=47c4d134-bb35-4456-9003-b47c394188f8",
-   "rewards": [
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/47c4d134-bb35-4456-9003-b47c394188f8.png"
-  },
-  {
    "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
    "game": "World of Warships",
    "title": "15.9 Mystery Drop",
@@ -3768,9 +3688,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bb336df1-5a56-42dd-89c9-a889d5ceea58.jpg"
+  },
+  {
+   "id": "9ff424b9-73a8-42e6-a404-29f38a1ae8af",
+   "game": "Eternal Return",
+   "title": "PRO-Fessors: Seres",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T22:00:00+00:00",
+   "endAt": "2026-10-09T02:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T22:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c16babf-c15f-405a-b58b-034ba589b80d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9ff424b9-73a8-42e6-a404-29f38a1ae8af",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9ff424b9-73a8-42e6-a404-29f38a1ae8af.png"
+  },
+  {
+   "id": "ca18dada-86d7-4dd9-8a6e-40f9216a2414",
+   "game": "DOFUS Touch",
+   "title": "J25 - 4x Temporix Cps\t",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T22:00:00+00:00",
+   "endAt": "2026-10-09T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T22:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32c8b5b3-3ac3-4393-ab42-2d6059ec0989.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca18dada-86d7-4dd9-8a6e-40f9216a2414",
+   "rewards": [
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ca18dada-86d7-4dd9-8a6e-40f9216a2414.png"
   }
  ],
  "archive": [
+  {
+   "id": "47c4d134-bb35-4456-9003-b47c394188f8",
+   "game": "DOFUS Touch",
+   "title": "J24 - 4x Temporix Cps\t",
+   "startAt": "2026-10-07T22:00:00+00:00",
+   "endAt": "2026-10-08T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a8e98068-8b11-472a-818c-8b66e4bb5f44",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-10-02T14:00:00+00:00",
+   "endAt": "2026-10-08T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7829a353-9f24-4862-9643-14ec82347eb3",
    "game": "Rise Online",
@@ -11735,13 +11727,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.27
+   "score": 16.26
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11759,31 +11751,31 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.28
+   "score": 1.27
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.53
+   "score": 5.52
   },
   "Warframe": {
    "favorites": 1,
@@ -11795,7 +11787,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.54
+   "score": 11.53
   }
  },
  "favoriteWeights": {
