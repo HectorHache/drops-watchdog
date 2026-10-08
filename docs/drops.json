@@ -3210,46 +3210,6 @@
    "asset": "assets/e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674.png"
   },
   {
-   "id": "7829a353-9f24-4862-9643-14ec82347eb3",
-   "game": "Rise Online",
-   "title": "Mobile Drop 181",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T17:59:00+00:00",
-   "endAt": "2026-10-08T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-07T18:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/70f630f7-9cba-4ed0-a892-b16061d74676.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7829a353-9f24-4862-9643-14ec82347eb3",
-   "rewards": [
-    {
-     "name": "Mobile Drop 181",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7829a353-9f24-4862-9643-14ec82347eb3.png"
-  },
-  {
-   "id": "a50fc721-c6f2-40ef-b86d-bec62e42f19a",
-   "game": "Rise Online",
-   "title": "ROW Drop 610",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T17:59:00+00:00",
-   "endAt": "2026-10-08T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-07T18:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e6246647-6167-435e-abb2-52a7f493f58b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a50fc721-c6f2-40ef-b86d-bec62e42f19a",
-   "rewards": [
-    {
-     "name": "ROW Drop 610",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a50fc721-c6f2-40ef-b86d-bec62e42f19a.png"
-  },
-  {
    "id": "ea5798d3-f85f-4743-aba4-fe12ee5a45db",
    "game": "Warframe",
    "title": "Prime Time #500",
@@ -3768,9 +3728,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/773f4909-b958-455c-be7a-641ade4067c5.png"
+  },
+  {
+   "id": "88b6f2e8-6970-4638-b7e9-d8fe6dca6cd5",
+   "game": "Rise Online",
+   "title": "Mobile Drop 182",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T17:59:00+00:00",
+   "endAt": "2026-10-09T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-08T18:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/975b2a29-eb3c-4755-bdd9-8013de201abc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=88b6f2e8-6970-4638-b7e9-d8fe6dca6cd5",
+   "rewards": [
+    {
+     "name": "Mobile Drop 182",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/88b6f2e8-6970-4638-b7e9-d8fe6dca6cd5.png"
+  },
+  {
+   "id": "bb336df1-5a56-42dd-89c9-a889d5ceea58",
+   "game": "Rise Online",
+   "title": "ROW Drop 611",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T17:59:00+00:00",
+   "endAt": "2026-10-09T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-08T18:00:58+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/80fb6919-d614-4a65-b69c-2be927b1cad0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bb336df1-5a56-42dd-89c9-a889d5ceea58",
+   "rewards": [
+    {
+     "name": "ROW Drop 611",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bb336df1-5a56-42dd-89c9-a889d5ceea58.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "7829a353-9f24-4862-9643-14ec82347eb3",
+   "game": "Rise Online",
+   "title": "Mobile Drop 181",
+   "startAt": "2026-10-07T17:59:00+00:00",
+   "endAt": "2026-10-08T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a50fc721-c6f2-40ef-b86d-bec62e42f19a",
+   "game": "Rise Online",
+   "title": "ROW Drop 610",
+   "startAt": "2026-10-07T17:59:00+00:00",
+   "endAt": "2026-10-08T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cf6c4638-66d6-446a-a149-9fb41f66d8ab",
    "game": "NARAKA: BLADEPOINT",
@@ -11725,7 +11741,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.33
+   "score": 16.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11737,7 +11753,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.22
+   "score": 16.21
   },
   "Once Human": {
    "favorites": 2,
