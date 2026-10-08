@@ -2602,50 +2602,6 @@
    "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
   },
   {
-   "id": "af6f4d87-1374-4371-ae16-5e11bbad468e",
-   "game": "Hunt Club On Stream",
-   "title": "Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T14:17:33+00:00",
-   "endAt": "2026-10-08T10:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T14:30:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d111cca8-d3c5-4d3e-85b0-fc5b4677d750.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=af6f4d87-1374-4371-ae16-5e11bbad468e",
-   "rewards": [
-    {
-     "name": "Bronze",
-     "minutes": 60
-    },
-    {
-     "name": "Silver",
-     "minutes": 180
-    },
-    {
-     "name": "Gold",
-     "minutes": 300
-    },
-    {
-     "name": "Random",
-     "minutes": 420
-    },
-    {
-     "name": "Epic",
-     "minutes": 600
-    },
-    {
-     "name": "Legendary",
-     "minutes": 900
-    },
-    {
-     "name": "Sub",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/af6f4d87-1374-4371-ae16-5e11bbad468e.png"
-  },
-  {
    "id": "b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
    "game": "World of Tanks Console",
    "title": "Steel Asylum #1",
@@ -3640,9 +3596,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/131aee92-5d5a-45ae-91b7-1bded6cb807a.png"
+  },
+  {
+   "id": "576c1066-00c1-4b08-b430-3f79659167f4",
+   "game": "Phasmophobia",
+   "title": "Crimson Eye 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T11:00:00+00:00",
+   "endAt": "2026-10-15T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T11:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df28f984-e371-4c1e-a9ee-72d55002a059.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=576c1066-00c1-4b08-b430-3f79659167f4",
+   "rewards": [
+    {
+     "name": "Crimson Eye 2026 Tee",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/576c1066-00c1-4b08-b430-3f79659167f4.png"
+  },
+  {
+   "id": "d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
+   "game": "DayZ",
+   "title": "DayZ Badlands",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T11:00:00+00:00",
+   "endAt": "2026-10-19T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T11:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/90c9e1f0-8239-4455-8166-3fc1eca28bb5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
+   "rewards": [
+    {
+     "name": "DayZ Yellow King",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/d66d83da-c3e4-4f03-bc0a-ca51c43c91fb.png"
+  },
+  {
+   "id": "e4f226c6-c9c3-4d99-9c13-e0050e004f9a",
+   "game": "ARC Raiders",
+   "title": "Frozen Trail",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T11:00:00+00:00",
+   "endAt": "2026-11-04T12:44:59.999+00:00",
+   "firstSeenAt": "2026-10-08T11:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b8e5d867-5604-4578-b6bc-2894189fe6d8.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e4f226c6-c9c3-4d99-9c13-e0050e004f9a",
+   "rewards": [
+    {
+     "name": "Mailbox",
+     "minutes": 120
+    },
+    {
+     "name": "Oxygen Respirator",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/e4f226c6-c9c3-4d99-9c13-e0050e004f9a.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "af6f4d87-1374-4371-ae16-5e11bbad468e",
+   "game": "Hunt Club On Stream",
+   "title": "Drops",
+   "startAt": "2026-10-06T14:17:33+00:00",
+   "endAt": "2026-10-08T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "eb3ca3d7-1075-4d7a-86d9-3e53e0d93fdc",
    "game": "Albion Online",
@@ -11535,13 +11563,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.66
+   "score": 11.65
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.44
+   "score": 16.43
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11553,25 +11581,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.33
+   "score": 16.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.66
+   "score": 11.65
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.66
+   "score": 11.65
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.66
+   "score": 11.65
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11583,7 +11611,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.59
+   "score": 5.58
   },
   "Warframe": {
    "favorites": 1,
@@ -11595,7 +11623,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.66
+   "score": 11.65
   }
  },
  "favoriteWeights": {
