@@ -2,42 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "ce649625-7dae-4946-b60a-1b78285c4833",
-   "game": "DRAGON BALL GEKISHIN SQUADRA",
-   "title": "SQUADRA SEASON 7 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-10T06:00:00+00:00",
-   "endAt": "2026-10-08T05:59:59.999+00:00",
-   "firstSeenAt": "2026-09-10T06:00:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f30f0847-de5f-43a1-95b1-d9673fa5aabb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ce649625-7dae-4946-b60a-1b78285c4833",
-   "rewards": [
-    {
-     "name": "P7G-Capsule \u00d75",
-     "minutes": 30
-    },
-    {
-     "name": "Exclusive Icon",
-     "minutes": 60
-    },
-    {
-     "name": "Zeni \u00d77,000",
-     "minutes": 120
-    },
-    {
-     "name": "P7G-Capsule \u00d710",
-     "minutes": 180
-    },
-    {
-     "name": "Exclusive Skin",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ce649625-7dae-4946-b60a-1b78285c4833.png"
-  },
-  {
    "id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd",
    "game": "Marvel Rivals",
    "title": "Season 10 Twitch Drops",
@@ -3600,29 +3564,25 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
+  }
+ ],
+ "archive": [
+  {
+   "id": "ce649625-7dae-4946-b60a-1b78285c4833",
+   "game": "DRAGON BALL GEKISHIN SQUADRA",
+   "title": "SQUADRA SEASON 7 Drops",
+   "startAt": "2026-09-10T06:00:00+00:00",
+   "endAt": "2026-10-08T05:59:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "3a565701-88c0-45c5-8853-c6bf86a00591",
    "game": "Warframe",
    "title": "PMCFQ - kalon75",
-   "status": "ACTIVE",
    "startAt": "2026-10-08T04:00:00+00:00",
    "endAt": "2026-10-08T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T04:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53254957-398a-462a-816f-709ac9cdd470.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3a565701-88c0-45c5-8853-c6bf86a00591",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/3a565701-88c0-45c5-8853-c6bf86a00591.jpg"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
   {
    "id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826",
    "game": "World of Warships",
@@ -11491,13 +11451,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.52
+   "score": 16.51
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11509,31 +11469,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.41
+   "score": 16.4
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.3
+   "score": 1.29
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -11551,7 +11511,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.72
+   "score": 11.71
   }
  },
  "favoriteWeights": {

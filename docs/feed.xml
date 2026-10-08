@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>DRAGON BALL GEKISHIN SQUADRA — SQUADRA SEASON 7 Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=ce649625-7dae-4946-b60a-1b78285c4833</link>
-    <guid isPermaLink="false">ce649625-7dae-4946-b60a-1b78285c4833</guid>
-    <description>P7G-Capsule ×5 · Exclusive Icon · Zeni ×7,000 · P7G-Capsule ×10 · Exclusive Skin — runs 2026-09-10T06:00:00+00:00 → 2026-10-08T05:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-10T06:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Marvel Rivals — Season 10 Twitch Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=87301354-542a-4bd8-b44e-5b21cc2fe2dd</link>
     <guid isPermaLink="false">87301354-542a-4bd8-b44e-5b21cc2fe2dd</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">5b32b5e7-7421-40ae-be32-e45b4df19a12</guid>
     <description>Twitch mask — runs 2026-10-01T00:00:00+00:00 → 2026-10-28T23:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-01T00:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>ELDEN RING — Bloody Finger ELDEN RING</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=5e6e8172-09f9-4e28-bf54-0b4bef23804d</link>
+    <guid isPermaLink="false">5e6e8172-09f9-4e28-bf54-0b4bef23804d</guid>
+    <description>Bloody Finger ELDEN RING — runs 2026-10-01T07:00:00+00:00 → 2026-10-29T06:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-01T07:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
