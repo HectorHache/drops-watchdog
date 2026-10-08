@@ -3002,26 +3002,6 @@
    "asset": "assets/9730d758-4de3-42a4-8550-83500d9e4c42.png"
   },
   {
-   "id": "dd483005-189a-441b-8ff8-0aa6ffd8db46",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 7)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T12:00:00+00:00",
-   "endAt": "2026-10-08T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T12:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a9b925d-4429-484f-a1cf-8a90b930ac8f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dd483005-189a-441b-8ff8-0aa6ffd8db46",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 7)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/dd483005-189a-441b-8ff8-0aa6ffd8db46.png"
-  },
-  {
    "id": "30605f6f-fd8c-4968-87e0-9c12958c03cc",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate 10/7/26",
@@ -3660,9 +3640,61 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/e4f226c6-c9c3-4d99-9c13-e0050e004f9a.jpg"
+  },
+  {
+   "id": "d3db47b8-d230-4850-b7df-ef1f856ac706",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 8)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T12:00:00+00:00",
+   "endAt": "2026-10-09T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-08T12:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2a42dcb-98cd-4456-ba9a-c5544db1868b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d3db47b8-d230-4850-b7df-ef1f856ac706",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 8)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d3db47b8-d230-4850-b7df-ef1f856ac706.png"
+  },
+  {
+   "id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47",
+   "game": "Dragon's Dogma II",
+   "title": "Dragon\u2019s Dogma 2 - DA",
+   "status": "ACTIVE",
+   "startAt": "2026-10-08T12:00:00+00:00",
+   "endAt": "2026-10-31T22:58:59.999+00:00",
+   "firstSeenAt": "2026-10-08T12:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fe012712-be91-4e06-a923-cbd3bb1fcee7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=26a32c34-dfd6-48a4-87fc-a8da6de68e47",
+   "rewards": [
+    {
+     "name": "TheDragonsDogma",
+     "minutes": 60
+    },
+    {
+     "name": "FrekiFriend",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/26a32c34-dfd6-48a4-87fc-a8da6de68e47.png"
   }
  ],
  "archive": [
+  {
+   "id": "dd483005-189a-441b-8ff8-0aa6ffd8db46",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 7)",
+   "startAt": "2026-10-07T12:00:00+00:00",
+   "endAt": "2026-10-08T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "af6f4d87-1374-4371-ae16-5e11bbad468e",
    "game": "Hunt Club On Stream",
@@ -11563,7 +11595,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.65
+   "score": 11.64
   },
   "Delta Force": {
    "favorites": 3,
@@ -11575,31 +11607,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.58
+   "score": 2.57
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.31
+   "score": 16.3
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.65
+   "score": 11.64
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.65
+   "score": 11.64
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.65
+   "score": 11.64
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11617,13 +11649,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.07
+   "score": 6.06
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.65
+   "score": 11.64
   }
  },
  "favoriteWeights": {
