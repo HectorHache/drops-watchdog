@@ -3214,26 +3214,6 @@
    "asset": "assets/e4f226c6-c9c3-4d99-9c13-e0050e004f9a.jpg"
   },
   {
-   "id": "d3db47b8-d230-4850-b7df-ef1f856ac706",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 8)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T12:00:00+00:00",
-   "endAt": "2026-10-09T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T12:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2a42dcb-98cd-4456-ba9a-c5544db1868b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d3db47b8-d230-4850-b7df-ef1f856ac706",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 8)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/d3db47b8-d230-4850-b7df-ef1f856ac706.png"
-  },
-  {
    "id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47",
    "game": "Dragon's Dogma II",
    "title": "Dragon\u2019s Dogma 2 - DA",
@@ -3660,9 +3640,129 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1822c834-802a-4c85-b34e-b6a6fc103c16.jpg"
+  },
+  {
+   "id": "4a8fcbfb-716f-4e1e-ab6c-cfc0682af926",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 9)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T12:00:00+00:00",
+   "endAt": "2026-10-10T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T12:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c3b0c794-68ca-4a5a-942c-de10ef60b91e.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4a8fcbfb-716f-4e1e-ab6c-cfc0682af926",
+   "rewards": [
+    {
+     "name": "Oct 9 (1 Hour)",
+     "minutes": 60
+    },
+    {
+     "name": "Oct 9 (2 Hours)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4a8fcbfb-716f-4e1e-ab6c-cfc0682af926.jpg"
+  },
+  {
+   "id": "7a2b054f-813e-438f-8b4e-d65b4666e54a",
+   "game": "Dark and Darker",
+   "title": "EA Season 11 Drops 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T12:00:00+00:00",
+   "endAt": "2026-10-16T11:58:59.999+00:00",
+   "firstSeenAt": "2026-10-09T12:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2110da5c-9b49-49d6-9e9f-7d1165f33c35.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7a2b054f-813e-438f-8b4e-d65b4666e54a",
+   "rewards": [
+    {
+     "name": "4x Untradeable Gold Coin Pouches",
+     "minutes": 720
+    },
+    {
+     "name": "50x Huntress' Witness Emblem",
+     "minutes": 840
+    },
+    {
+     "name": "Halfling",
+     "minutes": 900
+    },
+    {
+     "name": "10x Huntress' Witness Emblem",
+     "minutes": 60
+    },
+    {
+     "name": "3x Healing Supplies (Bandage, Surgical Kit) Rare",
+     "minutes": 120
+    },
+    {
+     "name": "20x Huntress' Witness Emblem",
+     "minutes": 240
+    },
+    {
+     "name": "6x Lockpick",
+     "minutes": 300
+    },
+    {
+     "name": "15x Reward Tokens",
+     "minutes": 420
+    },
+    {
+     "name": "3x Potion Set (Healing, Protection, Anti-Magic) Rare",
+     "minutes": 480
+    },
+    {
+     "name": "30x Huntress' Witness Emblem",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7a2b054f-813e-438f-8b4e-d65b4666e54a.png"
+  },
+  {
+   "id": "2af30b0f-945d-434b-9deb-8161fdae8229",
+   "game": "Marvel Rivals",
+   "title": "Season 10.5 Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T12:00:00+00:00",
+   "endAt": "2026-11-06T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T12:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/774846b3-0b50-4f66-ba77-652c5f8eb92f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2af30b0f-945d-434b-9deb-8161fdae8229",
+   "rewards": [
+    {
+     "name": "Angela\u300cWill of Galacta\u300dCostume",
+     "minutes": 240
+    },
+    {
+     "name": "Angela\u300cWill of Galacta\u300dSpray",
+     "minutes": 30
+    },
+    {
+     "name": "Angela\u300cWill of Galacta\u300dNameplate",
+     "minutes": 60
+    },
+    {
+     "name": "Angela\u300cSkipping Squirrel\u300dEmotes",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/2af30b0f-945d-434b-9deb-8161fdae8229.png"
   }
  ],
  "archive": [
+  {
+   "id": "d3db47b8-d230-4850-b7df-ef1f856ac706",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 8)",
+   "startAt": "2026-10-08T12:00:00+00:00",
+   "endAt": "2026-10-09T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f571bf80-91de-4af1-8762-a73eab76870b",
    "game": "EVE Online",
@@ -11745,7 +11845,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.05
+   "score": 16.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11757,7 +11857,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.94
+   "score": 15.93
   },
   "Once Human": {
    "favorites": 2,
