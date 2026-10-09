@@ -243,13 +243,6 @@
     <pubDate>2026-09-28T22:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Plants on Fire — Plants on Fire</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1</link>
-    <guid isPermaLink="false">5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1</guid>
-    <description>800 Gold · 10 Recruit Tokens · Legendary Dewdrop · Legendary Harvest Pot — runs 2026-09-29T08:00:00+00:00 → 2026-10-09T07:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-29T08:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>The Witcher 3: Wild Hunt — The Witcher 3 Remaster</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=c7b62569-3b75-4f72-9700-957479fe3460</link>
     <guid isPermaLink="false">c7b62569-3b75-4f72-9700-957479fe3460</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">0979f1bb-fa0d-40d8-b175-c19b8d30bab8</guid>
     <description>Ultramarine — runs 2026-10-01T08:00:00+00:00 → 2026-10-29T07:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-01T08:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Alien: Isolation — Alien: Isolation Horror</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=ef371a6b-b762-4d7e-b31e-e4211be15030</link>
+    <guid isPermaLink="false">ef371a6b-b762-4d7e-b31e-e4211be15030</guid>
+    <description>SEEGSON Synthetics · Sevastopol Station — runs 2026-10-01T09:00:00+00:00 → 2026-10-29T08:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-01T09:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
