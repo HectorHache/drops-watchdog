@@ -3772,6 +3772,106 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/71971975-43a7-494a-833c-4cfbaf620fc6.jpg"
+  },
+  {
+   "id": "0596b694-cdf1-42c5-906c-399ff110ba5b",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 3/3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T14:00:00+00:00",
+   "endAt": "2026-10-11T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-09T14:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/36cd55ad-b8e7-48b5-817c-8cd3157bad25.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0596b694-cdf1-42c5-906c-399ff110ba5b",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Clover Package",
+     "minutes": 30
+    },
+    {
+     "name": "Lumberjack Package",
+     "minutes": 60
+    },
+    {
+     "name": "Twitch Frame",
+     "minutes": 210
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 90
+    },
+    {
+     "name": "Constitution Package",
+     "minutes": 240
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 120
+    },
+    {
+     "name": "Gem Package",
+     "minutes": 300
+    },
+    {
+     "name": "Achievement Drop",
+     "minutes": 150
+    },
+    {
+     "name": "Big Fruit Basket",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0596b694-cdf1-42c5-906c-399ff110ba5b.png"
+  },
+  {
+   "id": "e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T14:00:00+00:00",
+   "endAt": "2026-10-15T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-09T14:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25e597de-cb7b-47d2-b018-525946e885e8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
+   "rewards": [
+    {
+     "name": "Smith Package",
+     "minutes": 150
+    },
+    {
+     "name": "Allrounder Package",
+     "minutes": 180
+    },
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 30
+    },
+    {
+     "name": "Arcane Package",
+     "minutes": 60
+    },
+    {
+     "name": "Soul Taker Package",
+     "minutes": 90
+    },
+    {
+     "name": "Fortification Package",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
   }
  ],
  "archive": [
@@ -11875,13 +11975,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.36
+   "score": 11.35
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.02
+   "score": 16.01
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11893,25 +11993,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.91
+   "score": 15.9
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.36
+   "score": 11.35
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.36
+   "score": 11.35
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.36
+   "score": 11.35
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11929,13 +12029,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.92
+   "score": 5.91
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.36
+   "score": 11.35
   }
  },
  "favoriteWeights": {
