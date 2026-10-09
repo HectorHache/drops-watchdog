@@ -3286,30 +3286,6 @@
    "asset": "assets/57e563cc-f514-4081-9ac8-fe8637c6b820.png"
   },
   {
-   "id": "fa1642ed-711d-44d6-9e6f-3400948b8d26",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.9",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T08:00:00+00:00",
-   "endAt": "2026-10-09T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T08:00:52+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00ebe73f-65f1-458e-985d-d670cbb676c8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa1642ed-711d-44d6-9e6f-3400948b8d26",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fa1642ed-711d-44d6-9e6f-3400948b8d26.png"
-  },
-  {
    "id": "201e889f-b3f7-47db-8ce6-227b8b367eee",
    "game": "Torchlight: Infinite",
    "title": "SS14 New Season Preview",
@@ -3860,9 +3836,69 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
+  },
+  {
+   "id": "780ae84f-4987-47c2-8ae8-e2a146f9507c",
+   "game": "Sonic Racing: CrossWorlds",
+   "title": "CrossWorlds Championship",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T16:00:00+00:00",
+   "endAt": "2026-10-11T03:58:59.999+00:00",
+   "firstSeenAt": "2026-10-09T16:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59a7c38f-444e-4935-a408-14929126c199.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=780ae84f-4987-47c2-8ae8-e2a146f9507c",
+   "rewards": [
+    {
+     "name": "CrossWorlds World Championship Badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/780ae84f-4987-47c2-8ae8-e2a146f9507c.png"
+  },
+  {
+   "id": "8e7a0514-695f-4983-9e03-2a962e4f70c1",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 269",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T16:00:00+00:00",
+   "endAt": "2026-10-16T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T16:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/228e43f6-4e61-4406-ac1b-04e7328ce6f7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e7a0514-695f-4983-9e03-2a962e4f70c1",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 240
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 360
+    },
+    {
+     "name": "DROP - SUBS",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8e7a0514-695f-4983-9e03-2a962e4f70c1.png"
   }
  ],
  "archive": [
+  {
+   "id": "fa1642ed-711d-44d6-9e6f-3400948b8d26",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.9",
+   "startAt": "2026-10-09T08:00:00+00:00",
+   "endAt": "2026-10-09T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
    "game": "RavenQuest",
@@ -12019,13 +12055,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.34
+   "score": 11.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.99
+   "score": 15.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12037,25 +12073,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.88
+   "score": 15.87
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.34
+   "score": 11.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.34
+   "score": 11.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.34
+   "score": 11.33
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12073,13 +12109,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.91
+   "score": 5.9
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.34
+   "score": 11.33
   }
  },
  "favoriteWeights": {
