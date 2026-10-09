@@ -1606,146 +1606,6 @@
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   },
   {
-   "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
-   "game": "RavenQuest",
-   "title": "October 01",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/afe481e7-22eb-4cdb-8bcc-f7c5d2f7390e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0be8815e-ba78-4fef-be22-61e49a81d8fc",
-   "rewards": [
-    {
-     "name": "4x Treasure Below RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "Drops Twitch Pack 1",
-     "minutes": 360
-    },
-    {
-     "name": "Drops Twitch Pack 2",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0be8815e-ba78-4fef-be22-61e49a81d8fc.png"
-  },
-  {
-   "id": "32e0221d-1e83-4e38-8cd8-bdb268b457b1",
-   "game": "Active Matter",
-   "title": "Release Drops: Week III",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ed042499-488f-41eb-a139-9d46190900e8.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=32e0221d-1e83-4e38-8cd8-bdb268b457b1",
-   "rewards": [
-    {
-     "name": "Character camo: Pawtern",
-     "minutes": 420
-    },
-    {
-     "name": "Beacon",
-     "minutes": 60
-    },
-    {
-     "name": "Small weapon kit",
-     "minutes": 120
-    },
-    {
-     "name": "Prime",
-     "minutes": 180
-    },
-    {
-     "name": "Medium Safe Container",
-     "minutes": 240
-    },
-    {
-     "name": "Medical kit",
-     "minutes": 300
-    },
-    {
-     "name": "Weapon kit",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/32e0221d-1e83-4e38-8cd8-bdb268b457b1.jpg"
-  },
-  {
-   "id": "c79b33b8-e46e-4ce9-a5d2-049131899143",
-   "game": "RavenQuest",
-   "title": "C\u00d3PIA DE October 01",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8255793b-6b0c-4978-ac3c-62e5eebb8a88.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c79b33b8-e46e-4ce9-a5d2-049131899143",
-   "rewards": [
-    {
-     "name": "Treasure Below RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "Drops Twitch Pack 1",
-     "minutes": 360
-    },
-    {
-     "name": "Drops Twitch Pack 2",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c79b33b8-e46e-4ce9-a5d2-049131899143.png"
-  },
-  {
-   "id": "4966552c-1aa1-451e-a456-256115c5ebd8",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:30:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20cba863-3034-4c64-9c2d-b462dbe896db.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4966552c-1aa1-451e-a456-256115c5ebd8",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.10 #1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4966552c-1aa1-451e-a456-256115c5ebd8.jpg"
-  },
-  {
-   "id": "ac400121-1a39-4797-a486-0c14a8423df7",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.10 #1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T15:30:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/44084044-80ec-4cbe-9b07-907b39ceb1dd.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ac400121-1a39-4797-a486-0c14a8423df7",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ac400121-1a39-4797-a486-0c14a8423df7.jpg"
-  },
-  {
    "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
    "game": "MARVEL Contest of Champions",
    "title": "October Week 1 ",
@@ -2324,26 +2184,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
-  },
-  {
-   "id": "b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
-   "game": "World of Tanks Console",
-   "title": "Steel Asylum #1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T15:00:00+00:00",
-   "endAt": "2026-10-09T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T15:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/637b671f-1bfc-4c53-803b-ed92987758d7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
-   "rewards": [
-    {
-     "name": "Steel Aslyum #1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b1857e9e-f290-44bf-81ca-bb7e8e9e3058.png"
   },
   {
    "id": "d7d00cda-729b-44d5-b800-2b666a7cef16",
@@ -3860,9 +3700,217 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/12913b28-8d65-4a55-846a-2a4d09c9a178.png"
+  },
+  {
+   "id": "a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
+   "game": "Sonic Racing: CrossWorlds",
+   "title": "Sonic Racing Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-09T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
+   "rewards": [
+    {
+     "name": "1.Donpa Ticket 1000",
+     "minutes": 30
+    },
+    {
+     "name": "2.Championship Sticker",
+     "minutes": 60
+    },
+    {
+     "name": "3.Championship Title",
+     "minutes": 90
+    },
+    {
+     "name": "4.Live\uff06Learn",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/a88be4c5-d9ca-45f4-9560-d0be34e70f1b.png"
+  },
+  {
+   "id": "3c0deb5d-7270-4875-b268-291a1ddcfcd4",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 09.10.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-11T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1ca96e1e-e14c-43b0-9ff7-f0f9f25e0f3c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c0deb5d-7270-4875-b268-291a1ddcfcd4",
+   "rewards": [
+    {
+     "name": "20 000 credits 09.10",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 09.10",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 09.10",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 09.10",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 09.10",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 09.10",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/3c0deb5d-7270-4875-b268-291a1ddcfcd4.png"
+  },
+  {
+   "id": "d7d79b14-4626-42c1-955a-64e1aae070a9",
+   "game": "World of Tanks Console",
+   "title": "Steel Asylum #2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-13T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82d9f0d5-d1d4-41fa-b015-dcb01e50bdca.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7d79b14-4626-42c1-955a-64e1aae070a9",
+   "rewards": [
+    {
+     "name": "Steel Asylum #2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d7d79b14-4626-42c1-955a-64e1aae070a9.png"
+  },
+  {
+   "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
+   "game": "RavenQuest",
+   "title": "October 02",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01b57fc5-3d86-4abc-8766-2b3d12750996.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=03aa0fc9-44ab-46e7-882a-dbcd63874e62",
+   "rewards": [
+    {
+     "name": "RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Pack 01",
+     "minutes": 360
+    },
+    {
+     "name": "Twitch Pack 02",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/03aa0fc9-44ab-46e7-882a-dbcd63874e62.png"
+  },
+  {
+   "id": "8007c51b-6ac5-487d-b01d-adf9fc2fe3b6",
+   "game": "Ravendawn",
+   "title": "October 01",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-20T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T15:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b0558db-b6ed-4821-9bef-9e231e5e0b3b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8007c51b-6ac5-487d-b01d-adf9fc2fe3b6",
+   "rewards": [
+    {
+     "name": "2x RavenPacks",
+     "minutes": 60
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 180
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 360
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 540
+    },
+    {
+     "name": "2x RavenPacks",
+     "minutes": 720
+    },
+    {
+     "name": "100x Ghostly Infusion",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
   }
  ],
  "archive": [
+  {
+   "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
+   "game": "RavenQuest",
+   "title": "October 01",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "32e0221d-1e83-4e38-8cd8-bdb268b457b1",
+   "game": "Active Matter",
+   "title": "Release Drops: Week III",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c79b33b8-e46e-4ce9-a5d2-049131899143",
+   "game": "RavenQuest",
+   "title": "C\u00d3PIA DE October 01",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4966552c-1aa1-451e-a456-256115c5ebd8",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 1",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ac400121-1a39-4797-a486-0c14a8423df7",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.10 #1",
+   "startAt": "2026-10-02T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b1857e9e-f290-44bf-81ca-bb7e8e9e3058",
+   "game": "World of Tanks Console",
+   "title": "Steel Asylum #1",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-09T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ff2f69b4-207e-468c-b719-b71a7c4d920a",
    "game": "Soulbound: Online",
@@ -11971,13 +12019,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.0
+   "score": 15.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11995,19 +12043,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12019,7 +12067,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.44
+   "score": 5.43
   },
   "Warframe": {
    "favorites": 1,
@@ -12031,14 +12079,14 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.35
+   "score": 11.34
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 21,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 26,
+  "Delta Force": 25,
   "LEGO Batman: Legacy of the Dark Knight": 25,
   "Marvel Rivals": 10,
   "Once Human": 21,
