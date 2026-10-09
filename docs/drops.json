@@ -3620,6 +3620,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1b9f7810-66ba-42ef-985f-bb7f683986df.png"
+  },
+  {
+   "id": "f3b58f81-3715-4873-9939-395687410f32",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS2 Weekly 10.9",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T04:00:00+00:00",
+   "endAt": "2026-10-12T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T05:30:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b47b93bd-a1d8-4a40-8e1d-7d52a6078d99.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f3b58f81-3715-4873-9939-395687410f32",
+   "rewards": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f3b58f81-3715-4873-9939-395687410f32.png"
   }
  ],
  "archive": [
@@ -11665,7 +11685,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.15
+   "score": 16.14
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11677,7 +11697,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.04
+   "score": 16.03
   },
   "Once Human": {
    "favorites": 2,
@@ -11707,13 +11727,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.49
+   "score": 5.48
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.97
+   "score": 5.96
   },
   "Where Winds Meet": {
    "favorites": 2,
