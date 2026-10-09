@@ -2762,26 +2762,6 @@
    "asset": "assets/5f43889c-c819-428c-8419-64c639b8f4f3.jpg"
   },
   {
-   "id": "3be0845f-ee00-4a0d-bc88-a57c555cb345",
-   "game": "World of Tanks",
-   "title": "3 MoE Challenge",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T10:00:00+00:00",
-   "endAt": "2026-10-09T09:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T10:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec5f6579-4d61-408a-94ad-2feef250e001.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3be0845f-ee00-4a0d-bc88-a57c555cb345",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3be0845f-ee00-4a0d-bc88-a57c555cb345.jpg"
-  },
-  {
    "id": "9730d758-4de3-42a4-8550-83500d9e4c42",
    "game": "Brawlhalla",
    "title": "Brawlhalloween",
@@ -3636,9 +3616,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fa1642ed-711d-44d6-9e6f-3400948b8d26.png"
+  },
+  {
+   "id": "201e889f-b3f7-47db-8ce6-227b8b367eee",
+   "game": "Torchlight: Infinite",
+   "title": "SS14 New Season Preview",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T10:00:00+00:00",
+   "endAt": "2026-10-09T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T10:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c50bc0a9-764c-440a-9874-cf5496d13875.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=201e889f-b3f7-47db-8ce6-227b8b367eee",
+   "rewards": [
+    {
+     "name": "New Season Preview - 15 mins",
+     "minutes": 15
+    },
+    {
+     "name": "New Season Preview - 30 mins",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/201e889f-b3f7-47db-8ce6-227b8b367eee.png"
+  },
+  {
+   "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T10:00:00+00:00",
+   "endAt": "2026-10-10T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-09T10:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25e1b121-0af9-44d5-b263-2a1a52dff2ac.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b06cbdf-5005-4150-a215-edaa342a3412",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9b06cbdf-5005-4150-a215-edaa342a3412.png"
   }
  ],
  "archive": [
+  {
+   "id": "3be0845f-ee00-4a0d-bc88-a57c555cb345",
+   "game": "World of Tanks",
+   "title": "3 MoE Challenge",
+   "startAt": "2026-10-07T10:00:00+00:00",
+   "endAt": "2026-10-09T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "131aee92-5d5a-45ae-91b7-1bded6cb807a",
    "game": "Albion Online",
@@ -11705,7 +11737,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.08
+   "score": 16.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11717,7 +11749,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.97
+   "score": 15.96
   },
   "Once Human": {
    "favorites": 2,
