@@ -3654,30 +3654,6 @@
    "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
   },
   {
-   "id": "12913b28-8d65-4a55-846a-2a4d09c9a178",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Rundown",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T14:30:00+00:00",
-   "endAt": "2026-10-09T16:29:59.999+00:00",
-   "firstSeenAt": "2026-10-09T14:30:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0e56b80-33a3-4ce4-977e-ecd49e5768bd.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=12913b28-8d65-4a55-846a-2a4d09c9a178",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/12913b28-8d65-4a55-846a-2a4d09c9a178.png"
-  },
-  {
    "id": "a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
    "game": "Sonic Racing: CrossWorlds",
    "title": "Sonic Racing Twitch Drops",
@@ -3891,6 +3867,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "12913b28-8d65-4a55-846a-2a4d09c9a178",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "startAt": "2026-10-09T14:30:00+00:00",
+   "endAt": "2026-10-09T16:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fa1642ed-711d-44d6-9e6f-3400948b8d26",
    "game": "NARAKA: BLADEPOINT",
@@ -12061,19 +12045,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.98
+   "score": 15.97
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.51
+   "score": 2.5
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.87
+   "score": 15.86
   },
   "Once Human": {
    "favorites": 2,
