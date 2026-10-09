@@ -3860,29 +3860,17 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/82adfd70-26e9-4470-875c-9f2aabd5eca9.png"
-  },
+  }
+ ],
+ "archive": [
   {
    "id": "fa1f8316-ac72-4f99-a77e-465acd9b6fea",
    "game": "Warframe",
    "title": "PMCFQ - miki__vii",
-   "status": "ACTIVE",
    "startAt": "2026-10-09T18:00:00+00:00",
    "endAt": "2026-10-09T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T18:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/74acb580-8dff-4396-afc3-79567daf7f3d.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa1f8316-ac72-4f99-a77e-465acd9b6fea",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/fa1f8316-ac72-4f99-a77e-465acd9b6fea.jpg"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
   {
    "id": "68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
    "game": "Tanki Online",
@@ -12109,7 +12097,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.93
+   "score": 15.92
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12121,7 +12109,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.82
+   "score": 15.81
   },
   "Once Human": {
    "favorites": 2,
