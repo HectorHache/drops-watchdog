@@ -1606,42 +1606,6 @@
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   },
   {
-   "id": "ff2f69b4-207e-468c-b719-b71a7c4d920a",
-   "game": "Soulbound: Online",
-   "title": "Autumn Steam Sale Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T14:05:00+00:00",
-   "endAt": "2026-10-09T14:04:59.999+00:00",
-   "firstSeenAt": "2026-10-04T11:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fc340c46-81f9-416d-a9ff-29ec5ab0ee18.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ff2f69b4-207e-468c-b719-b71a7c4d920a",
-   "rewards": [
-    {
-     "name": "Tako Sensei Pants",
-     "minutes": 60
-    },
-    {
-     "name": "Tako Sensei Coat",
-     "minutes": 120
-    },
-    {
-     "name": "Tako Sensei Tentacles",
-     "minutes": 240
-    },
-    {
-     "name": "Crawling Spectacle (Tako pet)",
-     "minutes": 360
-    },
-    {
-     "name": "Tako Sensei Head",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ff2f69b4-207e-468c-b719-b71a7c4d920a.png"
-  },
-  {
    "id": "0be8815e-ba78-4fef-be22-61e49a81d8fc",
    "game": "RavenQuest",
    "title": "October 01",
@@ -3872,9 +3836,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
+  },
+  {
+   "id": "12913b28-8d65-4a55-846a-2a4d09c9a178",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Rundown",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T14:30:00+00:00",
+   "endAt": "2026-10-09T16:29:59.999+00:00",
+   "firstSeenAt": "2026-10-09T14:30:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d0e56b80-33a3-4ce4-977e-ecd49e5768bd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=12913b28-8d65-4a55-846a-2a4d09c9a178",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/12913b28-8d65-4a55-846a-2a4d09c9a178.png"
   }
  ],
  "archive": [
+  {
+   "id": "ff2f69b4-207e-468c-b719-b71a7c4d920a",
+   "game": "Soulbound: Online",
+   "title": "Autumn Steam Sale Drop",
+   "startAt": "2026-10-02T14:05:00+00:00",
+   "endAt": "2026-10-09T14:04:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "80b8b421-c6fc-452b-906c-04da743b4309",
    "game": "Out of the Park Baseball 27",
@@ -11981,7 +11977,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.01
+   "score": 16.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11993,7 +11989,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.9
+   "score": 15.89
   },
   "Once Human": {
    "favorites": 2,
@@ -12017,7 +12013,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.26
+   "score": 1.25
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
