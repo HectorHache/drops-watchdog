@@ -3014,42 +3014,6 @@
    "asset": "assets/773f4909-b958-455c-be7a-641ade4067c5.png"
   },
   {
-   "id": "ca18dada-86d7-4dd9-8a6e-40f9216a2414",
-   "game": "DOFUS Touch",
-   "title": "J25 - 4x Temporix Cps\t",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T22:00:00+00:00",
-   "endAt": "2026-10-09T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T22:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32c8b5b3-3ac3-4393-ab42-2d6059ec0989.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca18dada-86d7-4dd9-8a6e-40f9216a2414",
-   "rewards": [
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 30
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 60
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 90
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 120
-    },
-    {
-     "name": "4x TemporiX Cps",
-     "minutes": 150
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ca18dada-86d7-4dd9-8a6e-40f9216a2414.png"
-  },
-  {
    "id": "1b9f7810-66ba-42ef-985f-bb7f683986df",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3144,30 +3108,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/57e563cc-f514-4081-9ac8-fe8637c6b820.png"
-  },
-  {
-   "id": "201e889f-b3f7-47db-8ce6-227b8b367eee",
-   "game": "Torchlight: Infinite",
-   "title": "SS14 New Season Preview",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T10:00:00+00:00",
-   "endAt": "2026-10-09T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T10:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c50bc0a9-764c-440a-9874-cf5496d13875.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=201e889f-b3f7-47db-8ce6-227b8b367eee",
-   "rewards": [
-    {
-     "name": "New Season Preview - 15 mins",
-     "minutes": 15
-    },
-    {
-     "name": "New Season Preview - 30 mins",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/201e889f-b3f7-47db-8ce6-227b8b367eee.png"
   },
   {
    "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
@@ -3828,9 +3768,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/82adfd70-26e9-4470-875c-9f2aabd5eca9.png"
+  },
+  {
+   "id": "707d73d0-baea-4f88-8b40-3e03272bd0a7",
+   "game": "DOFUS Touch",
+   "title": "J26 - 4x Temporix Cps\t",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T22:00:00+00:00",
+   "endAt": "2026-10-10T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T22:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/19735227-0fee-4153-8bdc-0ac8691080d0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=707d73d0-baea-4f88-8b40-3e03272bd0a7",
+   "rewards": [
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 30
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 60
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 90
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 120
+    },
+    {
+     "name": "4x TemporiX Cps",
+     "minutes": 150
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/707d73d0-baea-4f88-8b40-3e03272bd0a7.png"
   }
  ],
  "archive": [
+  {
+   "id": "ca18dada-86d7-4dd9-8a6e-40f9216a2414",
+   "game": "DOFUS Touch",
+   "title": "J25 - 4x Temporix Cps\t",
+   "startAt": "2026-10-08T22:00:00+00:00",
+   "endAt": "2026-10-09T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "201e889f-b3f7-47db-8ce6-227b8b367eee",
+   "game": "Torchlight: Infinite",
+   "title": "SS14 New Season Preview",
+   "startAt": "2026-10-09T10:00:00+00:00",
+   "endAt": "2026-10-09T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
    "game": "Sonic Racing: CrossWorlds",
@@ -12085,7 +12077,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.79
+   "score": 15.78
   },
   "Once Human": {
    "favorites": 2,
