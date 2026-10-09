@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd",
-   "game": "Marvel Rivals",
-   "title": "Season 10 Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-11T12:00:00+00:00",
-   "endAt": "2026-10-09T08:59:59.999+00:00",
-   "firstSeenAt": "2026-09-11T12:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b66b716b-e7fb-4578-8f13-56e6ddbc74c4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=87301354-542a-4bd8-b44e-5b21cc2fe2dd",
-   "rewards": [
-    {
-     "name": "Squirrel Girl\u300cWill of Galacta\u300dSpray",
-     "minutes": 30
-    },
-    {
-     "name": "Squirrel Girl\u300cWill of Galacta\u300dNameplate",
-     "minutes": 60
-    },
-    {
-     "name": "Squirrel Girl\u300cSkipping Squirrel\u300dEmotes",
-     "minutes": 120
-    },
-    {
-     "name": "Squirrel Girl\u300cWill of Galacta\u300dCostume",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png"
-  },
-  {
    "id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
    "game": "Where Winds Meet",
    "title": "Where Winds Meet October",
@@ -3393,7 +3361,7 @@
    "startAt": "2026-10-08T13:00:00+00:00",
    "endAt": "2026-11-05T12:59:59.999+00:00",
    "firstSeenAt": "2026-10-08T13:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/de77564a-72b4-4871-8250-9b7b95f4c4f7.jpeg",
    "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=379ef4ec-630e-4680-be66-afa041847757",
    "rewards": [
     {
@@ -3403,7 +3371,7 @@
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/379ef4ec-630e-4680-be66-afa041847757.png"
+   "asset": "assets/379ef4ec-630e-4680-be66-afa041847757.jpg"
   },
   {
    "id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
@@ -3691,6 +3659,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd",
+   "game": "Marvel Rivals",
+   "title": "Season 10 Twitch Drops",
+   "startAt": "2026-09-11T12:00:00+00:00",
+   "endAt": "2026-10-09T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5ea11d5c-b1aa-4e4a-b1b0-976a018b84b1",
    "game": "Plants on Fire",
@@ -11789,7 +11765,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.95
+   "score": 5.94
   },
   "Where Winds Meet": {
    "favorites": 2,

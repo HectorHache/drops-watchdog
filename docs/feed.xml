@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Marvel Rivals — Season 10 Twitch Drops</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=87301354-542a-4bd8-b44e-5b21cc2fe2dd</link>
-    <guid isPermaLink="false">87301354-542a-4bd8-b44e-5b21cc2fe2dd</guid>
-    <description>Squirrel Girl「Will of Galacta」Spray · Squirrel Girl「Will of Galacta」Nameplate · Squirrel Girl「Skipping Squirrel」Emotes · Squirrel Girl「Will of Galacta」Costume — runs 2026-09-11T12:00:00+00:00 → 2026-10-09T08:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-11T12:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Where Winds Meet — Where Winds Meet October</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=2d14347e-18fe-4c94-a5c8-4b24ac5f747c</link>
     <guid isPermaLink="false">2d14347e-18fe-4c94-a5c8-4b24ac5f747c</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">ef371a6b-b762-4d7e-b31e-e4211be15030</guid>
     <description>SEEGSON Synthetics · Sevastopol Station — runs 2026-10-01T09:00:00+00:00 → 2026-10-29T08:58:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-01T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Warhammer 40,000: Space Marine II — The Anniversary Update II</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=19800c70-7d90-45bc-894b-b1765188b529</link>
+    <guid isPermaLink="false">19800c70-7d90-45bc-894b-b1765188b529</guid>
+    <description>100 Accolades + a chat badge · Infiltrator Helmet · Victrix Honour Guard Storm Shield — runs 2026-10-01T09:20:00+00:00 → 2026-10-29T08:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-01T09:20:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
