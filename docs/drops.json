@@ -3514,38 +3514,6 @@
    "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
   },
   {
-   "id": "a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
-   "game": "Sonic Racing: CrossWorlds",
-   "title": "Sonic Racing Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T15:00:00+00:00",
-   "endAt": "2026-10-09T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T15:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
-   "rewards": [
-    {
-     "name": "1.Donpa Ticket 1000",
-     "minutes": 30
-    },
-    {
-     "name": "2.Championship Sticker",
-     "minutes": 60
-    },
-    {
-     "name": "3.Championship Title",
-     "minutes": 90
-    },
-    {
-     "name": "4.Live\uff06Learn",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/a88be4c5-d9ca-45f4-9560-d0be34e70f1b.png"
-  },
-  {
    "id": "3c0deb5d-7270-4875-b268-291a1ddcfcd4",
    "game": "Caliber",
    "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 09.10.2026",
@@ -3863,6 +3831,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "a88be4c5-d9ca-45f4-9560-d0be34e70f1b",
+   "game": "Sonic Racing: CrossWorlds",
+   "title": "Sonic Racing Twitch Drops",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-09T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fa1f8316-ac72-4f99-a77e-465acd9b6fea",
    "game": "Warframe",
@@ -12097,7 +12073,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.91
+   "score": 15.9
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12109,7 +12085,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.8
+   "score": 15.79
   },
   "Once Human": {
    "favorites": 2,
@@ -12139,7 +12115,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.41
+   "score": 5.4
   },
   "Warframe": {
    "favorites": 1,
