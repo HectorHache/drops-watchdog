@@ -802,26 +802,6 @@
    "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
   },
   {
-   "id": "1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
-   "game": "Skull and Bones",
-   "title": "SAB - Supereloy77",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T14:00:00+00:00",
-   "endAt": "2026-10-09T16:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T14:00:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/421ca4a2-f570-4278-857f-ca08b236e746.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
-   "rewards": [
-    {
-     "name": "Raider's Bet",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1dc86c4d-b6bc-4f5f-bccd-942dcda343cf.png"
-  },
-  {
    "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
    "game": "Honkai: Star Rail",
    "title": "V4.6 Honkai: Star Rail",
@@ -1604,46 +1584,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
-  },
-  {
-   "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
-   "game": "MARVEL Contest of Champions",
-   "title": "October Week 1 ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T18:30:00+00:00",
-   "endAt": "2026-10-09T16:44:59.999+00:00",
-   "firstSeenAt": "2026-10-02T18:31:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c90fc89a-4c06-4776-863d-3ee2c978eac7",
-   "rewards": [
-    {
-     "name": "Drop 1 - 5x Energy & 3x L2 Revives",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - 1x Observance",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3 - PRG Gated Rank Up Gem Crystal",
-     "minutes": 90
-    },
-    {
-     "name": "Drop 4 - 1x Observance",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 5 - PRG Gated Ascension Materials",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 6 - PRG Gated Signature Stones",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c90fc89a-4c06-4776-863d-3ee2c978eac7.png"
   },
   {
    "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
@@ -3050,46 +2990,6 @@
    "asset": "assets/2c7f9376-a07c-4bee-b7ce-38ec089c02cf.png"
   },
   {
-   "id": "24895bd6-15a8-42e5-a872-081e59b6b942",
-   "game": "Madden NFL 27",
-   "title": "Madden Live",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T17:00:00+00:00",
-   "endAt": "2026-10-09T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T17:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00823e67-b68b-45d6-8f8b-9978e4a06045.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24895bd6-15a8-42e5-a872-081e59b6b942",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/24895bd6-15a8-42e5-a872-081e59b6b942.png"
-  },
-  {
    "id": "773f4909-b958-455c-be7a-641ade4067c5",
    "game": "Vaultbreakers",
    "title": "Vaultbreakers",
@@ -3864,9 +3764,153 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8e7a0514-695f-4983-9e03-2a962e4f70c1.png"
+  },
+  {
+   "id": "68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R2 (1)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-09T19:29:59.999+00:00",
+   "firstSeenAt": "2026-10-09T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/39d9126a-6ba6-4233-953c-3b98e59a7777.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00.jpg"
+  },
+  {
+   "id": "06519c0f-8e69-42aa-a490-5320cce4fe3f",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-10T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/18865686-c8ab-4cf6-8adb-44c0635f7898.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=06519c0f-8e69-42aa-a490-5320cce4fe3f",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/06519c0f-8e69-42aa-a490-5320cce4fe3f.png"
+  },
+  {
+   "id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 2 - CCP",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-16T16:44:59.999+00:00",
+   "firstSeenAt": "2026-10-09T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
+   "rewards": [
+    {
+     "name": "CCP Drop 1 - PRG Gated Rank Up Gem Crystal",
+     "minutes": 120
+    },
+    {
+     "name": "CCP Drop 2 - 1x Observance",
+     "minutes": 180
+    },
+    {
+     "name": "CCP Drop 3 - PRG Gated Ascension Materials",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png"
+  },
+  {
+   "id": "3e326242-85d7-44a9-b540-eacce80ced06",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-16T16:44:59.999+00:00",
+   "firstSeenAt": "2026-10-09T17:00:59+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e326242-85d7-44a9-b540-eacce80ced06",
+   "rewards": [
+    {
+     "name": "Drop 1 - 3x Rebirth Crystals",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 3 - PRG Gated Hero Crystal",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3e326242-85d7-44a9-b540-eacce80ced06.png"
   }
  ],
  "archive": [
+  {
+   "id": "1dc86c4d-b6bc-4f5f-bccd-942dcda343cf",
+   "game": "Skull and Bones",
+   "title": "SAB - Supereloy77",
+   "startAt": "2026-09-25T14:00:00+00:00",
+   "endAt": "2026-10-09T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "24895bd6-15a8-42e5-a872-081e59b6b942",
+   "game": "Madden NFL 27",
+   "title": "Madden Live",
+   "startAt": "2026-10-08T17:00:00+00:00",
+   "endAt": "2026-10-09T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c90fc89a-4c06-4776-863d-3ee2c978eac7",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 1 ",
+   "startAt": "2026-10-02T18:30:00+00:00",
+   "endAt": "2026-10-09T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "12913b28-8d65-4a55-846a-2a4d09c9a178",
    "game": "EA Sports College Football 27",
@@ -12039,13 +12083,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.33
+   "score": 11.32
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.97
+   "score": 15.96
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12057,25 +12101,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.86
+   "score": 15.85
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.33
+   "score": 11.32
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.33
+   "score": 11.32
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.33
+   "score": 11.32
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12087,7 +12131,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.43
+   "score": 5.42
   },
   "Warframe": {
    "favorites": 1,
@@ -12099,7 +12143,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.33
+   "score": 11.32
   }
  },
  "favoriteWeights": {
