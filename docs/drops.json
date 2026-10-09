@@ -3202,42 +3202,6 @@
    "asset": "assets/26a32c34-dfd6-48a4-87fc-a8da6de68e47.png"
   },
   {
-   "id": "80b8b421-c6fc-452b-906c-04da743b4309",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate 10/8/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T13:00:00+00:00",
-   "endAt": "2026-10-09T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T13:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80b8b421-c6fc-452b-906c-04da743b4309",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/80b8b421-c6fc-452b-906c-04da743b4309.png"
-  },
-  {
    "id": "379ef4ec-630e-4680-be66-afa041847757",
    "game": "Cash is King!",
    "title": "Steam Next Fest 2026",
@@ -3752,9 +3716,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6cd9dfd0-ac14-4405-97fc-49f191925268.png"
+  },
+  {
+   "id": "064926ef-86a3-4628-9e38-8d11e1977b83",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/9/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T13:00:00+00:00",
+   "endAt": "2026-10-10T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T13:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=064926ef-86a3-4628-9e38-8d11e1977b83",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/064926ef-86a3-4628-9e38-8d11e1977b83.png"
+  },
+  {
+   "id": "71971975-43a7-494a-833c-4cfbaf620fc6",
+   "game": "HITMAN World of Assassination",
+   "title": "The Herbalist #4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T13:00:00+00:00",
+   "endAt": "2026-10-23T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T13:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4bf2cbda-7bd1-46eb-8950-48e5c010f817.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=71971975-43a7-494a-833c-4cfbaf620fc6",
+   "rewards": [
+    {
+     "name": "Purple Streak Crowbar",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/71971975-43a7-494a-833c-4cfbaf620fc6.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "80b8b421-c6fc-452b-906c-04da743b4309",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate 10/8/26",
+   "startAt": "2026-10-08T13:00:00+00:00",
+   "endAt": "2026-10-09T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e75d8e5e-f588-4850-8a62-773fe3492998",
    "game": "Blue Protocol: Star Resonance",
@@ -11853,7 +11881,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.03
+   "score": 16.02
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11895,7 +11923,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.45
+   "score": 5.44
   },
   "Warframe": {
    "favorites": 1,
