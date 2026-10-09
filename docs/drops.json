@@ -3640,6 +3640,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f3b58f81-3715-4873-9939-395687410f32.png"
+  },
+  {
+   "id": "57e563cc-f514-4081-9ac8-fe8637c6b820",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T07:00:00+00:00",
+   "endAt": "2026-10-10T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T07:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2793bcaa-1760-4d62-982a-12b724a6a707.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=57e563cc-f514-4081-9ac8-fe8637c6b820",
+   "rewards": [
+    {
+     "name": "Drop 7",
+     "minutes": 420
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 480
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 540
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 600
+    },
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/57e563cc-f514-4081-9ac8-fe8637c6b820.png"
   }
  ],
  "archive": [
@@ -11679,13 +11735,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.44
+   "score": 11.43
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.13
+   "score": 16.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -11697,25 +11753,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.02
+   "score": 16.01
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.44
+   "score": 11.43
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.44
+   "score": 11.43
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.44
+   "score": 11.43
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11733,13 +11789,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.96
+   "score": 5.95
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.44
+   "score": 11.43
   }
  },
  "favoriteWeights": {
