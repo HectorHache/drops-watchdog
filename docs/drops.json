@@ -3726,30 +3726,6 @@
    "asset": "assets/8e7a0514-695f-4983-9e03-2a962e4f70c1.png"
   },
   {
-   "id": "68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
-   "game": "Tanki Online",
-   "title": "WMR3 2026 R2 (1)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T17:00:00+00:00",
-   "endAt": "2026-10-09T19:29:59.999+00:00",
-   "firstSeenAt": "2026-10-09T17:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/39d9126a-6ba6-4233-953c-3b98e59a7777.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00.jpg"
-  },
-  {
    "id": "06519c0f-8e69-42aa-a490-5320cce4fe3f",
    "game": "EA Sports College Football 27",
    "title": "CFB Live",
@@ -3907,6 +3883,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "68e0a8c1-0b56-4bf9-87dc-ea6e02aa0a00",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R2 (1)",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-09T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "88b6f2e8-6970-4638-b7e9-d8fe6dca6cd5",
    "game": "Rise Online",
@@ -12119,7 +12103,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.29
   },
   "Delta Force": {
    "favorites": 3,
@@ -12143,19 +12127,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12173,13 +12157,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.89
+   "score": 5.88
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.3
+   "score": 11.29
   }
  },
  "favoriteWeights": {
