@@ -2378,26 +2378,6 @@
    "asset": "assets/b08e6c0e-ac1c-4b93-906c-5646ed5559ad.jpg"
   },
   {
-   "id": "f571bf80-91de-4af1-8762-a73eab76870b",
-   "game": "EVE Online",
-   "title": "Crimson Harvest Drop 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T11:00:00+00:00",
-   "endAt": "2026-10-09T10:57:59.999+00:00",
-   "firstSeenAt": "2026-10-06T11:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/26154573-5054-4e1b-85b3-eb6606c2b6f9.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f571bf80-91de-4af1-8762-a73eab76870b",
-   "rewards": [
-    {
-     "name": "Mysterious Booster Crate",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f571bf80-91de-4af1-8762-a73eab76870b.jpg"
-  },
-  {
    "id": "adda5142-106a-4ab8-8fa3-bac1eb78a2da",
    "game": "Coryphaeus Championships",
    "title": "Fall Drops ",
@@ -3660,9 +3640,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9b06cbdf-5005-4150-a215-edaa342a3412.png"
+  },
+  {
+   "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T11:00:00+00:00",
+   "endAt": "2026-10-13T10:56:59.999+00:00",
+   "firstSeenAt": "2026-10-09T11:00:52+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c671c46-29ec-423b-ad7a-4fcdd79061e6.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1822c834-802a-4c85-b34e-b6a6fc103c16",
+   "rewards": [
+    {
+     "name": "Purifier Malagrin SKIN",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1822c834-802a-4c85-b34e-b6a6fc103c16.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "f571bf80-91de-4af1-8762-a73eab76870b",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 1",
+   "startAt": "2026-10-06T11:00:00+00:00",
+   "endAt": "2026-10-09T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "3be0845f-ee00-4a0d-bc88-a57c555cb345",
    "game": "World of Tanks",
