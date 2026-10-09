@@ -1218,42 +1218,6 @@
    "asset": "assets/8146a56b-1e86-46b4-ae62-628f218f3ce9.jpg"
   },
   {
-   "id": "c36d6341-49ef-4c39-9d87-b8f4e6b34e6f",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS1 PARTNER\u21609.3\uff081\uff09",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T04:00:00+00:00",
-   "endAt": "2026-10-09T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T04:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a83549d8-acb2-40c5-a686-a2ea70cb1876.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c36d6341-49ef-4c39-9d87-b8f4e6b34e6f",
-   "rewards": [
-    {
-     "name": "Outfit Trial Choice Gift",
-     "minutes": 360
-    },
-    {
-     "name": "Anassa Nangong\u00b7Acupuncture",
-     "minutes": 480
-    },
-    {
-     "name": "Serene Treasure Choice Gift",
-     "minutes": 600
-    },
-    {
-     "name": "Tae*500",
-     "minutes": 120
-    },
-    {
-     "name": "Spectral Silk*500",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c36d6341-49ef-4c39-9d87-b8f4e6b34e6f.png"
-  },
-  {
    "id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
    "game": "Doomsday: Last Survivors",
    "title": "Twitch Drops",
@@ -2060,26 +2024,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cc7e2087-863c-4ad2-97aa-484644c58089.png"
-  },
-  {
-   "id": "8c909a6b-23fa-4107-b1e3-7ef882b56356",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS1 Weekly 10.5",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T04:00:00+00:00",
-   "endAt": "2026-10-09T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T04:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/71f0a12b-ccf6-4ac6-8514-35116b188a6d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8c909a6b-23fa-4107-b1e3-7ef882b56356",
-   "rewards": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8c909a6b-23fa-4107-b1e3-7ef882b56356.png"
   },
   {
    "id": "3bec3616-0c35-4cb8-9533-2db143d26880",
@@ -3166,34 +3110,6 @@
    "asset": "assets/e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674.png"
   },
   {
-   "id": "ea5798d3-f85f-4743-aba4-fe12ee5a45db",
-   "game": "Warframe",
-   "title": "Prime Time #500",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T19:00:00+00:00",
-   "endAt": "2026-10-09T00:14:59.999+00:00",
-   "firstSeenAt": "2026-10-07T19:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d50359d8-5eb8-447f-ac9f-568ea98e191c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ea5798d3-f85f-4743-aba4-fe12ee5a45db",
-   "rewards": [
-    {
-     "name": "Random Captura Scene",
-     "minutes": 60
-    },
-    {
-     "name": "Random Captura Scene",
-     "minutes": 30
-    },
-    {
-     "name": "Random Captura Scene",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/ea5798d3-f85f-4743-aba4-fe12ee5a45db.jpg"
-  },
-  {
    "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
    "game": "World of Warships",
    "title": "15.9 Mystery Drop",
@@ -3212,26 +3128,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/107f5eb2-1479-4e6c-b154-47ae13517533.png"
-  },
-  {
-   "id": "fad2ffca-4178-44a6-a10b-40060932905b",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T00:00:00+00:00",
-   "endAt": "2026-10-08T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T00:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/afbafd89-f860-47b3-ad02-8acd5fd0ed79.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fad2ffca-4178-44a6-a10b-40060932905b",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fad2ffca-4178-44a6-a10b-40060932905b.png"
   },
   {
    "id": "b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
@@ -3566,26 +3462,6 @@
    "asset": "assets/2c7f9376-a07c-4bee-b7ce-38ec089c02cf.png"
   },
   {
-   "id": "8960fd81-aecd-414b-a75b-d34accd6b90a",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Phase 2 End",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T16:00:00+00:00",
-   "endAt": "2026-10-08T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T16:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b906fad4-f67a-476a-aecf-cef381e8ecd6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8960fd81-aecd-414b-a75b-d34accd6b90a",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8960fd81-aecd-414b-a75b-d34accd6b90a.png"
-  },
-  {
    "id": "24895bd6-15a8-42e5-a872-081e59b6b942",
    "game": "Madden NFL 27",
    "title": "Madden Live",
@@ -3690,26 +3566,6 @@
    "asset": "assets/bb336df1-5a56-42dd-89c9-a889d5ceea58.jpg"
   },
   {
-   "id": "9ff424b9-73a8-42e6-a404-29f38a1ae8af",
-   "game": "Eternal Return",
-   "title": "PRO-Fessors: Seres",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T22:00:00+00:00",
-   "endAt": "2026-10-09T02:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T22:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c16babf-c15f-405a-b58b-034ba589b80d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9ff424b9-73a8-42e6-a404-29f38a1ae8af",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9ff424b9-73a8-42e6-a404-29f38a1ae8af.png"
-  },
-  {
    "id": "ca18dada-86d7-4dd9-8a6e-40f9216a2414",
    "game": "DOFUS Touch",
    "title": "J25 - 4x Temporix Cps\t",
@@ -3744,9 +3600,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ca18dada-86d7-4dd9-8a6e-40f9216a2414.png"
+  },
+  {
+   "id": "1b9f7810-66ba-42ef-985f-bb7f683986df",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-09T00:00:00+00:00",
+   "endAt": "2026-10-09T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-09T00:00:51+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e712412-1b74-4be4-8fa8-a5c007dac5e2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b9f7810-66ba-42ef-985f-bb7f683986df",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1b9f7810-66ba-42ef-985f-bb7f683986df.png"
   }
  ],
  "archive": [
+  {
+   "id": "c36d6341-49ef-4c39-9d87-b8f4e6b34e6f",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 PARTNER\u21609.3\uff081\uff09",
+   "startAt": "2026-09-30T04:00:00+00:00",
+   "endAt": "2026-10-09T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8c909a6b-23fa-4107-b1e3-7ef882b56356",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS1 Weekly 10.5",
+   "startAt": "2026-10-05T04:00:00+00:00",
+   "endAt": "2026-10-09T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "9ff424b9-73a8-42e6-a404-29f38a1ae8af",
+   "game": "Eternal Return",
+   "title": "PRO-Fessors: Seres",
+   "startAt": "2026-10-08T22:00:00+00:00",
+   "endAt": "2026-10-09T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b975eb15-e9e3-4e00-85df-1974cc3fb200",
+   "game": "Warframe",
+   "title": "PMCFQ - SiejoUmbra",
+   "startAt": "2026-10-09T00:00:00+00:00",
+   "endAt": "2026-10-09T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ea5798d3-f85f-4743-aba4-fe12ee5a45db",
+   "game": "Warframe",
+   "title": "Prime Time #500",
+   "startAt": "2026-10-07T19:00:00+00:00",
+   "endAt": "2026-10-09T00:14:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "fad2ffca-4178-44a6-a10b-40060932905b",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-08T00:00:00+00:00",
+   "endAt": "2026-10-08T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "8960fd81-aecd-414b-a75b-d34accd6b90a",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Phase 2 End",
+   "startAt": "2026-10-08T16:00:00+00:00",
+   "endAt": "2026-10-08T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "47c4d134-bb35-4456-9003-b47c394188f8",
    "game": "DOFUS Touch",
@@ -11727,43 +11659,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.45
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 16.25
+   "score": 16.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.55
+   "score": 2.53
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 16.14
+   "score": 16.04
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.45
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.45
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.45
   },
   "THE FINALS": {
    "favorites": 0,
@@ -11775,19 +11707,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.52
+   "score": 5.49
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 6.0
+   "score": 5.97
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.53
+   "score": 11.45
   }
  },
  "favoriteWeights": {
@@ -11801,7 +11733,7 @@
   "Palia": 21,
   "Predecessor": 21,
   "Tom Clancy's The Division 2": 15,
-  "Warframe": 16,
+  "Warframe": 15,
   "Where Winds Meet": 21
  }
 }
