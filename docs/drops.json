@@ -3298,46 +3298,6 @@
    "asset": "assets/8e7a0514-695f-4983-9e03-2a962e4f70c1.png"
   },
   {
-   "id": "06519c0f-8e69-42aa-a490-5320cce4fe3f",
-   "game": "EA Sports College Football 27",
-   "title": "CFB Live",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T17:00:00+00:00",
-   "endAt": "2026-10-10T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T17:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/18865686-c8ab-4cf6-8adb-44c0635f7898.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=06519c0f-8e69-42aa-a490-5320cce4fe3f",
-   "rewards": [
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 30
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 120
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 180
-    },
-    {
-     "name": "CFB Twitch Pack",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/06519c0f-8e69-42aa-a490-5320cce4fe3f.png"
-  },
-  {
    "id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
    "game": "MARVEL Contest of Champions",
    "title": "October Week 2 - CCP",
@@ -4222,26 +4182,6 @@
    "asset": "assets/bc9bc355-6249-4d1a-82f2-6ad2586ae03c.png"
   },
   {
-   "id": "de2a1e91-24b8-4e3c-8432-1c9ae04657ca",
-   "game": "Warframe",
-   "title": "PMCFQ - studiocyen",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T15:00:00+00:00",
-   "endAt": "2026-10-10T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-10T15:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de2a1e91-24b8-4e3c-8432-1c9ae04657ca",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/de2a1e91-24b8-4e3c-8432-1c9ae04657ca.png"
-  },
-  {
    "id": "ffe79f37-94bd-4668-af41-fa95ec54c51a",
    "game": "For Honor",
    "title": "FH Esports Finals Oct 26",
@@ -4296,9 +4236,93 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/ffe79f37-94bd-4668-af41-fa95ec54c51a.jpg"
+  },
+  {
+   "id": "b4d74b43-1f76-4953-a980-83a68ea6b5ff",
+   "game": "Overwatch",
+   "title": "OWCS Stage 3 Season",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T16:00:00+00:00",
+   "endAt": "2026-10-26T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T17:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b18ddb8-1bdf-431c-992d-c2a3dda3468c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b4d74b43-1f76-4953-a980-83a68ea6b5ff",
+   "rewards": [
+    {
+     "name": "Prost Spray",
+     "minutes": 60
+    },
+    {
+     "name": "Purrfect Afternoon Spray",
+     "minutes": 120
+    },
+    {
+     "name": "Sk\u00e5l Spray",
+     "minutes": 180
+    },
+    {
+     "name": "Banana Cat Spray",
+     "minutes": 240
+    },
+    {
+     "name": "Autumn Vibes Name Card",
+     "minutes": 360
+    },
+    {
+     "name": "Banana Cat Icon",
+     "minutes": 480
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b4d74b43-1f76-4953-a980-83a68ea6b5ff.png"
+  },
+  {
+   "id": "b2486117-7342-49ee-9d75-8bd683fdfc29",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R2 (2)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T17:00:00+00:00",
+   "endAt": "2026-10-10T19:29:59.999+00:00",
+   "firstSeenAt": "2026-10-10T17:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c45faf17-0c9c-4bdd-a224-54815b861e2f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2486117-7342-49ee-9d75-8bd683fdfc29",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b2486117-7342-49ee-9d75-8bd683fdfc29.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "06519c0f-8e69-42aa-a490-5320cce4fe3f",
+   "game": "EA Sports College Football 27",
+   "title": "CFB Live",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-10T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "de2a1e91-24b8-4e3c-8432-1c9ae04657ca",
+   "game": "Warframe",
+   "title": "PMCFQ - studiocyen",
+   "startAt": "2026-10-10T15:00:00+00:00",
+   "endAt": "2026-10-10T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "abd023d5-8efb-4d11-8cdb-1fc9bdcde530",
    "game": "NARAKA: BLADEPOINT",
@@ -12671,13 +12695,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.61
+   "score": 15.6
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12689,25 +12713,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.5
+   "score": 15.49
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12725,13 +12749,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.77
+   "score": 5.76
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.07
+   "score": 11.06
   }
  },
  "favoriteWeights": {
