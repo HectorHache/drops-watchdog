@@ -582,38 +582,6 @@
    "asset": "assets/e50f291f-c1e8-4610-b456-f32c96346a89.png"
   },
   {
-   "id": "0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
-   "game": "PAYDAY 3",
-   "title": "PAYDAY 3",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T12:00:00+00:00",
-   "endAt": "2026-10-10T11:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T12:01:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4fca48d-8cee-4965-8174-ef4e8cb495a8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
-   "rewards": [
-    {
-     "name": "Dallas",
-     "minutes": 0
-    },
-    {
-     "name": "Chains",
-     "minutes": 30
-    },
-    {
-     "name": "Hoxton",
-     "minutes": 60
-    },
-    {
-     "name": "Wolf",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png"
-  },
-  {
    "id": "9bfa228c-d89b-4e0e-8336-c86b9dfb60e6",
    "game": "Metaphor: ReFantazio",
    "title": "Homo Tenta Badge",
@@ -2906,30 +2874,6 @@
    "asset": "assets/1822c834-802a-4c85-b34e-b6a6fc103c16.jpg"
   },
   {
-   "id": "4a8fcbfb-716f-4e1e-ab6c-cfc0682af926",
-   "game": "Black Desert",
-   "title": "Master Class 26 (Oct 9)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T12:00:00+00:00",
-   "endAt": "2026-10-10T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T12:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c3b0c794-68ca-4a5a-942c-de10ef60b91e.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4a8fcbfb-716f-4e1e-ab6c-cfc0682af926",
-   "rewards": [
-    {
-     "name": "Oct 9 (1 Hour)",
-     "minutes": 60
-    },
-    {
-     "name": "Oct 9 (2 Hours)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/4a8fcbfb-716f-4e1e-ab6c-cfc0682af926.jpg"
-  },
-  {
    "id": "7a2b054f-813e-438f-8b4e-d65b4666e54a",
    "game": "Dark and Darker",
    "title": "EA Season 11 Drops 1",
@@ -3912,9 +3856,49 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/60c8e9e2-8b16-4ced-b7b6-4056cf59bf65.jpg"
+  },
+  {
+   "id": "3cdf4fee-18b4-482c-9511-cce7f267366f",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 10)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T12:00:00+00:00",
+   "endAt": "2026-10-11T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T12:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61508107-370f-49fd-9e80-7fd1ec1b22a5.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cdf4fee-18b4-482c-9511-cce7f267366f",
+   "rewards": [
+    {
+     "name": "Oct 10 (1 Hour)",
+     "minutes": 60
+    },
+    {
+     "name": "Oct 10 (2 Hours)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/3cdf4fee-18b4-482c-9511-cce7f267366f.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3",
+   "game": "PAYDAY 3",
+   "title": "PAYDAY 3",
+   "startAt": "2026-09-24T12:00:00+00:00",
+   "endAt": "2026-10-10T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4a8fcbfb-716f-4e1e-ab6c-cfc0682af926",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 9)",
+   "startAt": "2026-10-09T12:00:00+00:00",
+   "endAt": "2026-10-10T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
    "game": "SMITE 2",
@@ -12229,7 +12213,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.68
+   "score": 15.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,

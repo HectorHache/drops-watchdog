@@ -138,13 +138,6 @@
     <pubDate>2026-09-24T09:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>PAYDAY 3 — PAYDAY 3</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3</link>
-    <guid isPermaLink="false">0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3</guid>
-    <description>Dallas · Chains · Hoxton · Wolf — runs 2026-09-24T12:00:00+00:00 → 2026-10-10T11:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-24T12:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Metaphor: ReFantazio — Homo Tenta Badge</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=9bfa228c-d89b-4e0e-8336-c86b9dfb60e6</link>
     <guid isPermaLink="false">9bfa228c-d89b-4e0e-8336-c86b9dfb60e6</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">bd0498b5-9068-4e4a-8d43-5b66ea0bd992</guid>
     <description>Forage Fortune Charm · Seed Money Earrings · Havoc Raker Sledgehammer — runs 2026-10-01T10:30:00+00:00 → 2026-10-15T08:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-01T10:30:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>007 First Light — Extended Operations</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=4240c65a-577d-47f4-96f5-9371cc99f5b5</link>
+    <guid isPermaLink="false">4240c65a-577d-47f4-96f5-9371cc99f5b5</guid>
+    <description>One More — runs 2026-10-01T13:00:00+00:00 → 2026-10-16T16:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-01T13:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
