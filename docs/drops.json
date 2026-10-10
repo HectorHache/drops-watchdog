@@ -3614,30 +3614,6 @@
    "asset": "assets/550aa0e1-160d-45c7-bb44-5b639d8f50f0.png"
   },
   {
-   "id": "abd023d5-8efb-4d11-8cdb-1fc9bdcde530",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.10",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T08:00:00+00:00",
-   "endAt": "2026-10-10T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-10T08:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f819d7bd-5359-430c-9b4a-7e1df883c903.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=abd023d5-8efb-4d11-8cdb-1fc9bdcde530",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/abd023d5-8efb-4d11-8cdb-1fc9bdcde530.png"
-  },
-  {
    "id": "2002eb00-43a0-48db-b8b3-6bcd843d5bf6",
    "game": "Albion Online",
    "title": "Dragonfire 6 - #6/7",
@@ -4264,9 +4240,73 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/de2a1e91-24b8-4e3c-8432-1c9ae04657ca.png"
+  },
+  {
+   "id": "ffe79f37-94bd-4668-af41-fa95ec54c51a",
+   "game": "For Honor",
+   "title": "FH Esports Finals Oct 26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T15:50:00+00:00",
+   "endAt": "2026-10-10T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T16:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/763f39c1-b7b3-4e9d-85b8-a40578713d10.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ffe79f37-94bd-4668-af41-fa95ec54c51a",
+   "rewards": [
+    {
+     "name": "Tier 09",
+     "minutes": 270
+    },
+    {
+     "name": "Tier 10",
+     "minutes": 300
+    },
+    {
+     "name": "Tier 01",
+     "minutes": 30
+    },
+    {
+     "name": "Tier 02",
+     "minutes": 60
+    },
+    {
+     "name": "Tier 03",
+     "minutes": 90
+    },
+    {
+     "name": "Tier 04",
+     "minutes": 120
+    },
+    {
+     "name": "Tier 06",
+     "minutes": 180
+    },
+    {
+     "name": "Tier 05",
+     "minutes": 150
+    },
+    {
+     "name": "Tier 07",
+     "minutes": 210
+    },
+    {
+     "name": "Tier 08",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ffe79f37-94bd-4668-af41-fa95ec54c51a.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "abd023d5-8efb-4d11-8cdb-1fc9bdcde530",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.10",
+   "startAt": "2026-10-10T08:00:00+00:00",
+   "endAt": "2026-10-10T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8c09edba-12a4-4e03-ab51-5b9e595ce03b",
    "game": "Chaos Zero Nightmare",
@@ -12631,13 +12671,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.08
+   "score": 11.07
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.62
+   "score": 15.61
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12655,19 +12695,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.08
+   "score": 11.07
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.08
+   "score": 11.07
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.08
+   "score": 11.07
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12691,7 +12731,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.08
+   "score": 11.07
   }
  },
  "favoriteWeights": {
