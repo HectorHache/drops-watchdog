@@ -2930,26 +2930,6 @@
    "asset": "assets/f3b58f81-3715-4873-9939-395687410f32.png"
   },
   {
-   "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
-   "game": "Albion Online",
-   "title": "Dragonfire 6 - #5/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T10:00:00+00:00",
-   "endAt": "2026-10-10T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-09T10:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25e1b121-0af9-44d5-b263-2a1a52dff2ac.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9b06cbdf-5005-4150-a215-edaa342a3412",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9b06cbdf-5005-4150-a215-edaa342a3412.png"
-  },
-  {
    "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
    "game": "EVE Online",
    "title": "Crimson Harvest Drop 2",
@@ -3888,9 +3868,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/abd023d5-8efb-4d11-8cdb-1fc9bdcde530.png"
+  },
+  {
+   "id": "2002eb00-43a0-48db-b8b3-6bcd843d5bf6",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T10:00:00+00:00",
+   "endAt": "2026-10-11T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-10T10:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/942c6307-fef9-4570-8722-488958b2f3fb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2002eb00-43a0-48db-b8b3-6bcd843d5bf6",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2002eb00-43a0-48db-b8b3-6bcd843d5bf6.png"
   }
  ],
  "archive": [
+  {
+   "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #5/7",
+   "startAt": "2026-10-09T10:00:00+00:00",
+   "endAt": "2026-10-10T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d13db74f-a56d-4985-af69-3bf01adde336",
    "game": "Overwatch",
@@ -12183,43 +12191,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.14
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.73
+   "score": 15.7
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.47
+   "score": 2.46
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.63
+   "score": 15.6
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.14
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.14
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.14
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12231,19 +12239,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.35
+   "score": 5.34
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.81
+   "score": 5.8
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.16
+   "score": 11.14
   }
  },
  "favoriteWeights": {
