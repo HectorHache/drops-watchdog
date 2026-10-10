@@ -4258,26 +4258,6 @@
    "asset": "assets/fe63c7e2-8500-4f60-acfc-93e32c8f14c5.jpg"
   },
   {
-   "id": "6c0f557c-c493-41da-adaf-703a50b3706f",
-   "game": "Warframe",
-   "title": "PMCFQ - depths",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T18:00:00+00:00",
-   "endAt": "2026-10-10T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-10T18:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03812ea7-157d-4c0e-9fa1-cf40f00c878b.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6c0f557c-c493-41da-adaf-703a50b3706f",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/6c0f557c-c493-41da-adaf-703a50b3706f.jpg"
-  },
-  {
    "id": "958b07a5-ba3c-4610-9960-bf9fb84be98e",
    "game": "Kirka.io",
    "title": "K1TTY",
@@ -4296,9 +4276,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/958b07a5-ba3c-4610-9960-bf9fb84be98e.png"
+  },
+  {
+   "id": "19b30b43-f37a-487d-9534-8d34df58bf1a",
+   "game": "Kirka.io",
+   "title": "Elite",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T19:32:02+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-10T20:00:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e7c9cb2-5066-46fe-af29-1e8f971409ee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19b30b43-f37a-487d-9534-8d34df58bf1a",
+   "rewards": [
+    {
+     "name": "Elite",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/19b30b43-f37a-487d-9534-8d34df58bf1a.png"
   }
  ],
  "archive": [
+  {
+   "id": "6c0f557c-c493-41da-adaf-703a50b3706f",
+   "game": "Warframe",
+   "title": "PMCFQ - depths",
+   "startAt": "2026-10-10T18:00:00+00:00",
+   "endAt": "2026-10-10T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b2486117-7342-49ee-9d75-8bd683fdfc29",
    "game": "Tanki Online",
@@ -12719,13 +12727,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.56
+   "score": 15.55
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12737,25 +12745,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.46
+   "score": 15.45
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12767,7 +12775,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.29
+   "score": 5.28
   },
   "Warframe": {
    "favorites": 1,
@@ -12779,7 +12787,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.04
+   "score": 11.03
   }
  },
  "favoriteWeights": {
