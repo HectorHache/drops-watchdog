@@ -3876,6 +3876,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/550aa0e1-160d-45c7-bb44-5b639d8f50f0.png"
+  },
+  {
+   "id": "12e8e057-ca68-4c92-8a44-7241ac084c9b",
+   "game": "Eternal Return",
+   "title": "ER ESPORTS DROPS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T07:30:00+00:00",
+   "endAt": "2026-10-10T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T07:30:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0555924b-f91f-4ff6-9a0f-10ef2f31bbbe.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=12e8e057-ca68-4c92-8a44-7241ac084c9b",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/12e8e057-ca68-4c92-8a44-7241ac084c9b.png"
   }
  ],
  "archive": [
@@ -12163,13 +12191,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.17
+   "score": 11.16
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.75
+   "score": 15.74
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12181,25 +12209,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.64
+   "score": 15.63
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.17
+   "score": 11.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.17
+   "score": 11.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.17
+   "score": 11.16
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12223,7 +12251,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.17
+   "score": 11.16
   }
  },
  "favoriteWeights": {
