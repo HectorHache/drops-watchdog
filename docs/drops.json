@@ -1546,50 +1546,6 @@
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
   },
   {
-   "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
-   "game": "SMITE 2",
-   "title": "Oct Wk 1 - Blue Lotus!",
-   "status": "ACTIVE",
-   "startAt": "2026-10-03T11:00:00+00:00",
-   "endAt": "2026-10-10T10:57:59.999+00:00",
-   "firstSeenAt": "2026-10-03T11:00:06+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28a4e07c-a1e0-4db6-85eb-c5b70f46bdab.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7be1def9-6d6a-4c61-bb44-80389da41d1e",
-   "rewards": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Market Coins Bundle 5",
-     "minutes": 600
-    },
-    {
-     "name": "Blue Lotus Ne Zha",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coins Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/7be1def9-6d6a-4c61-bb44-80389da41d1e.png"
-  },
-  {
    "id": "33b64b3d-0949-49d9-869b-8e530ad9d38c",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 1",
@@ -3912,9 +3868,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6fc2663a-82f0-4557-a246-cf37ebeb590b.png"
+  },
+  {
+   "id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
+   "game": "SMITE 2",
+   "title": "October Week 3!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T11:00:00+00:00",
+   "endAt": "2026-10-17T10:57:59.999+00:00",
+   "firstSeenAt": "2026-10-10T11:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/916ae438-c133-423d-964f-c7873e1b11e9.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
+   "rewards": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/60c8e9e2-8b16-4ced-b7b6-4056cf59bf65.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "7be1def9-6d6a-4c61-bb44-80389da41d1e",
+   "game": "SMITE 2",
+   "title": "Oct Wk 1 - Blue Lotus!",
+   "startAt": "2026-10-03T11:00:00+00:00",
+   "endAt": "2026-10-10T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
    "game": "Albion Online",
@@ -12221,7 +12229,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.7
+   "score": 15.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12233,7 +12241,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.59
+   "score": 15.58
   },
   "Once Human": {
    "favorites": 2,
