@@ -4312,6 +4312,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/71737553-228d-4b8e-a73b-007d27db8d6e.png"
+  },
+  {
+   "id": "bc9bc355-6249-4d1a-82f2-6ad2586ae03c",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Playoffs",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T14:00:00+00:00",
+   "endAt": "2026-10-10T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T14:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb0fe9d0-6d0b-40f7-a61e-f54a07590eb7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bc9bc355-6249-4d1a-82f2-6ad2586ae03c",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bc9bc355-6249-4d1a-82f2-6ad2586ae03c.png"
   }
  ],
  "archive": [
@@ -12653,7 +12681,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.65
+   "score": 15.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
