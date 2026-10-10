@@ -2610,38 +2610,6 @@
    "asset": "assets/0ef8e3ae-45a7-4858-9d91-b34864a88054.png"
   },
   {
-   "id": "991d53f2-eee5-4020-96d9-7f73316fab46",
-   "game": "AION 2",
-   "title": "War for Atreia - Series 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T17:00:00+00:00",
-   "endAt": "2026-10-10T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T17:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/665e31b7-496c-491d-acf2-bfb45e00ec0a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=991d53f2-eee5-4020-96d9-7f73316fab46",
-   "rewards": [
-    {
-     "name": "Customization Voucher x3",
-     "minutes": 30
-    },
-    {
-     "name": "Skin Chest (10 Skins) x1",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Codex: Reset x3",
-     "minutes": 120
-    },
-    {
-     "name": "Pet: Two x1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/991d53f2-eee5-4020-96d9-7f73316fab46.png"
-  },
-  {
    "id": "e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674",
    "game": "SPAM",
    "title": "SPAM Launch",
@@ -3000,62 +2968,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f3b58f81-3715-4873-9939-395687410f32.png"
-  },
-  {
-   "id": "57e563cc-f514-4081-9ac8-fe8637c6b820",
-   "game": "Escape from Tarkov",
-   "title": "EXFIL Brothers Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T07:00:00+00:00",
-   "endAt": "2026-10-10T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T07:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2793bcaa-1760-4d62-982a-12b724a6a707.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=57e563cc-f514-4081-9ac8-fe8637c6b820",
-   "rewards": [
-    {
-     "name": "Drop 7",
-     "minutes": 420
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 480
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 540
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 600
-    },
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/57e563cc-f514-4081-9ac8-fe8637c6b820.png"
   },
   {
    "id": "9b06cbdf-5005-4150-a215-edaa342a3412",
@@ -3908,9 +3820,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5f0500a5-2f91-439e-a31f-0a1ca29a4a06.png"
+  },
+  {
+   "id": "550aa0e1-160d-45c7-bb44-5b639d8f50f0",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T07:00:00+00:00",
+   "endAt": "2026-10-11T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-10T07:00:22+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/424e3172-753d-48e5-98d6-4047d7d2055b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=550aa0e1-160d-45c7-bb44-5b639d8f50f0",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    },
+    {
+     "name": "Drop 7",
+     "minutes": 420
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 480
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 540
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/550aa0e1-160d-45c7-bb44-5b639d8f50f0.png"
   }
  ],
  "archive": [
+  {
+   "id": "991d53f2-eee5-4020-96d9-7f73316fab46",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 2",
+   "startAt": "2026-10-07T17:00:00+00:00",
+   "endAt": "2026-10-10T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "57e563cc-f514-4081-9ac8-fe8637c6b820",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 1",
+   "startAt": "2026-10-09T07:00:00+00:00",
+   "endAt": "2026-10-10T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84fdd0fb-a22e-41b5-8e31-86431c76b3a7",
    "game": "Rainbow Six Siege",
@@ -12179,13 +12163,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.76
+   "score": 15.75
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12197,31 +12181,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.65
+   "score": 15.64
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.24
+   "score": 1.23
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -12239,7 +12223,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.18
+   "score": 11.17
   }
  },
  "favoriteWeights": {
