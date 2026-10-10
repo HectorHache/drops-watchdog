@@ -4218,30 +4218,6 @@
    "asset": "assets/b4d74b43-1f76-4953-a980-83a68ea6b5ff.png"
   },
   {
-   "id": "b2486117-7342-49ee-9d75-8bd683fdfc29",
-   "game": "Tanki Online",
-   "title": "WMR3 2026 R2 (2)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T17:00:00+00:00",
-   "endAt": "2026-10-10T19:29:59.999+00:00",
-   "firstSeenAt": "2026-10-10T17:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c45faf17-0c9c-4bdd-a224-54815b861e2f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b2486117-7342-49ee-9d75-8bd683fdfc29",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b2486117-7342-49ee-9d75-8bd683fdfc29.jpg"
-  },
-  {
    "id": "ebaa5beb-b1d2-4c61-9417-3a5f896397d4",
    "game": "Rise Online",
    "title": "Mobile Drop 184",
@@ -4300,9 +4276,37 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/6c0f557c-c493-41da-adaf-703a50b3706f.jpg"
+  },
+  {
+   "id": "958b07a5-ba3c-4610-9960-bf9fb84be98e",
+   "game": "Kirka.io",
+   "title": "K1TTY",
+   "status": "ACTIVE",
+   "startAt": "2026-10-10T18:57:20+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-10T19:30:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdc06eed-becf-4063-957c-134cb91b4e37.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=958b07a5-ba3c-4610-9960-bf9fb84be98e",
+   "rewards": [
+    {
+     "name": "K1TTY",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/958b07a5-ba3c-4610-9960-bf9fb84be98e.png"
   }
  ],
  "archive": [
+  {
+   "id": "b2486117-7342-49ee-9d75-8bd683fdfc29",
+   "game": "Tanki Online",
+   "title": "WMR3 2026 R2 (2)",
+   "startAt": "2026-10-10T17:00:00+00:00",
+   "endAt": "2026-10-10T19:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6fc2663a-82f0-4557-a246-cf37ebeb590b",
    "game": "Mir Korabley",
@@ -12721,7 +12725,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.57
+   "score": 15.56
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
