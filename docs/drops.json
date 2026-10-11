@@ -4144,6 +4144,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a081df92-3f8b-4513-8135-bcd439dfa0aa.png"
+  },
+  {
+   "id": "d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T10:00:00+00:00",
+   "endAt": "2026-10-12T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-11T10:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25c606e8-2eb6-485b-9fa7-84d525d11698.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d40ae03d-522d-41ad-8b2d-bf67e6b4544e.png"
   }
  ],
  "archive": [
@@ -12671,7 +12691,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.89
+   "score": 10.88
   },
   "Delta Force": {
    "favorites": 3,
@@ -12689,25 +12709,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.25
+   "score": 15.24
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.89
+   "score": 10.88
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.89
+   "score": 10.88
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.89
+   "score": 10.88
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12719,7 +12739,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.22
+   "score": 5.21
   },
   "Warframe": {
    "favorites": 1,
@@ -12731,7 +12751,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.89
+   "score": 10.88
   }
  },
  "favoriteWeights": {
