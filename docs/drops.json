@@ -3246,26 +3246,6 @@
    "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
   },
   {
-   "id": "780ae84f-4987-47c2-8ae8-e2a146f9507c",
-   "game": "Sonic Racing: CrossWorlds",
-   "title": "CrossWorlds Championship",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T16:00:00+00:00",
-   "endAt": "2026-10-11T03:58:59.999+00:00",
-   "firstSeenAt": "2026-10-09T16:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59a7c38f-444e-4935-a408-14929126c199.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=780ae84f-4987-47c2-8ae8-e2a146f9507c",
-   "rewards": [
-    {
-     "name": "CrossWorlds World Championship Badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/780ae84f-4987-47c2-8ae8-e2a146f9507c.png"
-  },
-  {
    "id": "8e7a0514-695f-4983-9e03-2a962e4f70c1",
    "game": "Marbles on Stream",
    "title": "Marble Day 269",
@@ -3352,30 +3332,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3e326242-85d7-44a9-b540-eacce80ced06.png"
-  },
-  {
-   "id": "cc699a71-baa8-4d7e-94dc-bd0b78f3592b",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T00:00:00+00:00",
-   "endAt": "2026-10-10T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-10T00:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/905850f2-81cd-40b8-b100-0ee5596be04d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc699a71-baa8-4d7e-94dc-bd0b78f3592b",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cc699a71-baa8-4d7e-94dc-bd0b78f3592b.png"
   },
   {
    "id": "3cfa6fe7-c4c7-435d-af4a-6069af2a1eb0",
@@ -4054,34 +4010,6 @@
    "asset": "assets/71737553-228d-4b8e-a73b-007d27db8d6e.png"
   },
   {
-   "id": "bc9bc355-6249-4d1a-82f2-6ad2586ae03c",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Playoffs",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T14:00:00+00:00",
-   "endAt": "2026-10-10T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-10T14:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb0fe9d0-6d0b-40f7-a61e-f54a07590eb7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bc9bc355-6249-4d1a-82f2-6ad2586ae03c",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bc9bc355-6249-4d1a-82f2-6ad2586ae03c.png"
-  },
-  {
    "id": "b4d74b43-1f76-4953-a980-83a68ea6b5ff",
    "game": "Overwatch",
    "title": "OWCS Stage 3 Season",
@@ -4240,9 +4168,77 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/46c93f75-7738-49c5-b83b-1dfa6c5637ae.png"
+  },
+  {
+   "id": "eb835426-6152-49f5-b023-46386a9f387f",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T00:00:00+00:00",
+   "endAt": "2026-10-11T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T00:30:30+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/699298c7-0ad6-4e07-947f-db9510732963.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb835426-6152-49f5-b023-46386a9f387f",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/eb835426-6152-49f5-b023-46386a9f387f.png"
+  },
+  {
+   "id": "84327024-70ee-4763-a752-95d8522e6f97",
+   "game": "Epic Seven",
+   "title": "E7WC2026 Group Stage Day2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T03:00:00+00:00",
+   "endAt": "2026-10-11T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T03:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a3cb11d-f790-4000-a965-27a06c9cdad9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84327024-70ee-4763-a752-95d8522e6f97",
+   "rewards": [
+    {
+     "name": "E7WC2026 Group Stage Day2",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/84327024-70ee-4763-a752-95d8522e6f97.png"
   }
  ],
  "archive": [
+  {
+   "id": "780ae84f-4987-47c2-8ae8-e2a146f9507c",
+   "game": "Sonic Racing: CrossWorlds",
+   "title": "CrossWorlds Championship",
+   "startAt": "2026-10-09T16:00:00+00:00",
+   "endAt": "2026-10-11T03:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cc699a71-baa8-4d7e-94dc-bd0b78f3592b",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-10T00:00:00+00:00",
+   "endAt": "2026-10-10T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bc9bc355-6249-4d1a-82f2-6ad2586ae03c",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Playoffs",
+   "startAt": "2026-10-10T14:00:00+00:00",
+   "endAt": "2026-10-10T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "707d73d0-baea-4f88-8b40-3e03272bd0a7",
    "game": "DOFUS Touch",
@@ -12687,81 +12683,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.0
+   "score": 10.94
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.52
+   "score": 15.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.43
+   "score": 2.42
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.41
+   "score": 15.31
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.0
+   "score": 10.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.0
+   "score": 10.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.0
+   "score": 10.94
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.22
+   "score": 1.21
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.27
+   "score": 5.24
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.73
+   "score": 5.7
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 11.0
+   "score": 10.94
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 21,
+  "ARC Raiders": 20,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 25,
   "LEGO Batman: Legacy of the Dark Knight": 25,
   "Marvel Rivals": 10,
-  "Once Human": 21,
-  "Palia": 21,
-  "Predecessor": 21,
+  "Once Human": 20,
+  "Palia": 20,
+  "Predecessor": 20,
   "Tom Clancy's The Division 2": 15,
   "Warframe": 15,
-  "Where Winds Meet": 21
+  "Where Winds Meet": 20
  }
 }
