@@ -2898,46 +2898,6 @@
    "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
   },
   {
-   "id": "3c0deb5d-7270-4875-b268-291a1ddcfcd4",
-   "game": "Caliber",
-   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 09.10.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T15:00:00+00:00",
-   "endAt": "2026-10-11T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T15:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1ca96e1e-e14c-43b0-9ff7-f0f9f25e0f3c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3c0deb5d-7270-4875-b268-291a1ddcfcd4",
-   "rewards": [
-    {
-     "name": "20 000 credits 09.10",
-     "minutes": 20
-    },
-    {
-     "name": "50 fragments 09.10",
-     "minutes": 30
-    },
-    {
-     "name": "20 000 credits (2) 09.10",
-     "minutes": 45
-    },
-    {
-     "name": "Army Surplus 09.10",
-     "minutes": 60
-    },
-    {
-     "name": "20 000 credits (3) 09.10",
-     "minutes": 90
-    },
-    {
-     "name": "Weapon container 09.10",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/3c0deb5d-7270-4875-b268-291a1ddcfcd4.png"
-  },
-  {
    "id": "d7d79b14-4626-42c1-955a-64e1aae070a9",
    "game": "World of Tanks Console",
    "title": "Steel Asylum #2",
@@ -3596,29 +3556,25 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2a4aaadd-25f3-4ba9-bdbe-e34a8420e2a0.png"
+  }
+ ],
+ "archive": [
+  {
+   "id": "3c0deb5d-7270-4875-b268-291a1ddcfcd4",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 09.10.2026",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-11T20:59:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "a7cb3f16-8c84-4aad-8b3f-b61807a679cc",
    "game": "Warframe",
    "title": "PMCFQ - nononom12",
-   "status": "ACTIVE",
    "startAt": "2026-10-11T19:00:00+00:00",
    "endAt": "2026-10-11T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T19:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7fb22f3-3744-43dd-a9cb-23bd9b6f7c86.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a7cb3f16-8c84-4aad-8b3f-b61807a679cc",
-   "rewards": [
-    {
-     "name": "Random Captura",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/a7cb3f16-8c84-4aad-8b3f-b61807a679cc.jpg"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
   {
    "id": "e86f8fd3-fb7f-4fc4-97a7-c23d4fcd8674",
    "game": "SPAM",
@@ -12365,7 +12321,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.19
+   "score": 15.18
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12377,7 +12333,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.09
+   "score": 15.08
   },
   "Once Human": {
    "favorites": 2,
