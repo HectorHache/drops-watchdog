@@ -4140,6 +4140,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ab733d63-4c1b-4bd4-becc-0a6d455b203e.png"
+  },
+  {
+   "id": "a081df92-3f8b-4513-8135-bcd439dfa0aa",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.11",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T08:00:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/844b0800-c50c-4f69-9e6e-959ef48b3f35.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a081df92-3f8b-4513-8135-bcd439dfa0aa",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a081df92-3f8b-4513-8135-bcd439dfa0aa.png"
   }
  ],
  "archive": [
@@ -12659,7 +12683,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.91
+   "score": 10.9
   },
   "Delta Force": {
    "favorites": 3,
@@ -12677,25 +12701,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.28
+   "score": 15.27
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.91
+   "score": 10.9
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.91
+   "score": 10.9
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.91
+   "score": 10.9
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12707,7 +12731,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.23
+   "score": 5.22
   },
   "Warframe": {
    "favorites": 1,
@@ -12719,7 +12743,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.91
+   "score": 10.9
   }
  },
  "favoriteWeights": {
