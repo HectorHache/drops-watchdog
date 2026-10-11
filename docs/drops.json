@@ -1346,38 +1346,6 @@
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   },
   {
-   "id": "266bcc38-0922-40cf-885b-79555940199c",
-   "game": "Marvel Rivals",
-   "title": "Ignite Stage2 W3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T08:00:00+00:00",
-   "endAt": "2026-10-11T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T08:01:00+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/de125a24-a2ea-4f58-a7a1-8836f9d089f8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=266bcc38-0922-40cf-885b-79555940199c",
-   "rewards": [
-    {
-     "name": "Chrono Tokens *100",
-     "minutes": 30
-    },
-    {
-     "name": "\u300cVantage Point\u300dSpray",
-     "minutes": 120
-    },
-    {
-     "name": "Chrono Tokens *100",
-     "minutes": 150
-    },
-    {
-     "name": "\u300cGalactic Gaze\u300dMood",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/266bcc38-0922-40cf-885b-79555940199c.png"
-  },
-  {
    "id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
    "game": "Krunker",
    "title": "Krunker Season 10 Update",
@@ -2526,26 +2494,6 @@
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
   },
   {
-   "id": "01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.8-11",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T08:00:00+00:00",
-   "endAt": "2026-10-11T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T08:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b771fd86-4943-4342-be19-68fdb2152a7e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
-   "rewards": [
-    {
-     "name": "10x XP Bonus",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/01382127-cc4d-47b4-9e14-7b39a5b8d4ad.png"
-  },
-  {
    "id": "4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
    "game": "UFL",
    "title": "Oct #2",
@@ -3550,30 +3498,6 @@
    "asset": "assets/35968b82-76c2-4d03-9145-370989fa0d83.png"
   },
   {
-   "id": "a081df92-3f8b-4513-8135-bcd439dfa0aa",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.11",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T08:00:00+00:00",
-   "endAt": "2026-10-11T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T08:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/844b0800-c50c-4f69-9e6e-959ef48b3f35.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a081df92-3f8b-4513-8135-bcd439dfa0aa",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a081df92-3f8b-4513-8135-bcd439dfa0aa.png"
-  },
-  {
    "id": "d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
    "game": "Albion Online",
    "title": "Dragonfire 6 - #7/7",
@@ -3752,9 +3676,53 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/eb9f705a-4dc0-4ce7-ab90-d981523cf03e.jpg"
+  },
+  {
+   "id": "ca030529-1715-4475-b5db-abf0cf8564ee",
+   "game": "Halo Infinite",
+   "title": "Pro League OCT11",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T16:00:00+00:00",
+   "endAt": "2026-10-12T05:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T16:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cbe84e23-234d-4684-b624-b425982aa4ca.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca030529-1715-4475-b5db-abf0cf8564ee",
+   "rewards": [
+    {
+     "name": "Pink Pop Visor",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/ca030529-1715-4475-b5db-abf0cf8564ee.png"
   }
  ],
  "archive": [
+  {
+   "id": "266bcc38-0922-40cf-885b-79555940199c",
+   "game": "Marvel Rivals",
+   "title": "Ignite Stage2 W3",
+   "startAt": "2026-10-02T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "01382127-cc4d-47b4-9e14-7b39a5b8d4ad",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.8-11",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a081df92-3f8b-4513-8135-bcd439dfa0aa",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.11",
+   "startAt": "2026-10-11T08:00:00+00:00",
+   "endAt": "2026-10-11T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84327024-70ee-4763-a752-95d8522e6f97",
    "game": "Epic Seven",
@@ -12415,7 +12383,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.83
+   "score": 10.82
   },
   "Delta Force": {
    "favorites": 3,
@@ -12433,25 +12401,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.16
+   "score": 15.15
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.83
+   "score": 10.82
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.83
+   "score": 10.82
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.83
+   "score": 10.82
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12463,7 +12431,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.19
+   "score": 5.18
   },
   "Warframe": {
    "favorites": 1,
@@ -12475,7 +12443,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.83
+   "score": 10.82
   }
  },
  "favoriteWeights": {
