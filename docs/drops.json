@@ -4112,6 +4112,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/35968b82-76c2-4d03-9145-370989fa0d83.png"
+  },
+  {
+   "id": "ab733d63-4c1b-4bd4-becc-0a6d455b203e",
+   "game": "Eternal Return",
+   "title": "ER ESPORTS DROPS",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T07:30:00+00:00",
+   "endAt": "2026-10-11T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T07:30:23+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11da19c4-27bb-4fc1-8dc4-ce17816ff094.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ab733d63-4c1b-4bd4-becc-0a6d455b203e",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ab733d63-4c1b-4bd4-becc-0a6d455b203e.png"
   }
  ],
  "archive": [
@@ -12631,13 +12659,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.39
+   "score": 15.38
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12649,25 +12677,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.29
+   "score": 15.28
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12685,13 +12713,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.69
+   "score": 5.68
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.92
+   "score": 10.91
   }
  },
  "favoriteWeights": {
