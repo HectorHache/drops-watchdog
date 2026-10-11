@@ -3724,6 +3724,62 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/35efc80c-6793-4a72-9345-ea2501858d89.png"
+  },
+  {
+   "id": "78cad25a-6677-4435-a7fe-52b8fc82d3f5",
+   "game": "Eternal Return",
+   "title": "ERCS S12 EU",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T14:00:00+00:00",
+   "endAt": "2026-10-11T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T14:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ca43a5a2-da61-4d22-8112-161bc4c87a5b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=78cad25a-6677-4435-a7fe-52b8fc82d3f5",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + Esports Piece",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + Esports Piece",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + Esports Piece",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/78cad25a-6677-4435-a7fe-52b8fc82d3f5.png"
+  },
+  {
+   "id": "6f9179e6-5555-4a30-b1e9-25e33996cff5",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-10-11T14:00:00+00:00",
+   "endAt": "2026-10-11T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-11T14:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7a740f3-7f9b-403c-abea-21cb49355520.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6f9179e6-5555-4a30-b1e9-25e33996cff5",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6f9179e6-5555-4a30-b1e9-25e33996cff5.png"
   }
  ],
  "archive": [
@@ -12371,7 +12427,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.85
+   "score": 10.84
   },
   "Delta Force": {
    "favorites": 3,
@@ -12389,25 +12445,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.19
+   "score": 15.18
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.85
+   "score": 10.84
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.85
+   "score": 10.84
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.85
+   "score": 10.84
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12419,7 +12475,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.2
+   "score": 5.19
   },
   "Warframe": {
    "favorites": 1,
@@ -12431,7 +12487,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.85
+   "score": 10.84
   }
  },
  "favoriteWeights": {
