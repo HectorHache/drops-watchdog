@@ -3214,6 +3214,82 @@
    "asset": "assets/1425a7ff-1f9f-48f0-94cb-0aeed3ee8cdb.png"
   },
   {
+   "id": "9960cf06-5bf0-4725-8cb2-036053a6a57f",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 23",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T14:30:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9960cf06-5bf0-4725-8cb2-036053a6a57f",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 90
+    },
+    {
+     "name": "2",
+     "minutes": 180
+    },
+    {
+     "name": "3",
+     "minutes": 270
+    },
+    {
+     "name": "4",
+     "minutes": 360
+    },
+    {
+     "name": "5",
+     "minutes": 450
+    },
+    {
+     "name": "6",
+     "minutes": 540
+    },
+    {
+     "name": "7",
+     "minutes": 630
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9960cf06-5bf0-4725-8cb2-036053a6a57f.png"
+  },
+  {
+   "id": "2567d62b-f308-4da9-8d7d-f5da0b69b10a",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 23",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T14:30:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2567d62b-f308-4da9-8d7d-f5da0b69b10a",
+   "rewards": [
+    {
+     "name": "4",
+     "minutes": 480
+    },
+    {
+     "name": "1",
+     "minutes": 120
+    },
+    {
+     "name": "2",
+     "minutes": 240
+    },
+    {
+     "name": "3",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2567d62b-f308-4da9-8d7d-f5da0b69b10a.png"
+  },
+  {
    "id": "145c6ab3-e049-4174-b1f9-1d6d29f45a19",
    "game": "Mir Korabley",
    "title": "Lestakorabli - 26.10 #2",
@@ -12225,7 +12301,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.94
+   "score": 14.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12237,7 +12313,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.84
+   "score": 14.83
   },
   "Once Human": {
    "favorites": 2,
@@ -12267,7 +12343,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.08
+   "score": 5.07
   },
   "Warframe": {
    "favorites": 1,
