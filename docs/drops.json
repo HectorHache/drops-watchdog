@@ -2794,46 +2794,6 @@
    "asset": "assets/c9b4b2ac-7ede-4fed-b45d-9c657f20a73c.png"
   },
   {
-   "id": "a31010a4-cc82-4754-80cf-bcbab569f5b3",
-   "game": "Rise Online",
-   "title": "ROW Drop 614",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T17:59:00+00:00",
-   "endAt": "2026-10-12T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-11T18:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2f5eb93-39a6-4a1d-9c87-4ff0dddeefb7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a31010a4-cc82-4754-80cf-bcbab569f5b3",
-   "rewards": [
-    {
-     "name": "ROW Drop 614",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a31010a4-cc82-4754-80cf-bcbab569f5b3.png"
-  },
-  {
-   "id": "2a4aaadd-25f3-4ba9-bdbe-e34a8420e2a0",
-   "game": "Rise Online",
-   "title": "Mobile Drop 185",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T17:59:00+00:00",
-   "endAt": "2026-10-12T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-11T18:00:39+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ec1bd03f-9cbd-4892-8174-96914070eff8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2a4aaadd-25f3-4ba9-bdbe-e34a8420e2a0",
-   "rewards": [
-    {
-     "name": "Mobile Drop 185",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2a4aaadd-25f3-4ba9-bdbe-e34a8420e2a0.png"
-  },
-  {
    "id": "41636cfe-2021-41b9-b1a5-bc56cc9073ef",
    "game": "DOFUS Touch",
    "title": "J28 - 4x Temporix Cps\t",
@@ -3456,9 +3416,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/05dd2a67-9f78-4387-8a34-736573268ac7.png"
+  },
+  {
+   "id": "023abc18-cc57-4f31-a6b9-dbf50ca160dd",
+   "game": "Rise Online",
+   "title": "Mobile Drop 186",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T17:59:00+00:00",
+   "endAt": "2026-10-13T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-12T18:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a7f0d808-7f94-4f83-9b43-6df22bce0514.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=023abc18-cc57-4f31-a6b9-dbf50ca160dd",
+   "rewards": [
+    {
+     "name": "Mobile Drop 186",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/023abc18-cc57-4f31-a6b9-dbf50ca160dd.png"
+  },
+  {
+   "id": "2ccce4fe-d6f3-409e-be60-4d0b916c2eae",
+   "game": "Rise Online",
+   "title": "ROW Drop 615",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T17:59:00+00:00",
+   "endAt": "2026-10-13T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-12T18:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4d755d85-1d2e-48ca-8b98-1fc110c0c44f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2ccce4fe-d6f3-409e-be60-4d0b916c2eae",
+   "rewards": [
+    {
+     "name": "ROW Drop 615",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2ccce4fe-d6f3-409e-be60-4d0b916c2eae.jpg"
+  },
+  {
+   "id": "98f7ebbb-7ffc-4be1-afc2-8f295de97566",
+   "game": "Warframe",
+   "title": "PMCFQ - upsidedownsmore",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T18:00:00+00:00",
+   "endAt": "2026-10-12T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T18:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/729844d7-7cb5-4913-b860-52a118aa297d.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98f7ebbb-7ffc-4be1-afc2-8f295de97566",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/98f7ebbb-7ffc-4be1-afc2-8f295de97566.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "a31010a4-cc82-4754-80cf-bcbab569f5b3",
+   "game": "Rise Online",
+   "title": "ROW Drop 614",
+   "startAt": "2026-10-11T17:59:00+00:00",
+   "endAt": "2026-10-12T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2a4aaadd-25f3-4ba9-bdbe-e34a8420e2a0",
+   "game": "Rise Online",
+   "title": "Mobile Drop 185",
+   "startAt": "2026-10-11T17:59:00+00:00",
+   "endAt": "2026-10-12T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "009fc476-0932-4ff7-9a06-c7848461d71c",
    "game": "Rush Royale",
@@ -12399,13 +12435,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.89
+   "score": 14.88
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12417,25 +12453,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.79
+   "score": 14.78
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12459,7 +12495,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.56
+   "score": 10.55
   }
  },
  "favoriteWeights": {
