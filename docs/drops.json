@@ -2862,26 +2862,6 @@
    "asset": "assets/19b30b43-f37a-487d-9534-8d34df58bf1a.png"
   },
   {
-   "id": "d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
-   "game": "Albion Online",
-   "title": "Dragonfire 6 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T10:00:00+00:00",
-   "endAt": "2026-10-12T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-11T10:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25c606e8-2eb6-485b-9fa7-84d525d11698.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d40ae03d-522d-41ad-8b2d-bf67e6b4544e.png"
-  },
-  {
    "id": "ec8cc371-a1a5-40f3-a1c4-feee263c9ab6",
    "game": "Black Desert",
    "title": "Master Class 26 (Oct 11)",
@@ -3307,6 +3287,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
+   "game": "Albion Online",
+   "title": "Dragonfire 6 - #7/7",
+   "startAt": "2026-10-11T10:00:00+00:00",
+   "endAt": "2026-10-12T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "35968b82-76c2-4d03-9145-370989fa0d83",
    "game": "Escape from Tarkov",
@@ -12199,13 +12187,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.01
+   "score": 15.0
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12217,25 +12205,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.91
+   "score": 14.9
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12253,13 +12241,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.55
+   "score": 5.54
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.65
+   "score": 10.64
   }
  },
  "favoriteWeights": {
