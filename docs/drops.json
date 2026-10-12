@@ -2,46 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
-   "game": "Where Winds Meet",
-   "title": "Where Winds Meet October",
-   "status": "ACTIVE",
-   "startAt": "2026-09-14T02:00:00+00:00",
-   "endAt": "2026-10-12T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T03:30:17+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd5950ba-0f0f-4b64-9e4a-445e4fe5fd95.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
-   "rewards": [
-    {
-     "name": "15min drop October",
-     "minutes": 15
-    },
-    {
-     "name": "30min drop October",
-     "minutes": 30
-    },
-    {
-     "name": "60min drop October",
-     "minutes": 60
-    },
-    {
-     "name": "120min drop October",
-     "minutes": 120
-    },
-    {
-     "name": "180min drop October",
-     "minutes": 180
-    },
-    {
-     "name": "240min drop October",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/2d14347e-18fe-4c94-a5c8-4b24ac5f747c.png"
-  },
-  {
    "id": "08012a89-858e-47ca-8dad-5aa11587a233",
    "game": "Skull and Bones",
    "title": "Skull and Bones - Y3S2",
@@ -1306,26 +1266,6 @@
    "asset": "assets/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpg"
   },
   {
-   "id": "c1a3bab3-af60-47fd-a8ae-5ba606edb525",
-   "game": "Dead by Daylight",
-   "title": "DbD: October of Horror ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T15:00:00+00:00",
-   "endAt": "2026-10-12T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T15:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ef4fb25b-242e-4adc-8c3b-4cc177109237.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c1a3bab3-af60-47fd-a8ae-5ba606edb525",
-   "rewards": [
-    {
-     "name": "Corvidicus Malificus Charm",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/c1a3bab3-af60-47fd-a8ae-5ba606edb525.png"
-  },
-  {
    "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
    "game": "Street Fighter 6",
    "title": "Street Fighter 6",
@@ -1380,34 +1320,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
-  },
-  {
-   "id": "cc7e2087-863c-4ad2-97aa-484644c58089",
-   "game": "Modern Warships",
-   "title": "Weekly Supply Drops #36",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T00:00:00+00:00",
-   "endAt": "2026-10-11T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-05T00:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3205c8e-c26b-4787-b005-20a65ccb75f4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc7e2087-863c-4ad2-97aa-484644c58089",
-   "rewards": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cc7e2087-863c-4ad2-97aa-484644c58089.png"
   },
   {
    "id": "3bec3616-0c35-4cb8-9533-2db143d26880",
@@ -1556,26 +1468,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5aa12dd6-1818-4024-ba42-346c8d6b2ed4.png"
-  },
-  {
-   "id": "bc52cc79-40e2-4c9f-bcff-79b5ae55bf61",
-   "game": "Neighbors: Suburban Warfare",
-   "title": "Neighbors 1.0 Release",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T13:27:00+00:00",
-   "endAt": "2026-10-11T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T14:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dee24c44-89e2-40d9-b2e5-56a065d758ef.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bc52cc79-40e2-4c9f-bcff-79b5ae55bf61",
-   "rewards": [
-    {
-     "name": "Modern TV Set",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bc52cc79-40e2-4c9f-bcff-79b5ae55bf61.png"
   },
   {
    "id": "009fc476-0932-4ff7-9a06-c7848461d71c",
@@ -2234,42 +2126,6 @@
    "asset": "assets/107f5eb2-1479-4e6c-b154-47ae13517533.png"
   },
   {
-   "id": "b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
-   "game": "Delta Force",
-   "title": "AM&EMEA Group StageD9-12",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T00:00:00+00:00",
-   "endAt": "2026-10-11T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T00:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a53adca-548a-450d-86b5-58e38aaf26be.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
-   "rewards": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15
-    },
-    {
-     "name": "Ammo Selection Pack Lv.4",
-     "minutes": 30
-    },
-    {
-     "name": "Spray-RISE SERIES SEASON2",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "Avatar-RISESERIES SEASON2",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5.png"
-  },
-  {
    "id": "efb9b018-9c9e-4721-8659-6690bfd8cb63",
    "game": "Modern Warships",
    "title": "MW: Leviathan Harvest",
@@ -2492,26 +2348,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/773f4909-b958-455c-be7a-641ade4067c5.png"
-  },
-  {
-   "id": "f3b58f81-3715-4873-9939-395687410f32",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS2 Weekly 10.9",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T04:00:00+00:00",
-   "endAt": "2026-10-12T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T05:30:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b47b93bd-a1d8-4a40-8e1d-7d52a6078d99.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f3b58f81-3715-4873-9939-395687410f32",
-   "rewards": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f3b58f81-3715-4873-9939-395687410f32.png"
   },
   {
    "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
@@ -2898,38 +2734,6 @@
    "asset": "assets/3e326242-85d7-44a9-b540-eacce80ced06.png"
   },
   {
-   "id": "5f0500a5-2f91-439e-a31f-0a1ca29a4a06",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 16",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T05:00:00+00:00",
-   "endAt": "2026-10-12T04:58:59.999+00:00",
-   "firstSeenAt": "2026-10-10T05:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03d0514b-7fac-4cf6-a8bb-466f3f943924.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5f0500a5-2f91-439e-a31f-0a1ca29a4a06",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 540
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5f0500a5-2f91-439e-a31f-0a1ca29a4a06.png"
-  },
-  {
    "id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
    "game": "SMITE 2",
    "title": "October Week 3!",
@@ -3056,30 +2860,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/19b30b43-f37a-487d-9534-8d34df58bf1a.png"
-  },
-  {
-   "id": "eb835426-6152-49f5-b023-46386a9f387f",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T00:00:00+00:00",
-   "endAt": "2026-10-11T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T00:30:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/699298c7-0ad6-4e07-947f-db9510732963.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb835426-6152-49f5-b023-46386a9f387f",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eb835426-6152-49f5-b023-46386a9f387f.png"
   },
   {
    "id": "35968b82-76c2-4d03-9145-370989fa0d83",
@@ -3218,34 +2998,6 @@
    "asset": "assets/35efc80c-6793-4a72-9345-ea2501858d89.png"
   },
   {
-   "id": "6f9179e6-5555-4a30-b1e9-25e33996cff5",
-   "game": "World of Tanks",
-   "title": "AMD OLS#7 Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T14:00:00+00:00",
-   "endAt": "2026-10-11T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T14:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b7a740f3-7f9b-403c-abea-21cb49355520.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6f9179e6-5555-4a30-b1e9-25e33996cff5",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6f9179e6-5555-4a30-b1e9-25e33996cff5.png"
-  },
-  {
    "id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c",
    "game": "Embervale.TV",
    "title": "Halloween Event 2026",
@@ -3380,9 +3132,241 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/41636cfe-2021-41b9-b1a5-bc56cc9073ef.png"
+  },
+  {
+   "id": "705ad06a-4e5f-4695-8a87-d73e066e2ea3",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-12T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T00:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f109b83b-4c58-490a-bcd2-5e358bdc86b4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=705ad06a-4e5f-4695-8a87-d73e066e2ea3",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/705ad06a-4e5f-4695-8a87-d73e066e2ea3.png"
+  },
+  {
+   "id": "fa81a25b-c3ac-46cc-a91a-39ba652f6f2e",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-18T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T00:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/44171256-dbda-41e5-a124-3c05e1821d79.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fa81a25b-c3ac-46cc-a91a-39ba652f6f2e",
+   "rewards": [
+    {
+     "name": "75x Crystal",
+     "minutes": 30
+    },
+    {
+     "name": "12x Thirst for Adventure",
+     "minutes": 60
+    },
+    {
+     "name": "4x Dungeon Key",
+     "minutes": 90
+    },
+    {
+     "name": "5x Arena Ticket",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fa81a25b-c3ac-46cc-a91a-39ba652f6f2e.png"
+  },
+  {
+   "id": "1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #37",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-18T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-12T00:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60d4a20a-fdc7-487a-8ce7-4c9dc18e793d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5",
+   "rewards": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5.png"
+  },
+  {
+   "id": "0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd",
+   "game": "Dead by Daylight",
+   "title": "DbD: October of Horror II",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T04:00:00+00:00",
+   "endAt": "2026-10-19T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T04:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0e1afff0-2674-4f98-aa71-f2e906949ca9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd",
+   "rewards": [
+    {
+     "name": "Kite-Flying Fright Banner",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd.png"
+  },
+  {
+   "id": "0c0f3c99-26aa-4277-87c6-362b3c8f8231",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS2 Weekly 10.12",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T04:00:00+00:00",
+   "endAt": "2026-10-19T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T04:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1094a2c-5064-4e5f-8b90-c40d924d40f0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0c0f3c99-26aa-4277-87c6-362b3c8f8231",
+   "rewards": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0c0f3c99-26aa-4277-87c6-362b3c8f8231.png"
+  },
+  {
+   "id": "a469ddb9-08e4-4644-b9cf-c8fc01570771",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 17",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T05:00:00+00:00",
+   "endAt": "2026-10-14T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-12T05:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b4e5144-fd60-4e05-920a-e507f676d7d8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a469ddb9-08e4-4644-b9cf-c8fc01570771",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 540
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a469ddb9-08e4-4644-b9cf-c8fc01570771.png"
   }
  ],
  "archive": [
+  {
+   "id": "5f0500a5-2f91-439e-a31f-0a1ca29a4a06",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 16",
+   "startAt": "2026-10-10T05:00:00+00:00",
+   "endAt": "2026-10-12T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c1a3bab3-af60-47fd-a8ae-5ba606edb525",
+   "game": "Dead by Daylight",
+   "title": "DbD: October of Horror ",
+   "startAt": "2026-10-01T15:00:00+00:00",
+   "endAt": "2026-10-12T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f3b58f81-3715-4873-9939-395687410f32",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS2 Weekly 10.9",
+   "startAt": "2026-10-09T04:00:00+00:00",
+   "endAt": "2026-10-12T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c",
+   "game": "Where Winds Meet",
+   "title": "Where Winds Meet October",
+   "startAt": "2026-09-14T02:00:00+00:00",
+   "endAt": "2026-10-12T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f7bd5567-cf25-4ee9-a609-6a3f6e609e94",
+   "game": "Warframe",
+   "title": "2020Zero",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-12T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bc52cc79-40e2-4c9f-bcff-79b5ae55bf61",
+   "game": "Neighbors: Suburban Warfare",
+   "title": "Neighbors 1.0 Release",
+   "startAt": "2026-10-05T13:27:00+00:00",
+   "endAt": "2026-10-11T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b71cc46e-14ff-4e5b-b5ff-c76c299ca7c5",
+   "game": "Delta Force",
+   "title": "AM&EMEA Group StageD9-12",
+   "startAt": "2026-10-08T00:00:00+00:00",
+   "endAt": "2026-10-11T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "eb835426-6152-49f5-b023-46386a9f387f",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-11T00:00:00+00:00",
+   "endAt": "2026-10-11T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cc7e2087-863c-4ad2-97aa-484644c58089",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #36",
+   "startAt": "2026-10-05T00:00:00+00:00",
+   "endAt": "2026-10-11T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6f9179e6-5555-4a30-b1e9-25e33996cff5",
+   "game": "World of Tanks",
+   "title": "AMD OLS#7 Finals",
+   "startAt": "2026-10-11T14:00:00+00:00",
+   "endAt": "2026-10-11T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "33b64b3d-0949-49d9-869b-8e530ad9d38c",
    "game": "Mobile Dungeon",
@@ -12179,67 +12163,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.75
+   "score": 10.69
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.16
+   "score": 15.07
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.38
+   "score": 2.36
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 15.06
+   "score": 14.96
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.75
+   "score": 10.69
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.75
+   "score": 10.69
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.75
+   "score": 10.69
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.19
+   "score": 1.18
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.15
+   "score": 5.12
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.6
+   "score": 5.57
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.75
+   "score": 10.69
   }
  },
  "favoriteWeights": {
@@ -12247,7 +12231,7 @@
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 25,
-  "LEGO Batman: Legacy of the Dark Knight": 25,
+  "LEGO Batman: Legacy of the Dark Knight": 24,
   "Marvel Rivals": 10,
   "Once Human": 20,
   "Palia": 20,

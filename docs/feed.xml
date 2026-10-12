@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Where Winds Meet — Where Winds Meet October</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=2d14347e-18fe-4c94-a5c8-4b24ac5f747c</link>
-    <guid isPermaLink="false">2d14347e-18fe-4c94-a5c8-4b24ac5f747c</guid>
-    <description>15min drop October · 30min drop October · 60min drop October · 120min drop October · 180min drop October · 240min drop October — runs 2026-09-14T02:00:00+00:00 → 2026-10-12T01:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-14T02:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Skull and Bones — Skull and Bones - Y3S2</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=08012a89-858e-47ca-8dad-5aa11587a233</link>
     <guid isPermaLink="false">08012a89-858e-47ca-8dad-5aa11587a233</guid>
@@ -320,13 +313,6 @@
     <pubDate>2026-10-01T13:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Dead by Daylight — DbD: October of Horror </title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=c1a3bab3-af60-47fd-a8ae-5ba606edb525</link>
-    <guid isPermaLink="false">c1a3bab3-af60-47fd-a8ae-5ba606edb525</guid>
-    <description>Corvidicus Malificus Charm — runs 2026-10-01T15:00:00+00:00 → 2026-10-12T03:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-01T15:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Street Fighter 6 — Street Fighter 6</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=711b6068-c16e-4d0f-bcb1-6be54eb91c3f</link>
     <guid isPermaLink="false">711b6068-c16e-4d0f-bcb1-6be54eb91c3f</guid>
@@ -341,18 +327,32 @@
     <pubDate>2026-10-02T14:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Modern Warships — Weekly Supply Drops #36</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=cc7e2087-863c-4ad2-97aa-484644c58089</link>
-    <guid isPermaLink="false">cc7e2087-863c-4ad2-97aa-484644c58089</guid>
-    <description>1 Day of Premium · 100 UP's · Tactical Consumables Set — runs 2026-10-05T00:00:00+00:00 → 2026-10-11T23:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Sonic Rumble Party — October 2026 Drops</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=3bec3616-0c35-4cb8-9533-2db143d26880</link>
     <guid isPermaLink="false">3bec3616-0c35-4cb8-9533-2db143d26880</guid>
     <description>Ring*3000 · Tune-Up Wrench*300 · Red Star Ring*100 — runs 2026-10-05T08:00:00+00:00 → 2026-10-23T07:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-05T08:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>AION 2 — Global Launch Celebration</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=1214217f-aa1a-40be-ac32-9dffd3698775</link>
+    <guid isPermaLink="false">1214217f-aa1a-40be-ac32-9dffd3698775</guid>
+    <description>Odyle Energy x4 · Skin Chest x1 · Enhance Stone x5,000 · Head Bow x1 · Soul Codex: Reset x2 · Resurrection Stone x10 — runs 2026-10-05T13:00:00+00:00 → 2026-10-17T06:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-05T13:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Out of the Park Baseball 27 — Laptophound 22</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=dbfde195-4e55-4534-aba7-26f9bf31fde5</link>
+    <guid isPermaLink="false">dbfde195-4e55-4534-aba7-26f9bf31fde5</guid>
+    <description>1 · 2 · 3 · 4 — runs 2026-10-05T13:00:00+00:00 → 2026-10-12T12:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-05T13:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Out of the Park Baseball 27 — Official 22</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=5aa12dd6-1818-4024-ba42-346c8d6b2ed4</link>
+    <guid isPermaLink="false">5aa12dd6-1818-4024-ba42-346c8d6b2ed4</guid>
+    <description>2 · 3 · 4 · 5 · 6 · 7 — runs 2026-10-05T13:00:00+00:00 → 2026-10-12T12:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-05T13:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
