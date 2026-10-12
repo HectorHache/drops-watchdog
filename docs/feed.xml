@@ -5,13 +5,6 @@
   <link>https://drops.hector.app</link>
   <description>Active Twitch drop campaigns with rewards and countdowns</description>
   <item>
-    <title>Skull and Bones — Skull and Bones - Y3S2</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=08012a89-858e-47ca-8dad-5aa11587a233</link>
-    <guid isPermaLink="false">08012a89-858e-47ca-8dad-5aa11587a233</guid>
-    <description>TideSplitter · Brinehardened Hide · Windhook · Freedom's Call — runs 2026-09-15T07:00:00+00:00 → 2026-10-12T21:29:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-15T07:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Aniimo — Aniimo Global Launch</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=75c84956-e49d-417f-a8c4-aae97d724d7a</link>
     <guid isPermaLink="false">75c84956-e49d-417f-a8c4-aae97d724d7a</guid>
@@ -351,6 +344,13 @@
     <title>Legend of YMIR — LOY DROPS_ALL (26_OCT)</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=8e15c074-d564-4bfa-8d14-a644696745cc</link>
     <guid isPermaLink="false">8e15c074-d564-4bfa-8d14-a644696745cc</guid>
+    <description>1 · 2 · 3 · 4 · 5 · 6 — runs 2026-10-06T09:00:00+00:00 → 2026-10-27T14:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-06T09:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Legend of YMIR — LOY DROPS_SSS (26_OCT)</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=b08e6c0e-ac1c-4b93-906c-5646ed5559ad</link>
+    <guid isPermaLink="false">b08e6c0e-ac1c-4b93-906c-5646ed5559ad</guid>
     <description>1 · 2 · 3 · 4 · 5 · 6 — runs 2026-10-06T09:00:00+00:00 → 2026-10-27T14:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-06T09:00:00+00:00</pubDate>
   </item>

@@ -2,38 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "08012a89-858e-47ca-8dad-5aa11587a233",
-   "game": "Skull and Bones",
-   "title": "Skull and Bones - Y3S2",
-   "status": "ACTIVE",
-   "startAt": "2026-09-15T07:00:00+00:00",
-   "endAt": "2026-10-12T21:29:59.999+00:00",
-   "firstSeenAt": "2026-09-15T07:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7888b1b6-cd33-4168-a9d7-b754dc1e3000.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=08012a89-858e-47ca-8dad-5aa11587a233",
-   "rewards": [
-    {
-     "name": "TideSplitter",
-     "minutes": 30
-    },
-    {
-     "name": "Brinehardened Hide",
-     "minutes": 60
-    },
-    {
-     "name": "Windhook",
-     "minutes": 120
-    },
-    {
-     "name": "Freedom's Call",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/08012a89-858e-47ca-8dad-5aa11587a233.jpg"
-  },
-  {
    "id": "75c84956-e49d-417f-a8c4-aae97d724d7a",
    "game": "Aniimo",
    "title": "Aniimo Global Launch",
@@ -3479,6 +3447,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "08012a89-858e-47ca-8dad-5aa11587a233",
+   "game": "Skull and Bones",
+   "title": "Skull and Bones - Y3S2",
+   "startAt": "2026-09-15T07:00:00+00:00",
+   "endAt": "2026-10-12T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4471f6d2-2d97-4eac-95c5-12c725d1ad15",
    "game": "MARVEL Strike Force",
@@ -12457,7 +12433,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.84
+   "score": 14.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12469,7 +12445,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.74
+   "score": 14.73
   },
   "Once Human": {
    "favorites": 2,
