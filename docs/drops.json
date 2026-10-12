@@ -3284,6 +3284,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/77adaf06-91a6-4245-adc5-f0718b2f493d.png"
+  },
+  {
+   "id": "8e754583-4909-4ab5-9c17-7b85e826decf",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T10:00:00+00:00",
+   "endAt": "2026-10-13T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-12T10:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/951d9ab7-9b5e-4e19-9366-28133da4b9ad.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e754583-4909-4ab5-9c17-7b85e826decf",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8e754583-4909-4ab5-9c17-7b85e826decf.png"
+  },
+  {
+   "id": "f56870cf-c3c9-4b5b-a4c2-01fa752710f0",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T10:00:00+00:00",
+   "endAt": "2026-10-13T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-12T10:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd7b279f-5f30-4761-9dcd-d726b88f96d8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f56870cf-c3c9-4b5b-a4c2-01fa752710f0",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f56870cf-c3c9-4b5b-a4c2-01fa752710f0.png"
   }
  ],
  "archive": [
@@ -12187,7 +12227,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.64
+   "score": 10.63
   },
   "Delta Force": {
    "favorites": 3,
@@ -12205,25 +12245,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.9
+   "score": 14.89
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.64
+   "score": 10.63
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.64
+   "score": 10.63
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.64
+   "score": 10.63
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12235,7 +12275,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.1
+   "score": 5.09
   },
   "Warframe": {
    "favorites": 1,
@@ -12247,14 +12287,14 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.64
+   "score": 10.63
   }
  },
  "favoriteWeights": {
   "ARC Raiders": 20,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 25,
+  "Delta Force": 24,
   "LEGO Batman: Legacy of the Dark Knight": 24,
   "Marvel Rivals": 10,
   "Once Human": 20,
