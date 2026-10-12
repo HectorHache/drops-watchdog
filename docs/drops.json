@@ -2862,62 +2862,6 @@
    "asset": "assets/19b30b43-f37a-487d-9534-8d34df58bf1a.png"
   },
   {
-   "id": "35968b82-76c2-4d03-9145-370989fa0d83",
-   "game": "Escape from Tarkov",
-   "title": "EXFIL Brothers Day 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T07:00:00+00:00",
-   "endAt": "2026-10-12T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T07:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/940378f5-2731-4272-a59a-c37e0bf06e8b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=35968b82-76c2-4d03-9145-370989fa0d83",
-   "rewards": [
-    {
-     "name": "Drop 7",
-     "minutes": 420
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 480
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 540
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 600
-    },
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/35968b82-76c2-4d03-9145-370989fa0d83.png"
-  },
-  {
    "id": "d40ae03d-522d-41ad-8b2d-bf67e6b4544e",
    "game": "Albion Online",
    "title": "Dragonfire 6 - #7/7",
@@ -3264,9 +3208,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a469ddb9-08e4-4644-b9cf-c8fc01570771.png"
+  },
+  {
+   "id": "4048cf42-6e33-4d3a-a132-72d35604a46b",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T07:00:00+00:00",
+   "endAt": "2026-10-13T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T07:00:32+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/34d3092e-120a-466d-beca-023a89d8da5b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4048cf42-6e33-4d3a-a132-72d35604a46b",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    },
+    {
+     "name": "Drop 7",
+     "minutes": 420
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 480
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 540
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4048cf42-6e33-4d3a-a132-72d35604a46b.png"
   }
  ],
  "archive": [
+  {
+   "id": "35968b82-76c2-4d03-9145-370989fa0d83",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 3",
+   "startAt": "2026-10-11T07:00:00+00:00",
+   "endAt": "2026-10-12T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ca030529-1715-4475-b5db-abf0cf8564ee",
    "game": "Halo Infinite",
@@ -12157,7 +12165,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.05
+   "score": 15.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
