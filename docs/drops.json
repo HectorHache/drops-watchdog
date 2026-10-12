@@ -3264,6 +3264,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4048cf42-6e33-4d3a-a132-72d35604a46b.png"
+  },
+  {
+   "id": "77adaf06-91a6-4245-adc5-f0718b2f493d",
+   "game": "Legion TD 2",
+   "title": "26.10 Patch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T08:00:00+00:00",
+   "endAt": "2026-10-19T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T08:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/329c907a-e669-41c8-b9ad-c976ea95d905.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77adaf06-91a6-4245-adc5-f0718b2f493d",
+   "rewards": [
+    {
+     "name": "2000 Essence",
+     "minutes": 60
+    },
+    {
+     "name": "4000 Essence",
+     "minutes": 120
+    },
+    {
+     "name": "Random Card",
+     "minutes": 240
+    },
+    {
+     "name": "1000 Premium Essence",
+     "minutes": 420
+    },
+    {
+     "name": "Random Secret Card",
+     "minutes": 600
+    },
+    {
+     "name": "Rando mSecret Card",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/77adaf06-91a6-4245-adc5-f0718b2f493d.png"
   }
  ],
  "archive": [
@@ -12165,7 +12205,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.03
+   "score": 15.02
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12177,7 +12217,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.93
+   "score": 14.92
   },
   "Once Human": {
    "favorites": 2,
@@ -12207,7 +12247,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.11
+   "score": 5.1
   },
   "Warframe": {
    "favorites": 1,
