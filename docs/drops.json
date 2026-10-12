@@ -3458,15 +3458,15 @@
    "asset": "assets/2ccce4fe-d6f3-409e-be60-4d0b916c2eae.jpg"
   },
   {
-   "id": "98f7ebbb-7ffc-4be1-afc2-8f295de97566",
+   "id": "d0f30006-8c62-4fb6-9f28-d0cd8131be5b",
    "game": "Warframe",
-   "title": "PMCFQ - upsidedownsmore",
+   "title": "PMCFQ - purkinje",
    "status": "ACTIVE",
-   "startAt": "2026-10-12T18:00:00+00:00",
-   "endAt": "2026-10-12T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T18:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/729844d7-7cb5-4913-b860-52a118aa297d.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98f7ebbb-7ffc-4be1-afc2-8f295de97566",
+   "startAt": "2026-10-12T20:00:00+00:00",
+   "endAt": "2026-10-12T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T20:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31f49825-1824-4a52-be14-1bc311814e81.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d0f30006-8c62-4fb6-9f28-d0cd8131be5b",
    "rewards": [
     {
      "name": "Random Floof",
@@ -3475,10 +3475,18 @@
    ],
    "inSteamLibrary": true,
    "isFavorite": true,
-   "asset": "assets/98f7ebbb-7ffc-4be1-afc2-8f295de97566.jpg"
+   "asset": "assets/d0f30006-8c62-4fb6-9f28-d0cd8131be5b.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "98f7ebbb-7ffc-4be1-afc2-8f295de97566",
+   "game": "Warframe",
+   "title": "PMCFQ - upsidedownsmore",
+   "startAt": "2026-10-12T18:00:00+00:00",
+   "endAt": "2026-10-12T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a31010a4-cc82-4754-80cf-bcbab569f5b3",
    "game": "Rise Online",
@@ -12435,13 +12443,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.53
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.86
+   "score": 14.85
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12453,31 +12461,31 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.76
+   "score": 14.75
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.53
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.53
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.53
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.17
+   "score": 1.16
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -12495,7 +12503,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.54
+   "score": 10.53
   }
  },
  "favoriteWeights": {
