@@ -1434,26 +1434,6 @@
    "asset": "assets/35e7547f-0b2a-430d-850e-bfd9d5729eab.png"
   },
   {
-   "id": "4471f6d2-2d97-4eac-95c5-12c725d1ad15",
-   "game": "MARVEL Strike Force",
-   "title": "MSF | Oct Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T21:00:00+00:00",
-   "endAt": "2026-10-12T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T21:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2b077432-50c8-49e6-ab34-9e2ba487f190.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4471f6d2-2d97-4eac-95c5-12c725d1ad15",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4471f6d2-2d97-4eac-95c5-12c725d1ad15.png"
-  },
-  {
    "id": "8e15c074-d564-4bfa-8d14-a644696745cc",
    "game": "Legend of YMIR",
    "title": "LOY DROPS_ALL (26_OCT)",
@@ -3476,9 +3456,37 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/d0f30006-8c62-4fb6-9f28-d0cd8131be5b.jpg"
+  },
+  {
+   "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | Oct Week 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T21:00:00+00:00",
+   "endAt": "2026-10-19T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T21:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/725d2087-12aa-4a78-8d46-e0c576db33e3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=30317d7a-d1b0-4f41-a9d9-6ada1a832645",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
   }
  ],
  "archive": [
+  {
+   "id": "4471f6d2-2d97-4eac-95c5-12c725d1ad15",
+   "game": "MARVEL Strike Force",
+   "title": "MSF | Oct Week 2",
+   "startAt": "2026-10-05T21:00:00+00:00",
+   "endAt": "2026-10-12T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "98f7ebbb-7ffc-4be1-afc2-8f295de97566",
    "game": "Warframe",
@@ -12443,7 +12451,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.53
+   "score": 10.52
   },
   "Delta Force": {
    "favorites": 3,
@@ -12467,19 +12475,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.53
+   "score": 10.52
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.53
+   "score": 10.52
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.53
+   "score": 10.52
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12503,7 +12511,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.53
+   "score": 10.52
   }
  },
  "favoriteWeights": {
