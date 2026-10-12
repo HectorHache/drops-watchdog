@@ -3424,6 +3424,38 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/982b611a-ae2a-4cc6-bf15-77daa8b5b343.jpg"
+  },
+  {
+   "id": "05dd2a67-9f78-4387-8a34-736573268ac7",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T17:00:00+00:00",
+   "endAt": "2026-10-15T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T17:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20373371-a051-4543-b81f-44552442392f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=05dd2a67-9f78-4387-8a34-736573268ac7",
+   "rewards": [
+    {
+     "name": "Odyle Energy x4",
+     "minutes": 30
+    },
+    {
+     "name": "Skin Chest (10 Skins) x1",
+     "minutes": 60
+    },
+    {
+     "name": "Resurrection Stone x15",
+     "minutes": 120
+    },
+    {
+     "name": "Leather Crop Fit x1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/05dd2a67-9f78-4387-8a34-736573268ac7.png"
   }
  ],
  "archive": [
@@ -12367,13 +12399,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.57
+   "score": 10.56
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.9
+   "score": 14.89
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12385,25 +12417,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.8
+   "score": 14.79
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.57
+   "score": 10.56
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.57
+   "score": 10.56
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.57
+   "score": 10.56
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12421,13 +12453,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.51
+   "score": 5.5
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.57
+   "score": 10.56
   }
  },
  "favoriteWeights": {
