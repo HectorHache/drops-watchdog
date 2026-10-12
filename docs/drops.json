@@ -3396,6 +3396,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d351267c-a111-4eaf-af10-50a78f53f77c.jpg"
+  },
+  {
+   "id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343",
+   "game": "For Honor",
+   "title": " FH Crusade Oct 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-12T16:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-12T16:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52c0511e-fb09-4170-8be5-3a2b685f711e.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=982b611a-ae2a-4cc6-bf15-77daa8b5b343",
+   "rewards": [
+    {
+     "name": "Tier 1",
+     "minutes": 60
+    },
+    {
+     "name": "Tier 2",
+     "minutes": 120
+    },
+    {
+     "name": "Tier 3",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/982b611a-ae2a-4cc6-bf15-77daa8b5b343.jpg"
   }
  ],
  "archive": [
@@ -12339,13 +12367,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.92
+   "score": 14.91
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12363,19 +12391,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12399,7 +12427,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.58
+   "score": 10.57
   }
  },
  "favoriteWeights": {
