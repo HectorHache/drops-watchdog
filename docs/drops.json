@@ -3038,26 +3038,6 @@
    "asset": "assets/c9b4b2ac-7ede-4fed-b45d-9c657f20a73c.png"
   },
   {
-   "id": "ca030529-1715-4475-b5db-abf0cf8564ee",
-   "game": "Halo Infinite",
-   "title": "Pro League OCT11",
-   "status": "ACTIVE",
-   "startAt": "2026-10-11T16:00:00+00:00",
-   "endAt": "2026-10-12T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-11T16:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cbe84e23-234d-4684-b624-b425982aa4ca.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca030529-1715-4475-b5db-abf0cf8564ee",
-   "rewards": [
-    {
-     "name": "Pink Pop Visor",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/ca030529-1715-4475-b5db-abf0cf8564ee.png"
-  },
-  {
    "id": "a31010a4-cc82-4754-80cf-bcbab569f5b3",
    "game": "Rise Online",
    "title": "ROW Drop 614",
@@ -3287,6 +3267,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "ca030529-1715-4475-b5db-abf0cf8564ee",
+   "game": "Halo Infinite",
+   "title": "Pro League OCT11",
+   "startAt": "2026-10-11T16:00:00+00:00",
+   "endAt": "2026-10-12T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5f0500a5-2f91-439e-a31f-0a1ca29a4a06",
    "game": "Rainbow Six Siege",
@@ -12169,7 +12157,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 15.06
+   "score": 15.05
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12181,7 +12169,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.96
+   "score": 14.95
   },
   "Once Human": {
    "favorites": 2,
@@ -12211,7 +12199,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.12
+   "score": 5.11
   },
   "Warframe": {
    "favorites": 1,
