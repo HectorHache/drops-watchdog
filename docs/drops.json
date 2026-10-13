@@ -3216,6 +3216,38 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/cf443e3d-d93d-4e01-b17b-8c59b583d344.jpg"
+  },
+  {
+   "id": "fad75b9a-3a41-4c56-9bd1-75e3ee4bb475",
+   "game": "Madden NFL 27",
+   "title": "M27 MF Special Stream",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T22:30:00+00:00",
+   "endAt": "2026-10-14T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T22:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/041a5a09-e2be-4905-bfc7-4a3e9a4edb52.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fad75b9a-3a41-4c56-9bd1-75e3ee4bb475",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "MUT Bobby Wagner",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Super Twitch Pack",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fad75b9a-3a41-4c56-9bd1-75e3ee4bb475.png"
   }
  ],
  "archive": [
@@ -12425,7 +12457,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.39
+   "score": 14.38
   },
   "Once Human": {
    "favorites": 2,
