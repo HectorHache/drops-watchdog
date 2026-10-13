@@ -3272,6 +3272,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/88f365eb-f6bb-4a26-acbb-cd0e77f3d117.png"
+  },
+  {
+   "id": "228487a2-04be-463c-9b01-a86bbb735275",
+   "game": "EVE Online",
+   "title": "Totality Day YC128",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T13:10:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T13:30:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/923a1816-15c2-4329-b539-40ffc311feb7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=228487a2-04be-463c-9b01-a86bbb735275",
+   "rewards": [
+    {
+     "name": "Totality Day Accelerator",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/228487a2-04be-463c-9b01-a86bbb735275.jpg"
   }
  ],
  "archive": [
@@ -12381,7 +12401,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.61
+   "score": 14.6
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12393,7 +12413,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.51
+   "score": 14.5
   },
   "Once Human": {
    "favorites": 2,
