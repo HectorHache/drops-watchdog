@@ -3140,6 +3140,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png"
+  },
+  {
+   "id": "45efd9f4-05a7-4988-9989-72fd63cc93b9",
+   "game": "World of Tanks Console",
+   "title": "Monster Hunting #1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T16:20:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T16:30:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e04dd9ab-e4c8-4035-a1f2-cdd40ea22433.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45efd9f4-05a7-4988-9989-72fd63cc93b9",
+   "rewards": [
+    {
+     "name": "Monster Hunting #1",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/45efd9f4-05a7-4988-9989-72fd63cc93b9.png"
   }
  ],
  "archive": [
@@ -12305,7 +12325,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.57
+   "score": 14.56
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12317,7 +12337,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.47
+   "score": 14.46
   },
   "Once Human": {
    "favorites": 2,
