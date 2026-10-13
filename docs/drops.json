@@ -1978,26 +1978,6 @@
    "asset": "assets/773f4909-b958-455c-be7a-641ade4067c5.png"
   },
   {
-   "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
-   "game": "EVE Online",
-   "title": "Crimson Harvest Drop 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T11:00:00+00:00",
-   "endAt": "2026-10-13T10:56:59.999+00:00",
-   "firstSeenAt": "2026-10-09T11:00:52+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c671c46-29ec-423b-ad7a-4fcdd79061e6.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1822c834-802a-4c85-b34e-b6a6fc103c16",
-   "rewards": [
-    {
-     "name": "Purifier Malagrin SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1822c834-802a-4c85-b34e-b6a6fc103c16.jpg"
-  },
-  {
    "id": "7a2b054f-813e-438f-8b4e-d65b4666e54a",
    "game": "Dark and Darker",
    "title": "EA Season 11 Drops 1",
@@ -3179,6 +3159,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 2",
+   "startAt": "2026-10-09T11:00:00+00:00",
+   "endAt": "2026-10-13T10:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8e754583-4909-4ab5-9c17-7b85e826decf",
    "game": "Albion Online",
@@ -12255,13 +12243,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.38
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.65
+   "score": 14.64
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12273,25 +12261,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.55
+   "score": 14.54
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.38
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.38
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.38
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12303,7 +12291,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.98
+   "score": 4.97
   },
   "Warframe": {
    "favorites": 1,
@@ -12315,7 +12303,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.39
+   "score": 10.38
   }
  },
  "favoriteWeights": {
