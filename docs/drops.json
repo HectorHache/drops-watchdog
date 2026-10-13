@@ -2702,46 +2702,6 @@
    "asset": "assets/77adaf06-91a6-4245-adc5-f0718b2f493d.png"
   },
   {
-   "id": "8e754583-4909-4ab5-9c17-7b85e826decf",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T10:00:00+00:00",
-   "endAt": "2026-10-13T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-12T10:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/951d9ab7-9b5e-4e19-9366-28133da4b9ad.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e754583-4909-4ab5-9c17-7b85e826decf",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8e754583-4909-4ab5-9c17-7b85e826decf.png"
-  },
-  {
-   "id": "f56870cf-c3c9-4b5b-a4c2-01fa752710f0",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T10:00:00+00:00",
-   "endAt": "2026-10-13T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-12T10:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd7b279f-5f30-4761-9dcd-d726b88f96d8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f56870cf-c3c9-4b5b-a4c2-01fa752710f0",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f56870cf-c3c9-4b5b-a4c2-01fa752710f0.png"
-  },
-  {
    "id": "98705723-fe19-44be-b1ee-9b4e02c40e28",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Oct 12)",
@@ -3179,6 +3139,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "8e754583-4909-4ab5-9c17-7b85e826decf",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #1/7",
+   "startAt": "2026-10-12T10:00:00+00:00",
+   "endAt": "2026-10-13T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f56870cf-c3c9-4b5b-a4c2-01fa752710f0",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #1/7",
+   "startAt": "2026-10-12T10:00:00+00:00",
+   "endAt": "2026-10-13T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "c21130db-734b-433a-a9fa-38d8c50194a1",
    "game": "Arena Breakout: Infinite",
@@ -12245,7 +12221,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.67
+   "score": 14.66
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12257,7 +12233,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.57
+   "score": 14.56
   },
   "Once Human": {
    "favorites": 2,
