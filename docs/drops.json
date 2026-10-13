@@ -2838,62 +2838,6 @@
    "asset": "assets/a469ddb9-08e4-4644-b9cf-c8fc01570771.png"
   },
   {
-   "id": "4048cf42-6e33-4d3a-a132-72d35604a46b",
-   "game": "Escape from Tarkov",
-   "title": "EXFIL Brothers Day 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T07:00:00+00:00",
-   "endAt": "2026-10-13T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T07:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/34d3092e-120a-466d-beca-023a89d8da5b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4048cf42-6e33-4d3a-a132-72d35604a46b",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    },
-    {
-     "name": "Drop 7",
-     "minutes": 420
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 480
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 540
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4048cf42-6e33-4d3a-a132-72d35604a46b.png"
-  },
-  {
    "id": "77adaf06-91a6-4245-adc5-f0718b2f493d",
    "game": "Legion TD 2",
    "title": "26.10 Patch",
@@ -3352,9 +3296,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6746c332-b494-41fe-b060-4b9533b66377.png"
+  },
+  {
+   "id": "e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 5",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T07:00:00+00:00",
+   "endAt": "2026-10-14T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T07:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/23e582d5-2de1-40f4-a62c-51f0dbe15fc2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360
+    },
+    {
+     "name": "Drop 7",
+     "minutes": 420
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 480
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 540
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e3c904d6-b2ad-47c4-9b3a-e4113e6b3831.png"
   }
  ],
  "archive": [
+  {
+   "id": "4048cf42-6e33-4d3a-a132-72d35604a46b",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 4",
+   "startAt": "2026-10-12T07:00:00+00:00",
+   "endAt": "2026-10-13T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "728141da-5f87-49de-8afd-7fa0be33545f",
    "game": "Genshin Impact",
@@ -12367,43 +12375,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.43
+   "score": 10.42
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.7
+   "score": 14.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.31
+   "score": 2.3
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.6
+   "score": 14.59
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.43
+   "score": 10.42
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.43
+   "score": 10.42
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.43
+   "score": 10.42
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12415,7 +12423,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.0
+   "score": 4.99
   },
   "Warframe": {
    "favorites": 1,
@@ -12427,7 +12435,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.43
+   "score": 10.42
   }
  },
  "favoriteWeights": {
