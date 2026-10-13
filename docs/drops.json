@@ -2682,26 +2682,6 @@
    "asset": "assets/77adaf06-91a6-4245-adc5-f0718b2f493d.png"
   },
   {
-   "id": "98705723-fe19-44be-b1ee-9b4e02c40e28",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 12)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T12:00:00+00:00",
-   "endAt": "2026-10-13T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T12:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dc15c127-cc81-4156-acca-3dbf71076768.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98705723-fe19-44be-b1ee-9b4e02c40e28",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 12)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/98705723-fe19-44be-b1ee-9b4e02c40e28.png"
-  },
-  {
    "id": "1425a7ff-1f9f-48f0-94cb-0aeed3ee8cdb",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate10/12/26",
@@ -3156,9 +3136,153 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/c80ccc88-01f4-4c43-bbe5-14725ff0a102.png"
+  },
+  {
+   "id": "1014c5a3-36de-4d1f-bd1e-c77839243902",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 13)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T12:00:00+00:00",
+   "endAt": "2026-10-14T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T12:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2c84c96-0819-4c28-a803-ae95f5278b0c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1014c5a3-36de-4d1f-bd1e-c77839243902",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 13)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/1014c5a3-36de-4d1f-bd1e-c77839243902.png"
+  },
+  {
+   "id": "343883d1-7915-4b51-b821-9dd8d9b7a857",
+   "game": "War Robots: Frontiers",
+   "title": "Quantum Blitz",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T12:00:00+00:00",
+   "endAt": "2026-10-20T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T12:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82738fd1-fb76-4646-abe2-adf865de5a67.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=343883d1-7915-4b51-b821-9dd8d9b7a857",
+   "rewards": [
+    {
+     "name": "3,000 Credits",
+     "minutes": 30
+    },
+    {
+     "name": "3-Day Premium Account",
+     "minutes": 60
+    },
+    {
+     "name": "15,000 Salvage",
+     "minutes": 90
+    },
+    {
+     "name": "Kinetic Pulse",
+     "minutes": 120
+    },
+    {
+     "name": "50 Intel",
+     "minutes": 150
+    },
+    {
+     "name": "Helios Chassis",
+     "minutes": 180
+    },
+    {
+     "name": "Noricum Weapon",
+     "minutes": 210
+    },
+    {
+     "name": "100 Intel",
+     "minutes": 240
+    },
+    {
+     "name": "2x Tusk Weapon",
+     "minutes": 270
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/343883d1-7915-4b51-b821-9dd8d9b7a857.png"
+  },
+  {
+   "id": "106c338b-98ad-4ae9-b594-97f1593ff96e",
+   "game": "Battlefield 6",
+   "title": "Battlefield 6 Season 5",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T12:00:00+00:00",
+   "endAt": "2026-10-21T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T12:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d62d4c93-02e9-4c6b-9a63-c0c88b706dc8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=106c338b-98ad-4ae9-b594-97f1593ff96e",
+   "rewards": [
+    {
+     "name": "Viper Charge",
+     "minutes": 240
+    },
+    {
+     "name": "Enemy From Within",
+     "minutes": 120
+    },
+    {
+     "name": "30 min Hardware XP Boost",
+     "minutes": 150
+    },
+    {
+     "name": "Incendiary Infiltration",
+     "minutes": 180
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 210
+    },
+    {
+     "name": "United Code",
+     "minutes": 60
+    },
+    {
+     "name": "15 min Hardware XP Boost",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/106c338b-98ad-4ae9-b594-97f1593ff96e.png"
+  },
+  {
+   "id": "fc782035-c5b0-4790-a5dd-c57f12469331",
+   "game": "Planet Zoo 2",
+   "title": "Launch Clothing Set",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T12:00:00+00:00",
+   "endAt": "2026-11-10T11:58:59.999+00:00",
+   "firstSeenAt": "2026-10-13T12:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4c26ccd6-881b-4a25-893a-5e7467243e00.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fc782035-c5b0-4790-a5dd-c57f12469331",
+   "rewards": [
+    {
+     "name": "Toucan, Tiger & Hawksbill Clothing Set",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fc782035-c5b0-4790-a5dd-c57f12469331.png"
   }
  ],
  "archive": [
+  {
+   "id": "98705723-fe19-44be-b1ee-9b4e02c40e28",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 12)",
+   "startAt": "2026-10-12T12:00:00+00:00",
+   "endAt": "2026-10-13T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1822c834-802a-4c85-b34e-b6a6fc103c16",
    "game": "EVE Online",
@@ -12243,13 +12367,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.38
+   "score": 10.37
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.63
+   "score": 14.62
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12261,25 +12385,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.53
+   "score": 14.52
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.38
+   "score": 10.37
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.38
+   "score": 10.37
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.38
+   "score": 10.37
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12297,13 +12421,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.41
+   "score": 5.4
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.38
+   "score": 10.37
   }
  },
  "favoriteWeights": {
