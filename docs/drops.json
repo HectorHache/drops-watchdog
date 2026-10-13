@@ -430,30 +430,6 @@
    "asset": "assets/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png"
   },
   {
-   "id": "42dc35f9-da23-4eaf-8a19-8f1838d58168",
-   "game": "Warhammer 40,000: Darktide",
-   "title": "Depths of the Damned Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T12:00:00+00:00",
-   "endAt": "2026-10-13T21:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T12:01:05+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/13287687-5484-4d78-833a-6008a48f0357.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=42dc35f9-da23-4eaf-8a19-8f1838d58168",
-   "rewards": [
-    {
-     "name": "PoT Combat Shotgun",
-     "minutes": 30
-    },
-    {
-     "name": "PoT Maul & Shield",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
-  },
-  {
    "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
    "game": "Wuthering Waves",
    "title": "V3.7 Wuthering Waves",
@@ -3243,6 +3219,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "42dc35f9-da23-4eaf-8a19-8f1838d58168",
+   "game": "Warhammer 40,000: Darktide",
+   "title": "Depths of the Damned Drop",
+   "startAt": "2026-09-29T12:00:00+00:00",
+   "endAt": "2026-10-13T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84d02589-5095-4c35-9f00-41a04c7675c3",
    "game": "Palia",
@@ -12423,13 +12407,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.49
+   "score": 14.48
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12447,19 +12431,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12483,7 +12467,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.28
+   "score": 10.27
   }
  },
  "favoriteWeights": {
