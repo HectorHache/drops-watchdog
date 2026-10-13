@@ -1234,42 +1234,6 @@
    "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
   },
   {
-   "id": "d7d00cda-729b-44d5-b800-2b666a7cef16",
-   "game": "Tom Clancy's The Division 2",
-   "title": "Legacy Twitch Drops Cache",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T15:00:00+00:00",
-   "endAt": "2026-10-13T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-06T15:00:20+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce4b2087-779a-4f31-bb02-83255ee93b0f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7d00cda-729b-44d5-b800-2b666a7cef16",
-   "rewards": [
-    {
-     "name": "Legacy Twitch Drops cache",
-     "minutes": 60
-    },
-    {
-     "name": "Legacy Twitch Drops cache",
-     "minutes": 120
-    },
-    {
-     "name": "Legacy Twitch Drops cache",
-     "minutes": 180
-    },
-    {
-     "name": "Legacy Twitch Drops cache",
-     "minutes": 240
-    },
-    {
-     "name": "Legacy Twitch Drops Cache",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/d7d00cda-729b-44d5-b800-2b666a7cef16.png"
-  },
-  {
    "id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4",
    "game": "Splinterlands",
    "title": "October Week 1",
@@ -2076,26 +2040,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
-  },
-  {
-   "id": "d7d79b14-4626-42c1-955a-64e1aae070a9",
-   "game": "World of Tanks Console",
-   "title": "Steel Asylum #2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T15:00:00+00:00",
-   "endAt": "2026-10-13T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T15:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82d9f0d5-d1d4-41fa-b015-dcb01e50bdca.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d7d79b14-4626-42c1-955a-64e1aae070a9",
-   "rewards": [
-    {
-     "name": "Steel Asylum #2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d7d79b14-4626-42c1-955a-64e1aae070a9.png"
   },
   {
    "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
@@ -3207,6 +3151,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "d7d00cda-729b-44d5-b800-2b666a7cef16",
+   "game": "Tom Clancy's The Division 2",
+   "title": "Legacy Twitch Drops Cache",
+   "startAt": "2026-10-06T15:00:00+00:00",
+   "endAt": "2026-10-13T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d7d79b14-4626-42c1-955a-64e1aae070a9",
+   "game": "World of Tanks Console",
+   "title": "Steel Asylum #2",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-13T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "84f27bd4-9c9f-4a03-acc5-096b84081db8",
    "game": "CONTROL Resonant",
@@ -12339,13 +12299,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.59
+   "score": 14.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12357,25 +12317,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.49
+   "score": 14.48
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12387,7 +12347,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.96
+   "score": 4.95
   },
   "Warframe": {
    "favorites": 1,
@@ -12399,7 +12359,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.35
+   "score": 10.34
   }
  },
  "favoriteWeights": {
