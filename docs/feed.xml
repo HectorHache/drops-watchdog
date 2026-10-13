@@ -124,13 +124,6 @@
     <pubDate>2026-09-29T12:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Palia — Frights &amp; Delights</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=84d02589-5095-4c35-9f00-41a04c7675c3</link>
-    <guid isPermaLink="false">84d02589-5095-4c35-9f00-41a04c7675c3</guid>
-    <description>Tier One · Tier Two · Tier Three — runs 2026-09-29T18:00:00+00:00 → 2026-10-13T17:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-09-29T18:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Wuthering Waves — V3.7 Wuthering Waves</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=8146a56b-1e86-46b4-ae62-628f218f3ce9</link>
     <guid isPermaLink="false">8146a56b-1e86-46b4-ae62-628f218f3ce9</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">1428e31c-9782-4dfd-9b09-4f302e864c5f</guid>
     <description>Giant Token — runs 2026-10-07T14:30:00+00:00 → 2026-10-18T06:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-07T14:30:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Tanks: HEAT — HEAT Season 2 - Week 6</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=26235968-a64d-4a6f-840d-e559f9f9c278</link>
+    <guid isPermaLink="false">26235968-a64d-4a6f-840d-e559f9f9c278</guid>
+    <description>Vehicle XP Booster · Booster Pack — runs 2026-10-07T16:00:00+00:00 → 2026-10-14T15:58:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-07T16:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>

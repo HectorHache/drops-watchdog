@@ -454,34 +454,6 @@
    "asset": "assets/42dc35f9-da23-4eaf-8a19-8f1838d58168.png"
   },
   {
-   "id": "84d02589-5095-4c35-9f00-41a04c7675c3",
-   "game": "Palia",
-   "title": "Frights & Delights",
-   "status": "ACTIVE",
-   "startAt": "2026-09-29T18:00:00+00:00",
-   "endAt": "2026-10-13T17:59:59.999+00:00",
-   "firstSeenAt": "2026-09-29T18:00:31+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/deecaf71-a963-48b9-a5e7-a81f2a9a5a94.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84d02589-5095-4c35-9f00-41a04c7675c3",
-   "rewards": [
-    {
-     "name": "Tier One",
-     "minutes": 60
-    },
-    {
-     "name": "Tier Two",
-     "minutes": 180
-    },
-    {
-     "name": "Tier Three",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/84d02589-5095-4c35-9f00-41a04c7675c3.png"
-  },
-  {
    "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
    "game": "Wuthering Waves",
    "title": "V3.7 Wuthering Waves",
@@ -2746,46 +2718,6 @@
    "asset": "assets/05dd2a67-9f78-4387-8a34-736573268ac7.png"
   },
   {
-   "id": "023abc18-cc57-4f31-a6b9-dbf50ca160dd",
-   "game": "Rise Online",
-   "title": "Mobile Drop 186",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T17:59:00+00:00",
-   "endAt": "2026-10-13T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-12T18:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a7f0d808-7f94-4f83-9b43-6df22bce0514.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=023abc18-cc57-4f31-a6b9-dbf50ca160dd",
-   "rewards": [
-    {
-     "name": "Mobile Drop 186",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/023abc18-cc57-4f31-a6b9-dbf50ca160dd.png"
-  },
-  {
-   "id": "2ccce4fe-d6f3-409e-be60-4d0b916c2eae",
-   "game": "Rise Online",
-   "title": "ROW Drop 615",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T17:59:00+00:00",
-   "endAt": "2026-10-13T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-12T18:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4d755d85-1d2e-48ca-8b98-1fc110c0c44f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2ccce4fe-d6f3-409e-be60-4d0b916c2eae",
-   "rewards": [
-    {
-     "name": "ROW Drop 615",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2ccce4fe-d6f3-409e-be60-4d0b916c2eae.jpg"
-  },
-  {
    "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 3",
@@ -3248,9 +3180,73 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d6d56572-09ce-4204-bd92-a86436ed2f25.png"
+  },
+  {
+   "id": "a79605b7-87e3-448a-94eb-e35704059a73",
+   "game": "Rise Online",
+   "title": "ROW Drop 616",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T17:59:00+00:00",
+   "endAt": "2026-10-14T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-13T18:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a3e4644b-eeed-4f17-b57b-dc221af3efda.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a79605b7-87e3-448a-94eb-e35704059a73",
+   "rewards": [
+    {
+     "name": "ROW Drop 616",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a79605b7-87e3-448a-94eb-e35704059a73.png"
+  },
+  {
+   "id": "c89a5c79-6d87-4bf9-88fc-20cb3754be80",
+   "game": "Rise Online",
+   "title": "Mobile Drop 187",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T17:59:00+00:00",
+   "endAt": "2026-10-14T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-13T18:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2acb7883-5172-4866-b08d-d5da680fba09.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c89a5c79-6d87-4bf9-88fc-20cb3754be80",
+   "rewards": [
+    {
+     "name": "Mobile Drop 187",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c89a5c79-6d87-4bf9-88fc-20cb3754be80.png"
   }
  ],
  "archive": [
+  {
+   "id": "84d02589-5095-4c35-9f00-41a04c7675c3",
+   "game": "Palia",
+   "title": "Frights & Delights",
+   "startAt": "2026-09-29T18:00:00+00:00",
+   "endAt": "2026-10-13T17:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "023abc18-cc57-4f31-a6b9-dbf50ca160dd",
+   "game": "Rise Online",
+   "title": "Mobile Drop 186",
+   "startAt": "2026-10-12T17:59:00+00:00",
+   "endAt": "2026-10-13T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2ccce4fe-d6f3-409e-be60-4d0b916c2eae",
+   "game": "Rise Online",
+   "title": "ROW Drop 615",
+   "startAt": "2026-10-12T17:59:00+00:00",
+   "endAt": "2026-10-13T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2014df61-45cc-4519-834d-46774dc1b842",
    "game": "NTE: Neverness to Everness",
@@ -12407,13 +12403,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.55
+   "score": 14.54
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12425,25 +12421,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.45
+   "score": 14.44
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12467,7 +12463,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.32
+   "score": 10.31
   }
  },
  "favoriteWeights": {
