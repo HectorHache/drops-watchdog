@@ -482,42 +482,6 @@
    "asset": "assets/84d02589-5095-4c35-9f00-41a04c7675c3.png"
   },
   {
-   "id": "2014df61-45cc-4519-834d-46774dc1b842",
-   "game": "NTE: Neverness to Everness",
-   "title": "NTE Twitch Drops Event",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T02:00:00+00:00",
-   "endAt": "2026-10-13T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T02:00:24+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd09d5c4-273b-47b9-8d2f-631321dd6f0c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2014df61-45cc-4519-834d-46774dc1b842",
-   "rewards": [
-    {
-     "name": "Beetle Coin \u00d750,000",
-     "minutes": 15
-    },
-    {
-     "name": "Fons \u00d730,000",
-     "minutes": 30
-    },
-    {
-     "name": "Eternal Shell Song \u00d71",
-     "minutes": 60
-    },
-    {
-     "name": "De-noise Solution \u00d71",
-     "minutes": 90
-    },
-    {
-     "name": "Annulith \u00d750",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2014df61-45cc-4519-834d-46774dc1b842.jpg"
-  },
-  {
    "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
    "game": "Wuthering Waves",
    "title": "V3.7 Wuthering Waves",
@@ -3148,9 +3112,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/228487a2-04be-463c-9b01-a86bbb735275.jpg"
+  },
+  {
+   "id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
+   "game": "Guild Wars 2",
+   "title": "Shadow of the Mad King",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T16:00:00+00:00",
+   "endAt": "2026-10-19T06:58:59.999+00:00",
+   "firstSeenAt": "2026-10-13T16:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/425ba7b8-926f-4409-a1b8-0526b8e4f1ab.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
+   "rewards": [
+    {
+     "name": "Mad King Dye Kit",
+     "minutes": 90
+    },
+    {
+     "name": "Mask of Queen Skin",
+     "minutes": 180
+    },
+    {
+     "name": "Ghoul Backpack and Mini Set",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png"
   }
  ],
  "archive": [
+  {
+   "id": "2014df61-45cc-4519-834d-46774dc1b842",
+   "game": "NTE: Neverness to Everness",
+   "title": "NTE Twitch Drops Event",
+   "startAt": "2026-09-30T02:00:00+00:00",
+   "endAt": "2026-10-13T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d7d00cda-729b-44d5-b800-2b666a7cef16",
    "game": "Tom Clancy's The Division 2",
@@ -12299,43 +12299,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.58
+   "score": 14.57
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.29
+   "score": 2.28
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.48
+   "score": 14.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12359,7 +12359,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.34
+   "score": 10.33
   }
  },
  "favoriteWeights": {
