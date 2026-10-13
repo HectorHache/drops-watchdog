@@ -74,30 +74,6 @@
    "asset": "assets/72662ff7-75c6-44eb-94b0-7868cbc5e89b.png"
   },
   {
-   "id": "84f27bd4-9c9f-4a03-acc5-096b84081db8",
-   "game": "CONTROL Resonant",
-   "title": "CONTROL Resonant launch ",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T14:00:00+00:00",
-   "endAt": "2026-10-13T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T14:00:36+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3504b907-6030-4275-acda-3816b9b776ff.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84f27bd4-9c9f-4a03-acc5-096b84081db8",
-   "rewards": [
-    {
-     "name": "Don't Eat The Mold",
-     "minutes": 60
-    },
-    {
-     "name": "The Inverted Man",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/84f27bd4-9c9f-4a03-acc5-096b84081db8.png"
-  },
-  {
    "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
    "game": "Relic Arena",
    "title": "Solo Queue Challenge",
@@ -132,50 +108,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/e90f396b-6c1c-4875-b41b-d56041c68a48.png"
-  },
-  {
-   "id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
-   "game": "Rainbow Six Siege",
-   "title": "R6S Wasteland circuit",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T14:00:00+00:00",
-   "endAt": "2026-10-13T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T14:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7144ee36-cac7-4395-916b-0b2b8c1d9558.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
-   "rewards": [
-    {
-     "name": "Test",
-     "minutes": 60
-    },
-    {
-     "name": "OL'CLANKER",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ca5a0e74-fbc4-4281-b234-44ed2e4ba594.png"
-  },
-  {
-   "id": "3376e74e-68e8-45b9-a147-ef80b16a6c93",
-   "game": "Rainbow Six Siege",
-   "title": "DRON-E Chat Badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T14:00:00+00:00",
-   "endAt": "2026-10-13T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T14:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f59ff72-8bb9-411d-8408-24bd5404571c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3376e74e-68e8-45b9-a147-ef80b16a6c93",
-   "rewards": [
-    {
-     "name": "DRON-E Chat Badge",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3376e74e-68e8-45b9-a147-ef80b16a6c93.png"
   },
   {
    "id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
@@ -324,26 +256,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8379bc7b-4082-4f4b-b83a-9812625f55a1.png"
-  },
-  {
-   "id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
-   "game": "Rainbow Six Siege",
-   "title": "R6S Wasteland circuit",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T12:53:54+00:00",
-   "endAt": "2026-10-13T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-25T13:30:14+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e05a21b-e794-47cd-8022-9d3b5b95e169.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
-   "rewards": [
-    {
-     "name": "OL'CLANKER",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png"
   },
   {
    "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
@@ -3295,6 +3207,38 @@
   }
  ],
  "archive": [
+  {
+   "id": "84f27bd4-9c9f-4a03-acc5-096b84081db8",
+   "game": "CONTROL Resonant",
+   "title": "CONTROL Resonant launch ",
+   "startAt": "2026-09-22T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Wasteland circuit",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3376e74e-68e8-45b9-a147-ef80b16a6c93",
+   "game": "Rainbow Six Siege",
+   "title": "DRON-E Chat Badge",
+   "startAt": "2026-09-23T14:00:00+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Wasteland circuit",
+   "startAt": "2026-09-25T12:53:54+00:00",
+   "endAt": "2026-10-13T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1425a7ff-1f9f-48f0-94cb-0aeed3ee8cdb",
    "game": "Out of the Park Baseball 27",
@@ -12395,7 +12339,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   },
   "Delta Force": {
    "favorites": 3,
@@ -12419,25 +12363,25 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.15
+   "score": 1.14
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -12449,13 +12393,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.4
+   "score": 5.39
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.36
+   "score": 10.35
   }
  },
  "favoriteWeights": {
