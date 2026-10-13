@@ -310,42 +310,6 @@
    "asset": "assets/e90f396b-6c1c-4875-b41b-d56041c68a48.png"
   },
   {
-   "id": "728141da-5f87-49de-8afd-7fa0be33545f",
-   "game": "Genshin Impact",
-   "title": "V7.1 Genshin Impact Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T03:00:00+00:00",
-   "endAt": "2026-10-13T03:59:59.999+00:00",
-   "firstSeenAt": "2026-09-23T03:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a96b030f-15ce-4844-980b-cbffac563f4d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=728141da-5f87-49de-8afd-7fa0be33545f",
-   "rewards": [
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 15
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 30
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 45
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 60
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/728141da-5f87-49de-8afd-7fa0be33545f.png"
-  },
-  {
    "id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594",
    "game": "Rainbow Six Siege",
    "title": "R6S Wasteland circuit",
@@ -2742,26 +2706,6 @@
    "asset": "assets/c9b4b2ac-7ede-4fed-b45d-9c657f20a73c.png"
   },
   {
-   "id": "705ad06a-4e5f-4695-8a87-d73e066e2ea3",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T00:00:00+00:00",
-   "endAt": "2026-10-12T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T00:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f109b83b-4c58-490a-bcd2-5e358bdc86b4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=705ad06a-4e5f-4695-8a87-d73e066e2ea3",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/705ad06a-4e5f-4695-8a87-d73e066e2ea3.png"
-  },
-  {
    "id": "fa81a25b-c3ac-46cc-a91a-39ba652f6f2e",
    "game": "Mobile Dungeon",
    "title": "MD Drops Set 2",
@@ -3388,9 +3332,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
+  },
+  {
+   "id": "6746c332-b494-41fe-b060-4b9533b66377",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T00:00:00+00:00",
+   "endAt": "2026-10-13T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-13T00:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/296d29b5-a608-4d83-bbb6-5f138dda068f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6746c332-b494-41fe-b060-4b9533b66377",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6746c332-b494-41fe-b060-4b9533b66377.png"
   }
  ],
  "archive": [
+  {
+   "id": "728141da-5f87-49de-8afd-7fa0be33545f",
+   "game": "Genshin Impact",
+   "title": "V7.1 Genshin Impact Drops",
+   "startAt": "2026-09-23T03:00:00+00:00",
+   "endAt": "2026-10-13T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "705ad06a-4e5f-4695-8a87-d73e066e2ea3",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-12T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "41636cfe-2021-41b9-b1a5-bc56cc9073ef",
    "game": "DOFUS Touch",
@@ -12387,67 +12367,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.51
+   "score": 10.44
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.82
+   "score": 14.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.32
+   "score": 2.31
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.71
+   "score": 14.62
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.51
+   "score": 10.44
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.51
+   "score": 10.44
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.51
+   "score": 10.44
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.16
+   "score": 1.15
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.03
+   "score": 5.0
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.47
+   "score": 5.44
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.51
+   "score": 10.44
   }
  },
  "favoriteWeights": {
