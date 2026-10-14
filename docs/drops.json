@@ -2646,46 +2646,6 @@
    "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
   },
   {
-   "id": "9a4db8e0-0a04-481e-92fe-785ae8af7f64",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T10:00:00+00:00",
-   "endAt": "2026-10-14T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-13T10:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/93c0d309-8236-49ab-b148-6af9c9a6089d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9a4db8e0-0a04-481e-92fe-785ae8af7f64",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9a4db8e0-0a04-481e-92fe-785ae8af7f64.png"
-  },
-  {
-   "id": "c80ccc88-01f4-4c43-bbe5-14725ff0a102",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T10:00:00+00:00",
-   "endAt": "2026-10-14T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-13T10:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b6f88c7-a4d6-48b5-9833-058a8ed08d5a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c80ccc88-01f4-4c43-bbe5-14725ff0a102",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c80ccc88-01f4-4c43-bbe5-14725ff0a102.png"
-  },
-  {
    "id": "1014c5a3-36de-4d1f-bd1e-c77839243902",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Oct 13)",
@@ -3147,6 +3107,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "9a4db8e0-0a04-481e-92fe-785ae8af7f64",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #2/7",
+   "startAt": "2026-10-13T10:00:00+00:00",
+   "endAt": "2026-10-14T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c80ccc88-01f4-4c43-bbe5-14725ff0a102",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #2/7",
+   "startAt": "2026-10-13T10:00:00+00:00",
+   "endAt": "2026-10-14T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
    "game": "Escape from Tarkov",
@@ -12397,7 +12373,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.33
+   "score": 14.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
