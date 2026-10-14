@@ -2646,26 +2646,6 @@
    "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
   },
   {
-   "id": "1014c5a3-36de-4d1f-bd1e-c77839243902",
-   "game": "Black Desert",
-   "title": "2026 BDO Drops (Oct 13)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T12:00:00+00:00",
-   "endAt": "2026-10-14T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T12:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b2c84c96-0819-4c28-a803-ae95f5278b0c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1014c5a3-36de-4d1f-bd1e-c77839243902",
-   "rewards": [
-    {
-     "name": "2 Hour (Oct 13)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/1014c5a3-36de-4d1f-bd1e-c77839243902.png"
-  },
-  {
    "id": "343883d1-7915-4b51-b821-9dd8d9b7a857",
    "game": "War Robots: Frontiers",
    "title": "Quantum Blitz",
@@ -3144,9 +3124,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/01180752-1f11-42e6-9252-f80ed295c502.png"
+  },
+  {
+   "id": "7a450596-8243-4ec9-b202-a67bf9f102ef",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 14)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T12:00:00+00:00",
+   "endAt": "2026-10-15T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T12:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c6735653-2388-4142-99ae-68fb0b2797e9.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7a450596-8243-4ec9-b202-a67bf9f102ef",
+   "rewards": [
+    {
+     "name": "2 Hour (Oct 14)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/7a450596-8243-4ec9-b202-a67bf9f102ef.png"
   }
  ],
  "archive": [
+  {
+   "id": "1014c5a3-36de-4d1f-bd1e-c77839243902",
+   "game": "Black Desert",
+   "title": "2026 BDO Drops (Oct 13)",
+   "startAt": "2026-10-13T12:00:00+00:00",
+   "endAt": "2026-10-14T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9a4db8e0-0a04-481e-92fe-785ae8af7f64",
    "game": "Albion Online",
@@ -12413,7 +12421,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.3
+   "score": 14.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12425,7 +12433,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.2
+   "score": 14.19
   },
   "Once Human": {
    "favorites": 2,
