@@ -454,30 +454,6 @@
    "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
   },
   {
-   "id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc",
-   "game": "The Elder Scrolls Online",
-   "title": "High Seas of Tamriel",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T14:00:00+00:00",
-   "endAt": "2026-10-14T13:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T14:00:12+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c75bb35-e689-4e4b-8982-1482307c85a0.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=54136633-c8ea-4a41-ac8e-262b5b18f5fc",
-   "rewards": [
-    {
-     "name": "100x Trade Bars",
-     "minutes": 60
-    },
-    {
-     "name": "100x Trade Bars",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpg"
-  },
-  {
    "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
    "game": "AION 2",
    "title": "Early Access Event",
@@ -3124,9 +3100,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/1c2eab3a-86d6-44d7-913b-13f689ed217c.png"
+  },
+  {
+   "id": "6b1f9278-410f-49ee-b793-a6885d73d73a",
+   "game": "Shakes and Fidget",
+   "title": "S&F Drops 2/3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T14:00:00+00:00",
+   "endAt": "2026-10-18T21:58:59.999+00:00",
+   "firstSeenAt": "2026-10-14T14:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eddb0bcb-ac82-474b-8f73-7bd1d952c91e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6b1f9278-410f-49ee-b793-a6885d73d73a",
+   "rewards": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6b1f9278-410f-49ee-b793-a6885d73d73a.png"
   }
  ],
  "archive": [
+  {
+   "id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc",
+   "game": "The Elder Scrolls Online",
+   "title": "High Seas of Tamriel",
+   "startAt": "2026-09-30T14:00:00+00:00",
+   "endAt": "2026-10-14T13:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
    "game": "Riders Republic",
@@ -12417,7 +12445,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.27
+   "score": 14.26
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
