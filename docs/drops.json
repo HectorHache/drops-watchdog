@@ -2,42 +2,6 @@
  "tz": "Europe/Madrid",
  "campaigns": [
   {
-   "id": "75c84956-e49d-417f-a8c4-aae97d724d7a",
-   "game": "Aniimo",
-   "title": "Aniimo Global Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-09-16T02:00:00+00:00",
-   "endAt": "2026-10-14T01:59:59.999+00:00",
-   "firstSeenAt": "2026-09-16T03:00:04+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a89986f6-b6e2-4a06-bafb-439e0a9f7bf8.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=75c84956-e49d-417f-a8c4-aae97d724d7a",
-   "rewards": [
-    {
-     "name": "Aniipod Pro*20",
-     "minutes": 30
-    },
-    {
-     "name": "Credits*50000",
-     "minutes": 15
-    },
-    {
-     "name": "Glimmer*50",
-     "minutes": 60
-    },
-    {
-     "name": "Tumbler*1",
-     "minutes": 90
-    },
-    {
-     "name": "Incredible Egg*1",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/75c84956-e49d-417f-a8c4-aae97d724d7a.jpg"
-  },
-  {
    "id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b",
    "game": "Predecessor",
    "title": "Bloodtide Drops \ud83e\ude78",
@@ -2378,38 +2342,6 @@
    "asset": "assets/0c0f3c99-26aa-4277-87c6-362b3c8f8231.png"
   },
   {
-   "id": "a469ddb9-08e4-4644-b9cf-c8fc01570771",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 17",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T05:00:00+00:00",
-   "endAt": "2026-10-14T04:58:59.999+00:00",
-   "firstSeenAt": "2026-10-12T05:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b4e5144-fd60-4e05-920a-e507f676d7d8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a469ddb9-08e4-4644-b9cf-c8fc01570771",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 540
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a469ddb9-08e4-4644-b9cf-c8fc01570771.png"
-  },
-  {
    "id": "77adaf06-91a6-4245-adc5-f0718b2f493d",
    "game": "Legion TD 2",
    "title": "26.10 Patch",
@@ -2712,26 +2644,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
-  },
-  {
-   "id": "6746c332-b494-41fe-b060-4b9533b66377",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T00:00:00+00:00",
-   "endAt": "2026-10-13T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T00:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/296d29b5-a608-4d83-bbb6-5f138dda068f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6746c332-b494-41fe-b060-4b9533b66377",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6746c332-b494-41fe-b060-4b9533b66377.png"
   },
   {
    "id": "e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
@@ -3198,59 +3110,107 @@
    "asset": "assets/c89a5c79-6d87-4bf9-88fc-20cb3754be80.png"
   },
   {
-   "id": "cf443e3d-d93d-4e01-b17b-8c59b583d344",
-   "game": "Warframe",
-   "title": "PMCFQ infernothefirelord",
+   "id": "2b6cc9bf-62e6-4461-b45f-6830be733ca0",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-13T21:00:00+00:00",
-   "endAt": "2026-10-13T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T21:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/53cb7b14-95eb-4f38-ba79-91ebdadaeb3c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cf443e3d-d93d-4e01-b17b-8c59b583d344",
+   "startAt": "2026-10-14T00:00:00+00:00",
+   "endAt": "2026-10-14T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T00:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8e35a64-31b0-4b33-8d25-2ecfe89f5cfb.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b6cc9bf-62e6-4461-b45f-6830be733ca0",
    "rewards": [
     {
-     "name": "Random Floof",
-     "minutes": 30
+     "name": "Twitch Reward Chest",
+     "minutes": 180
     }
    ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/cf443e3d-d93d-4e01-b17b-8c59b583d344.jpg"
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2b6cc9bf-62e6-4461-b45f-6830be733ca0.png"
+  },
+  {
+   "id": "85e20877-3986-4863-ac8e-c61cb7969879",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 18",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T05:00:00+00:00",
+   "endAt": "2026-10-17T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-14T05:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ef4faf2-dcf2-46ce-980d-926ff0cdb7df.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85e20877-3986-4863-ac8e-c61cb7969879",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 540
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/85e20877-3986-4863-ac8e-c61cb7969879.png"
+  }
+ ],
+ "archive": [
+  {
+   "id": "a469ddb9-08e4-4644-b9cf-c8fc01570771",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 17",
+   "startAt": "2026-10-12T05:00:00+00:00",
+   "endAt": "2026-10-14T04:58:59.999+00:00",
+   "status": "ENDED"
   },
   {
    "id": "fad75b9a-3a41-4c56-9bd1-75e3ee4bb475",
    "game": "Madden NFL 27",
    "title": "M27 MF Special Stream",
-   "status": "ACTIVE",
    "startAt": "2026-10-13T22:30:00+00:00",
    "endAt": "2026-10-14T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T22:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/041a5a09-e2be-4905-bfc7-4a3e9a4edb52.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fad75b9a-3a41-4c56-9bd1-75e3ee4bb475",
-   "rewards": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "MUT Bobby Wagner",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Super Twitch Pack",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/fad75b9a-3a41-4c56-9bd1-75e3ee4bb475.png"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
+  {
+   "id": "dcef65cd-3b5e-45b9-a2bb-a9a058191700",
+   "game": "Madden NFL 27",
+   "title": "In The Huddle",
+   "startAt": "2026-10-14T00:00:00+00:00",
+   "endAt": "2026-10-14T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "75c84956-e49d-417f-a8c4-aae97d724d7a",
+   "game": "Aniimo",
+   "title": "Aniimo Global Launch",
+   "startAt": "2026-09-16T02:00:00+00:00",
+   "endAt": "2026-10-14T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6746c332-b494-41fe-b060-4b9533b66377",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-13T00:00:00+00:00",
+   "endAt": "2026-10-13T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cf443e3d-d93d-4e01-b17b-8c59b583d344",
+   "game": "Warframe",
+   "title": "PMCFQ infernothefirelord",
+   "startAt": "2026-10-13T21:00:00+00:00",
+   "endAt": "2026-10-13T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "42dc35f9-da23-4eaf-8a19-8f1838d58168",
    "game": "Warhammer 40,000: Darktide",
@@ -12439,67 +12399,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.27
+   "score": 10.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.48
+   "score": 14.39
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.27
+   "score": 2.26
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.38
+   "score": 14.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.27
+   "score": 10.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.27
+   "score": 10.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.27
+   "score": 10.2
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.14
+   "score": 1.13
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.92
+   "score": 4.89
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.35
+   "score": 5.32
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.27
+   "score": 10.2
   }
  },
  "favoriteWeights": {
