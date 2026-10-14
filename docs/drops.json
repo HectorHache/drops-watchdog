@@ -3138,6 +3138,26 @@
    "asset": "assets/720f3eaf-62f5-40e1-a573-1cffbe412a67.png"
   },
   {
+   "id": "335671f1-73e1-4cf9-a357-c656495f5d4b",
+   "game": "League of Legends",
+   "title": "Heartsteel Chat Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T16:00:00+00:00",
+   "endAt": "2026-10-27T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T19:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/146a0250-092e-45dd-8849-db57680e4897.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=335671f1-73e1-4cf9-a357-c656495f5d4b",
+   "rewards": [
+    {
+     "name": "Heartsteel Chat Badge",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/335671f1-73e1-4cf9-a357-c656495f5d4b.png"
+  },
+  {
    "id": "a122bdcb-3814-4bf9-adfb-8204422ed8b6",
    "game": "Rise Online",
    "title": "Mobile Drop 188",
@@ -3176,6 +3196,74 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4e35f941-d20c-4236-b327-e287d1c4182d.jpg"
+  },
+  {
+   "id": "d9b76040-4da9-47b9-b2ed-2c15052e24e4",
+   "game": "Warframe",
+   "title": "PMCFQ - Zenosfire",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T19:00:00+00:00",
+   "endAt": "2026-10-14T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T19:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b93a5cfa-0621-4d8c-b8bf-adfcab994083.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d9b76040-4da9-47b9-b2ed-2c15052e24e4",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/d9b76040-4da9-47b9-b2ed-2c15052e24e4.jpg"
+  },
+  {
+   "id": "a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
+   "game": "Warframe",
+   "title": "Prime Time #501",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T19:00:00+00:00",
+   "endAt": "2026-10-16T00:14:59.999+00:00",
+   "firstSeenAt": "2026-10-14T19:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/391aa7ff-fc5b-4453-9982-e3fe02133286.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 60
+    },
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    },
+    {
+     "name": "Random Floof",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/a4f477ec-c2e5-4ede-9af2-fc5ea2608e38.jpg"
+  },
+  {
+   "id": "b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26",
+   "game": "League of Legends",
+   "title": "Worlds 2026 Chat Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T19:00:00+00:00",
+   "endAt": "2026-11-15T18:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T19:00:40+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4efb87e1-50f3-4192-9f4e-24f485d64f44.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26",
+   "rewards": [
+    {
+     "name": "Worlds 2026 Supporter",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26.png"
   }
  ],
  "archive": [
@@ -12517,7 +12605,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.2
+   "score": 14.19
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12559,13 +12647,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.83
+   "score": 4.82
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.25
+   "score": 5.24
   },
   "Where Winds Meet": {
    "favorites": 2,
