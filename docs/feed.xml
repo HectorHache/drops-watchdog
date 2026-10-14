@@ -320,13 +320,6 @@
     <pubDate>2026-10-07T14:30:00+00:00</pubDate>
   </item>
   <item>
-    <title>World of Warships — 15.9 Mystery Drop</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=107f5eb2-1479-4e6c-b154-47ae13517533</link>
-    <guid isPermaLink="false">107f5eb2-1479-4e6c-b154-47ae13517533</guid>
-    <description>15.9 Mystery Drop — runs 2026-10-07T22:00:00+00:00 → 2026-10-14T21:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-07T22:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Modern Warships — MW: Leviathan Harvest</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=efb9b018-9c9e-4721-8659-6690bfd8cb63</link>
     <guid isPermaLink="false">efb9b018-9c9e-4721-8659-6690bfd8cb63</guid>
@@ -352,6 +345,13 @@
     <link>https://www.twitch.tv/drops/campaigns?drop=d66d83da-c3e4-4f03-bc0a-ca51c43c91fb</link>
     <guid isPermaLink="false">d66d83da-c3e4-4f03-bc0a-ca51c43c91fb</guid>
     <description>DayZ Yellow King — runs 2026-10-08T11:00:00+00:00 → 2026-10-19T08:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-08T11:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>ARC Raiders — Frozen Trail</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=e4f226c6-c9c3-4d99-9c13-e0050e004f9a</link>
+    <guid isPermaLink="false">e4f226c6-c9c3-4d99-9c13-e0050e004f9a</guid>
+    <description>Mailbox · Oxygen Respirator — runs 2026-10-08T11:00:00+00:00 → 2026-11-04T12:44:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-08T11:00:00+00:00</pubDate>
   </item>
 </channel>

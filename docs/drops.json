@@ -1390,26 +1390,6 @@
    "asset": "assets/1428e31c-9782-4dfd-9b09-4f302e864c5f.png"
   },
   {
-   "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
-   "game": "World of Warships",
-   "title": "15.9 Mystery Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T22:00:00+00:00",
-   "endAt": "2026-10-14T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T22:00:58+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6b80cea1-7641-4850-9b70-4383bc6b70d7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=107f5eb2-1479-4e6c-b154-47ae13517533",
-   "rewards": [
-    {
-     "name": "15.9 Mystery Drop",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/107f5eb2-1479-4e6c-b154-47ae13517533.png"
-  },
-  {
    "id": "efb9b018-9c9e-4721-8659-6690bfd8cb63",
    "game": "Modern Warships",
    "title": "MW: Leviathan Harvest",
@@ -3246,26 +3226,6 @@
    "asset": "assets/b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26.png"
   },
   {
-   "id": "14ea609a-404e-415a-ad78-a9fd315e0cb1",
-   "game": "Warframe",
-   "title": "Emisi\u00f3n Tenno #349 Raid",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T20:00:00+00:00",
-   "endAt": "2026-10-14T21:29:59.999+00:00",
-   "firstSeenAt": "2026-10-14T20:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ca100ef9-c227-4024-85bf-4a5fd145b939.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=14ea609a-404e-415a-ad78-a9fd315e0cb1",
-   "rewards": [
-    {
-     "name": "Ordis Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/14ea609a-404e-415a-ad78-a9fd315e0cb1.jpg"
-  },
-  {
    "id": "5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2",
    "game": "League of Legends",
    "title": "Jynxzi's LoL Tournament",
@@ -3292,9 +3252,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2.png"
+  },
+  {
+   "id": "19f3b23f-5165-4b52-b1de-d3c9afd40223",
+   "game": "World of Warships",
+   "title": "15.9 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T22:00:00+00:00",
+   "endAt": "2026-10-21T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T22:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb4ca6cc-a00f-4a96-92a4-56e4d73bf2f8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19f3b23f-5165-4b52-b1de-d3c9afd40223",
+   "rewards": [
+    {
+     "name": "Week 2: 250 Community Tokens",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/19f3b23f-5165-4b52-b1de-d3c9afd40223.png"
   }
  ],
  "archive": [
+  {
+   "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
+   "game": "World of Warships",
+   "title": "15.9 Mystery Drop",
+   "startAt": "2026-10-07T22:00:00+00:00",
+   "endAt": "2026-10-14T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "14ea609a-404e-415a-ad78-a9fd315e0cb1",
+   "game": "Warframe",
+   "title": "Emisi\u00f3n Tenno #349 Raid",
+   "startAt": "2026-10-14T20:00:00+00:00",
+   "endAt": "2026-10-14T21:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d9b76040-4da9-47b9-b2ed-2c15052e24e4",
    "game": "Warframe",
@@ -12635,13 +12631,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.17
+   "score": 14.15
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12653,25 +12649,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.07
+   "score": 14.06
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12695,7 +12691,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.05
+   "score": 10.04
   }
  },
  "favoriteWeights": {
