@@ -1390,58 +1390,6 @@
    "asset": "assets/1428e31c-9782-4dfd-9b09-4f302e864c5f.png"
   },
   {
-   "id": "26235968-a64d-4a6f-840d-e559f9f9c278",
-   "game": "World of Tanks: HEAT",
-   "title": "HEAT Season 2 - Week 6",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T16:00:00+00:00",
-   "endAt": "2026-10-14T15:58:59.999+00:00",
-   "firstSeenAt": "2026-10-07T16:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a4e9ab6d-ad56-4a7f-8b4e-4553d5f1574c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=26235968-a64d-4a6f-840d-e559f9f9c278",
-   "rewards": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/26235968-a64d-4a6f-840d-e559f9f9c278.png"
-  },
-  {
-   "id": "0ef8e3ae-45a7-4858-9d91-b34864a88054",
-   "game": "The Crew: Motorfest",
-   "title": "TCM S11 Launch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T16:00:00+00:00",
-   "endAt": "2026-10-14T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T16:00:15+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ef8e3ae-45a7-4858-9d91-b34864a88054",
-   "rewards": [
-    {
-     "name": "WIRE MESH WINDOW TINT",
-     "minutes": 60
-    },
-    {
-     "name": "RALLY OUTER BLUE TIRE",
-     "minutes": 120
-    },
-    {
-     "name": "WRANGLER EVO 2",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0ef8e3ae-45a7-4858-9d91-b34864a88054.png"
-  },
-  {
    "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
    "game": "World of Warships",
    "title": "15.9 Mystery Drop",
@@ -3184,9 +3132,49 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/37d0e013-d0bf-49be-bb0a-f71f34577ab6.jpg"
+  },
+  {
+   "id": "720f3eaf-62f5-40e1-a573-1cffbe412a67",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T16:00:00+00:00",
+   "endAt": "2026-10-21T15:58:59.999+00:00",
+   "firstSeenAt": "2026-10-14T16:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d026ad9d-9408-4b02-b797-1621107427ee.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=720f3eaf-62f5-40e1-a573-1cffbe412a67",
+   "rewards": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/720f3eaf-62f5-40e1-a573-1cffbe412a67.png"
   }
  ],
  "archive": [
+  {
+   "id": "0ef8e3ae-45a7-4858-9d91-b34864a88054",
+   "game": "The Crew: Motorfest",
+   "title": "TCM S11 Launch Drops",
+   "startAt": "2026-10-07T16:00:00+00:00",
+   "endAt": "2026-10-14T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "26235968-a64d-4a6f-840d-e559f9f9c278",
+   "game": "World of Tanks: HEAT",
+   "title": "HEAT Season 2 - Week 6",
+   "startAt": "2026-10-07T16:00:00+00:00",
+   "endAt": "2026-10-14T15:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2bbc759c-c321-4484-ac22-5c2d85e12c24",
    "game": "World of Tanks",
@@ -12505,7 +12493,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.15
+   "score": 14.14
   },
   "Once Human": {
    "favorites": 2,
