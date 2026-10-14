@@ -3198,26 +3198,6 @@
    "asset": "assets/4e35f941-d20c-4236-b327-e287d1c4182d.jpg"
   },
   {
-   "id": "d9b76040-4da9-47b9-b2ed-2c15052e24e4",
-   "game": "Warframe",
-   "title": "PMCFQ - Zenosfire",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T19:00:00+00:00",
-   "endAt": "2026-10-14T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-14T19:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b93a5cfa-0621-4d8c-b8bf-adfcab994083.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d9b76040-4da9-47b9-b2ed-2c15052e24e4",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/d9b76040-4da9-47b9-b2ed-2c15052e24e4.jpg"
-  },
-  {
    "id": "a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
    "game": "Warframe",
    "title": "Prime Time #501",
@@ -3315,6 +3295,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "d9b76040-4da9-47b9-b2ed-2c15052e24e4",
+   "game": "Warframe",
+   "title": "PMCFQ - Zenosfire",
+   "startAt": "2026-10-14T19:00:00+00:00",
+   "endAt": "2026-10-14T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a79605b7-87e3-448a-94eb-e35704059a73",
    "game": "Rise Online",
@@ -12665,7 +12653,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.08
+   "score": 14.07
   },
   "Once Human": {
    "favorites": 2,
@@ -12695,13 +12683,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.82
+   "score": 4.81
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.24
+   "score": 5.23
   },
   "Where Winds Meet": {
    "favorites": 2,
