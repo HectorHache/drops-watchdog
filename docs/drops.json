@@ -2478,30 +2478,6 @@
    "asset": "assets/a1b85335-6984-448b-8438-1ec6b436d8fc.png"
   },
   {
-   "id": "2bbc759c-c321-4484-ac22-5c2d85e12c24",
-   "game": "World of Tanks",
-   "title": "WoT A Thrill Store #1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T15:00:00+00:00",
-   "endAt": "2026-10-14T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T15:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5cb9b308-c955-4532-bf94-45f0ebb1f6e6.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2bbc759c-c321-4484-ac22-5c2d85e12c24",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2bbc759c-c321-4484-ac22-5c2d85e12c24.jpg"
-  },
-  {
    "id": "d351267c-a111-4eaf-af10-50a78f53f77c",
    "game": "Mir Korabley",
    "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 2",
@@ -3144,9 +3120,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6b1f9278-410f-49ee-b793-a6885d73d73a.png"
+  },
+  {
+   "id": "bf061b0e-67cc-4d5d-bcee-efe92bb6c545",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/95b95f33-44c6-4d36-98e8-455df39dbe78.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf061b0e-67cc-4d5d-bcee-efe92bb6c545",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bf061b0e-67cc-4d5d-bcee-efe92bb6c545.jpg"
+  },
+  {
+   "id": "23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8",
+   "game": "World of Tanks",
+   "title": "Update 2.4.1 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03b9849f-d364-42c4-a822-c9520220598f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "2bbc759c-c321-4484-ac22-5c2d85e12c24",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #1",
+   "startAt": "2026-10-12T15:00:00+00:00",
+   "endAt": "2026-10-14T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc",
    "game": "The Elder Scrolls Online",
@@ -12445,19 +12473,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.26
+   "score": 14.25
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.24
+   "score": 2.23
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.16
+   "score": 14.15
   },
   "Once Human": {
    "favorites": 2,
@@ -12493,7 +12521,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.27
+   "score": 5.26
   },
   "Where Winds Meet": {
    "favorites": 2,
