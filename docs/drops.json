@@ -3164,6 +3164,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8.jpg"
+  },
+  {
+   "id": "37d0e013-d0bf-49be-bb0a-f71f34577ab6",
+   "game": "Star Citizen",
+   "title": "RSI Discovery",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T15:30:00+00:00",
+   "endAt": "2026-10-27T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T15:30:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d09b69db-6482-4d19-9a93-b5afce98eb2c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=37d0e013-d0bf-49be-bb0a-f71f34577ab6",
+   "rewards": [
+    {
+     "name": "RSI Discovery",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/37d0e013-d0bf-49be-bb0a-f71f34577ab6.jpg"
   }
  ],
  "archive": [
@@ -12467,13 +12487,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.25
+   "score": 14.24
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12491,19 +12511,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12527,7 +12547,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.11
+   "score": 10.1
   }
  },
  "favoriteWeights": {
