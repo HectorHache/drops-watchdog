@@ -3104,6 +3104,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/673c33e7-e55d-44e3-aee2-abdf03d17e10.png"
+  },
+  {
+   "id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T10:00:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-14T10:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/843cf7af-0174-4b63-bd2b-0fa273582091.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2f0836c2-76fb-492b-8037-d2746fd7d0c1",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2f0836c2-76fb-492b-8037-d2746fd7d0c1.png"
+  },
+  {
+   "id": "01180752-1f11-42e6-9252-f80ed295c502",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T10:00:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-14T10:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9f5ab943-6da2-4cf9-bb43-fac28845c62c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=01180752-1f11-42e6-9252-f80ed295c502",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/01180752-1f11-42e6-9252-f80ed295c502.png"
   }
  ],
  "archive": [
@@ -12367,7 +12407,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   },
   "Delta Force": {
    "favorites": 3,
@@ -12385,25 +12425,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.23
+   "score": 14.22
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12415,7 +12455,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.87
+   "score": 4.86
   },
   "Warframe": {
    "favorites": 1,
@@ -12427,7 +12467,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.16
+   "score": 10.15
   }
  },
  "favoriteWeights": {
