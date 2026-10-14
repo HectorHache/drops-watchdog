@@ -1374,26 +1374,6 @@
    "asset": "assets/9730d758-4de3-42a4-8550-83500d9e4c42.png"
   },
   {
-   "id": "cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
-   "game": "Riders Republic",
-   "title": "Riders Republic S20 Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T13:00:00+00:00",
-   "endAt": "2026-10-14T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T13:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea134e6a-3769-48dd-aebd-00401ed376a9.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
-   "rewards": [
-    {
-     "name": "Old School BMX",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/cebb8a27-dede-47e0-9a83-ac9b0e1fb46e.jpg"
-  },
-  {
    "id": "b78f8b92-7461-4fd5-8b30-6f982a508acb",
    "game": "March of Giants",
    "title": "MoG - Pioneer Booster",
@@ -2762,42 +2742,6 @@
    "asset": "assets/fc782035-c5b0-4790-a5dd-c57f12469331.png"
   },
   {
-   "id": "88f365eb-f6bb-4a26-acbb-cd0e77f3d117",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate10/13/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T13:00:00+00:00",
-   "endAt": "2026-10-14T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T13:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=88f365eb-f6bb-4a26-acbb-cd0e77f3d117",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/88f365eb-f6bb-4a26-acbb-cd0e77f3d117.png"
-  },
-  {
    "id": "228487a2-04be-463c-9b01-a86bbb735275",
    "game": "EVE Online",
    "title": "Totality Day YC128",
@@ -3144,9 +3088,61 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/7a450596-8243-4ec9-b202-a67bf9f102ef.png"
+  },
+  {
+   "id": "1c2eab3a-86d6-44d7-913b-13f689ed217c",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/14/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T13:00:00+00:00",
+   "endAt": "2026-10-15T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T13:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1c2eab3a-86d6-44d7-913b-13f689ed217c",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1c2eab3a-86d6-44d7-913b-13f689ed217c.png"
   }
  ],
  "archive": [
+  {
+   "id": "cebb8a27-dede-47e0-9a83-ac9b0e1fb46e",
+   "game": "Riders Republic",
+   "title": "Riders Republic S20 Drop",
+   "startAt": "2026-10-07T13:00:00+00:00",
+   "endAt": "2026-10-14T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "88f365eb-f6bb-4a26-acbb-cd0e77f3d117",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/13/26",
+   "startAt": "2026-10-13T13:00:00+00:00",
+   "endAt": "2026-10-14T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1014c5a3-36de-4d1f-bd1e-c77839243902",
    "game": "Black Desert",
@@ -12433,7 +12429,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.19
+   "score": 14.18
   },
   "Once Human": {
    "favorites": 2,
@@ -12469,7 +12465,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.28
+   "score": 5.27
   },
   "Where Winds Meet": {
    "favorites": 2,
