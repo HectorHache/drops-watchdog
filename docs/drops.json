@@ -2798,6 +2798,26 @@
    "asset": "assets/d6d56572-09ce-4204-bd92-a86436ed2f25.png"
   },
   {
+   "id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9",
+   "game": "World of Warcraft",
+   "title": "Cuddly Gold Grrgle",
+   "status": "ACTIVE",
+   "startAt": "2026-10-13T17:00:00+00:00",
+   "endAt": "2026-11-03T17:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T17:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54c7f158-497b-408a-8d03-3e69e96c2248.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9",
+   "rewards": [
+    {
+     "name": "Cuddly Gold Grrgle",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png"
+  },
+  {
    "id": "a79605b7-87e3-448a-94eb-e35704059a73",
    "game": "Rise Online",
    "title": "ROW Drop 616",
@@ -12481,7 +12501,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.23
+   "score": 14.22
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12493,7 +12513,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.13
+   "score": 14.12
   },
   "Once Human": {
    "favorites": 2,
@@ -12529,7 +12549,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.26
+   "score": 5.25
   },
   "Where Winds Meet": {
    "favorites": 2,
