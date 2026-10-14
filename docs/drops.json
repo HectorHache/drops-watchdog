@@ -2646,62 +2646,6 @@
    "asset": "assets/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png"
   },
   {
-   "id": "e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
-   "game": "Escape from Tarkov",
-   "title": "EXFIL Brothers Day 5",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T07:00:00+00:00",
-   "endAt": "2026-10-14T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T07:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/23e582d5-2de1-40f4-a62c-51f0dbe15fc2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360
-    },
-    {
-     "name": "Drop 7",
-     "minutes": 420
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 480
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 540
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e3c904d6-b2ad-47c4-9b3a-e4113e6b3831.png"
-  },
-  {
    "id": "9a4db8e0-0a04-481e-92fe-785ae8af7f64",
    "game": "Albion Online",
    "title": "Dragonfire 7 - #2/7",
@@ -3160,9 +3104,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/85e20877-3986-4863-ac8e-c61cb7969879.png"
+  },
+  {
+   "id": "832eec4f-57ec-4d8e-8218-b2656aabea59",
+   "game": "Lineage II",
+   "title": "Lineage 2 Replica EU",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T07:00:00+00:00",
+   "endAt": "2026-10-28T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T07:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82372ddd-1967-4756-85d7-494c7930fe94.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=832eec4f-57ec-4d8e-8218-b2656aabea59",
+   "rewards": [
+    {
+     "name": "L2 Replica Drops EU",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/832eec4f-57ec-4d8e-8218-b2656aabea59.png"
+  },
+  {
+   "id": "673c33e7-e55d-44e3-aee2-abdf03d17e10",
+   "game": "Lineage II",
+   "title": "Lineage 2 Replica RU",
+   "status": "ACTIVE",
+   "startAt": "2026-10-14T07:00:00+00:00",
+   "endAt": "2026-10-28T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-14T07:00:33+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2311d667-2925-4faf-b606-95923ef4b883.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=673c33e7-e55d-44e3-aee2-abdf03d17e10",
+   "rewards": [
+    {
+     "name": "L2 Replica Drops RU",
+     "minutes": 600
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/673c33e7-e55d-44e3-aee2-abdf03d17e10.png"
   }
  ],
  "archive": [
+  {
+   "id": "e3c904d6-b2ad-47c4-9b3a-e4113e6b3831",
+   "game": "Escape from Tarkov",
+   "title": "EXFIL Brothers Day 5",
+   "startAt": "2026-10-13T07:00:00+00:00",
+   "endAt": "2026-10-14T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a469ddb9-08e4-4644-b9cf-c8fc01570771",
    "game": "Rainbow Six Siege",
@@ -12399,13 +12391,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.37
+   "score": 14.36
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12417,25 +12409,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.27
+   "score": 14.26
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12459,7 +12451,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.19
+   "score": 10.18
   }
  },
  "favoriteWeights": {
