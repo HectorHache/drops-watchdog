@@ -1426,38 +1426,6 @@
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
   },
   {
-   "id": "4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
-   "game": "UFL",
-   "title": "Oct #2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T08:00:00+00:00",
-   "endAt": "2026-10-14T23:58:59.999+00:00",
-   "firstSeenAt": "2026-10-08T08:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4edaa6b4-2820-43d3-8f00-d281c76f5d66.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 60
-    },
-    {
-     "name": "2",
-     "minutes": 120
-    },
-    {
-     "name": "3",
-     "minutes": 180
-    },
-    {
-     "name": "4",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094.png"
-  },
-  {
    "id": "576c1066-00c1-4b08-b430-3f79659167f4",
    "game": "Phasmophobia",
    "title": "Crimson Eye 2026",
@@ -2798,26 +2766,6 @@
    "asset": "assets/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png"
   },
   {
-   "id": "2b6cc9bf-62e6-4461-b45f-6830be733ca0",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T00:00:00+00:00",
-   "endAt": "2026-10-14T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-14T00:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8e35a64-31b0-4b33-8d25-2ecfe89f5cfb.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2b6cc9bf-62e6-4461-b45f-6830be733ca0",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2b6cc9bf-62e6-4461-b45f-6830be733ca0.png"
-  },
-  {
    "id": "85e20877-3986-4863-ac8e-c61cb7969879",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 18",
@@ -3274,39 +3222,151 @@
    "asset": "assets/19f3b23f-5165-4b52-b1de-d3c9afd40223.png"
   },
   {
-   "id": "dd589c7a-7593-43be-a459-19294e8ed0f8",
-   "game": "Madden NFL 27",
-   "title": "Madden 27 Most Feared GMM",
+   "id": "2c5ad49b-118c-491e-8daa-1bfeef24837a",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-14T22:30:00+00:00",
-   "endAt": "2026-10-15T04:29:59.999+00:00",
-   "firstSeenAt": "2026-10-14T22:30:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd106f5e-8a27-4cd6-9479-d79a8b741d12.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=dd589c7a-7593-43be-a459-19294e8ed0f8",
+   "startAt": "2026-10-15T00:00:00+00:00",
+   "endAt": "2026-10-15T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T00:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d729751d-cf51-40e7-939e-179e994203a4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c5ad49b-118c-491e-8daa-1bfeef24837a",
    "rewards": [
     {
-     "name": "Madden Twitch Pack",
-     "minutes": 15
-    },
-    {
-     "name": "MUT MF Bobby Wagner",
-     "minutes": 30
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Madden Super Twitch Pack",
-     "minutes": 90
+     "name": "Twitch Reward Chest",
+     "minutes": 180
     }
    ],
    "inSteamLibrary": false,
    "isFavorite": false,
-   "asset": "assets/dd589c7a-7593-43be-a459-19294e8ed0f8.png"
+   "asset": "assets/2c5ad49b-118c-491e-8daa-1bfeef24837a.png"
+  },
+  {
+   "id": "31a45380-7a68-426b-a084-dd00fc445ddb",
+   "game": "Delta Force",
+   "title": "DF RISE S2 Survivor Day",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T00:00:00+00:00",
+   "endAt": "2026-10-17T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T00:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e555004-2ccd-4787-9436-13e6889fb06d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=31a45380-7a68-426b-a084-dd00fc445ddb",
+   "rewards": [
+    {
+     "name": "S11 Adv Arm Select Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Adv Vest Selection Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Spray-RISE SERIES SEASON2",
+     "minutes": 45
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 60
+    },
+    {
+     "name": "ASVAL - Sweet Disguise",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/31a45380-7a68-426b-a084-dd00fc445ddb.png"
+  },
+  {
+   "id": "853eaf12-2ecb-446c-b382-717c278f8af2",
+   "game": "ARKNIGHTS: ENDFIELD",
+   "title": "Sanctuary of Ink",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T02:00:00+00:00",
+   "endAt": "2026-11-12T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T02:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/90d47ce9-ba2e-401f-b6b5-5b11fd4be7bc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=853eaf12-2ecb-446c-b382-717c278f8af2",
+   "rewards": [
+    {
+     "name": "Talosian Credit*10000",
+     "minutes": 15
+    },
+    {
+     "name": "Intermediate Combat Record*15",
+     "minutes": 30
+    },
+    {
+     "name": "Arms INSP Set*3",
+     "minutes": 60
+    },
+    {
+     "name": "Elementary Cognitive Carrier*10",
+     "minutes": 90
+    },
+    {
+     "name": "Oroberyl*150",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/853eaf12-2ecb-446c-b382-717c278f8af2.png"
+  },
+  {
+   "id": "6b50175a-a8a6-4c41-a2e7-3ae0cd028831",
+   "game": "Castlevania: Belmont's Curse",
+   "title": "Belmont's Curse badge",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T04:00:00+00:00",
+   "endAt": "2026-11-02T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T04:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ced41393-b8be-47d6-ba6b-f9726a681969.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6b50175a-a8a6-4c41-a2e7-3ae0cd028831",
+   "rewards": [
+    {
+     "name": "Belmont's Curse badge",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6b50175a-a8a6-4c41-a2e7-3ae0cd028831.png"
   }
  ],
  "archive": [
+  {
+   "id": "dd589c7a-7593-43be-a459-19294e8ed0f8",
+   "game": "Madden NFL 27",
+   "title": "Madden 27 Most Feared GMM",
+   "startAt": "2026-10-14T22:30:00+00:00",
+   "endAt": "2026-10-15T04:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b9d6fc2b-f7b9-4366-93a3-23e9558e2c8d",
+   "game": "Warframe",
+   "title": "PMCFQ - thegamio",
+   "startAt": "2026-10-15T01:00:00+00:00",
+   "endAt": "2026-10-15T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2b6cc9bf-62e6-4461-b45f-6830be733ca0",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-14T00:00:00+00:00",
+   "endAt": "2026-10-14T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094",
+   "game": "UFL",
+   "title": "Oct #2",
+   "startAt": "2026-10-08T08:00:00+00:00",
+   "endAt": "2026-10-14T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "107f5eb2-1479-4e6c-b154-47ae13517533",
    "game": "World of Warships",
@@ -12663,81 +12723,81 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.03
+   "score": 9.97
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.15
+   "score": 14.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.22
+   "score": 2.2
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 14.05
+   "score": 13.96
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.03
+   "score": 9.97
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.03
+   "score": 9.97
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.03
+   "score": 9.97
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.11
+   "score": 1.1
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.81
+   "score": 4.78
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.23
+   "score": 5.19
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 10.03
+   "score": 9.97
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 20,
+  "ARC Raiders": 19,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 24,
-  "LEGO Batman: Legacy of the Dark Knight": 24,
+  "LEGO Batman: Legacy of the Dark Knight": 23,
   "Marvel Rivals": 10,
-  "Once Human": 20,
-  "Palia": 20,
-  "Predecessor": 20,
+  "Once Human": 19,
+  "Palia": 19,
+  "Predecessor": 19,
   "Tom Clancy's The Division 2": 14,
   "Warframe": 15,
-  "Where Winds Meet": 20
+  "Where Winds Meet": 19
  }
 }
