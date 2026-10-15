@@ -3404,6 +3404,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png"
+  },
+  {
+   "id": "a5acd4ca-7c21-4e1d-ae67-06338cd1e58f",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T10:00:00+00:00",
+   "endAt": "2026-10-16T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-15T10:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b4842487-2d8e-4aca-9904-db711a744e1e.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a5acd4ca-7c21-4e1d-ae67-06338cd1e58f",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/a5acd4ca-7c21-4e1d-ae67-06338cd1e58f.png"
+  },
+  {
+   "id": "f5a0cf7c-bb48-47bf-8324-f8d7f5c70549",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #4/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T10:00:00+00:00",
+   "endAt": "2026-10-16T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-15T10:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/75e0a3f8-0e7b-4310-92ab-173f2cecd195.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f5a0cf7c-bb48-47bf-8324-f8d7f5c70549",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f5a0cf7c-bb48-47bf-8324-f8d7f5c70549.png"
   }
  ],
  "archive": [
@@ -12843,19 +12883,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.93
+   "score": 9.92
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.0
+   "score": 13.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.2
+   "score": 2.19
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
@@ -12867,19 +12907,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.93
+   "score": 9.92
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.93
+   "score": 9.92
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.93
+   "score": 9.92
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12891,7 +12931,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.76
+   "score": 4.75
   },
   "Warframe": {
    "favorites": 1,
@@ -12903,7 +12943,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.93
+   "score": 9.92
   }
  },
  "favoriteWeights": {
