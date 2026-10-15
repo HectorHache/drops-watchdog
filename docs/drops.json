@@ -3456,6 +3456,142 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8c373f6f-862e-4737-81fe-452dc0252977.png"
+  },
+  {
+   "id": "83aef0b8-3b84-41df-b365-5ea889359809",
+   "game": "Warframe",
+   "title": "PMCFQ - brighan",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-15T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8bc4423-366b-4851-8150-eb4913a0b913.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83aef0b8-3b84-41df-b365-5ea889359809",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/83aef0b8-3b84-41df-b365-5ea889359809.jpg"
+  },
+  {
+   "id": "e505a275-6823-474a-ac59-61d4d95d2094",
+   "game": "Tom Clancy's The Division 2",
+   "title": "TD2 S3 Red Moon Unleashed",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-22T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6bf5f3ac-bc9b-43fd-b574-1a6eef38ae4a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e505a275-6823-474a-ac59-61d4d95d2094",
+   "rewards": [
+    {
+     "name": "Arm Patch Summon",
+     "minutes": 30
+    },
+    {
+     "name": "Named Cache",
+     "minutes": 60
+    },
+    {
+     "name": "Arm Patch Bind",
+     "minutes": 120
+    },
+    {
+     "name": "Exotic Cache",
+     "minutes": 180
+    },
+    {
+     "name": "Eye Contact",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/e505a275-6823-474a-ac59-61d4d95d2094.png"
+  },
+  {
+   "id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20",
+   "game": "World of Tanks",
+   "title": "Operative QuickyBaby",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-31T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ab12b25d-1476-4c0b-bf43-b8a195e5b95b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png"
+  },
+  {
+   "id": "86254499-8b0b-4f45-b9d3-de79cb756773",
+   "game": "World of Tanks",
+   "title": "Operative Mailand",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-31T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f4acf93a-76a0-4523-88d4-261f830553e8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=86254499-8b0b-4f45-b9d3-de79cb756773",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/86254499-8b0b-4f45-b9d3-de79cb756773.png"
+  },
+  {
+   "id": "e3783806-14bb-4497-850b-fbb7d9468d54",
+   "game": "World of Tanks",
+   "title": "Operative Skill4ltu",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-31T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04fe562d-2766-4eab-992a-165b345ec528.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e3783806-14bb-4497-850b-fbb7d9468d54",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e3783806-14bb-4497-850b-fbb7d9468d54.png"
+  },
+  {
+   "id": "61e12424-a3c8-4ad7-9141-6058b23ea044",
+   "game": "World of Tanks",
+   "title": "Operative MouzAkrobat",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-31T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c31ecd21-b134-4d79-8e18-6613264b72e3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=61e12424-a3c8-4ad7-9141-6058b23ea044",
+   "rewards": [
+    {
+     "name": "Drop",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/61e12424-a3c8-4ad7-9141-6058b23ea044.png"
   }
  ],
  "archive": [
@@ -12925,7 +13061,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.93
+   "score": 13.92
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12937,7 +13073,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.84
+   "score": 13.83
   },
   "Once Human": {
    "favorites": 2,
@@ -12973,7 +13109,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.15
+   "score": 5.14
   },
   "Where Winds Meet": {
    "favorites": 2,
