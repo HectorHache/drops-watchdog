@@ -3464,6 +3464,42 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4c37cc62-b880-40c6-99ae-fc8219dac1aa.png"
+  },
+  {
+   "id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d",
+   "game": "UFL",
+   "title": "Oct #3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T08:05:00+00:00",
+   "endAt": "2026-10-21T23:58:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea393bd8-1b29-42be-8d59-3012e51fdc46.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d",
+   "rewards": [
+    {
+     "name": "3",
+     "minutes": 180
+    },
+    {
+     "name": "1",
+     "minutes": 60
+    },
+    {
+     "name": "4",
+     "minutes": 240
+    },
+    {
+     "name": "5",
+     "minutes": 300
+    },
+    {
+     "name": "2",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png"
   }
  ],
  "archive": [
@@ -12877,7 +12913,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.02
+   "score": 14.01
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
