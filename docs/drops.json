@@ -3410,26 +3410,6 @@
    "asset": "assets/8c373f6f-862e-4737-81fe-452dc0252977.png"
   },
   {
-   "id": "83aef0b8-3b84-41df-b365-5ea889359809",
-   "game": "Warframe",
-   "title": "PMCFQ - brighan",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:00:00+00:00",
-   "endAt": "2026-10-15T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T15:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8bc4423-366b-4851-8150-eb4913a0b913.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=83aef0b8-3b84-41df-b365-5ea889359809",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/83aef0b8-3b84-41df-b365-5ea889359809.jpg"
-  },
-  {
    "id": "e505a275-6823-474a-ac59-61d4d95d2094",
    "game": "Tom Clancy's The Division 2",
    "title": "TD2 S3 Red Moon Unleashed",
@@ -3616,9 +3596,65 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3d094e35-0ccd-4d56-8c38-35bea5913b1b.png"
+  },
+  {
+   "id": "f370071f-a037-40a2-b6e0-8fb78769b6a7",
+   "game": "Madden NFL 27",
+   "title": "M27 MF Open Directory",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T17:00:00+00:00",
+   "endAt": "2026-10-18T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T17:00:37+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47e931f6-5b77-4c46-a563-73f6048da784.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f370071f-a037-40a2-b6e0-8fb78769b6a7",
+   "rewards": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 90
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240
+    },
+    {
+     "name": "Madden Super Twitch Pack",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f370071f-a037-40a2-b6e0-8fb78769b6a7.png"
   }
  ],
  "archive": [
+  {
+   "id": "83aef0b8-3b84-41df-b365-5ea889359809",
+   "game": "Warframe",
+   "title": "PMCFQ - brighan",
+   "startAt": "2026-10-15T15:00:00+00:00",
+   "endAt": "2026-10-15T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
    "game": "World of Warships",
@@ -13113,7 +13149,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.81
+   "score": 13.8
   },
   "Once Human": {
    "favorites": 2,
@@ -13149,7 +13185,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.14
+   "score": 5.13
   },
   "Where Winds Meet": {
    "favorites": 2,
