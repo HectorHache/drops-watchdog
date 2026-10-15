@@ -3486,54 +3486,6 @@
    "asset": "assets/61e12424-a3c8-4ad7-9141-6058b23ea044.png"
   },
   {
-   "id": "1b77096b-4fde-4f41-9786-7a465a85f2fc",
-   "game": "For Honor",
-   "title": "FH Warrior's Den Oct 26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:50:00+00:00",
-   "endAt": "2026-10-15T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T16:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9157c415-1b68-4b91-ac06-5a4d5b36bbfb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b77096b-4fde-4f41-9786-7a465a85f2fc",
-   "rewards": [
-    {
-     "name": "Tier 1",
-     "minutes": 30
-    },
-    {
-     "name": "Tier 2",
-     "minutes": 60
-    },
-    {
-     "name": "Tier 3",
-     "minutes": 90
-    },
-    {
-     "name": "Tier 4",
-     "minutes": 120
-    },
-    {
-     "name": "Tier 5",
-     "minutes": 150
-    },
-    {
-     "name": "Tier 6",
-     "minutes": 180
-    },
-    {
-     "name": "Tier 7",
-     "minutes": 210
-    },
-    {
-     "name": "Tier 8",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/1b77096b-4fde-4f41-9786-7a465a85f2fc.jpg"
-  },
-  {
    "id": "3d094e35-0ccd-4d56-8c38-35bea5913b1b",
    "game": "World of Warships",
    "title": "Update 15.9 Drop: Week 2",
@@ -3646,26 +3598,6 @@
    "asset": "assets/eb949715-75c9-465b-ab09-09c276ad0ec9.png"
   },
   {
-   "id": "a2f26bdc-a1ce-4fda-a641-b280f9f7691f",
-   "game": "Warframe",
-   "title": "PMCFQ - auntietan",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T18:00:00+00:00",
-   "endAt": "2026-10-15T19:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T18:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0d88e784-c5ff-4d8b-ab80-534f6868331f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a2f26bdc-a1ce-4fda-a641-b280f9f7691f",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/a2f26bdc-a1ce-4fda-a641-b280f9f7691f.jpg"
-  },
-  {
    "id": "bda12386-4530-4986-bef5-f3a8c9638685",
    "game": "Galaxies Showcase",
    "title": "Galaxies Autumn 2026",
@@ -3691,6 +3623,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "1b77096b-4fde-4f41-9786-7a465a85f2fc",
+   "game": "For Honor",
+   "title": "FH Warrior's Den Oct 26",
+   "startAt": "2026-10-15T15:50:00+00:00",
+   "endAt": "2026-10-15T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a2f26bdc-a1ce-4fda-a641-b280f9f7691f",
+   "game": "Warframe",
+   "title": "PMCFQ - auntietan",
+   "startAt": "2026-10-15T18:00:00+00:00",
+   "endAt": "2026-10-15T19:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "a122bdcb-3814-4bf9-adfb-8204422ed8b6",
    "game": "Rise Online",
@@ -13209,7 +13157,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.77
+   "score": 13.76
   },
   "Once Human": {
    "favorites": 2,
