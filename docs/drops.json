@@ -3596,33 +3596,17 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/eb949715-75c9-465b-ab09-09c276ad0ec9.png"
-  },
+  }
+ ],
+ "archive": [
   {
    "id": "bda12386-4530-4986-bef5-f3a8c9638685",
    "game": "Galaxies Showcase",
    "title": "Galaxies Autumn 2026",
-   "status": "ACTIVE",
    "startAt": "2026-10-15T19:00:00+00:00",
    "endAt": "2026-10-15T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T19:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1bbbd960-3dd3-40b4-8371-9d200c784792.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bda12386-4530-4986-bef5-f3a8c9638685",
-   "rewards": [
-    {
-     "name": "Cash Pending Sticker",
-     "minutes": 30
-    },
-    {
-     "name": "Deposit Slip Spray",
-     "minutes": 45
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bda12386-4530-4986-bef5-f3a8c9638685.jpg"
-  }
- ],
- "archive": [
+   "status": "ENDED"
+  },
   {
    "id": "1b77096b-4fde-4f41-9786-7a465a85f2fc",
    "game": "For Honor",
@@ -13145,7 +13129,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.85
+   "score": 13.84
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13157,7 +13141,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.76
+   "score": 13.75
   },
   "Once Human": {
    "favorites": 2,
@@ -13187,13 +13171,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.71
+   "score": 4.7
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.12
+   "score": 5.11
   },
   "Where Winds Meet": {
    "favorites": 2,
