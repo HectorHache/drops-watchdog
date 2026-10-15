@@ -3174,34 +3174,6 @@
    "asset": "assets/b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26.png"
   },
   {
-   "id": "5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2",
-   "game": "League of Legends",
-   "title": "Jynxzi's LoL Tournament",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T20:00:00+00:00",
-   "endAt": "2026-10-15T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-14T20:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ae7d4dfd-a337-4717-be98-8687073c38bc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2",
-   "rewards": [
-    {
-     "name": "Malphite Press R Emote",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Warwick Skin",
-     "minutes": 120
-    },
-    {
-     "name": "Arcane Warwick Mythic Chroma",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2.png"
-  },
-  {
    "id": "19f3b23f-5165-4b52-b1de-d3c9afd40223",
    "game": "World of Warships",
    "title": "15.9 WOWS Channel Drop",
@@ -3332,9 +3304,89 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6b50175a-a8a6-4c41-a2e7-3ae0cd028831.png"
+  },
+  {
+   "id": "98f17628-ca8f-431d-9779-f898645b03d3",
+   "game": "Where Winds Meet",
+   "title": "Where Winds Meet November",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T05:30:00+00:00",
+   "endAt": "2026-11-12T05:29:59.999+00:00",
+   "firstSeenAt": "2026-10-15T06:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fcb8b51-c412-4ee0-b5ba-2317edc1775d.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=98f17628-ca8f-431d-9779-f898645b03d3",
+   "rewards": [
+    {
+     "name": "15min drop Nov",
+     "minutes": 15
+    },
+    {
+     "name": "30min drop Nov",
+     "minutes": 30
+    },
+    {
+     "name": "60min drop Nov",
+     "minutes": 60
+    },
+    {
+     "name": "120min drop Nov",
+     "minutes": 120
+    },
+    {
+     "name": "180min drop Nov",
+     "minutes": 180
+    },
+    {
+     "name": "240min drop Nov",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/98f17628-ca8f-431d-9779-f898645b03d3.png"
+  },
+  {
+   "id": "cc08d25f-f80b-44f1-831f-c97bbbedc5fe",
+   "game": "DRAGON BALL GEKISHIN SQUADRA",
+   "title": "SQUADRA SEASON 7.2 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T06:00:00+00:00",
+   "endAt": "2026-11-12T05:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T06:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a93d7ca8-928a-4c32-81f4-aabeeed5cc01.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cc08d25f-f80b-44f1-831f-c97bbbedc5fe",
+   "rewards": [
+    {
+     "name": "P7G-Capsule \u00d75",
+     "minutes": 30
+    },
+    {
+     "name": "Zeni \u00d77,000",
+     "minutes": 60
+    },
+    {
+     "name": "P7G-Capsule \u00d710",
+     "minutes": 120
+    },
+    {
+     "name": "Exclusive Icon",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png"
   }
  ],
  "archive": [
+  {
+   "id": "5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2",
+   "game": "League of Legends",
+   "title": "Jynxzi's LoL Tournament",
+   "startAt": "2026-10-14T20:00:00+00:00",
+   "endAt": "2026-10-15T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "dd589c7a-7593-43be-a459-19294e8ed0f8",
    "game": "Madden NFL 27",
@@ -12723,13 +12775,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.05
+   "score": 14.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12741,25 +12793,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.96
+   "score": 13.95
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12783,7 +12835,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.97
+   "score": 9.96
   }
  },
  "favoriteWeights": {
