@@ -2422,38 +2422,6 @@
    "asset": "assets/982b611a-ae2a-4cc6-bf15-77daa8b5b343.jpg"
   },
   {
-   "id": "05dd2a67-9f78-4387-8a34-736573268ac7",
-   "game": "AION 2",
-   "title": "War for Atreia - Series 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T17:00:00+00:00",
-   "endAt": "2026-10-15T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T17:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20373371-a051-4543-b81f-44552442392f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=05dd2a67-9f78-4387-8a34-736573268ac7",
-   "rewards": [
-    {
-     "name": "Odyle Energy x4",
-     "minutes": 30
-    },
-    {
-     "name": "Skin Chest (10 Skins) x1",
-     "minutes": 60
-    },
-    {
-     "name": "Resurrection Stone x15",
-     "minutes": 120
-    },
-    {
-     "name": "Leather Crop Fit x1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/05dd2a67-9f78-4387-8a34-736573268ac7.png"
-  },
-  {
    "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 3",
@@ -3379,6 +3347,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "05dd2a67-9f78-4387-8a34-736573268ac7",
+   "game": "AION 2",
+   "title": "War for Atreia - Series 3",
+   "startAt": "2026-10-12T17:00:00+00:00",
+   "endAt": "2026-10-15T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2",
    "game": "League of Legends",
@@ -12775,13 +12751,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.96
+   "score": 9.95
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 14.04
+   "score": 14.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -12799,19 +12775,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.96
+   "score": 9.95
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.96
+   "score": 9.95
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.96
+   "score": 9.95
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12829,13 +12805,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.19
+   "score": 5.18
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.96
+   "score": 9.95
   }
  },
  "favoriteWeights": {
