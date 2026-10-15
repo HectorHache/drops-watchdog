@@ -1622,50 +1622,6 @@
    "asset": "assets/71971975-43a7-494a-833c-4cfbaf620fc6.jpg"
   },
   {
-   "id": "e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
-   "game": "Shakes and Fidget",
-   "title": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T14:00:00+00:00",
-   "endAt": "2026-10-15T21:58:59.999+00:00",
-   "firstSeenAt": "2026-10-09T14:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/25e597de-cb7b-47d2-b018-525946e885e8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
-   "rewards": [
-    {
-     "name": "Smith Package",
-     "minutes": 150
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180
-    },
-    {
-     "name": "Gilded Package",
-     "minutes": 15
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png"
-  },
-  {
    "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
    "game": "RavenQuest",
    "title": "October 02",
@@ -3599,6 +3555,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
+   "game": "Shakes and Fidget",
+   "title": "S&F Droplets",
+   "startAt": "2026-10-09T14:00:00+00:00",
+   "endAt": "2026-10-15T21:58:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bda12386-4530-4986-bef5-f3a8c9638685",
    "game": "Galaxies Showcase",
@@ -13129,7 +13093,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.84
+   "score": 13.83
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
