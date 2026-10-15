@@ -2778,46 +2778,6 @@
    "asset": "assets/673c33e7-e55d-44e3-aee2-abdf03d17e10.png"
   },
   {
-   "id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T10:00:00+00:00",
-   "endAt": "2026-10-15T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-14T10:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/843cf7af-0174-4b63-bd2b-0fa273582091.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2f0836c2-76fb-492b-8037-d2746fd7d0c1",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2f0836c2-76fb-492b-8037-d2746fd7d0c1.png"
-  },
-  {
-   "id": "01180752-1f11-42e6-9252-f80ed295c502",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #3/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T10:00:00+00:00",
-   "endAt": "2026-10-15T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-14T10:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9f5ab943-6da2-4cf9-bb43-fac28845c62c.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=01180752-1f11-42e6-9252-f80ed295c502",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/01180752-1f11-42e6-9252-f80ed295c502.png"
-  },
-  {
    "id": "7a450596-8243-4ec9-b202-a67bf9f102ef",
    "game": "Black Desert",
    "title": "2026 BDO Drops (Oct 14)",
@@ -3318,34 +3278,6 @@
    "asset": "assets/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png"
   },
   {
-   "id": "2a100e21-aabc-48d6-8d89-16d2a20f542b",
-   "game": "Standoff 2",
-   "title": "Test 15/10",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T07:45:00+00:00",
-   "endAt": "2026-10-15T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-15T08:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1991a13b-fe68-4c60-bb54-60642f9bdded.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2a100e21-aabc-48d6-8d89-16d2a20f542b",
-   "rewards": [
-    {
-     "name": "Test 15/10 01",
-     "minutes": 15
-    },
-    {
-     "name": "Test 15/10 02",
-     "minutes": 20
-    },
-    {
-     "name": "Test 15/10 03",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2a100e21-aabc-48d6-8d89-16d2a20f542b.png"
-  },
-  {
    "id": "e70c6349-4ae6-4730-be10-fe75ae71d2e8",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.15",
@@ -3475,6 +3407,30 @@
   }
  ],
  "archive": [
+  {
+   "id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #3/7",
+   "startAt": "2026-10-14T10:00:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "01180752-1f11-42e6-9252-f80ed295c502",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #3/7",
+   "startAt": "2026-10-14T10:00:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2a100e21-aabc-48d6-8d89-16d2a20f542b",
+   "game": "Standoff 2",
+   "title": "Test 15/10",
+   "startAt": "2026-10-15T07:45:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "bd0498b5-9068-4e4a-8d43-5b66ea0bd992",
    "game": "THE FINALS",
@@ -12905,7 +12861,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.91
+   "score": 13.9
   },
   "Once Human": {
    "favorites": 2,
@@ -12954,7 +12910,7 @@
   "ARC Raiders": 19,
   "Counter-Strike 2": 10,
   "DayZ": 10,
-  "Delta Force": 24,
+  "Delta Force": 23,
   "LEGO Batman: Legacy of the Dark Knight": 23,
   "Marvel Rivals": 10,
   "Once Human": 19,
