@@ -3344,6 +3344,126 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png"
+  },
+  {
+   "id": "2a100e21-aabc-48d6-8d89-16d2a20f542b",
+   "game": "Standoff 2",
+   "title": "Test 15/10",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T07:45:00+00:00",
+   "endAt": "2026-10-15T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1991a13b-fe68-4c60-bb54-60642f9bdded.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2a100e21-aabc-48d6-8d89-16d2a20f542b",
+   "rewards": [
+    {
+     "name": "Test 15/10 01",
+     "minutes": 15
+    },
+    {
+     "name": "Test 15/10 02",
+     "minutes": 20
+    },
+    {
+     "name": "Test 15/10 03",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2a100e21-aabc-48d6-8d89-16d2a20f542b.png"
+  },
+  {
+   "id": "e70c6349-4ae6-4730-be10-fe75ae71d2e8",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.15",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-15T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54a363b7-599a-4ec8-b2ae-e8ff1bcdffab.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e70c6349-4ae6-4730-be10-fe75ae71d2e8",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e70c6349-4ae6-4730-be10-fe75ae71d2e8.png"
+  },
+  {
+   "id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.15-18",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f984e6e-5a8c-4ffe-97a5-3d055f831835.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
+   "rewards": [
+    {
+     "name": "10x XP Bonus",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3cf7094f-5d9b-4a14-8660-a4aab5bae3e5.png"
+  },
+  {
+   "id": "09234039-5edb-4037-9273-14c702bdf60d",
+   "game": "Vaultbreakers",
+   "title": "Vaultbreakers Alpha",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-22T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/500b3c9e-4b94-403c-b6f8-c45ba3d78235.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=09234039-5edb-4037-9273-14c702bdf60d",
+   "rewards": [
+    {
+     "name": "Helldruid emote",
+     "minutes": 60
+    },
+    {
+     "name": "250 Legacy",
+     "minutes": 30
+    },
+    {
+     "name": "Sparkwing Purple Chroma",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/09234039-5edb-4037-9273-14c702bdf60d.png"
+  },
+  {
+   "id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa",
+   "game": "Enshrouded",
+   "title": "Enshrouded v1.0 Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-29T22:58:59.999+00:00",
+   "firstSeenAt": "2026-10-15T08:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d9b278e-9772-46d7-a567-a7e80913f4ad.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4c37cc62-b880-40c6-99ae-fc8219dac1aa",
+   "rewards": [
+    {
+     "name": "Flameborn Sigil",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4c37cc62-b880-40c6-99ae-fc8219dac1aa.png"
   }
  ],
  "archive": [
@@ -12751,7 +12871,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   },
   "Delta Force": {
    "favorites": 3,
@@ -12769,25 +12889,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.93
+   "score": 13.92
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   },
   "THE FINALS": {
    "favorites": 0,
@@ -12799,7 +12919,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.77
+   "score": 4.76
   },
   "Warframe": {
    "favorites": 1,
@@ -12811,7 +12931,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.95
+   "score": 9.94
   }
  },
  "favoriteWeights": {
