@@ -180,13 +180,6 @@
     <pubDate>2026-10-01T10:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>Kakele Online - MMORPG — Kakele Online - October</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=ed66b50c-b358-4e9d-882e-59f4abbf61fb</link>
-    <guid isPermaLink="false">ed66b50c-b358-4e9d-882e-59f4abbf61fb</guid>
-    <description>Streamer Token · Streamer Token · Streamer Token · Streamer Token · Streamer Token · Streamer Token — runs 2026-10-01T10:00:00+00:00 → 2026-10-15T11:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-01T10:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>007 First Light — Extended Operations</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=4240c65a-577d-47f4-96f5-9371cc99f5b5</link>
     <guid isPermaLink="false">4240c65a-577d-47f4-96f5-9371cc99f5b5</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">379ef4ec-630e-4680-be66-afa041847757</guid>
     <description>Dance Elite 2000 — runs 2026-10-08T13:00:00+00:00 → 2026-11-05T12:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-08T13:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>World of Warships — Update 15.9 Drop: Week 1</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=2c7f9376-a07c-4bee-b7ce-38ec089c02cf</link>
+    <guid isPermaLink="false">2c7f9376-a07c-4bee-b7ce-38ec089c02cf</guid>
+    <description>Update 15.9 Mission #1 · Twitch Container 15.9 week #1 — runs 2026-10-08T15:13:00+00:00 → 2026-10-15T15:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-08T15:13:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
