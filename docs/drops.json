@@ -1454,30 +1454,6 @@
    "asset": "assets/379ef4ec-630e-4680-be66-afa041847757.jpg"
   },
   {
-   "id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
-   "game": "World of Warships",
-   "title": "Update 15.9 Drop: Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T15:13:00+00:00",
-   "endAt": "2026-10-15T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T15:30:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/15a58a1c-6774-4166-a7f8-41b6c1beee9e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
-   "rewards": [
-    {
-     "name": "Update 15.9 Mission #1",
-     "minutes": 90
-    },
-    {
-     "name": "Twitch Container 15.9 week #1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2c7f9376-a07c-4bee-b7ce-38ec089c02cf.png"
-  },
-  {
    "id": "773f4909-b958-455c-be7a-641ade4067c5",
    "game": "Vaultbreakers",
    "title": "Vaultbreakers",
@@ -3170,30 +3146,6 @@
    "asset": "assets/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png"
   },
   {
-   "id": "e70c6349-4ae6-4730-be10-fe75ae71d2e8",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.15",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T08:00:00+00:00",
-   "endAt": "2026-10-15T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T08:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54a363b7-599a-4ec8-b2ae-e8ff1bcdffab.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e70c6349-4ae6-4730-be10-fe75ae71d2e8",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e70c6349-4ae6-4730-be10-fe75ae71d2e8.png"
-  },
-  {
    "id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.15-18",
@@ -3592,9 +3544,97 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/61e12424-a3c8-4ad7-9141-6058b23ea044.png"
+  },
+  {
+   "id": "1b77096b-4fde-4f41-9786-7a465a85f2fc",
+   "game": "For Honor",
+   "title": "FH Warrior's Den Oct 26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T15:50:00+00:00",
+   "endAt": "2026-10-15T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T16:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9157c415-1b68-4b91-ac06-5a4d5b36bbfb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b77096b-4fde-4f41-9786-7a465a85f2fc",
+   "rewards": [
+    {
+     "name": "Tier 1",
+     "minutes": 30
+    },
+    {
+     "name": "Tier 2",
+     "minutes": 60
+    },
+    {
+     "name": "Tier 3",
+     "minutes": 90
+    },
+    {
+     "name": "Tier 4",
+     "minutes": 120
+    },
+    {
+     "name": "Tier 5",
+     "minutes": 150
+    },
+    {
+     "name": "Tier 6",
+     "minutes": 180
+    },
+    {
+     "name": "Tier 7",
+     "minutes": 210
+    },
+    {
+     "name": "Tier 8",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/1b77096b-4fde-4f41-9786-7a465a85f2fc.jpg"
+  },
+  {
+   "id": "3d094e35-0ccd-4d56-8c38-35bea5913b1b",
+   "game": "World of Warships",
+   "title": "Update 15.9 Drop: Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T16:00:00+00:00",
+   "endAt": "2026-10-22T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T16:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e1abf4dd-81ae-4b99-9e24-0e1a023584a8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3d094e35-0ccd-4d56-8c38-35bea5913b1b",
+   "rewards": [
+    {
+     "name": "Update 15.9 Mission #2",
+     "minutes": 90
+    },
+    {
+     "name": "Twitch Container 15.9 week #2",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3d094e35-0ccd-4d56-8c38-35bea5913b1b.png"
   }
  ],
  "archive": [
+  {
+   "id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf",
+   "game": "World of Warships",
+   "title": "Update 15.9 Drop: Week 1",
+   "startAt": "2026-10-08T15:13:00+00:00",
+   "endAt": "2026-10-15T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "e70c6349-4ae6-4730-be10-fe75ae71d2e8",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.15",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-15T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1c2eab3a-86d6-44d7-913b-13f689ed217c",
    "game": "Out of the Park Baseball 27",
@@ -13061,7 +13101,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.92
+   "score": 13.91
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
