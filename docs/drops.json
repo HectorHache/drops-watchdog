@@ -3436,6 +3436,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f6afc67b-0f73-4a4d-8719-05871c8a1f90.png"
+  },
+  {
+   "id": "8c373f6f-862e-4737-81fe-452dc0252977",
+   "game": "Rainbow Six Siege",
+   "title": "R6S Doktor's Curse 26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T14:00:00+00:00",
+   "endAt": "2026-11-02T13:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T14:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/563a7901-a0e3-4b56-8bad-f2d3986b64ab.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8c373f6f-862e-4737-81fe-452dc0252977",
+   "rewards": [
+    {
+     "name": "Ominous Downfall",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/8c373f6f-862e-4737-81fe-452dc0252977.png"
   }
  ],
  "archive": [
@@ -12905,13 +12925,13 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.94
+   "score": 13.93
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.19
+   "score": 2.18
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
@@ -12947,7 +12967,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.74
+   "score": 4.73
   },
   "Warframe": {
    "favorites": 1,
