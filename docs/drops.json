@@ -3664,6 +3664,30 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/a2f26bdc-a1ce-4fda-a641-b280f9f7691f.jpg"
+  },
+  {
+   "id": "bda12386-4530-4986-bef5-f3a8c9638685",
+   "game": "Galaxies Showcase",
+   "title": "Galaxies Autumn 2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-15T19:00:00+00:00",
+   "endAt": "2026-10-15T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-15T19:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1bbbd960-3dd3-40b4-8371-9d200c784792.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bda12386-4530-4986-bef5-f3a8c9638685",
+   "rewards": [
+    {
+     "name": "Cash Pending Sticker",
+     "minutes": 30
+    },
+    {
+     "name": "Deposit Slip Spray",
+     "minutes": 45
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bda12386-4530-4986-bef5-f3a8c9638685.jpg"
   }
  ],
  "archive": [
@@ -13167,43 +13191,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.88
+   "score": 13.86
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.18
+   "score": 2.17
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.78
+   "score": 13.77
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13221,13 +13245,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.13
+   "score": 5.12
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.84
+   "score": 9.83
   }
  },
  "favoriteWeights": {
