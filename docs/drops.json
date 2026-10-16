@@ -3078,42 +3078,6 @@
    "asset": "assets/79416b15-8baa-4bec-981d-f366248a3c45.png"
   },
   {
-   "id": "f6afc67b-0f73-4a4d-8719-05871c8a1f90",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate10/15/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T13:00:00+00:00",
-   "endAt": "2026-10-16T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T13:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f6afc67b-0f73-4a4d-8719-05871c8a1f90",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f6afc67b-0f73-4a4d-8719-05871c8a1f90.png"
-  },
-  {
    "id": "8c373f6f-862e-4737-81fe-452dc0252977",
    "game": "Rainbow Six Siege",
    "title": "R6S Doktor's Curse 26",
@@ -3732,9 +3696,137 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3ce33bdd-378d-4fbd-a35b-a33bb10334bf.png"
+  },
+  {
+   "id": "93b89605-d835-4980-a784-f3ed57caa3fe",
+   "game": "World of Tanks",
+   "title": "Babylon: Dark Tower",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T13:00:00+00:00",
+   "endAt": "2026-10-16T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T13:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9690009-301c-41e2-9a08-dd776bc60779.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=93b89605-d835-4980-a784-f3ed57caa3fe",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/93b89605-d835-4980-a784-f3ed57caa3fe.jpg"
+  },
+  {
+   "id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/16/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T13:00:00+00:00",
+   "endAt": "2026-10-17T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T13:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49c45225-d526-43ca-b75b-0f57f6dcc5a5",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/49c45225-d526-43ca-b75b-0f57f6dcc5a5.png"
+  },
+  {
+   "id": "2aaafcb4-8808-4535-b9b9-85ea868d5b7d",
+   "game": "Infestation: The New Z",
+   "title": "Halloween 2026 Part 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T13:00:00+00:00",
+   "endAt": "2026-10-23T09:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T13:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e6aa5376-3b59-4792-9552-f4f9e538dc25.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2aaafcb4-8808-4535-b9b9-85ea868d5b7d",
+   "rewards": [
+    {
+     "name": "Skinbox",
+     "minutes": 30
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 60
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 90
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 120
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 150
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 180
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 210
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 240
+    },
+    {
+     "name": "Skinbox",
+     "minutes": 270
+    },
+    {
+     "name": "Ex Military Body Halloween 2026",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/2aaafcb4-8808-4535-b9b9-85ea868d5b7d.png"
   }
  ],
  "archive": [
+  {
+   "id": "f6afc67b-0f73-4a4d-8719-05871c8a1f90",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/15/26",
+   "startAt": "2026-10-15T13:00:00+00:00",
+   "endAt": "2026-10-16T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2009d11b-8d51-4318-8bce-e1faefe681a9",
    "game": "Black Desert",
@@ -13353,7 +13445,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.64
+   "score": 13.63
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13365,7 +13457,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.55
+   "score": 13.54
   },
   "Once Human": {
    "favorites": 2,
