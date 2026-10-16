@@ -1546,34 +1546,6 @@
    "asset": "assets/71971975-43a7-494a-833c-4cfbaf620fc6.jpg"
   },
   {
-   "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
-   "game": "RavenQuest",
-   "title": "October 02",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T15:00:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T15:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01b57fc5-3d86-4abc-8766-2b3d12750996.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=03aa0fc9-44ab-46e7-882a-dbcd63874e62",
-   "rewards": [
-    {
-     "name": "RavenPacks",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Pack 01",
-     "minutes": 360
-    },
-    {
-     "name": "Twitch Pack 02",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/03aa0fc9-44ab-46e7-882a-dbcd63874e62.png"
-  },
-  {
    "id": "8007c51b-6ac5-487d-b01d-adf9fc2fe3b6",
    "game": "Ravendawn",
    "title": "October 01",
@@ -2086,26 +2058,6 @@
    "asset": "assets/2567d62b-f308-4da9-8d7d-f5da0b69b10a.png"
   },
   {
-   "id": "145c6ab3-e049-4174-b1f9-1d6d29f45a19",
-   "game": "Mir Korabley",
-   "title": "Lestakorabli - 26.10 #2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T14:00:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T14:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a27d6d7-8538-4119-bef7-23f08fb5deab.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=145c6ab3-e049-4174-b1f9-1d6d29f45a19",
-   "rewards": [
-    {
-     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/145c6ab3-e049-4174-b1f9-1d6d29f45a19.jpg"
-  },
-  {
    "id": "a1b85335-6984-448b-8438-1ec6b436d8fc",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 1/3",
@@ -2148,26 +2100,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/a1b85335-6984-448b-8438-1ec6b436d8fc.png"
-  },
-  {
-   "id": "d351267c-a111-4eaf-af10-50a78f53f77c",
-   "game": "Mir Korabley",
-   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T15:00:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T15:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/382a94ae-e30e-4610-a5b6-c519c586f04a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d351267c-a111-4eaf-af10-50a78f53f77c",
-   "rewards": [
-    {
-     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.10 #2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d351267c-a111-4eaf-af10-50a78f53f77c.jpg"
   },
   {
    "id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343",
@@ -2380,26 +2312,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png"
-  },
-  {
-   "id": "45efd9f4-05a7-4988-9989-72fd63cc93b9",
-   "game": "World of Tanks Console",
-   "title": "Monster Hunting #1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T16:20:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T16:30:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e04dd9ab-e4c8-4035-a1f2-cdd40ea22433.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=45efd9f4-05a7-4988-9989-72fd63cc93b9",
-   "rewards": [
-    {
-     "name": "Monster Hunting #1",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/45efd9f4-05a7-4988-9989-72fd63cc93b9.png"
   },
   {
    "id": "1306917d-e2cb-437e-b87a-fb4eab8724bc",
@@ -2624,50 +2536,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6b1f9278-410f-49ee-b793-a6885d73d73a.png"
-  },
-  {
-   "id": "bf061b0e-67cc-4d5d-bcee-efe92bb6c545",
-   "game": "World of Tanks",
-   "title": "WoT A Thrill Store #2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T15:00:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-14T15:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/95b95f33-44c6-4d36-98e8-455df39dbe78.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bf061b0e-67cc-4d5d-bcee-efe92bb6c545",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bf061b0e-67cc-4d5d-bcee-efe92bb6c545.jpg"
-  },
-  {
-   "id": "23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8",
-   "game": "World of Tanks",
-   "title": "Update 2.4.1 Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T15:00:00+00:00",
-   "endAt": "2026-10-16T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-14T15:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03b9849f-d364-42c4-a822-c9520220598f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8.jpg"
   },
   {
    "id": "37d0e013-d0bf-49be-bb0a-f71f34577ab6",
@@ -3916,9 +3784,233 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9.png"
+  },
+  {
+   "id": "652da331-614c-4886-b0ab-091996b1d789",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 16.10.2026",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-18T20:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/876b62a4-50af-435a-8e58-8b272ac00bcc.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=652da331-614c-4886-b0ab-091996b1d789",
+   "rewards": [
+    {
+     "name": "20 000 credits 16.10",
+     "minutes": 20
+    },
+    {
+     "name": "50 fragments 16.10",
+     "minutes": 30
+    },
+    {
+     "name": "20 000 credits (2) 16.10",
+     "minutes": 45
+    },
+    {
+     "name": "Army Surplus 16.10",
+     "minutes": 60
+    },
+    {
+     "name": "20 000 credits (3) 16.10",
+     "minutes": 90
+    },
+    {
+     "name": "Weapon container 16.10",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/652da331-614c-4886-b0ab-091996b1d789.png"
+  },
+  {
+   "id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-19T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fbbb25bf-f9e4-4877-a669-1952cf93029a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/355e9ba2-ef2a-4d49-9698-5fae95ab0c74.jpg"
+  },
+  {
+   "id": "c9a9be3b-ba13-4924-a045-989ee3d26f28",
+   "game": "World of Tanks Console",
+   "title": "Monster Hunting #2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-20T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dacece12-a10e-4762-8ed6-13f907c64a14.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c9a9be3b-ba13-4924-a045-989ee3d26f28",
+   "rewards": [
+    {
+     "name": "Monster Hunting #2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c9a9be3b-ba13-4924-a045-989ee3d26f28.png"
+  },
+  {
+   "id": "b5e97d7e-182c-4579-9794-aec9a64e5acf",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-23T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9a39662a-01fb-4170-bed7-cc6b94e06bf4.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b5e97d7e-182c-4579-9794-aec9a64e5acf",
+   "rewards": [
+    {
+     "name": "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0432 \u044d\u0444\u0438\u0440\u0435 26.10 #3",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b5e97d7e-182c-4579-9794-aec9a64e5acf.jpg"
+  },
+  {
+   "id": "bdc0f0dd-6a93-44cd-8698-72b767b98c3b",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.10 #3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-23T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/403cadfc-da5c-416a-b7d4-57f036258d99.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bdc0f0dd-6a93-44cd-8698-72b767b98c3b",
+   "rewards": [
+    {
+     "name": "\u00ab\u041c\u0430\u043b\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb \u2014 Lestakorabli",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bdc0f0dd-6a93-44cd-8698-72b767b98c3b.jpg"
+  },
+  {
+   "id": "b86a78c5-e784-405a-bab9-7118ead60321",
+   "game": "RavenQuest",
+   "title": "Fortune's Frontier Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-23T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/51d11ae0-8a4e-4717-9090-bef3e226a0ae.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b86a78c5-e784-405a-bab9-7118ead60321",
+   "rewards": [
+    {
+     "name": "Exalted Munk Song",
+     "minutes": 120
+    },
+    {
+     "name": "Exalted Munk Song",
+     "minutes": 240
+    },
+    {
+     "name": "Legendary Munk Song",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b86a78c5-e784-405a-bab9-7118ead60321.png"
+  },
+  {
+   "id": "d8e74682-74d7-4def-8f2b-034d982d03c1",
+   "game": "NBA 2K27",
+   "title": "NBA 2K27 Season 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-11-13T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T15:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3c35aca1-c24a-4d93-944c-0b534d8c74bd.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d8e74682-74d7-4def-8f2b-034d982d03c1",
+   "rewards": [
+    {
+     "name": "S2 Locker Code (1 hour)",
+     "minutes": 60
+    },
+    {
+     "name": "S2 Locker Code (3 hours)",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d8e74682-74d7-4def-8f2b-034d982d03c1.png"
   }
  ],
  "archive": [
+  {
+   "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
+   "game": "RavenQuest",
+   "title": "October 02",
+   "startAt": "2026-10-09T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "145c6ab3-e049-4174-b1f9-1d6d29f45a19",
+   "game": "Mir Korabley",
+   "title": "Lestakorabli - 26.10 #2",
+   "startAt": "2026-10-12T14:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d351267c-a111-4eaf-af10-50a78f53f77c",
+   "game": "Mir Korabley",
+   "title": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 26.10: \u0427\u0430\u0441\u0442\u044c 2",
+   "startAt": "2026-10-12T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "45efd9f4-05a7-4988-9989-72fd63cc93b9",
+   "game": "World of Tanks Console",
+   "title": "Monster Hunting #1",
+   "startAt": "2026-10-13T16:20:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bf061b0e-67cc-4d5d-bcee-efe92bb6c545",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #2",
+   "startAt": "2026-10-14T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8",
+   "game": "World of Tanks",
+   "title": "Update 2.4.1 Drops",
+   "startAt": "2026-10-14T15:00:00+00:00",
+   "endAt": "2026-10-16T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f6afc67b-0f73-4a4d-8719-05871c8a1f90",
    "game": "Out of the Park Baseball 27",
@@ -13557,7 +13649,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.52
+   "score": 13.51
   },
   "Once Human": {
    "favorites": 2,
@@ -13587,7 +13679,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.63
+   "score": 4.62
   },
   "Warframe": {
    "favorites": 1,
