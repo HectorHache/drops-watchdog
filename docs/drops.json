@@ -3098,46 +3098,6 @@
    "asset": "assets/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png"
   },
   {
-   "id": "a5acd4ca-7c21-4e1d-ae67-06338cd1e58f",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T10:00:00+00:00",
-   "endAt": "2026-10-16T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-15T10:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b4842487-2d8e-4aca-9904-db711a744e1e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a5acd4ca-7c21-4e1d-ae67-06338cd1e58f",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/a5acd4ca-7c21-4e1d-ae67-06338cd1e58f.png"
-  },
-  {
-   "id": "f5a0cf7c-bb48-47bf-8324-f8d7f5c70549",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T10:00:00+00:00",
-   "endAt": "2026-10-16T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-15T10:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/75e0a3f8-0e7b-4310-92ab-173f2cecd195.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f5a0cf7c-bb48-47bf-8324-f8d7f5c70549",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f5a0cf7c-bb48-47bf-8324-f8d7f5c70549.png"
-  },
-  {
    "id": "79416b15-8baa-4bec-981d-f366248a3c45",
    "game": "Marvel Rivals",
    "title": "Ignite Stage2 W4",
@@ -3675,6 +3635,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "a5acd4ca-7c21-4e1d-ae67-06338cd1e58f",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #4/7",
+   "startAt": "2026-10-15T10:00:00+00:00",
+   "endAt": "2026-10-16T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f5a0cf7c-bb48-47bf-8324-f8d7f5c70549",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #4/7",
+   "startAt": "2026-10-15T10:00:00+00:00",
+   "endAt": "2026-10-16T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7fd1dae0-2a04-4bc2-9f9d-3bed757dd0c2",
    "game": "EA Sports College Football 27",
@@ -13255,7 +13231,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.71
+   "score": 9.7
   },
   "Delta Force": {
    "favorites": 3,
@@ -13267,31 +13243,31 @@
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.15
+   "score": 2.14
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.59
+   "score": 13.58
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.71
+   "score": 9.7
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.71
+   "score": 9.7
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.71
+   "score": 9.7
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13309,13 +13285,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.06
+   "score": 5.05
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.71
+   "score": 9.7
   }
  },
  "favoriteWeights": {
