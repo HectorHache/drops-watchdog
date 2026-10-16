@@ -3632,6 +3632,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/61e376e4-9d79-481d-b347-a069298d405d.png"
+  },
+  {
+   "id": "7c48f35e-359c-400a-9c13-f4ccec12b6e9",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T10:00:00+00:00",
+   "endAt": "2026-10-17T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-16T10:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/36f15654-495e-4ce4-ab41-c98411414dd4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7c48f35e-359c-400a-9c13-f4ccec12b6e9",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7c48f35e-359c-400a-9c13-f4ccec12b6e9.png"
+  },
+  {
+   "id": "fee37065-c8dc-41e8-a6b7-bb4c726cc624",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #5/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T10:00:00+00:00",
+   "endAt": "2026-10-17T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-16T10:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/458174b2-1d3a-471c-b3d3-e9dd166ccc45.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fee37065-c8dc-41e8-a6b7-bb4c726cc624",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fee37065-c8dc-41e8-a6b7-bb4c726cc624.png"
   }
  ],
  "archive": [
@@ -13237,7 +13277,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.68
+   "score": 13.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
