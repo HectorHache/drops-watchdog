@@ -1586,38 +1586,6 @@
    "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
   },
   {
-   "id": "8e7a0514-695f-4983-9e03-2a962e4f70c1",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 269",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T16:00:00+00:00",
-   "endAt": "2026-10-16T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-09T16:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/228e43f6-4e61-4406-ac1b-04e7328ce6f7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8e7a0514-695f-4983-9e03-2a962e4f70c1",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 240
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 360
-    },
-    {
-     "name": "DROP - SUBS",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8e7a0514-695f-4983-9e03-2a962e4f70c1.png"
-  },
-  {
    "id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
    "game": "MARVEL Contest of Champions",
    "title": "October Week 2 - CCP",
@@ -3358,30 +3326,6 @@
    "asset": "assets/dfeba7d4-f52f-4195-9153-88656e5c1114.png"
   },
   {
-   "id": "61e376e4-9d79-481d-b347-a069298d405d",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.16",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T08:00:00+00:00",
-   "endAt": "2026-10-16T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T08:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e189d3e1-7a7f-4c34-93aa-c00cc1df3752.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=61e376e4-9d79-481d-b347-a069298d405d",
-   "rewards": [
-    {
-     "name": " Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/61e376e4-9d79-481d-b347-a069298d405d.png"
-  },
-  {
    "id": "7c48f35e-359c-400a-9c13-f4ccec12b6e9",
    "game": "Albion Online",
    "title": "Dragonfire 7 - #5/7",
@@ -3960,9 +3904,57 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/d8e74682-74d7-4def-8f2b-034d982d03c1.png"
+  },
+  {
+   "id": "61e25680-eb3c-4d20-9306-7c69226786ab",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 270",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T16:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T16:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7855147d-aaa9-4374-a396-fa951f0194f0.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=61e25680-eb3c-4d20-9306-7c69226786ab",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 240
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 360
+    },
+    {
+     "name": "DROP - SUBS",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/61e25680-eb3c-4d20-9306-7c69226786ab.png"
   }
  ],
  "archive": [
+  {
+   "id": "8e7a0514-695f-4983-9e03-2a962e4f70c1",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 269",
+   "startAt": "2026-10-09T16:00:00+00:00",
+   "endAt": "2026-10-16T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "61e376e4-9d79-481d-b347-a069298d405d",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.16",
+   "startAt": "2026-10-16T08:00:00+00:00",
+   "endAt": "2026-10-16T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "03aa0fc9-44ab-46e7-882a-dbcd63874e62",
    "game": "RavenQuest",
@@ -13637,7 +13629,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.6
+   "score": 13.59
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13649,7 +13641,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.51
+   "score": 13.5
   },
   "Once Human": {
    "favorites": 2,
