@@ -1346,26 +1346,6 @@
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
   },
   {
-   "id": "576c1066-00c1-4b08-b430-3f79659167f4",
-   "game": "Phasmophobia",
-   "title": "Crimson Eye 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T11:00:00+00:00",
-   "endAt": "2026-10-15T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T11:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df28f984-e371-4c1e-a9ee-72d55002a059.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=576c1066-00c1-4b08-b430-3f79659167f4",
-   "rewards": [
-    {
-     "name": "Crimson Eye 2026 Tee",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/576c1066-00c1-4b08-b430-3f79659167f4.png"
-  },
-  {
    "id": "d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
    "game": "DayZ",
    "title": "DayZ Badlands",
@@ -2810,34 +2790,6 @@
    "asset": "assets/335671f1-73e1-4cf9-a357-c656495f5d4b.png"
   },
   {
-   "id": "a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
-   "game": "Warframe",
-   "title": "Prime Time #501",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T19:00:00+00:00",
-   "endAt": "2026-10-16T00:14:59.999+00:00",
-   "firstSeenAt": "2026-10-14T19:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/391aa7ff-fc5b-4453-9982-e3fe02133286.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 60
-    },
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    },
-    {
-     "name": "Random Floof",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/a4f477ec-c2e5-4ede-9af2-fc5ea2608e38.jpg"
-  },
-  {
    "id": "b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26",
    "game": "League of Legends",
    "title": "Worlds 2026 Chat Badge",
@@ -2876,26 +2828,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/19f3b23f-5165-4b52-b1de-d3c9afd40223.png"
-  },
-  {
-   "id": "2c5ad49b-118c-491e-8daa-1bfeef24837a",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T00:00:00+00:00",
-   "endAt": "2026-10-15T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T00:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d729751d-cf51-40e7-939e-179e994203a4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c5ad49b-118c-491e-8daa-1bfeef24837a",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2c5ad49b-118c-491e-8daa-1bfeef24837a.png"
   },
   {
    "id": "31a45380-7a68-426b-a084-dd00fc445ddb",
@@ -3552,9 +3484,145 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/eb949715-75c9-465b-ab09-09c276ad0ec9.png"
+  },
+  {
+   "id": "877cfbfc-2aec-4c31-a166-3d012110de97",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T00:00:00+00:00",
+   "endAt": "2026-10-16T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T00:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf0f74ed-25b4-411a-9f48-154eee2de2f8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=877cfbfc-2aec-4c31-a166-3d012110de97",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/877cfbfc-2aec-4c31-a166-3d012110de97.png"
+  },
+  {
+   "id": "7bc83c20-44f7-4dc0-aae9-45283ec8acd2",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T02:00:00+00:00",
+   "endAt": "2026-10-17T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T02:00:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11c8fd32-09ef-4518-8e44-cfba5ef61e34.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bc83c20-44f7-4dc0-aae9-45283ec8acd2",
+   "rewards": [
+    {
+     "name": "New Season Drops - 60 mins",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/7bc83c20-44f7-4dc0-aae9-45283ec8acd2.png"
+  },
+  {
+   "id": "de187dc2-1549-44a6-8fe1-118efd83a38a",
+   "game": "Lords Mobile",
+   "title": "Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T02:10:09+00:00",
+   "endAt": "2026-11-13T02:09:59.999+00:00",
+   "firstSeenAt": "2026-10-16T02:30:41+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1c1a1750-50e1-419a-a069-7ac362188c2f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=de187dc2-1549-44a6-8fe1-118efd83a38a",
+   "rewards": [
+    {
+     "name": "15-Minute Reward",
+     "minutes": 15
+    },
+    {
+     "name": "30-Minute Rewaed",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/de187dc2-1549-44a6-8fe1-118efd83a38a.png"
+  },
+  {
+   "id": "321f2214-c73d-4989-91fb-4b0364985a25",
+   "game": "Viking Rise",
+   "title": " Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T03:00:01+00:00",
+   "endAt": "2026-11-13T02:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T03:30:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2951d7db-f6fb-4cc6-bb26-5034a291228a.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=321f2214-c73d-4989-91fb-4b0364985a25",
+   "rewards": [
+    {
+     "name": "30-Min Reward",
+     "minutes": 30
+    },
+    {
+     "name": "15-Minute Reward",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/321f2214-c73d-4989-91fb-4b0364985a25.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "7fd1dae0-2a04-4bc2-9f9d-3bed757dd0c2",
+   "game": "EA Sports College Football 27",
+   "title": "CFB 27 Nightmares Rundown",
+   "startAt": "2026-10-15T23:42:01+00:00",
+   "endAt": "2026-10-16T02:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2252cc5d-a161-49a3-9454-68b38a38e4b9",
+   "game": "Warframe",
+   "title": "PMCFQ - ottofyre",
+   "startAt": "2026-10-16T00:00:00+00:00",
+   "endAt": "2026-10-16T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bb12109e-dd63-4f08-82ed-2d0f900dac5a",
+   "game": "EA Sports College Football 27",
+   "title": "CFB 27 Nightmares Rundown",
+   "startAt": "2026-10-15T23:00:00+00:00",
+   "endAt": "2026-10-16T00:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "a4f477ec-c2e5-4ede-9af2-fc5ea2608e38",
+   "game": "Warframe",
+   "title": "Prime Time #501",
+   "startAt": "2026-10-14T19:00:00+00:00",
+   "endAt": "2026-10-16T00:14:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2c5ad49b-118c-491e-8daa-1bfeef24837a",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-15T00:00:00+00:00",
+   "endAt": "2026-10-15T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "576c1066-00c1-4b08-b430-3f79659167f4",
+   "game": "Phasmophobia",
+   "title": "Crimson Eye 2026",
+   "startAt": "2026-10-08T11:00:00+00:00",
+   "endAt": "2026-10-15T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e162a6f0-3a7d-4297-8c32-92cfbe3c697e",
    "game": "Shakes and Fidget",
@@ -13087,43 +13155,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.8
+   "score": 9.74
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.82
+   "score": 13.74
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.17
+   "score": 2.15
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.73
+   "score": 13.64
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.8
+   "score": 9.74
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.8
+   "score": 9.74
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.8
+   "score": 9.74
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13135,19 +13203,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.7
+   "score": 4.67
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.11
+   "score": 5.08
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.8
+   "score": 9.74
   }
  },
  "favoriteWeights": {
