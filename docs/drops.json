@@ -3914,26 +3914,6 @@
    "asset": "assets/d57819f3-9df7-4216-a0a5-3a7583d0846a.png"
   },
   {
-   "id": "69843d6b-950b-4c09-a35a-19a8bd84afad",
-   "game": "Warframe",
-   "title": "PMCFQ - LadyTheLaddy",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T20:00:00+00:00",
-   "endAt": "2026-10-16T21:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T20:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30ee9a5b-170b-4c6f-9025-f37ac7a07bf2.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=69843d6b-950b-4c09-a35a-19a8bd84afad",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/69843d6b-950b-4c09-a35a-19a8bd84afad.jpg"
-  },
-  {
    "id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28",
    "game": "Fortnite",
    "title": "Horror in Fortnite",
@@ -3959,6 +3939,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "69843d6b-950b-4c09-a35a-19a8bd84afad",
+   "game": "Warframe",
+   "title": "PMCFQ - LadyTheLaddy",
+   "startAt": "2026-10-16T20:00:00+00:00",
+   "endAt": "2026-10-16T21:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e5a730fb-0f9b-4e2f-8e55-4b806de91860",
    "game": "Standoff 2",
@@ -13707,13 +13695,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.52
+   "score": 13.51
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13725,25 +13713,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.43
+   "score": 13.42
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13761,13 +13749,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 5.0
+   "score": 4.99
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.59
+   "score": 9.58
   }
  },
  "favoriteWeights": {
