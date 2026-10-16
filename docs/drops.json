@@ -686,26 +686,6 @@
    "asset": "assets/758d7626-d8c1-44a6-a76e-6e464347f45e.png"
   },
   {
-   "id": "4240c65a-577d-47f4-96f5-9371cc99f5b5",
-   "game": "007 First Light",
-   "title": "Extended Operations",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T13:00:00+00:00",
-   "endAt": "2026-10-16T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T13:00:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/61bd4181-77eb-4fc0-a3b2-21a18143be34.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4240c65a-577d-47f4-96f5-9371cc99f5b5",
-   "rewards": [
-    {
-     "name": "One More",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpg"
-  },
-  {
    "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
    "game": "Street Fighter 6",
    "title": "Street Fighter 6",
@@ -1584,62 +1564,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
-  },
-  {
-   "id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
-   "game": "MARVEL Contest of Champions",
-   "title": "October Week 2 - CCP",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T17:00:00+00:00",
-   "endAt": "2026-10-16T16:44:59.999+00:00",
-   "firstSeenAt": "2026-10-09T17:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
-   "rewards": [
-    {
-     "name": "CCP Drop 1 - PRG Gated Rank Up Gem Crystal",
-     "minutes": 120
-    },
-    {
-     "name": "CCP Drop 2 - 1x Observance",
-     "minutes": 180
-    },
-    {
-     "name": "CCP Drop 3 - PRG Gated Ascension Materials",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png"
-  },
-  {
-   "id": "3e326242-85d7-44a9-b540-eacce80ced06",
-   "game": "MARVEL Contest of Champions",
-   "title": "October Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T17:00:00+00:00",
-   "endAt": "2026-10-16T16:44:59.999+00:00",
-   "firstSeenAt": "2026-10-09T17:00:59+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3e326242-85d7-44a9-b540-eacce80ced06",
-   "rewards": [
-    {
-     "name": "Drop 1 - 3x Rebirth Crystals",
-     "minutes": 30
-    },
-    {
-     "name": "Drop 2 - 1x Observance",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 3 - PRG Gated Hero Crystal",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3e326242-85d7-44a9-b540-eacce80ced06.png"
   },
   {
    "id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
@@ -3510,34 +3434,6 @@
    "asset": "assets/3ce33bdd-378d-4fbd-a35b-a33bb10334bf.png"
   },
   {
-   "id": "93b89605-d835-4980-a784-f3ed57caa3fe",
-   "game": "World of Tanks",
-   "title": "Babylon: Dark Tower",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T13:00:00+00:00",
-   "endAt": "2026-10-16T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T13:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9690009-301c-41e2-9a08-dd776bc60779.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=93b89605-d835-4980-a784-f3ed57caa3fe",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 60
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/93b89605-d835-4980-a784-f3ed57caa3fe.jpg"
-  },
-  {
    "id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate10/16/26",
@@ -3936,9 +3832,165 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/61e25680-eb3c-4d20-9306-7c69226786ab.png"
+  },
+  {
+   "id": "3b2d577a-fc2a-49eb-a07a-a5866937bef5",
+   "game": "Star Citizen",
+   "title": "RSI Discovery",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T16:30:00+00:00",
+   "endAt": "2026-10-27T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T17:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/119d4191-c0bd-4809-8ed3-23327d70df61.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3b2d577a-fc2a-49eb-a07a-a5866937bef5",
+   "rewards": [
+    {
+     "name": "RSI Discovery",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/3b2d577a-fc2a-49eb-a07a-a5866937bef5.jpg"
+  },
+  {
+   "id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
+   "game": "The Streamer Awards",
+   "title": "Streamer Awards 2026 Vote",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T17:00:00+00:00",
+   "endAt": "2026-10-17T04:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T17:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/da38d919-8f21-4ee7-8208-a86e36975090.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
+   "rewards": [
+    {
+     "name": "Streamer Awards 2026 Vote",
+     "minutes": 20
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f387b7a0-2dde-4fb2-869f-b63663e7a4ba.png"
+  },
+  {
+   "id": "448782d7-852a-404b-b1c2-3c0672531b44",
+   "game": "EA Sports College Football 27",
+   "title": "Nightmares Open Directory",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T17:00:00+00:00",
+   "endAt": "2026-10-18T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T17:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/295d26b2-eb22-47f4-ab29-461ca6be3c44.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=448782d7-852a-404b-b1c2-3c0672531b44",
+   "rewards": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 60
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 90
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 180
+    },
+    {
+     "name": "CFB Super Twitch Pack",
+     "minutes": 240
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/448782d7-852a-404b-b1c2-3c0672531b44.png"
+  },
+  {
+   "id": "9ae59038-a976-42f1-9b84-9ba430012159",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T17:00:00+00:00",
+   "endAt": "2026-10-23T16:44:59.999+00:00",
+   "firstSeenAt": "2026-10-16T17:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9ae59038-a976-42f1-9b84-9ba430012159",
+   "rewards": [
+    {
+     "name": "Drop 3 - PRG Gated Awakening Gem Crystal Shards",
+     "minutes": 90
+    },
+    {
+     "name": "Drop 4 - 1x Observance",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 5 - PRG Gated Ascension Materials",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 6 - PRG Gated Hero Crystal Shards",
+     "minutes": 240
+    },
+    {
+     "name": "Drop 1 - PRG Gated Signature Stones",
+     "minutes": 30
+    },
+    {
+     "name": "Drop 2 - 1x Observance",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9ae59038-a976-42f1-9b84-9ba430012159.png"
   }
  ],
  "archive": [
+  {
+   "id": "4240c65a-577d-47f4-96f5-9371cc99f5b5",
+   "game": "007 First Light",
+   "title": "Extended Operations",
+   "startAt": "2026-10-01T13:00:00+00:00",
+   "endAt": "2026-10-16T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "93b89605-d835-4980-a784-f3ed57caa3fe",
+   "game": "World of Tanks",
+   "title": "Babylon: Dark Tower",
+   "startAt": "2026-10-16T13:00:00+00:00",
+   "endAt": "2026-10-16T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 2 - CCP",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-16T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3e326242-85d7-44a9-b540-eacce80ced06",
+   "game": "MARVEL Contest of Champions",
+   "title": "October Week 2",
+   "startAt": "2026-10-09T17:00:00+00:00",
+   "endAt": "2026-10-16T16:44:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8e7a0514-695f-4983-9e03-2a962e4f70c1",
    "game": "Marbles on Stream",
@@ -13623,13 +13675,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.59
+   "score": 13.58
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13647,31 +13699,31 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.07
+   "score": 1.06
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.62
+   "score": 4.61
   },
   "Warframe": {
    "favorites": 1,
@@ -13683,7 +13735,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.64
+   "score": 9.63
   }
  },
  "favoriteWeights": {
