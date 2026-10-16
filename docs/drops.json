@@ -3046,46 +3046,6 @@
    "asset": "assets/f370071f-a037-40a2-b6e0-8fb78769b6a7.png"
   },
   {
-   "id": "19e69bd8-1473-4a8b-a868-6c05b8dfba55",
-   "game": "Rise Online",
-   "title": "ROW Drop 618",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T17:59:00+00:00",
-   "endAt": "2026-10-16T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-15T18:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/14d18617-d52e-4021-a174-938db7755739.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19e69bd8-1473-4a8b-a868-6c05b8dfba55",
-   "rewards": [
-    {
-     "name": "ROW Drop 618",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/19e69bd8-1473-4a8b-a868-6c05b8dfba55.png"
-  },
-  {
-   "id": "eb949715-75c9-465b-ab09-09c276ad0ec9",
-   "game": "Rise Online",
-   "title": "Mobile Drop 189",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T17:59:00+00:00",
-   "endAt": "2026-10-16T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-15T18:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a48fe3ba-f2b6-438b-97a7-8909c8632e7a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb949715-75c9-465b-ab09-09c276ad0ec9",
-   "rewards": [
-    {
-     "name": "Mobile Drop 189",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eb949715-75c9-465b-ab09-09c276ad0ec9.png"
-  },
-  {
    "id": "877cfbfc-2aec-4c31-a166-3d012110de97",
    "game": "The Quinfall",
    "title": "October Drops",
@@ -3956,9 +3916,85 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/9ae59038-a976-42f1-9b84-9ba430012159.png"
+  },
+  {
+   "id": "0ce725cf-9d27-4f53-927e-1e760c1c184e",
+   "game": "Rise Online",
+   "title": "ROW Drop 619",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T17:59:00+00:00",
+   "endAt": "2026-10-17T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-16T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/732bb01d-5f0e-4b71-b90b-b49f043a4dd2.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ce725cf-9d27-4f53-927e-1e760c1c184e",
+   "rewards": [
+    {
+     "name": "ROW Drop 619",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0ce725cf-9d27-4f53-927e-1e760c1c184e.jpg"
+  },
+  {
+   "id": "d57819f3-9df7-4216-a0a5-3a7583d0846a",
+   "game": "Rise Online",
+   "title": "Mobile Drop 190",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T17:59:00+00:00",
+   "endAt": "2026-10-17T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-16T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/975ee47f-a762-43e5-8f4f-36c3fa294390.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d57819f3-9df7-4216-a0a5-3a7583d0846a",
+   "rewards": [
+    {
+     "name": "Mobile Drop 190",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d57819f3-9df7-4216-a0a5-3a7583d0846a.png"
+  },
+  {
+   "id": "6baf08c8-c28a-4a8d-a1b2-033923f097a8",
+   "game": "Warframe",
+   "title": "PMCFQ - UreiFen",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T18:00:00+00:00",
+   "endAt": "2026-10-16T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-16T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/40fb4b6a-d33d-4cf4-82a7-d7de2ae10d97.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6baf08c8-c28a-4a8d-a1b2-033923f097a8",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/6baf08c8-c28a-4a8d-a1b2-033923f097a8.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "19e69bd8-1473-4a8b-a868-6c05b8dfba55",
+   "game": "Rise Online",
+   "title": "ROW Drop 618",
+   "startAt": "2026-10-15T17:59:00+00:00",
+   "endAt": "2026-10-16T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "eb949715-75c9-465b-ab09-09c276ad0ec9",
+   "game": "Rise Online",
+   "title": "Mobile Drop 189",
+   "startAt": "2026-10-15T17:59:00+00:00",
+   "endAt": "2026-10-16T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4240c65a-577d-47f4-96f5-9371cc99f5b5",
    "game": "007 First Light",
@@ -13675,7 +13711,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   },
   "Delta Force": {
    "favorites": 3,
@@ -13693,25 +13729,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.48
+   "score": 13.47
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13735,7 +13771,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.63
+   "score": 9.62
   }
  },
  "favoriteWeights": {
