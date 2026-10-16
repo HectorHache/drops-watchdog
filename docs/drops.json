@@ -3672,6 +3672,50 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fee37065-c8dc-41e8-a6b7-bb4c726cc624.png"
+  },
+  {
+   "id": "e5a730fb-0f9b-4e2f-8e55-4b806de91860",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S8",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T10:45:00+00:00",
+   "endAt": "2026-10-16T20:54:59.999+00:00",
+   "firstSeenAt": "2026-10-16T11:00:34+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f66dc39-a02d-473d-afd0-59b738de232a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e5a730fb-0f9b-4e2f-8e55-4b806de91860",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_1",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_2",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_3",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_4",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_5",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_6",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_7",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/e5a730fb-0f9b-4e2f-8e55-4b806de91860.png"
   }
  ],
  "archive": [
