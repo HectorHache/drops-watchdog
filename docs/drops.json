@@ -3932,6 +3932,30 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/69843d6b-950b-4c09-a35a-19a8bd84afad.jpg"
+  },
+  {
+   "id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28",
+   "game": "Fortnite",
+   "title": "Horror in Fortnite",
+   "status": "ACTIVE",
+   "startAt": "2026-10-16T21:27:58+00:00",
+   "endAt": "2026-10-19T06:58:59.999+00:00",
+   "firstSeenAt": "2026-10-16T21:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9be80956-7256-4472-877d-5a3f2cc1ae6f.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b228fdb-090b-4dc2-8d4a-08e141a81b28",
+   "rewards": [
+    {
+     "name": "Nitemare Grin Spray",
+     "minutes": 30
+    },
+    {
+     "name": "Window Lurker Emoticon",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0b228fdb-090b-4dc2-8d4a-08e141a81b28.jpg"
   }
  ],
  "archive": [
@@ -13689,7 +13713,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.53
+   "score": 13.52
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13701,7 +13725,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.44
+   "score": 13.43
   },
   "Once Human": {
    "favorites": 2,
@@ -13731,7 +13755,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.6
+   "score": 4.59
   },
   "Warframe": {
    "favorites": 1,
