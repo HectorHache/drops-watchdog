@@ -3892,6 +3892,50 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/bfccc89e-d12f-472c-92da-81c6054c33c9.png"
+  },
+  {
+   "id": "ebdab22a-32b2-437f-8b5e-44fd383eed76",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.17",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T08:00:00+00:00",
+   "endAt": "2026-10-17T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T08:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1873b562-8a98-477c-a946-cc94118ffd07.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ebdab22a-32b2-437f-8b5e-44fd383eed76",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ebdab22a-32b2-437f-8b5e-44fd383eed76.png"
+  },
+  {
+   "id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.17-18",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T08:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8edde76-287e-406c-8247-39fc211c2469.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
+   "rewards": [
+    {
+     "name": "Champion Bubble Choice Gift",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4e02d4ee-0585-4b6a-a88c-b54aea1106c5.png"
   }
  ],
  "archive": [
@@ -13715,13 +13759,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.5
+   "score": 9.49
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.39
+   "score": 13.38
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13733,25 +13777,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.3
+   "score": 13.29
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.5
+   "score": 9.49
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.5
+   "score": 9.49
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.5
+   "score": 9.49
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13775,7 +13819,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.5
+   "score": 9.49
   }
  },
  "favoriteWeights": {
