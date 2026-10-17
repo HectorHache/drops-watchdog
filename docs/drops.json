@@ -3642,30 +3642,6 @@
    "asset": "assets/bfccc89e-d12f-472c-92da-81c6054c33c9.png"
   },
   {
-   "id": "ebdab22a-32b2-437f-8b5e-44fd383eed76",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.17",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T08:00:00+00:00",
-   "endAt": "2026-10-17T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T08:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1873b562-8a98-477c-a946-cc94118ffd07.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ebdab22a-32b2-437f-8b5e-44fd383eed76",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/ebdab22a-32b2-437f-8b5e-44fd383eed76.png"
-  },
-  {
    "id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.17-18",
@@ -3976,9 +3952,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4.png"
+  },
+  {
+   "id": "80fd58de-bbaa-4225-934a-79537d429124",
+   "game": "Halo Infinite",
+   "title": "GR Cup - OCT17",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T16:00:00+00:00",
+   "endAt": "2026-10-18T05:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T16:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e14b3cb-fdbd-4386-a2d0-26c769821773.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80fd58de-bbaa-4225-934a-79537d429124",
+   "rewards": [
+    {
+     "name": "Shattered Cherry Weapon Coatings",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/80fd58de-bbaa-4225-934a-79537d429124.png"
   }
  ],
  "archive": [
+  {
+   "id": "ebdab22a-32b2-437f-8b5e-44fd383eed76",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.17",
+   "startAt": "2026-10-17T08:00:00+00:00",
+   "endAt": "2026-10-17T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "6a30c26a-2210-4a69-9198-327a0cb7275d",
    "game": "Eternal Return",
@@ -13885,7 +13889,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.29
+   "score": 13.28
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13897,7 +13901,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.2
+   "score": 13.19
   },
   "Once Human": {
    "favorites": 2,
@@ -13927,7 +13931,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.52
+   "score": 4.51
   },
   "Warframe": {
    "favorites": 1,
