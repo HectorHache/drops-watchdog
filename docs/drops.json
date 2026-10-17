@@ -174,26 +174,6 @@
    "asset": "assets/65f8f2a5-074c-48ca-8505-f525bb8d75f5.png"
   },
   {
-   "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
-   "game": "VALORANT",
-   "title": "VCT26 Champs Shanghai",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T09:00:00+00:00",
-   "endAt": "2026-10-17T10:59:59.999+00:00",
-   "firstSeenAt": "2026-09-24T09:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42dfd444-2fbd-4a4a-85b6-5a6088eb0c43.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e50f291f-c1e8-4610-b456-f32c96346a89",
-   "rewards": [
-    {
-     "name": "\"Prepared\" Title\t\t\t",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e50f291f-c1e8-4610-b456-f32c96346a89.png"
-  },
-  {
    "id": "8379bc7b-4082-4f4b-b83a-9812625f55a1",
    "game": "Airport Baggage Simulator",
    "title": "Night Shift Update",
@@ -954,26 +934,6 @@
    "asset": "assets/dfa9c27f-877b-417a-8a49-279ecf0fbb15.jpg"
   },
   {
-   "id": "949e51d4-1322-478d-a669-317d7d769dd0",
-   "game": "VALORANT",
-   "title": "VCT26 Champs Shanghai",
-   "status": "ACTIVE",
-   "startAt": "2026-10-07T09:00:00+00:00",
-   "endAt": "2026-10-17T10:59:59.999+00:00",
-   "firstSeenAt": "2026-10-07T09:00:08+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c3cea86a-1d5d-4116-892e-c059d54963b7.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=949e51d4-1322-478d-a669-317d7d769dd0",
-   "rewards": [
-    {
-     "name": "\"Stamp of Approval\" Spray\t\t\t\t\t",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/949e51d4-1322-478d-a669-317d7d769dd0.png"
-  },
-  {
    "id": "16189ff3-a54e-434f-95e8-b8c538814020",
    "game": "Night Crows",
    "title": "NC DROPS ALL (26_OCT)",
@@ -1436,50 +1396,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png"
-  },
-  {
-   "id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
-   "game": "SMITE 2",
-   "title": "October Week 3!",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T11:00:00+00:00",
-   "endAt": "2026-10-17T10:57:59.999+00:00",
-   "firstSeenAt": "2026-10-10T11:00:23+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/916ae438-c133-423d-964f-c7873e1b11e9.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
-   "rewards": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480
-    },
-    {
-     "name": "Market Coins Bundle 5",
-     "minutes": 600
-    },
-    {
-     "name": "Market Coins Bundle 6",
-     "minutes": 720
-    },
-    {
-     "name": "Market Coins Bundle 7",
-     "minutes": 840
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/60c8e9e2-8b16-4ced-b7b6-4056cf59bf65.jpg"
   },
   {
    "id": "b4d74b43-1f76-4953-a980-83a68ea6b5ff",
@@ -2028,26 +1944,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fc782035-c5b0-4790-a5dd-c57f12469331.png"
-  },
-  {
-   "id": "228487a2-04be-463c-9b01-a86bbb735275",
-   "game": "EVE Online",
-   "title": "Totality Day YC128",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T13:10:00+00:00",
-   "endAt": "2026-10-17T10:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T13:30:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/923a1816-15c2-4329-b539-40ffc311feb7.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=228487a2-04be-463c-9b01-a86bbb735275",
-   "rewards": [
-    {
-     "name": "Totality Day Accelerator",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/228487a2-04be-463c-9b01-a86bbb735275.jpg"
   },
   {
    "id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
@@ -3936,9 +3832,165 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6aed3d67-a1be-4f62-9d12-78170474c8c2.png"
+  },
+  {
+   "id": "b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S8",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T10:45:00+00:00",
+   "endAt": "2026-10-17T17:54:59.999+00:00",
+   "firstSeenAt": "2026-10-17T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee8282a3-0ad7-4b2f-bbe7-0abb011e2f9a.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d",
+   "rewards": [
+    {
+     "name": "reward_stream_crate_8",
+     "minutes": 60
+    },
+    {
+     "name": "reward_stream_crate_9",
+     "minutes": 120
+    },
+    {
+     "name": "reward_stream_crate_10",
+     "minutes": 180
+    },
+    {
+     "name": "reward_stream_crate_11",
+     "minutes": 240
+    },
+    {
+     "name": "reward_stream_crate_12",
+     "minutes": 300
+    },
+    {
+     "name": "reward_stream_crate_13",
+     "minutes": 360
+    },
+    {
+     "name": "reward_stream_crate_14",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d.png"
+  },
+  {
+   "id": "c7116bf5-b574-4bc7-befb-af8dfcbeab49",
+   "game": "Brawlhalla",
+   "title": "Brawlhalla Tourn. Weekend",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T11:00:00+00:00",
+   "endAt": "2026-10-22T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4de162bf-bdee-442f-b6d3-842468682d6c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c7116bf5-b574-4bc7-befb-af8dfcbeab49",
+   "rewards": [
+    {
+     "name": "Azoth Esports v6 Colors",
+     "minutes": 60
+    },
+    {
+     "name": "Nix Esports v6 Colors",
+     "minutes": 120
+    },
+    {
+     "name": "Dusk Esports v6 Colors",
+     "minutes": 180
+    },
+    {
+     "name": "Onyx Esports v6 Colors",
+     "minutes": 240
+    },
+    {
+     "name": "Rage Baited Title",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/c7116bf5-b574-4bc7-befb-af8dfcbeab49.png"
+  },
+  {
+   "id": "eb306483-ba21-42d2-8e81-a4c0490d6796",
+   "game": "SMITE 2",
+   "title": "October Week 4!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T11:00:00+00:00",
+   "endAt": "2026-10-24T10:57:59.999+00:00",
+   "firstSeenAt": "2026-10-17T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3a384ac-3f27-4597-b099-7de41b355441.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eb306483-ba21-42d2-8e81-a4c0490d6796",
+   "rewards": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/eb306483-ba21-42d2-8e81-a4c0490d6796.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "startAt": "2026-09-24T09:00:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "949e51d4-1322-478d-a669-317d7d769dd0",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "startAt": "2026-10-07T09:00:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "228487a2-04be-463c-9b01-a86bbb735275",
+   "game": "EVE Online",
+   "title": "Totality Day YC128",
+   "startAt": "2026-10-13T13:10:00+00:00",
+   "endAt": "2026-10-17T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65",
+   "game": "SMITE 2",
+   "title": "October Week 3!",
+   "startAt": "2026-10-10T11:00:00+00:00",
+   "endAt": "2026-10-17T10:57:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "7c48f35e-359c-400a-9c13-f4ccec12b6e9",
    "game": "Albion Online",
@@ -13823,7 +13875,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.54
+   "score": 4.53
   },
   "Warframe": {
    "favorites": 1,
