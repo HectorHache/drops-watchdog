@@ -2926,30 +2926,6 @@
    "asset": "assets/23b21c8d-99e5-46c7-8be1-0012601e8b2d.jpg"
   },
   {
-   "id": "5b0f1d8e-b3d0-4177-a116-a83e91f5af7b",
-   "game": "Black Desert",
-   "title": "Master Class 26 (Oct 16)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T12:00:00+00:00",
-   "endAt": "2026-10-17T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T12:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42f7f024-0287-4343-903b-be3e3b1acc3a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5b0f1d8e-b3d0-4177-a116-a83e91f5af7b",
-   "rewards": [
-    {
-     "name": "Oct 16 (1 Hour)",
-     "minutes": 60
-    },
-    {
-     "name": "Oct 16 (2 Hours)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/5b0f1d8e-b3d0-4177-a116-a83e91f5af7b.jpg"
-  },
-  {
    "id": "3ce33bdd-378d-4fbd-a35b-a33bb10334bf",
    "game": "Dark and Darker",
    "title": "EA Season 11 Drops 2",
@@ -3956,9 +3932,41 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/eb306483-ba21-42d2-8e81-a4c0490d6796.jpg"
+  },
+  {
+   "id": "4370f605-1498-443c-9cd5-2bd575156303",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 17)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T12:00:00+00:00",
+   "endAt": "2026-10-18T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T12:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/88c45115-0dca-482d-b96a-00fd57d79ab0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4370f605-1498-443c-9cd5-2bd575156303",
+   "rewards": [
+    {
+     "name": "Oct 17 (1 Hour)",
+     "minutes": 60
+    },
+    {
+     "name": "Oct 17 (2 Hours)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/4370f605-1498-443c-9cd5-2bd575156303.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "5b0f1d8e-b3d0-4177-a116-a83e91f5af7b",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 16)",
+   "startAt": "2026-10-16T12:00:00+00:00",
+   "endAt": "2026-10-17T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "e50f291f-c1e8-4610-b456-f32c96346a89",
    "game": "VALORANT",
@@ -13833,7 +13841,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.34
+   "score": 13.33
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13845,7 +13853,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.25
+   "score": 13.24
   },
   "Once Human": {
    "favorites": 2,
