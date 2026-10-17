@@ -3414,46 +3414,6 @@
    "asset": "assets/9ae59038-a976-42f1-9b84-9ba430012159.png"
   },
   {
-   "id": "0ce725cf-9d27-4f53-927e-1e760c1c184e",
-   "game": "Rise Online",
-   "title": "ROW Drop 619",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T17:59:00+00:00",
-   "endAt": "2026-10-17T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-16T18:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/732bb01d-5f0e-4b71-b90b-b49f043a4dd2.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0ce725cf-9d27-4f53-927e-1e760c1c184e",
-   "rewards": [
-    {
-     "name": "ROW Drop 619",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0ce725cf-9d27-4f53-927e-1e760c1c184e.jpg"
-  },
-  {
-   "id": "d57819f3-9df7-4216-a0a5-3a7583d0846a",
-   "game": "Rise Online",
-   "title": "Mobile Drop 190",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T17:59:00+00:00",
-   "endAt": "2026-10-17T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-16T18:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/975ee47f-a762-43e5-8f4f-36c3fa294390.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d57819f3-9df7-4216-a0a5-3a7583d0846a",
-   "rewards": [
-    {
-     "name": "Mobile Drop 190",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d57819f3-9df7-4216-a0a5-3a7583d0846a.png"
-  },
-  {
    "id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28",
    "game": "Fortnite",
    "title": "Horror in Fortnite",
@@ -3664,50 +3624,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/6aed3d67-a1be-4f62-9d12-78170474c8c2.png"
-  },
-  {
-   "id": "b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S8",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T10:45:00+00:00",
-   "endAt": "2026-10-17T17:54:59.999+00:00",
-   "firstSeenAt": "2026-10-17T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ee8282a3-0ad7-4b2f-bbe7-0abb011e2f9a.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d",
-   "rewards": [
-    {
-     "name": "reward_stream_crate_8",
-     "minutes": 60
-    },
-    {
-     "name": "reward_stream_crate_9",
-     "minutes": 120
-    },
-    {
-     "name": "reward_stream_crate_10",
-     "minutes": 180
-    },
-    {
-     "name": "reward_stream_crate_11",
-     "minutes": 240
-    },
-    {
-     "name": "reward_stream_crate_12",
-     "minutes": 300
-    },
-    {
-     "name": "reward_stream_crate_13",
-     "minutes": 360
-    },
-    {
-     "name": "reward_stream_crate_14",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d.png"
   },
   {
    "id": "c7116bf5-b574-4bc7-befb-af8dfcbeab49",
@@ -3936,9 +3852,73 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/80fd58de-bbaa-4225-934a-79537d429124.png"
+  },
+  {
+   "id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec",
+   "game": "Rise Online",
+   "title": "Mobile Drop 191",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T17:59:00+00:00",
+   "endAt": "2026-10-18T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-17T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82334c39-e4c1-4ead-b823-48039804ed88.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1664a3e3-7d14-4490-8ce6-2a645dccdaec",
+   "rewards": [
+    {
+     "name": "Mobile Drop 191",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png"
+  },
+  {
+   "id": "eccb3c97-3301-4928-bf23-6d7381e6feed",
+   "game": "Rise Online",
+   "title": "ROW Drop 620",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T17:59:00+00:00",
+   "endAt": "2026-10-18T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-17T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0a693429-492a-46b9-a7f8-9fdbcfaa5547.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eccb3c97-3301-4928-bf23-6d7381e6feed",
+   "rewards": [
+    {
+     "name": "ROW Drop 620",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/eccb3c97-3301-4928-bf23-6d7381e6feed.png"
   }
  ],
  "archive": [
+  {
+   "id": "0ce725cf-9d27-4f53-927e-1e760c1c184e",
+   "game": "Rise Online",
+   "title": "ROW Drop 619",
+   "startAt": "2026-10-16T17:59:00+00:00",
+   "endAt": "2026-10-17T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d57819f3-9df7-4216-a0a5-3a7583d0846a",
+   "game": "Rise Online",
+   "title": "Mobile Drop 190",
+   "startAt": "2026-10-16T17:59:00+00:00",
+   "endAt": "2026-10-17T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S8",
+   "startAt": "2026-10-17T10:45:00+00:00",
+   "endAt": "2026-10-17T17:54:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "1306917d-e2cb-437e-b87a-fb4eab8724bc",
    "game": "Hearthstone",
@@ -13855,7 +13835,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   },
   "Delta Force": {
    "favorites": 3,
@@ -13879,19 +13859,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13903,7 +13883,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.51
+   "score": 4.5
   },
   "Warframe": {
    "favorites": 1,
@@ -13915,7 +13895,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.41
+   "score": 9.4
   }
  },
  "favoriteWeights": {
