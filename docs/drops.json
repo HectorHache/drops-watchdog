@@ -706,42 +706,6 @@
    "asset": "assets/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png"
   },
   {
-   "id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
-   "game": "Krunker",
-   "title": "Krunker Season 10 Update",
-   "status": "ACTIVE",
-   "startAt": "2026-10-02T14:00:00+00:00",
-   "endAt": "2026-10-16T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-02T14:00:44+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/75733e3e-7ea1-49f5-bd5b-9d42b59e184f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
-   "rewards": [
-    {
-     "name": "Bits Halo (Hat)",
-     "minutes": 60
-    },
-    {
-     "name": "TTV Spectre (Melee)",
-     "minutes": 120
-    },
-    {
-     "name": "Celestia Veil (Semi Auto)",
-     "minutes": 240
-    },
-    {
-     "name": "Celestia Reign (Famas)",
-     "minutes": 360
-    },
-    {
-     "name": "Celestia Kage (Melee)",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png"
-  },
-  {
    "id": "3bec3616-0c35-4cb8-9533-2db143d26880",
    "game": "Sonic Rumble Party",
    "title": "October 2026 Drops",
@@ -2314,38 +2278,6 @@
    "asset": "assets/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png"
   },
   {
-   "id": "85e20877-3986-4863-ac8e-c61cb7969879",
-   "game": "Rainbow Six Siege",
-   "title": "R6S S2 2026 18",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T05:00:00+00:00",
-   "endAt": "2026-10-17T04:58:59.999+00:00",
-   "firstSeenAt": "2026-10-14T05:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3ef4faf2-dcf2-46ce-980d-926ff0cdb7df.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85e20877-3986-4863-ac8e-c61cb7969879",
-   "rewards": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 540
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/85e20877-3986-4863-ac8e-c61cb7969879.png"
-  },
-  {
    "id": "832eec4f-57ec-4d8e-8218-b2656aabea59",
    "game": "Lineage II",
    "title": "Lineage 2 Replica EU",
@@ -3046,46 +2978,6 @@
    "asset": "assets/f370071f-a037-40a2-b6e0-8fb78769b6a7.png"
   },
   {
-   "id": "877cfbfc-2aec-4c31-a166-3d012110de97",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T00:00:00+00:00",
-   "endAt": "2026-10-16T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T00:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf0f74ed-25b4-411a-9f48-154eee2de2f8.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=877cfbfc-2aec-4c31-a166-3d012110de97",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/877cfbfc-2aec-4c31-a166-3d012110de97.png"
-  },
-  {
-   "id": "7bc83c20-44f7-4dc0-aae9-45283ec8acd2",
-   "game": "Torchlight: Infinite",
-   "title": "New Season-TARTARUS-Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T02:00:00+00:00",
-   "endAt": "2026-10-17T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T02:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11c8fd32-09ef-4518-8e44-cfba5ef61e34.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7bc83c20-44f7-4dc0-aae9-45283ec8acd2",
-   "rewards": [
-    {
-     "name": "New Season Drops - 60 mins",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/7bc83c20-44f7-4dc0-aae9-45283ec8acd2.png"
-  },
-  {
    "id": "de187dc2-1549-44a6-8fe1-118efd83a38a",
    "game": "Lords Mobile",
    "title": "Twitch Drops",
@@ -3770,26 +3662,6 @@
    "asset": "assets/3b2d577a-fc2a-49eb-a07a-a5866937bef5.jpg"
   },
   {
-   "id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
-   "game": "The Streamer Awards",
-   "title": "Streamer Awards 2026 Vote",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T17:00:00+00:00",
-   "endAt": "2026-10-17T04:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T17:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/da38d919-8f21-4ee7-8208-a86e36975090.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
-   "rewards": [
-    {
-     "name": "Streamer Awards 2026 Vote",
-     "minutes": 20
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f387b7a0-2dde-4fb2-869f-b63663e7a4ba.png"
-  },
-  {
    "id": "448782d7-852a-404b-b1c2-3c0672531b44",
    "game": "EA Sports College Football 27",
    "title": "Nightmares Open Directory",
@@ -3936,9 +3808,225 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0b228fdb-090b-4dc2-8d4a-08e141a81b28.jpg"
+  },
+  {
+   "id": "c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b",
+   "game": "Modern Warships",
+   "title": "Fall Masters'26 PlayOffs",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T00:00:00+00:00",
+   "endAt": "2026-10-18T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-17T00:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8fdda404-d511-4fb0-b0df-a966c55fe132.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b",
+   "rewards": [
+    {
+     "name": "Camo Quintessence",
+     "minutes": 300
+    },
+    {
+     "name": "Flag FallMasters26",
+     "minutes": 420
+    },
+    {
+     "name": "3 Days of Premium",
+     "minutes": 60
+    },
+    {
+     "name": "500 UP's",
+     "minutes": 120
+    },
+    {
+     "name": "Smoke Consumable x50",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b.png"
+  },
+  {
+   "id": "56e5f341-b5da-4a94-ae8f-46b91c09a0f5",
+   "game": "EVE Online",
+   "title": "CSM 21 Interviews Drop 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T00:01:00+00:00",
+   "endAt": "2026-10-17T23:58:59.999+00:00",
+   "firstSeenAt": "2026-10-17T00:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d87527aa-89c7-4363-b0c0-5b176a03a148.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56e5f341-b5da-4a94-ae8f-46b91c09a0f5",
+   "rewards": [
+    {
+     "name": "Agency Support Drop",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/56e5f341-b5da-4a94-ae8f-46b91c09a0f5.jpg"
+  },
+  {
+   "id": "6a30c26a-2210-4a69-9198-327a0cb7275d",
+   "game": "Eternal Return",
+   "title": "KEL CIRCUIT 4 - DAY 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T01:30:00+00:00",
+   "endAt": "2026-10-17T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T02:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29ec2d9b-accd-41df-aa3c-127171d299b3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6a30c26a-2210-4a69-9198-327a0cb7275d",
+   "rewards": [
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS + ESPORTSPIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6a30c26a-2210-4a69-9198-327a0cb7275d.png"
+  },
+  {
+   "id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T02:00:00+00:00",
+   "endAt": "2026-10-18T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T02:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7001c3b2-5e78-434a-8893-9c983e8367a4.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2becb7ce-2a01-4ebe-855b-9ba87182b80c",
+   "rewards": [
+    {
+     "name": "New Season Drops - 60 mins",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/2becb7ce-2a01-4ebe-855b-9ba87182b80c.png"
+  },
+  {
+   "id": "7ca0aed5-c754-4780-aa77-5081bdcf6f58",
+   "game": "Epic Seven",
+   "title": "E7WC2026 Group Stage Day3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T03:00:00+00:00",
+   "endAt": "2026-10-17T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T03:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f3f12495-090e-43b7-8daa-720e9ff1e580.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7ca0aed5-c754-4780-aa77-5081bdcf6f58",
+   "rewards": [
+    {
+     "name": "E7WC2026 Group Stage Day3",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/7ca0aed5-c754-4780-aa77-5081bdcf6f58.png"
+  },
+  {
+   "id": "56cae657-528f-4166-bb33-006a0f12bedb",
+   "game": "Warframe",
+   "title": "PMCFQ - tunana",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T04:00:00+00:00",
+   "endAt": "2026-10-17T05:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T04:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f73087f-fcd9-4a80-acdc-98a1043c5c81.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56cae657-528f-4166-bb33-006a0f12bedb",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/56cae657-528f-4166-bb33-006a0f12bedb.jpg"
+  },
+  {
+   "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 19",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T05:00:00+00:00",
+   "endAt": "2026-10-26T04:58:59.999+00:00",
+   "firstSeenAt": "2026-10-17T05:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42267ad4-b20d-4757-aeb4-ec9c2a034c31.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef80b803-00ee-41e0-9223-18eee2499e41",
+   "rewards": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 180
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 540
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ef80b803-00ee-41e0-9223-18eee2499e41.png"
   }
  ],
  "archive": [
+  {
+   "id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
+   "game": "The Streamer Awards",
+   "title": "Streamer Awards 2026 Vote",
+   "startAt": "2026-10-16T17:00:00+00:00",
+   "endAt": "2026-10-17T04:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "85e20877-3986-4863-ac8e-c61cb7969879",
+   "game": "Rainbow Six Siege",
+   "title": "R6S S2 2026 18",
+   "startAt": "2026-10-14T05:00:00+00:00",
+   "endAt": "2026-10-17T04:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7bc83c20-44f7-4dc0-aae9-45283ec8acd2",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 1",
+   "startAt": "2026-10-16T02:00:00+00:00",
+   "endAt": "2026-10-17T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "877cfbfc-2aec-4c31-a166-3d012110de97",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-16T00:00:00+00:00",
+   "endAt": "2026-10-16T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec",
+   "game": "Krunker",
+   "title": "Krunker Season 10 Update",
+   "startAt": "2026-10-02T14:00:00+00:00",
+   "endAt": "2026-10-16T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "69843d6b-950b-4c09-a35a-19a8bd84afad",
    "game": "Warframe",
@@ -13695,67 +13783,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.58
+   "score": 9.52
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.51
+   "score": 13.42
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.12
+   "score": 2.11
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.42
+   "score": 13.33
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.58
+   "score": 9.52
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.58
+   "score": 9.52
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.58
+   "score": 9.52
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.06
+   "score": 1.05
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.59
+   "score": 4.56
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.99
+   "score": 4.96
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.58
+   "score": 9.52
   }
  },
  "favoriteWeights": {
