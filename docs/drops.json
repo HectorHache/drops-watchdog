@@ -1974,42 +1974,6 @@
    "asset": "assets/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png"
   },
   {
-   "id": "1306917d-e2cb-437e-b87a-fb4eab8724bc",
-   "game": "Hearthstone",
-   "title": "Hearthstone Community Day",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T17:00:00+00:00",
-   "endAt": "2026-10-17T16:59:59.999+00:00",
-   "firstSeenAt": "2026-10-13T17:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2df236fa-fa8e-4ba4-a6a8-151f393ab315.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1306917d-e2cb-437e-b87a-fb4eab8724bc",
-   "rewards": [
-    {
-     "name": "Standard Pack",
-     "minutes": 300
-    },
-    {
-     "name": "Standard Pack",
-     "minutes": 240
-    },
-    {
-     "name": "Standard Pack",
-     "minutes": 180
-    },
-    {
-     "name": "Tavern Ticket",
-     "minutes": 120
-    },
-    {
-     "name": "Tavern Ticket",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1306917d-e2cb-437e-b87a-fb4eab8724bc.png"
-  },
-  {
    "id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45",
    "game": "World of Warcraft",
    "title": "Cuddly Gold Grrgle",
@@ -3975,6 +3939,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "1306917d-e2cb-437e-b87a-fb4eab8724bc",
+   "game": "Hearthstone",
+   "title": "Hearthstone Community Day",
+   "startAt": "2026-10-13T17:00:00+00:00",
+   "endAt": "2026-10-17T16:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "ebdab22a-32b2-437f-8b5e-44fd383eed76",
    "game": "NARAKA: BLADEPOINT",
@@ -13883,13 +13855,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.28
+   "score": 13.27
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13901,25 +13873,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.19
+   "score": 13.18
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13943,7 +13915,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.42
+   "score": 9.41
   }
  },
  "favoriteWeights": {
