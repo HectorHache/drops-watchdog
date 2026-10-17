@@ -2982,42 +2982,6 @@
    "asset": "assets/3ce33bdd-378d-4fbd-a35b-a33bb10334bf.png"
   },
   {
-   "id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate10/16/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T13:00:00+00:00",
-   "endAt": "2026-10-17T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T13:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=49c45225-d526-43ca-b75b-0f57f6dcc5a5",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/49c45225-d526-43ca-b75b-0f57f6dcc5a5.png"
-  },
-  {
    "id": "2aaafcb4-8808-4535-b9b9-85ea868d5b7d",
    "game": "Infestation: The New Z",
    "title": "Halloween 2026 Part 1",
@@ -3956,9 +3920,121 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/4370f605-1498-443c-9cd5-2bd575156303.jpg"
+  },
+  {
+   "id": "fc922f3a-63f8-48d3-b0d0-06871984cd1e",
+   "game": "World of Tanks",
+   "title": "Marty_Vole 5v5 Tournament",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T13:00:00+00:00",
+   "endAt": "2026-10-17T18:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T13:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/73132d61-57f3-4507-a6b5-f2ba988380a3.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fc922f3a-63f8-48d3-b0d0-06871984cd1e",
+   "rewards": [
+    {
+     "name": "Drop 1 ",
+     "minutes": 60
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fc922f3a-63f8-48d3-b0d0-06871984cd1e.png"
+  },
+  {
+   "id": "0bf45777-26ed-41dd-a055-357b958c7460",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/17/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T13:00:00+00:00",
+   "endAt": "2026-10-18T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T13:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bf45777-26ed-41dd-a055-357b958c7460",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0bf45777-26ed-41dd-a055-357b958c7460.png"
+  },
+  {
+   "id": "89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4",
+   "game": "Out of the Park Baseball 27",
+   "title": "CWhit 10/17/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T13:00:00+00:00",
+   "endAt": "2026-10-18T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T13:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "6",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4.png"
   }
  ],
  "archive": [
+  {
+   "id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/16/26",
+   "startAt": "2026-10-16T13:00:00+00:00",
+   "endAt": "2026-10-17T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5b0f1d8e-b3d0-4177-a116-a83e91f5af7b",
    "game": "Black Desert",
@@ -13841,7 +13917,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.33
+   "score": 13.32
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13853,7 +13929,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.24
+   "score": 13.23
   },
   "Once Human": {
    "favorites": 2,
