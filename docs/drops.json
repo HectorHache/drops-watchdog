@@ -3934,26 +3934,6 @@
    "asset": "assets/7ca0aed5-c754-4780-aa77-5081bdcf6f58.png"
   },
   {
-   "id": "56cae657-528f-4166-bb33-006a0f12bedb",
-   "game": "Warframe",
-   "title": "PMCFQ - tunana",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T04:00:00+00:00",
-   "endAt": "2026-10-17T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T04:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0f73087f-fcd9-4a80-acdc-98a1043c5c81.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56cae657-528f-4166-bb33-006a0f12bedb",
-   "rewards": [
-    {
-     "name": "Random Floof",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/56cae657-528f-4166-bb33-006a0f12bedb.jpg"
-  },
-  {
    "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 19",
@@ -3984,9 +3964,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/ef80b803-00ee-41e0-9223-18eee2499e41.png"
+  },
+  {
+   "id": "bfccc89e-d12f-472c-92da-81c6054c33c9",
+   "game": "World of Warships",
+   "title": "15.9 KOTS XIX Regionals",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T06:00:00+00:00",
+   "endAt": "2026-10-25T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-17T06:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7671c3f-b853-44a7-92c9-9e2527c940b8.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bfccc89e-d12f-472c-92da-81c6054c33c9",
+   "rewards": [
+    {
+     "name": "15.9 KOTS XIX Regionals",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bfccc89e-d12f-472c-92da-81c6054c33c9.png"
   }
  ],
  "archive": [
+  {
+   "id": "56cae657-528f-4166-bb33-006a0f12bedb",
+   "game": "Warframe",
+   "title": "PMCFQ - tunana",
+   "startAt": "2026-10-17T04:00:00+00:00",
+   "endAt": "2026-10-17T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba",
    "game": "The Streamer Awards",
@@ -13783,13 +13791,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.51
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.42
+   "score": 13.41
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13801,25 +13809,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.33
+   "score": 13.32
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.51
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.51
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.51
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13837,13 +13845,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.96
+   "score": 4.95
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.52
+   "score": 9.51
   }
  },
  "favoriteWeights": {
