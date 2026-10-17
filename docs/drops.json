@@ -3570,34 +3570,6 @@
    "asset": "assets/56e5f341-b5da-4a94-ae8f-46b91c09a0f5.jpg"
   },
   {
-   "id": "6a30c26a-2210-4a69-9198-327a0cb7275d",
-   "game": "Eternal Return",
-   "title": "KEL CIRCUIT 4 - DAY 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T01:30:00+00:00",
-   "endAt": "2026-10-17T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T02:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/29ec2d9b-accd-41df-aa3c-127171d299b3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6a30c26a-2210-4a69-9198-327a0cb7275d",
-   "rewards": [
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS + ESPORTSPIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6a30c26a-2210-4a69-9198-327a0cb7275d.png"
-  },
-  {
    "id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c",
    "game": "Torchlight: Infinite",
    "title": "New Season-TARTARUS-Day 2",
@@ -3616,26 +3588,6 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/2becb7ce-2a01-4ebe-855b-9ba87182b80c.png"
-  },
-  {
-   "id": "7ca0aed5-c754-4780-aa77-5081bdcf6f58",
-   "game": "Epic Seven",
-   "title": "E7WC2026 Group Stage Day3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T03:00:00+00:00",
-   "endAt": "2026-10-17T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T03:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f3f12495-090e-43b7-8daa-720e9ff1e580.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=7ca0aed5-c754-4780-aa77-5081bdcf6f58",
-   "rewards": [
-    {
-     "name": "E7WC2026 Group Stage Day3",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/7ca0aed5-c754-4780-aa77-5081bdcf6f58.png"
   },
   {
    "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
@@ -4027,6 +3979,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "6a30c26a-2210-4a69-9198-327a0cb7275d",
+   "game": "Eternal Return",
+   "title": "KEL CIRCUIT 4 - DAY 3",
+   "startAt": "2026-10-17T01:30:00+00:00",
+   "endAt": "2026-10-17T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "7ca0aed5-c754-4780-aa77-5081bdcf6f58",
+   "game": "Epic Seven",
+   "title": "E7WC2026 Group Stage Day3",
+   "startAt": "2026-10-17T03:00:00+00:00",
+   "endAt": "2026-10-17T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5",
    "game": "Out of the Park Baseball 27",
@@ -13917,19 +13885,19 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.3
+   "score": 13.29
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.09
+   "score": 2.08
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.21
+   "score": 13.2
   },
   "Once Human": {
    "favorites": 2,
