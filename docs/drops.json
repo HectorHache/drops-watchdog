@@ -454,54 +454,6 @@
    "asset": "assets/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png"
   },
   {
-   "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
-   "game": "AION 2",
-   "title": "Early Access Event",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T15:02:40+00:00",
-   "endAt": "2026-10-17T06:59:59.999+00:00",
-   "firstSeenAt": "2026-09-30T15:30:13+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04cfd23d-0eed-40c2-92ac-646755921280.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
-   "rewards": [
-    {
-     "name": "Cyber Glasses",
-     "minutes": 15
-    },
-    {
-     "name": "Customization Voucher",
-     "minutes": 30
-    },
-    {
-     "name": "Odyle Energy",
-     "minutes": 45
-    },
-    {
-     "name": "Soul Codex",
-     "minutes": 60
-    },
-    {
-     "name": "Enhance Stone",
-     "minutes": 120
-    },
-    {
-     "name": "Resurrection Spiritstone",
-     "minutes": 240
-    },
-    {
-     "name": "Kina Bundle 500,000",
-     "minutes": 360
-    },
-    {
-     "name": "White Headset",
-     "minutes": 480
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png"
-  },
-  {
    "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
    "game": "Wolvesville",
    "title": "October 2026",
@@ -732,50 +684,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/3bec3616-0c35-4cb8-9533-2db143d26880.png"
-  },
-  {
-   "id": "1214217f-aa1a-40be-ac32-9dffd3698775",
-   "game": "AION 2",
-   "title": "Global Launch Celebration",
-   "status": "ACTIVE",
-   "startAt": "2026-10-05T13:00:00+00:00",
-   "endAt": "2026-10-17T06:59:59.999+00:00",
-   "firstSeenAt": "2026-10-05T13:00:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/11998d24-30d3-426d-a2c8-e84ab03dd5e0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1214217f-aa1a-40be-ac32-9dffd3698775",
-   "rewards": [
-    {
-     "name": "Odyle Energy x4",
-     "minutes": 60
-    },
-    {
-     "name": "Skin Chest x1",
-     "minutes": 120
-    },
-    {
-     "name": "Enhance Stone x5,000",
-     "minutes": 180
-    },
-    {
-     "name": "Head Bow x1",
-     "minutes": 240
-    },
-    {
-     "name": "Soul Codex: Reset x2",
-     "minutes": 360
-    },
-    {
-     "name": "Resurrection Stone x10",
-     "minutes": 480
-    },
-    {
-     "name": "Adorable Young Elim x1",
-     "minutes": 600
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1214217f-aa1a-40be-ac32-9dffd3698775.png"
   },
   {
    "id": "35e7547f-0b2a-430d-850e-bfd9d5729eab",
@@ -3987,6 +3895,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c",
+   "game": "AION 2",
+   "title": "Early Access Event",
+   "startAt": "2026-09-30T15:02:40+00:00",
+   "endAt": "2026-10-17T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1214217f-aa1a-40be-ac32-9dffd3698775",
+   "game": "AION 2",
+   "title": "Global Launch Celebration",
+   "startAt": "2026-10-05T13:00:00+00:00",
+   "endAt": "2026-10-17T06:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "56cae657-528f-4166-bb33-006a0f12bedb",
    "game": "Warframe",
@@ -13791,7 +13715,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.51
+   "score": 9.5
   },
   "Delta Force": {
    "favorites": 3,
@@ -13815,19 +13739,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.51
+   "score": 9.5
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.51
+   "score": 9.5
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.51
+   "score": 9.5
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13851,7 +13775,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.51
+   "score": 9.5
   }
  },
  "favoriteWeights": {
