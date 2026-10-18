@@ -3630,54 +3630,6 @@
    "asset": "assets/d017015e-cabd-4ac3-bc89-30b5c4a0720b.png"
   },
   {
-   "id": "d2a007bf-4f27-4164-8080-39a4d64a9eb5",
-   "game": "Epic Seven",
-   "title": "E7WC2026 Group Stage Day4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T03:00:00+00:00",
-   "endAt": "2026-10-18T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T03:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/45367609-eb2e-4598-ac4c-8f3e67bd3519.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d2a007bf-4f27-4164-8080-39a4d64a9eb5",
-   "rewards": [
-    {
-     "name": "E7WC2026 Group Stage Day4",
-     "minutes": 15
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/d2a007bf-4f27-4164-8080-39a4d64a9eb5.png"
-  },
-  {
-   "id": "255dcb32-4db2-493d-8850-8bfaebc2caef",
-   "game": "Eternal Return",
-   "title": "KEL CIRCUIT 4 - DAY 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T04:00:00+00:00",
-   "endAt": "2026-10-18T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T04:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2c699473-f402-4d68-b5cd-507a773967d2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=255dcb32-4db2-493d-8850-8bfaebc2caef",
-   "rewards": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/255dcb32-4db2-493d-8850-8bfaebc2caef.png"
-  },
-  {
    "id": "24bbb684-42cf-44df-a53a-0907582fe024",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.18",
@@ -3864,9 +3816,81 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0e744c3f-6c2f-49b3-acc5-369d190087a2.png"
+  },
+  {
+   "id": "4fc97f45-72de-4567-aee8-528e64ca230b",
+   "game": "Warframe",
+   "title": "PMCFQ - MjikThize",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T15:00:00+00:00",
+   "endAt": "2026-10-18T16:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T15:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eceadf6d-d53e-420f-b5f9-e6245a8fba8d.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4fc97f45-72de-4567-aee8-528e64ca230b",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/4fc97f45-72de-4567-aee8-528e64ca230b.jpg"
+  },
+  {
+   "id": "90273492-0fd5-46d0-b1cf-60084d901adf",
+   "game": "Marvel Rivals",
+   "title": " Ignite Stage2 W5",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T15:00:00+00:00",
+   "endAt": "2026-11-15T08:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T15:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a3aac96e-0cb1-48b1-8301-87754d6eaaaf.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=90273492-0fd5-46d0-b1cf-60084d901adf",
+   "rewards": [
+    {
+     "name": "Chrono Tokens *100",
+     "minutes": 30
+    },
+    {
+     "name": "\u300cGIANT KILLERS\u300dSpray",
+     "minutes": 90
+    },
+    {
+     "name": "Chrono Tokens *100",
+     "minutes": 120
+    },
+    {
+     "name": "Cyclops\u300cX-BEAM\u300dEmotes",
+     "minutes": 240
+    },
+    {
+     "name": "Cyclops\u300cWill of Galacta\u300dCostume",
+     "minutes": 360
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/90273492-0fd5-46d0-b1cf-60084d901adf.png"
   }
  ],
  "archive": [
+  {
+   "id": "d2a007bf-4f27-4164-8080-39a4d64a9eb5",
+   "game": "Epic Seven",
+   "title": "E7WC2026 Group Stage Day4",
+   "startAt": "2026-10-18T03:00:00+00:00",
+   "endAt": "2026-10-18T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "255dcb32-4db2-493d-8850-8bfaebc2caef",
+   "game": "Eternal Return",
+   "title": "KEL CIRCUIT 4 - DAY 4",
+   "startAt": "2026-10-18T04:00:00+00:00",
+   "endAt": "2026-10-18T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0bf45777-26ed-41dd-a055-357b958c7460",
    "game": "Out of the Park Baseball 27",
@@ -13959,13 +13983,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.0
+   "score": 12.99
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13977,25 +14001,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.91
+   "score": 12.9
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   },
   "THE FINALS": {
    "favorites": 0,
@@ -14007,7 +14031,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.42
+   "score": 4.41
   },
   "Warframe": {
    "favorites": 1,
@@ -14019,7 +14043,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.22
+   "score": 9.21
   }
  },
  "favoriteWeights": {
