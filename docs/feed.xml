@@ -327,13 +327,6 @@
     <pubDate>2026-10-11T15:30:00+00:00</pubDate>
   </item>
   <item>
-    <title>Mobile Dungeon — MD Drops Set 2</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=fa81a25b-c3ac-46cc-a91a-39ba652f6f2e</link>
-    <guid isPermaLink="false">fa81a25b-c3ac-46cc-a91a-39ba652f6f2e</guid>
-    <description>75x Crystal · 12x Thirst for Adventure · 4x Dungeon Key · 5x Arena Ticket — runs 2026-10-12T00:00:00+00:00 → 2026-10-18T21:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-12T00:00:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Modern Warships — Weekly Supply Drops #37</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5</link>
     <guid isPermaLink="false">1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5</guid>
@@ -353,6 +346,13 @@
     <guid isPermaLink="false">0c0f3c99-26aa-4277-87c6-362b3c8f8231</guid>
     <description>Special Random Gift — runs 2026-10-12T04:00:00+00:00 → 2026-10-19T03:59:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-12T04:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Legion TD 2 — 26.10 Patch</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=77adaf06-91a6-4245-adc5-f0718b2f493d</link>
+    <guid isPermaLink="false">77adaf06-91a6-4245-adc5-f0718b2f493d</guid>
+    <description>2000 Essence · 4000 Essence · Random Card · 1000 Premium Essence · Random Secret Card · Rando mSecret Card — runs 2026-10-12T08:00:00+00:00 → 2026-10-19T01:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-12T08:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
