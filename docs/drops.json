@@ -3482,82 +3482,6 @@
    "asset": "assets/eb306483-ba21-42d2-8e81-a4c0490d6796.jpg"
   },
   {
-   "id": "0bf45777-26ed-41dd-a055-357b958c7460",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate10/17/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T13:00:00+00:00",
-   "endAt": "2026-10-18T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T13:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0bf45777-26ed-41dd-a055-357b958c7460",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0bf45777-26ed-41dd-a055-357b958c7460.png"
-  },
-  {
-   "id": "89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4",
-   "game": "Out of the Park Baseball 27",
-   "title": "CWhit 10/17/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T13:00:00+00:00",
-   "endAt": "2026-10-18T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T13:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    },
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    },
-    {
-     "name": "6",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4.png"
-  },
-  {
    "id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec",
    "game": "Rise Online",
    "title": "Mobile Drop 191",
@@ -3904,9 +3828,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8f711635-030d-449b-b5ad-a9b4454fc1a4.png"
+  },
+  {
+   "id": "0e744c3f-6c2f-49b3-acc5-369d190087a2",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/18/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T13:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e744c3f-6c2f-49b3-acc5-369d190087a2",
+   "rewards": [
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    },
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0e744c3f-6c2f-49b3-acc5-369d190087a2.png"
   }
  ],
  "archive": [
+  {
+   "id": "0bf45777-26ed-41dd-a055-357b958c7460",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/17/26",
+   "startAt": "2026-10-17T13:00:00+00:00",
+   "endAt": "2026-10-18T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4",
+   "game": "Out of the Park Baseball 27",
+   "title": "CWhit 10/17/26",
+   "startAt": "2026-10-17T13:00:00+00:00",
+   "endAt": "2026-10-18T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4370f605-1498-443c-9cd5-2bd575156303",
    "game": "Black Desert",
@@ -13983,7 +13959,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   },
   "Delta Force": {
    "favorites": 3,
@@ -14007,19 +13983,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   },
   "THE FINALS": {
    "favorites": 0,
@@ -14043,7 +14019,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.24
+   "score": 9.23
   }
  },
  "favoriteWeights": {
