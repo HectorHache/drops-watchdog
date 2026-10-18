@@ -243,20 +243,6 @@
     <pubDate>2026-10-07T11:00:00+00:00</pubDate>
   </item>
   <item>
-    <title>March of Giants — MoG - Pioneer Booster</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=b78f8b92-7461-4fd5-8b30-6f982a508acb</link>
-    <guid isPermaLink="false">b78f8b92-7461-4fd5-8b30-6f982a508acb</guid>
-    <description>Pioneer Booster — runs 2026-10-07T14:30:00+00:00 → 2026-10-18T06:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-07T14:30:00+00:00</pubDate>
-  </item>
-  <item>
-    <title>March of Giants — MoG - Pioneer Giant Token</title>
-    <link>https://www.twitch.tv/drops/campaigns?drop=1428e31c-9782-4dfd-9b09-4f302e864c5f</link>
-    <guid isPermaLink="false">1428e31c-9782-4dfd-9b09-4f302e864c5f</guid>
-    <description>Giant Token — runs 2026-10-07T14:30:00+00:00 → 2026-10-18T06:59:59.999+00:00 (Europe/Madrid)</description>
-    <pubDate>2026-10-07T14:30:00+00:00</pubDate>
-  </item>
-  <item>
     <title>Modern Warships — MW: Leviathan Harvest</title>
     <link>https://www.twitch.tv/drops/campaigns?drop=efb9b018-9c9e-4721-8659-6690bfd8cb63</link>
     <guid isPermaLink="false">efb9b018-9c9e-4721-8659-6690bfd8cb63</guid>
@@ -353,6 +339,20 @@
     <guid isPermaLink="false">1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5</guid>
     <description>1 Day of Premium · 100 UP's · Tactical Consumables Set — runs 2026-10-12T00:00:00+00:00 → 2026-10-18T23:29:59.999+00:00 (Europe/Madrid)</description>
     <pubDate>2026-10-12T00:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>Dead by Daylight — DbD: October of Horror II</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd</link>
+    <guid isPermaLink="false">0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd</guid>
+    <description>Kite-Flying Fright Banner — runs 2026-10-12T04:00:00+00:00 → 2026-10-19T03:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-12T04:00:00+00:00</pubDate>
+  </item>
+  <item>
+    <title>NARAKA: BLADEPOINT — JS2 Weekly 10.12</title>
+    <link>https://www.twitch.tv/drops/campaigns?drop=0c0f3c99-26aa-4277-87c6-362b3c8f8231</link>
+    <guid isPermaLink="false">0c0f3c99-26aa-4277-87c6-362b3c8f8231</guid>
+    <description>Special Random Gift — runs 2026-10-12T04:00:00+00:00 → 2026-10-19T03:59:59.999+00:00 (Europe/Madrid)</description>
+    <pubDate>2026-10-12T04:00:00+00:00</pubDate>
   </item>
 </channel>
 </rss>
