@@ -2406,42 +2406,6 @@
    "asset": "assets/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png"
   },
   {
-   "id": "79416b15-8baa-4bec-981d-f366248a3c45",
-   "game": "Marvel Rivals",
-   "title": "Ignite Stage2 W4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T11:00:00+00:00",
-   "endAt": "2026-10-18T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T11:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b3692b4-b8b9-4c15-ab83-5b4d96047f28.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=79416b15-8baa-4bec-981d-f366248a3c45",
-   "rewards": [
-    {
-     "name": "Chrono Tokens *100",
-     "minutes": 30
-    },
-    {
-     "name": "Cyclops\u300cWill of Galacta\u300dSpray",
-     "minutes": 60
-    },
-    {
-     "name": "Chrono Tokens *100",
-     "minutes": 120
-    },
-    {
-     "name": "\u300cPLZ COME BACK\u300dSpray",
-     "minutes": 240
-    },
-    {
-     "name": "\u300cHEXA CROWN\u300dNameplate",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/79416b15-8baa-4bec-981d-f366248a3c45.png"
-  },
-  {
    "id": "8c373f6f-862e-4737-81fe-452dc0252977",
    "game": "Rainbow Six Siege",
    "title": "R6S Doktor's Curse 26",
@@ -3698,26 +3662,6 @@
    "asset": "assets/89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4.png"
   },
   {
-   "id": "80fd58de-bbaa-4225-934a-79537d429124",
-   "game": "Halo Infinite",
-   "title": "GR Cup - OCT17",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T16:00:00+00:00",
-   "endAt": "2026-10-18T05:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T16:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e14b3cb-fdbd-4386-a2d0-26c769821773.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=80fd58de-bbaa-4225-934a-79537d429124",
-   "rewards": [
-    {
-     "name": "Shattered Cherry Weapon Coatings",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/80fd58de-bbaa-4225-934a-79537d429124.png"
-  },
-  {
    "id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec",
    "game": "Rise Online",
    "title": "Mobile Drop 191",
@@ -3880,9 +3824,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/255dcb32-4db2-493d-8850-8bfaebc2caef.png"
+  },
+  {
+   "id": "4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T06:00:00+00:00",
+   "endAt": "2026-10-18T10:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T06:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/293827a4-7aaf-409f-8138-9c1d745a4313.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
+   "rewards": [
+    {
+     "name": "\"Frag or Die Trophy\" Playercard",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e.png"
   }
  ],
  "archive": [
+  {
+   "id": "79416b15-8baa-4bec-981d-f366248a3c45",
+   "game": "Marvel Rivals",
+   "title": "Ignite Stage2 W4",
+   "startAt": "2026-10-15T11:00:00+00:00",
+   "endAt": "2026-10-18T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "80fd58de-bbaa-4225-934a-79537d429124",
+   "game": "Halo Infinite",
+   "title": "GR Cup - OCT17",
+   "startAt": "2026-10-17T16:00:00+00:00",
+   "endAt": "2026-10-18T05:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c",
    "game": "Torchlight: Infinite",
@@ -13895,43 +13875,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.11
+   "score": 13.1
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.06
+   "score": 2.05
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.02
+   "score": 13.01
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13955,7 +13935,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.3
+   "score": 9.29
   }
  },
  "favoriteWeights": {
