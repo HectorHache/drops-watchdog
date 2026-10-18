@@ -3746,26 +3746,6 @@
    "asset": "assets/255dcb32-4db2-493d-8850-8bfaebc2caef.png"
   },
   {
-   "id": "4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
-   "game": "VALORANT",
-   "title": "VCT26 Champs Shanghai",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T06:00:00+00:00",
-   "endAt": "2026-10-18T10:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T06:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/293827a4-7aaf-409f-8138-9c1d745a4313.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
-   "rewards": [
-    {
-     "name": "\"Frag or Die Trophy\" Playercard",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e.png"
-  },
-  {
    "id": "24bbb684-42cf-44df-a53a-0907582fe024",
    "game": "NARAKA: BLADEPOINT",
    "title": "NBPL 10.18",
@@ -3828,9 +3808,61 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cb7ee060-40db-4fb2-8f4b-c06097831be7.png"
+  },
+  {
+   "id": "f03c5764-7dbf-41a6-ac4e-eea23ca2776a",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S8",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T10:45:00+00:00",
+   "endAt": "2026-10-18T17:54:59.999+00:00",
+   "firstSeenAt": "2026-10-18T11:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b131774e-4416-48cf-be31-e1a51e3d60c6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f03c5764-7dbf-41a6-ac4e-eea23ca2776a",
+   "rewards": [
+    {
+     "name": "eward_stream_crate_15",
+     "minutes": 60
+    },
+    {
+     "name": "eward_stream_crate_16",
+     "minutes": 120
+    },
+    {
+     "name": "eward_stream_crate_17",
+     "minutes": 180
+    },
+    {
+     "name": "eward_stream_crate_18",
+     "minutes": 240
+    },
+    {
+     "name": "eward_stream_crate_19",
+     "minutes": 300
+    },
+    {
+     "name": "eward_stream_crate_20",
+     "minutes": 360
+    },
+    {
+     "name": "eward_stream_crate_21",
+     "minutes": 420
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f03c5764-7dbf-41a6-ac4e-eea23ca2776a.png"
   }
  ],
  "archive": [
+  {
+   "id": "4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
+   "game": "VALORANT",
+   "title": "VCT26 Champs Shanghai",
+   "startAt": "2026-10-18T06:00:00+00:00",
+   "endAt": "2026-10-18T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "8056d183-285d-446d-88ae-b9d5cd57ed75",
    "game": "Albion Online",
@@ -13897,7 +13929,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.05
+   "score": 13.04
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13909,7 +13941,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.96
+   "score": 12.95
   },
   "Once Human": {
    "favorites": 2,
