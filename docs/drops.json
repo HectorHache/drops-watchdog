@@ -3482,30 +3482,6 @@
    "asset": "assets/eb306483-ba21-42d2-8e81-a4c0490d6796.jpg"
   },
   {
-   "id": "4370f605-1498-443c-9cd5-2bd575156303",
-   "game": "Black Desert",
-   "title": "Master Class 26 (Oct 17)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T12:00:00+00:00",
-   "endAt": "2026-10-18T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T12:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/88c45115-0dca-482d-b96a-00fd57d79ab0.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4370f605-1498-443c-9cd5-2bd575156303",
-   "rewards": [
-    {
-     "name": "Oct 17 (1 Hour)",
-     "minutes": 60
-    },
-    {
-     "name": "Oct 17 (2 Hours)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/4370f605-1498-443c-9cd5-2bd575156303.jpg"
-  },
-  {
    "id": "0bf45777-26ed-41dd-a055-357b958c7460",
    "game": "Out of the Park Baseball 27",
    "title": "Affiliate10/17/26",
@@ -3656,6 +3632,38 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/84290f61-e8fb-4502-9cef-cb61712dcce7.png"
+  },
+  {
+   "id": "63035ec0-ea9d-400f-bc2f-83d7c25106eb",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T00:00:00+00:00",
+   "endAt": "2026-10-18T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T12:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fc3a993-2496-4ea5-82bf-d90ca3331bb1.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63035ec0-ea9d-400f-bc2f-83d7c25106eb",
+   "rewards": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 60
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 120
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/63035ec0-ea9d-400f-bc2f-83d7c25106eb.png"
   },
   {
    "id": "37be0b18-4e31-46c1-853a-ccad90f511ac",
@@ -3852,9 +3860,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f03c5764-7dbf-41a6-ac4e-eea23ca2776a.png"
+  },
+  {
+   "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 18)",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T12:00:00+00:00",
+   "endAt": "2026-10-19T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T12:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32c24b22-3bd8-45c3-bdc7-b3265195473c.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b570238-7b70-4110-9ceb-3efef4305a5d",
+   "rewards": [
+    {
+     "name": "Oct 18 (1 Hour)",
+     "minutes": 60
+    },
+    {
+     "name": "Oct 18 (2 Hours)",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/0b570238-7b70-4110-9ceb-3efef4305a5d.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "4370f605-1498-443c-9cd5-2bd575156303",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 17)",
+   "startAt": "2026-10-17T12:00:00+00:00",
+   "endAt": "2026-10-18T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e",
    "game": "VALORANT",
@@ -13929,7 +13969,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.04
+   "score": 13.03
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13941,7 +13981,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.95
+   "score": 12.94
   },
   "Once Human": {
    "favorites": 2,
@@ -13977,7 +14017,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.82
+   "score": 4.81
   },
   "Where Winds Meet": {
    "favorites": 2,
