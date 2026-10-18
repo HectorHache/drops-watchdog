@@ -1682,34 +1682,6 @@
    "asset": "assets/a1b85335-6984-448b-8438-1ec6b436d8fc.png"
   },
   {
-   "id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343",
-   "game": "For Honor",
-   "title": " FH Crusade Oct 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T16:00:00+00:00",
-   "endAt": "2026-10-18T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T16:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/52c0511e-fb09-4170-8be5-3a2b685f711e.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=982b611a-ae2a-4cc6-bf15-77daa8b5b343",
-   "rewards": [
-    {
-     "name": "Tier 1",
-     "minutes": 60
-    },
-    {
-     "name": "Tier 2",
-     "minutes": 120
-    },
-    {
-     "name": "Tier 3",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/982b611a-ae2a-4cc6-bf15-77daa8b5b343.jpg"
-  },
-  {
    "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 3",
@@ -2260,26 +2232,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png"
-  },
-  {
-   "id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.15-18",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T08:00:00+00:00",
-   "endAt": "2026-10-18T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T08:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f984e6e-5a8c-4ffe-97a5-3d055f831835.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
-   "rewards": [
-    {
-     "name": "10x XP Bonus",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/3cf7094f-5d9b-4a14-8660-a4aab5bae3e5.png"
   },
   {
    "id": "09234039-5edb-4037-9273-14c702bdf60d",
@@ -3382,26 +3334,6 @@
    "asset": "assets/bfccc89e-d12f-472c-92da-81c6054c33c9.png"
   },
   {
-   "id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.17-18",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T08:00:00+00:00",
-   "endAt": "2026-10-18T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T08:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e8edde76-287e-406c-8247-39fc211c2469.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
-   "rewards": [
-    {
-     "name": "Champion Bubble Choice Gift",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/4e02d4ee-0585-4b6a-a88c-b54aea1106c5.png"
-  },
-  {
    "id": "c7116bf5-b574-4bc7-befb-af8dfcbeab49",
    "game": "Brawlhalla",
    "title": "Brawlhalla Tourn. Weekend",
@@ -3630,30 +3562,6 @@
    "asset": "assets/d017015e-cabd-4ac3-bc89-30b5c4a0720b.png"
   },
   {
-   "id": "24bbb684-42cf-44df-a53a-0907582fe024",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "NBPL 10.18",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T08:00:00+00:00",
-   "endAt": "2026-10-18T15:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T08:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b33e5d3-d43f-4bba-b18e-d42ac4076dc2.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24bbb684-42cf-44df-a53a-0907582fe024",
-   "rewards": [
-    {
-     "name": "Tae*200",
-     "minutes": 15
-    },
-    {
-     "name": "Special Silk*200",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/24bbb684-42cf-44df-a53a-0907582fe024.png"
-  },
-  {
    "id": "bd543343-7588-4aeb-9ac1-e168e061ffed",
    "game": "Albion Online",
    "title": "AOCP Flamescale 5 - #7/7",
@@ -3872,9 +3780,61 @@
    "inSteamLibrary": true,
    "isFavorite": true,
    "asset": "assets/90273492-0fd5-46d0-b1cf-60084d901adf.png"
+  },
+  {
+   "id": "0501f202-cfad-4654-8779-f74b5742c5ae",
+   "game": "Halo Infinite",
+   "title": "GR Cup - OCT18",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T16:00:00+00:00",
+   "endAt": "2026-10-19T17:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T16:00:36+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e17c118-1e17-4f51-b807-b6b9f8a07795.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0501f202-cfad-4654-8779-f74b5742c5ae",
+   "rewards": [
+    {
+     "name": "De-Rez Weapons",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/0501f202-cfad-4654-8779-f74b5742c5ae.png"
   }
  ],
  "archive": [
+  {
+   "id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343",
+   "game": "For Honor",
+   "title": " FH Crusade Oct 2026",
+   "startAt": "2026-10-12T16:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.15-18",
+   "startAt": "2026-10-15T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.17-18",
+   "startAt": "2026-10-17T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "24bbb684-42cf-44df-a53a-0907582fe024",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.18",
+   "startAt": "2026-10-18T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "d2a007bf-4f27-4164-8080-39a4d64a9eb5",
    "game": "Epic Seven",
@@ -13983,13 +13943,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.99
+   "score": 12.98
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -14001,25 +13961,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.9
+   "score": 12.89
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   },
   "THE FINALS": {
    "favorites": 0,
@@ -14043,7 +14003,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.21
+   "score": 9.2
   }
  },
  "favoriteWeights": {
