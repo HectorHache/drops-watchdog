@@ -2834,46 +2834,6 @@
    "asset": "assets/17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9.png"
   },
   {
-   "id": "652da331-614c-4886-b0ab-091996b1d789",
-   "game": "Caliber",
-   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 16.10.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T15:00:00+00:00",
-   "endAt": "2026-10-18T20:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T15:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/876b62a4-50af-435a-8e58-8b272ac00bcc.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=652da331-614c-4886-b0ab-091996b1d789",
-   "rewards": [
-    {
-     "name": "20 000 credits 16.10",
-     "minutes": 20
-    },
-    {
-     "name": "50 fragments 16.10",
-     "minutes": 30
-    },
-    {
-     "name": "20 000 credits (2) 16.10",
-     "minutes": 45
-    },
-    {
-     "name": "Army Surplus 16.10",
-     "minutes": 60
-    },
-    {
-     "name": "20 000 credits (3) 16.10",
-     "minutes": 90
-    },
-    {
-     "name": "Weapon container 16.10",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/652da331-614c-4886-b0ab-091996b1d789.png"
-  },
-  {
    "id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
    "game": "World of Tanks",
    "title": "WoT A Thrill Store #3",
@@ -3664,9 +3624,37 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/0fae220f-2a32-4282-8cb9-1e4e254f2775.jpg"
+  },
+  {
+   "id": "85a87118-2361-49d7-add4-711371c53c31",
+   "game": "Warframe",
+   "title": "PMCFQ - Slivarito",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T21:00:00+00:00",
+   "endAt": "2026-10-18T22:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T21:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00844e5d-6478-4381-9b60-395684cb32eb.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85a87118-2361-49d7-add4-711371c53c31",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/85a87118-2361-49d7-add4-711371c53c31.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "652da331-614c-4886-b0ab-091996b1d789",
+   "game": "Caliber",
+   "title": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430 16.10.2026",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-18T20:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "5d8cefce-b631-497d-91e8-6deade1347ab",
    "game": "Warframe",
@@ -13863,7 +13851,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   },
   "Delta Force": {
    "favorites": 3,
@@ -13887,19 +13875,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13923,7 +13911,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.17
+   "score": 9.16
   }
  },
  "favoriteWeights": {
