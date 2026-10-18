@@ -3378,6 +3378,34 @@
    "asset": "assets/c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b.png"
   },
   {
+   "id": "9f42c463-846b-4e57-8dac-6e735a687c13",
+   "game": "Captain's Call",
+   "title": "Alpha 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-17T02:00:00+00:00",
+   "endAt": "2026-11-13T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T05:30:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c6967be-21c1-40b7-9811-eda071635773.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9f42c463-846b-4e57-8dac-6e735a687c13",
+   "rewards": [
+    {
+     "name": "42 Gold",
+     "minutes": 60
+    },
+    {
+     "name": "42 Potions",
+     "minutes": 480
+    },
+    {
+     "name": "24 Catnip",
+     "minutes": 900
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/9f42c463-846b-4e57-8dac-6e735a687c13.png"
+  },
+  {
    "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 19",
@@ -13873,7 +13901,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.12
+   "score": 13.11
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13885,7 +13913,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.03
+   "score": 13.02
   },
   "Once Human": {
    "favorites": 2,
@@ -13915,13 +13943,13 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.46
+   "score": 4.45
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.85
+   "score": 4.84
   },
   "Where Winds Meet": {
    "favorites": 2,
