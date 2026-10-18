@@ -3402,46 +3402,6 @@
    "asset": "assets/4e02d4ee-0585-4b6a-a88c-b54aea1106c5.png"
   },
   {
-   "id": "8056d183-285d-446d-88ae-b9d5cd57ed75",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T10:00:00+00:00",
-   "endAt": "2026-10-18T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-17T10:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/69b33aa9-3413-46b3-85cc-502c9651e8a3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=8056d183-285d-446d-88ae-b9d5cd57ed75",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/8056d183-285d-446d-88ae-b9d5cd57ed75.png"
-  },
-  {
-   "id": "6aed3d67-a1be-4f62-9d12-78170474c8c2",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T10:00:00+00:00",
-   "endAt": "2026-10-18T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-17T10:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/01cc6260-b7e1-4740-b51c-e1d3f276465e.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6aed3d67-a1be-4f62-9d12-78170474c8c2",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/6aed3d67-a1be-4f62-9d12-78170474c8c2.png"
-  },
-  {
    "id": "c7116bf5-b574-4bc7-befb-af8dfcbeab49",
    "game": "Brawlhalla",
    "title": "Brawlhalla Tourn. Weekend",
@@ -3831,6 +3791,22 @@
   }
  ],
  "archive": [
+  {
+   "id": "8056d183-285d-446d-88ae-b9d5cd57ed75",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #6/7",
+   "startAt": "2026-10-17T10:00:00+00:00",
+   "endAt": "2026-10-18T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "6aed3d67-a1be-4f62-9d12-78170474c8c2",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #6/7",
+   "startAt": "2026-10-17T10:00:00+00:00",
+   "endAt": "2026-10-18T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "b78f8b92-7461-4fd5-8b30-6f982a508acb",
    "game": "March of Giants",
@@ -13875,13 +13851,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.07
+   "score": 13.06
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13893,25 +13869,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.98
+   "score": 12.97
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13935,7 +13911,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.27
+   "score": 9.26
   }
  },
  "favoriteWeights": {
