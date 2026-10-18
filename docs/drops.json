@@ -3788,6 +3788,46 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/24bbb684-42cf-44df-a53a-0907582fe024.png"
+  },
+  {
+   "id": "bd543343-7588-4aeb-9ac1-e168e061ffed",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T10:00:00+00:00",
+   "endAt": "2026-10-19T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-18T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9013e38d-c367-44e7-96f5-252a1f1d5f7f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd543343-7588-4aeb-9ac1-e168e061ffed",
+   "rewards": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/bd543343-7588-4aeb-9ac1-e168e061ffed.png"
+  },
+  {
+   "id": "cb7ee060-40db-4fb2-8f4b-c06097831be7",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T10:00:00+00:00",
+   "endAt": "2026-10-19T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-18T10:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c33c86a9-4959-4559-86ad-537d7eccd32b.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cb7ee060-40db-4fb2-8f4b-c06097831be7",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cb7ee060-40db-4fb2-8f4b-c06097831be7.png"
   }
  ],
  "archive": [
@@ -13857,7 +13897,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.06
+   "score": 13.05
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13869,7 +13909,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.97
+   "score": 12.96
   },
   "Once Human": {
    "favorites": 2,
@@ -13905,7 +13945,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.83
+   "score": 4.82
   },
   "Where Winds Meet": {
    "favorites": 2,
