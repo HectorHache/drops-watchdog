@@ -3322,46 +3322,6 @@
    "asset": "assets/eb306483-ba21-42d2-8e81-a4c0490d6796.jpg"
   },
   {
-   "id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec",
-   "game": "Rise Online",
-   "title": "Mobile Drop 191",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T17:59:00+00:00",
-   "endAt": "2026-10-18T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-17T18:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82334c39-e4c1-4ead-b823-48039804ed88.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1664a3e3-7d14-4490-8ce6-2a645dccdaec",
-   "rewards": [
-    {
-     "name": "Mobile Drop 191",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png"
-  },
-  {
-   "id": "eccb3c97-3301-4928-bf23-6d7381e6feed",
-   "game": "Rise Online",
-   "title": "ROW Drop 620",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T17:59:00+00:00",
-   "endAt": "2026-10-18T17:56:59.999+00:00",
-   "firstSeenAt": "2026-10-17T18:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0a693429-492a-46b9-a7f8-9fdbcfaa5547.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=eccb3c97-3301-4928-bf23-6d7381e6feed",
-   "rewards": [
-    {
-     "name": "ROW Drop 620",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/eccb3c97-3301-4928-bf23-6d7381e6feed.png"
-  },
-  {
    "id": "84290f61-e8fb-4502-9cef-cb61712dcce7",
    "game": "Delta Force",
    "title": "DF RISE S2 Grand Finals",
@@ -3508,50 +3468,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/cb7ee060-40db-4fb2-8f4b-c06097831be7.png"
-  },
-  {
-   "id": "f03c5764-7dbf-41a6-ac4e-eea23ca2776a",
-   "game": "Standoff 2",
-   "title": "SO2 JumbleRumble: S8",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T10:45:00+00:00",
-   "endAt": "2026-10-18T17:54:59.999+00:00",
-   "firstSeenAt": "2026-10-18T11:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b131774e-4416-48cf-be31-e1a51e3d60c6.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f03c5764-7dbf-41a6-ac4e-eea23ca2776a",
-   "rewards": [
-    {
-     "name": "eward_stream_crate_15",
-     "minutes": 60
-    },
-    {
-     "name": "eward_stream_crate_16",
-     "minutes": 120
-    },
-    {
-     "name": "eward_stream_crate_17",
-     "minutes": 180
-    },
-    {
-     "name": "eward_stream_crate_18",
-     "minutes": 240
-    },
-    {
-     "name": "eward_stream_crate_19",
-     "minutes": 300
-    },
-    {
-     "name": "eward_stream_crate_20",
-     "minutes": 360
-    },
-    {
-     "name": "eward_stream_crate_21",
-     "minutes": 420
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/f03c5764-7dbf-41a6-ac4e-eea23ca2776a.png"
   },
   {
    "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
@@ -3708,9 +3624,93 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/3061af39-49c5-4137-90a8-75837d5917ec.png"
+  },
+  {
+   "id": "2844b1bb-77cb-4c4b-926d-a0c61029b277",
+   "game": "Rise Online",
+   "title": "Mobile Drop 192",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T17:59:00+00:00",
+   "endAt": "2026-10-19T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-18T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1da1187a-441d-49a6-850c-00a8a6d9141c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2844b1bb-77cb-4c4b-926d-a0c61029b277",
+   "rewards": [
+    {
+     "name": "Mobile Drop 192",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2844b1bb-77cb-4c4b-926d-a0c61029b277.png"
+  },
+  {
+   "id": "0fae220f-2a32-4282-8cb9-1e4e254f2775",
+   "game": "Rise Online",
+   "title": "ROW Drop 621",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T17:59:00+00:00",
+   "endAt": "2026-10-19T17:56:59.999+00:00",
+   "firstSeenAt": "2026-10-18T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/49c4bcb6-6fcc-4e66-b847-2a3c0c0c08c7.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0fae220f-2a32-4282-8cb9-1e4e254f2775",
+   "rewards": [
+    {
+     "name": "ROW Drop 621",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/0fae220f-2a32-4282-8cb9-1e4e254f2775.jpg"
+  },
+  {
+   "id": "5d8cefce-b631-497d-91e8-6deade1347ab",
+   "game": "Warframe",
+   "title": "PMCFQ - TheKengineer",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T18:00:00+00:00",
+   "endAt": "2026-10-18T19:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T18:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/059051bd-b525-4c75-98ed-46272ca5057b.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=5d8cefce-b631-497d-91e8-6deade1347ab",
+   "rewards": [
+    {
+     "name": "Random Floof",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": true,
+   "asset": "assets/5d8cefce-b631-497d-91e8-6deade1347ab.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec",
+   "game": "Rise Online",
+   "title": "Mobile Drop 191",
+   "startAt": "2026-10-17T17:59:00+00:00",
+   "endAt": "2026-10-18T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "eccb3c97-3301-4928-bf23-6d7381e6feed",
+   "game": "Rise Online",
+   "title": "ROW Drop 620",
+   "startAt": "2026-10-17T17:59:00+00:00",
+   "endAt": "2026-10-18T17:56:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "f03c5764-7dbf-41a6-ac4e-eea23ca2776a",
+   "game": "Standoff 2",
+   "title": "SO2 JumbleRumble: S8",
+   "startAt": "2026-10-18T10:45:00+00:00",
+   "endAt": "2026-10-18T17:54:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "f370071f-a037-40a2-b6e0-8fb78769b6a7",
    "game": "Madden NFL 27",
@@ -13881,7 +13881,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.96
+   "score": 12.95
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
