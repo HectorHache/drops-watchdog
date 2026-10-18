@@ -3804,6 +3804,30 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e.png"
+  },
+  {
+   "id": "24bbb684-42cf-44df-a53a-0907582fe024",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "NBPL 10.18",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T08:00:00+00:00",
+   "endAt": "2026-10-18T15:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T08:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b33e5d3-d43f-4bba-b18e-d42ac4076dc2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=24bbb684-42cf-44df-a53a-0907582fe024",
+   "rewards": [
+    {
+     "name": "Tae*200",
+     "minutes": 15
+    },
+    {
+     "name": "Special Silk*200",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/24bbb684-42cf-44df-a53a-0907582fe024.png"
   }
  ],
  "archive": [
@@ -13857,7 +13881,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.09
+   "score": 13.08
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13869,7 +13893,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.0
+   "score": 12.99
   },
   "Once Human": {
    "favorites": 2,
@@ -13899,7 +13923,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.45
+   "score": 4.44
   },
   "Warframe": {
    "favorites": 1,
