@@ -818,26 +818,6 @@
    "asset": "assets/b08e6c0e-ac1c-4b93-906c-5646ed5559ad.jpg"
   },
   {
-   "id": "adda5142-106a-4ab8-8fa3-bac1eb78a2da",
-   "game": "Coryphaeus Championships",
-   "title": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T11:04:18+00:00",
-   "endAt": "2026-10-17T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-06T11:30:07+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b10e2af-8546-44ac-b455-4057eb9da984.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=adda5142-106a-4ab8-8fa3-bac1eb78a2da",
-   "rewards": [
-    {
-     "name": "500 C-Coins",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/adda5142-106a-4ab8-8fa3-bac1eb78a2da.png"
-  },
-  {
    "id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4",
    "game": "Splinterlands",
    "title": "October Week 1",
@@ -1440,46 +1420,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/b4d74b43-1f76-4953-a980-83a68ea6b5ff.png"
-  },
-  {
-   "id": "958b07a5-ba3c-4610-9960-bf9fb84be98e",
-   "game": "Kirka.io",
-   "title": "K1TTY",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T18:57:20+00:00",
-   "endAt": "2026-10-17T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-10T19:30:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdc06eed-becf-4063-957c-134cb91b4e37.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=958b07a5-ba3c-4610-9960-bf9fb84be98e",
-   "rewards": [
-    {
-     "name": "K1TTY",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/958b07a5-ba3c-4610-9960-bf9fb84be98e.png"
-  },
-  {
-   "id": "19b30b43-f37a-487d-9534-8d34df58bf1a",
-   "game": "Kirka.io",
-   "title": "Elite",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T19:32:02+00:00",
-   "endAt": "2026-10-17T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-10T20:00:30+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9e7c9cb2-5066-46fe-af29-1e8f971409ee.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=19b30b43-f37a-487d-9534-8d34df58bf1a",
-   "rewards": [
-    {
-     "name": "Elite",
-     "minutes": 900
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/19b30b43-f37a-487d-9534-8d34df58bf1a.png"
   },
   {
    "id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c",
@@ -2232,42 +2172,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/19f3b23f-5165-4b52-b1de-d3c9afd40223.png"
-  },
-  {
-   "id": "31a45380-7a68-426b-a084-dd00fc445ddb",
-   "game": "Delta Force",
-   "title": "DF RISE S2 Survivor Day",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T00:00:00+00:00",
-   "endAt": "2026-10-17T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-15T00:00:41+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e555004-2ccd-4787-9436-13e6889fb06d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=31a45380-7a68-426b-a084-dd00fc445ddb",
-   "rewards": [
-    {
-     "name": "S11 Adv Arm Select Pack",
-     "minutes": 15
-    },
-    {
-     "name": "Adv Vest Selection Pack",
-     "minutes": 30
-    },
-    {
-     "name": "Spray-RISE SERIES SEASON2",
-     "minutes": 45
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60
-    },
-    {
-     "name": "ASVAL - Sweet Disguise",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": true,
-   "asset": "assets/31a45380-7a68-426b-a084-dd00fc445ddb.png"
   },
   {
    "id": "853eaf12-2ecb-446c-b382-717c278f8af2",
@@ -3474,46 +3378,6 @@
    "asset": "assets/c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b.png"
   },
   {
-   "id": "56e5f341-b5da-4a94-ae8f-46b91c09a0f5",
-   "game": "EVE Online",
-   "title": "CSM 21 Interviews Drop 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T00:01:00+00:00",
-   "endAt": "2026-10-17T23:58:59.999+00:00",
-   "firstSeenAt": "2026-10-17T00:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d87527aa-89c7-4363-b0c0-5b176a03a148.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=56e5f341-b5da-4a94-ae8f-46b91c09a0f5",
-   "rewards": [
-    {
-     "name": "Agency Support Drop",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/56e5f341-b5da-4a94-ae8f-46b91c09a0f5.jpg"
-  },
-  {
-   "id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c",
-   "game": "Torchlight: Infinite",
-   "title": "New Season-TARTARUS-Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T02:00:00+00:00",
-   "endAt": "2026-10-18T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-17T02:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7001c3b2-5e78-434a-8893-9c983e8367a4.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2becb7ce-2a01-4ebe-855b-9ba87182b80c",
-   "rewards": [
-    {
-     "name": "New Season Drops - 60 mins",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/2becb7ce-2a01-4ebe-855b-9ba87182b80c.png"
-  },
-  {
    "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
    "game": "Rainbow Six Siege",
    "title": "R6S S2 2026 19",
@@ -3864,9 +3728,189 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/eccb3c97-3301-4928-bf23-6d7381e6feed.png"
+  },
+  {
+   "id": "84290f61-e8fb-4502-9cef-cb61712dcce7",
+   "game": "Delta Force",
+   "title": "DF RISE S2 Grand Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T00:00:00+00:00",
+   "endAt": "2026-10-19T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T00:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/607a608d-a44e-4368-b8a8-1ae4da4e9471.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=84290f61-e8fb-4502-9cef-cb61712dcce7",
+   "rewards": [
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 45
+    },
+    {
+     "name": "C Card - Sunny Day Invitation",
+     "minutes": 30
+    },
+    {
+     "name": "Adv Weapon Selection Pack",
+     "minutes": 15
+    },
+    {
+     "name": "Avatar - Redland",
+     "minutes": 60
+    },
+    {
+     "name": "QBZ95 - Golden Age",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": true,
+   "asset": "assets/84290f61-e8fb-4502-9cef-cb61712dcce7.png"
+  },
+  {
+   "id": "37be0b18-4e31-46c1-853a-ccad90f511ac",
+   "game": "EVE Online",
+   "title": "CSM 21 Interviews Drop 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T00:01:00+00:00",
+   "endAt": "2026-10-18T23:58:59.999+00:00",
+   "firstSeenAt": "2026-10-18T00:30:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcef1316-3dcc-4e26-84e6-258291625592.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=37be0b18-4e31-46c1-853a-ccad90f511ac",
+   "rewards": [
+    {
+     "name": "Apotheosis SOCT Shuttle",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/37be0b18-4e31-46c1-853a-ccad90f511ac.jpg"
+  },
+  {
+   "id": "d017015e-cabd-4ac3-bc89-30b5c4a0720b",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T02:00:00+00:00",
+   "endAt": "2026-10-19T01:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T02:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4d75494-f2ca-4563-8bbf-0671f9745c78.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d017015e-cabd-4ac3-bc89-30b5c4a0720b",
+   "rewards": [
+    {
+     "name": "New Season Drops - 60 mins",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/d017015e-cabd-4ac3-bc89-30b5c4a0720b.png"
+  },
+  {
+   "id": "d2a007bf-4f27-4164-8080-39a4d64a9eb5",
+   "game": "Epic Seven",
+   "title": "E7WC2026 Group Stage Day4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T03:00:00+00:00",
+   "endAt": "2026-10-18T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T03:00:42+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/45367609-eb2e-4598-ac4c-8f3e67bd3519.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d2a007bf-4f27-4164-8080-39a4d64a9eb5",
+   "rewards": [
+    {
+     "name": "E7WC2026 Group Stage Day4",
+     "minutes": 15
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/d2a007bf-4f27-4164-8080-39a4d64a9eb5.png"
+  },
+  {
+   "id": "255dcb32-4db2-493d-8850-8bfaebc2caef",
+   "game": "Eternal Return",
+   "title": "KEL CIRCUIT 4 - DAY 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-18T04:00:00+00:00",
+   "endAt": "2026-10-18T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-18T04:00:35+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2c699473-f402-4d68-b5cd-507a773967d2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=255dcb32-4db2-493d-8850-8bfaebc2caef",
+   "rewards": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/255dcb32-4db2-493d-8850-8bfaebc2caef.png"
   }
  ],
  "archive": [
+  {
+   "id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 2",
+   "startAt": "2026-10-17T02:00:00+00:00",
+   "endAt": "2026-10-18T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "ae47ecb7-b62e-4089-b71e-43a21d480213",
+   "game": "Warframe",
+   "title": "PMCFQ - dastercreations",
+   "startAt": "2026-10-18T00:00:00+00:00",
+   "endAt": "2026-10-18T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "31a45380-7a68-426b-a084-dd00fc445ddb",
+   "game": "Delta Force",
+   "title": "DF RISE S2 Survivor Day",
+   "startAt": "2026-10-15T00:00:00+00:00",
+   "endAt": "2026-10-17T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "56e5f341-b5da-4a94-ae8f-46b91c09a0f5",
+   "game": "EVE Online",
+   "title": "CSM 21 Interviews Drop 1",
+   "startAt": "2026-10-17T00:01:00+00:00",
+   "endAt": "2026-10-17T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "adda5142-106a-4ab8-8fa3-bac1eb78a2da",
+   "game": "Coryphaeus Championships",
+   "title": "Fall Drops ",
+   "startAt": "2026-10-06T11:04:18+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "958b07a5-ba3c-4610-9960-bf9fb84be98e",
+   "game": "Kirka.io",
+   "title": "K1TTY",
+   "startAt": "2026-10-10T18:57:20+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "19b30b43-f37a-487d-9534-8d34df58bf1a",
+   "game": "Kirka.io",
+   "title": "Elite",
+   "startAt": "2026-10-10T19:32:02+00:00",
+   "endAt": "2026-10-17T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "17b6b3f0-2c61-4a90-b67b-85143355f4ca",
    "game": "Warframe",
@@ -13823,43 +13867,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.36
+   "score": 9.3
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 13.2
+   "score": 13.12
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.07
+   "score": 2.06
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 13.11
+   "score": 13.03
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.36
+   "score": 9.3
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.36
+   "score": 9.3
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.36
+   "score": 9.3
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13871,19 +13915,19 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.48
+   "score": 4.46
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.88
+   "score": 4.85
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.36
+   "score": 9.3
   }
  },
  "favoriteWeights": {
