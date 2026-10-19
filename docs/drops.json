@@ -3240,6 +3240,26 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/f24a565e-9fa3-45c0-aafe-2c444f37b795.png"
+  },
+  {
+   "id": "2c960c3d-8af2-400c-9a60-7e9c992c1541",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T11:30:00+00:00",
+   "endAt": "2026-10-23T10:57:59.999+00:00",
+   "firstSeenAt": "2026-10-19T11:30:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e54a572-aeeb-4f6d-b9d6-bccf6ca887d0.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c960c3d-8af2-400c-9a60-7e9c992c1541",
+   "rewards": [
+    {
+     "name": "Mysterious GalNet II",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2c960c3d-8af2-400c-9a60-7e9c992c1541.jpg"
   }
  ],
  "archive": [
@@ -13607,7 +13627,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   },
   "Delta Force": {
    "favorites": 3,
@@ -13625,25 +13645,25 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.66
+   "score": 12.65
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13667,7 +13687,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.04
+   "score": 9.03
   }
  },
  "favoriteWeights": {
