@@ -1370,82 +1370,6 @@
    "asset": "assets/c9b4b2ac-7ede-4fed-b45d-9c657f20a73c.png"
   },
   {
-   "id": "9960cf06-5bf0-4725-8cb2-036053a6a57f",
-   "game": "Out of the Park Baseball 27",
-   "title": "Official 23",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T13:00:00+00:00",
-   "endAt": "2026-10-19T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T14:30:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=9960cf06-5bf0-4725-8cb2-036053a6a57f",
-   "rewards": [
-    {
-     "name": "1",
-     "minutes": 90
-    },
-    {
-     "name": "2",
-     "minutes": 180
-    },
-    {
-     "name": "3",
-     "minutes": 270
-    },
-    {
-     "name": "4",
-     "minutes": 360
-    },
-    {
-     "name": "5",
-     "minutes": 450
-    },
-    {
-     "name": "6",
-     "minutes": 540
-    },
-    {
-     "name": "7",
-     "minutes": 630
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/9960cf06-5bf0-4725-8cb2-036053a6a57f.png"
-  },
-  {
-   "id": "2567d62b-f308-4da9-8d7d-f5da0b69b10a",
-   "game": "Out of the Park Baseball 27",
-   "title": "Laptophound 23",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T13:00:00+00:00",
-   "endAt": "2026-10-19T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T14:30:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2567d62b-f308-4da9-8d7d-f5da0b69b10a",
-   "rewards": [
-    {
-     "name": "4",
-     "minutes": 480
-    },
-    {
-     "name": "1",
-     "minutes": 120
-    },
-    {
-     "name": "2",
-     "minutes": 240
-    },
-    {
-     "name": "3",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2567d62b-f308-4da9-8d7d-f5da0b69b10a.png"
-  },
-  {
    "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
    "game": "MARVEL Strike Force",
    "title": "MSF | Oct Week 3",
@@ -2586,38 +2510,6 @@
    "asset": "assets/d8e74682-74d7-4def-8f2b-034d982d03c1.png"
   },
   {
-   "id": "61e25680-eb3c-4d20-9306-7c69226786ab",
-   "game": "Marbles on Stream",
-   "title": "Marble Day 270",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T16:00:00+00:00",
-   "endAt": "2026-10-19T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T16:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7855147d-aaa9-4374-a396-fa951f0194f0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=61e25680-eb3c-4d20-9306-7c69226786ab",
-   "rewards": [
-    {
-     "name": "DROP 1",
-     "minutes": 120
-    },
-    {
-     "name": "DROP 2",
-     "minutes": 240
-    },
-    {
-     "name": "DROP 3",
-     "minutes": 360
-    },
-    {
-     "name": "DROP - SUBS",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/61e25680-eb3c-4d20-9306-7c69226786ab.png"
-  },
-  {
    "id": "3b2d577a-fc2a-49eb-a07a-a5866937bef5",
    "game": "Star Citizen",
    "title": "RSI Discovery",
@@ -2892,42 +2784,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/8f711635-030d-449b-b5ad-a9b4454fc1a4.png"
-  },
-  {
-   "id": "0e744c3f-6c2f-49b3-acc5-369d190087a2",
-   "game": "Out of the Park Baseball 27",
-   "title": "Affiliate10/18/26",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T13:00:00+00:00",
-   "endAt": "2026-10-19T12:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T13:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0e744c3f-6c2f-49b3-acc5-369d190087a2",
-   "rewards": [
-    {
-     "name": "3",
-     "minutes": 45
-    },
-    {
-     "name": "4",
-     "minutes": 60
-    },
-    {
-     "name": "5",
-     "minutes": 90
-    },
-    {
-     "name": "1",
-     "minutes": 15
-    },
-    {
-     "name": "2",
-     "minutes": 30
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0e744c3f-6c2f-49b3-acc5-369d190087a2.png"
   },
   {
    "id": "90273492-0fd5-46d0-b1cf-60084d901adf",
@@ -3264,9 +3120,109 @@
    "inSteamLibrary": true,
    "isFavorite": false,
    "asset": "assets/059756db-88a3-474c-9575-9afefcb3cd90.png"
+  },
+  {
+   "id": "f95bbd93-1611-42e7-9acc-240c106fe683",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/19/26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T13:00:00+00:00",
+   "endAt": "2026-10-20T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T13:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f95bbd93-1611-42e7-9acc-240c106fe683",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 15
+    },
+    {
+     "name": "2",
+     "minutes": 30
+    },
+    {
+     "name": "3",
+     "minutes": 45
+    },
+    {
+     "name": "4",
+     "minutes": 60
+    },
+    {
+     "name": "5",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f95bbd93-1611-42e7-9acc-240c106fe683.png"
+  },
+  {
+   "id": "cce10d77-542b-45c7-a17d-5715936bcbf3",
+   "game": "Marbles on Stream",
+   "title": "MarbleFest - Oct'26-Day 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T13:00:00+00:00",
+   "endAt": "2026-10-20T13:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T13:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/267ab088-3948-4ae9-b1a1-1ac2f0d5d110.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cce10d77-542b-45c7-a17d-5715936bcbf3",
+   "rewards": [
+    {
+     "name": "DROP 1",
+     "minutes": 120
+    },
+    {
+     "name": "DROP 2",
+     "minutes": 360
+    },
+    {
+     "name": "DROP 3",
+     "minutes": 900
+    },
+    {
+     "name": "DROP - SUB",
+     "minutes": 0
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/cce10d77-542b-45c7-a17d-5715936bcbf3.png"
   }
  ],
  "archive": [
+  {
+   "id": "9960cf06-5bf0-4725-8cb2-036053a6a57f",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 23",
+   "startAt": "2026-10-12T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2567d62b-f308-4da9-8d7d-f5da0b69b10a",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 23",
+   "startAt": "2026-10-12T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "61e25680-eb3c-4d20-9306-7c69226786ab",
+   "game": "Marbles on Stream",
+   "title": "Marble Day 270",
+   "startAt": "2026-10-16T16:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0e744c3f-6c2f-49b3-acc5-369d190087a2",
+   "game": "Out of the Park Baseball 27",
+   "title": "Affiliate10/18/26",
+   "startAt": "2026-10-18T13:00:00+00:00",
+   "endAt": "2026-10-19T12:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
    "game": "Black Desert",
@@ -13639,43 +13595,43 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.03
+   "score": 9.02
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.73
+   "score": 12.72
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.0
+   "score": 1.99
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.64
+   "score": 12.63
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.03
+   "score": 9.02
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.03
+   "score": 9.02
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.03
+   "score": 9.02
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13699,7 +13655,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.03
+   "score": 9.02
   }
  },
  "favoriteWeights": {
