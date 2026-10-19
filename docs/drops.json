@@ -38,42 +38,6 @@
    "asset": "assets/72662ff7-75c6-44eb-94b0-7868cbc5e89b.png"
   },
   {
-   "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
-   "game": "Relic Arena",
-   "title": "Solo Queue Challenge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T16:00:00+00:00",
-   "endAt": "2026-10-19T15:59:59.999+00:00",
-   "firstSeenAt": "2026-09-22T17:00:29+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cc172abb-446d-47d8-a22d-112ad4e69bc3.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=e90f396b-6c1c-4875-b41b-d56041c68a48",
-   "rewards": [
-    {
-     "name": "5,000 Ingame Coins",
-     "minutes": 15
-    },
-    {
-     "name": "Harambe Emote",
-     "minutes": 60
-    },
-    {
-     "name": "Fencer Assassin Skin",
-     "minutes": 120
-    },
-    {
-     "name": "5,000 Ingame Coins",
-     "minutes": 240
-    },
-    {
-     "name": "Arcade Winstreak FX",
-     "minutes": 360
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/e90f396b-6c1c-4875-b41b-d56041c68a48.png"
-  },
-  {
    "id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
    "game": "REMATCH",
    "title": "Rematch x Blue Lock",
@@ -3311,6 +3275,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "e90f396b-6c1c-4875-b41b-d56041c68a48",
+   "game": "Relic Arena",
+   "title": "Solo Queue Challenge",
+   "startAt": "2026-09-22T16:00:00+00:00",
+   "endAt": "2026-10-19T15:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
    "game": "World of Tanks",
@@ -13723,13 +13695,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.0
+   "score": 8.99
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.69
+   "score": 12.68
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13747,19 +13719,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.0
+   "score": 8.99
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.0
+   "score": 8.99
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.0
+   "score": 8.99
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13783,7 +13755,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.0
+   "score": 8.99
   }
  },
  "favoriteWeights": {
