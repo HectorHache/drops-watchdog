@@ -2294,26 +2294,6 @@
    "asset": "assets/dfeba7d4-f52f-4195-9153-88656e5c1114.png"
   },
   {
-   "id": "23b21c8d-99e5-46c7-8be1-0012601e8b2d",
-   "game": "EVE Online",
-   "title": "Crimson Harvest Drop 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T11:20:00+00:00",
-   "endAt": "2026-10-19T10:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T11:30:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30558b8a-45cc-42f7-aa94-37d732b634bd.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=23b21c8d-99e5-46c7-8be1-0012601e8b2d",
-   "rewards": [
-    {
-     "name": "Vedmak Blackfire SKIN",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/23b21c8d-99e5-46c7-8be1-0012601e8b2d.jpg"
-  },
-  {
    "id": "3ce33bdd-378d-4fbd-a35b-a33bb10334bf",
    "game": "Dark and Darker",
    "title": "EA Season 11 Drops 2",
@@ -3263,6 +3243,14 @@
   }
  ],
  "archive": [
+  {
+   "id": "23b21c8d-99e5-46c7-8be1-0012601e8b2d",
+   "game": "EVE Online",
+   "title": "Crimson Harvest Drop 3",
+   "startAt": "2026-10-16T11:20:00+00:00",
+   "endAt": "2026-10-19T10:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "758d7626-d8c1-44a6-a76e-6e464347f45e",
    "game": "Fishing Planet",
@@ -13625,7 +13613,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.75
+   "score": 12.74
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
