@@ -2874,30 +2874,6 @@
    "asset": "assets/84290f61-e8fb-4502-9cef-cb61712dcce7.png"
   },
   {
-   "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
-   "game": "Black Desert",
-   "title": "Master Class 26 (Oct 18)",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T12:00:00+00:00",
-   "endAt": "2026-10-19T11:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T12:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32c24b22-3bd8-45c3-bdc7-b3265195473c.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b570238-7b70-4110-9ceb-3efef4305a5d",
-   "rewards": [
-    {
-     "name": "Oct 18 (1 Hour)",
-     "minutes": 60
-    },
-    {
-     "name": "Oct 18 (2 Hours)",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/0b570238-7b70-4110-9ceb-3efef4305a5d.jpg"
-  },
-  {
    "id": "8f711635-030d-449b-b5ad-a9b4454fc1a4",
    "game": "Coryphaeus Championships",
    "title": "Fall Drops ",
@@ -3260,9 +3236,45 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2c960c3d-8af2-400c-9a60-7e9c992c1541.jpg"
+  },
+  {
+   "id": "059756db-88a3-474c-9575-9afefcb3cd90",
+   "game": "Black Desert",
+   "title": "AOS Drops Day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T12:00:00+00:00",
+   "endAt": "2026-10-20T11:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T12:00:10+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3bd65213-93ce-4bf5-828d-cec198ac76f6.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=059756db-88a3-474c-9575-9afefcb3cd90",
+   "rewards": [
+    {
+     "name": "AOS Day 2 (1 Hour)",
+     "minutes": 60
+    },
+    {
+     "name": "AOS Day 2 (2 Hours)",
+     "minutes": 120
+    },
+    {
+     "name": "AOS Day 2 (3 Hours)",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": true,
+   "isFavorite": false,
+   "asset": "assets/059756db-88a3-474c-9575-9afefcb3cd90.png"
   }
  ],
  "archive": [
+  {
+   "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
+   "game": "Black Desert",
+   "title": "Master Class 26 (Oct 18)",
+   "startAt": "2026-10-18T12:00:00+00:00",
+   "endAt": "2026-10-19T11:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "23b21c8d-99e5-46c7-8be1-0012601e8b2d",
    "game": "EVE Online",
@@ -13633,7 +13645,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.74
+   "score": 12.73
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13645,7 +13657,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.65
+   "score": 12.64
   },
   "Once Human": {
    "favorites": 2,
@@ -13681,7 +13693,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.71
+   "score": 4.7
   },
   "Where Winds Meet": {
    "favorites": 2,
