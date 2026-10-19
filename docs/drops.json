@@ -586,38 +586,6 @@
    "asset": "assets/19800c70-7d90-45bc-894b-b1765188b529.jpg"
   },
   {
-   "id": "758d7626-d8c1-44a6-a76e-6e464347f45e",
-   "game": "Fishing Planet",
-   "title": "Haunted Fleet Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T10:00:00+00:00",
-   "endAt": "2026-10-19T09:59:59.999+00:00",
-   "firstSeenAt": "2026-10-01T10:00:28+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2299af7a-5990-4e66-b847-7bd3b854ca90.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=758d7626-d8c1-44a6-a76e-6e464347f45e",
-   "rewards": [
-    {
-     "name": "Phantom Revelation Chest",
-     "minutes": 180
-    },
-    {
-     "name": "Supernatural Enlightenment Vault",
-     "minutes": 300
-    },
-    {
-     "name": "Whisper of the Unknown",
-     "minutes": 60
-    },
-    {
-     "name": "Mystic Clue Cache",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/758d7626-d8c1-44a6-a76e-6e464347f45e.png"
-  },
-  {
    "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
    "game": "Street Fighter 6",
    "title": "Street Fighter 6",
@@ -1098,26 +1066,6 @@
    "asset": "assets/efb9b018-9c9e-4721-8659-6690bfd8cb63.png"
   },
   {
-   "id": "d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
-   "game": "DayZ",
-   "title": "DayZ Badlands",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T11:00:00+00:00",
-   "endAt": "2026-10-19T08:59:59.999+00:00",
-   "firstSeenAt": "2026-10-08T11:00:51+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/90c9e1f0-8239-4455-8166-3fc1eca28bb5.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
-   "rewards": [
-    {
-     "name": "DayZ Yellow King",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/d66d83da-c3e4-4f03-bc0a-ca51c43c91fb.png"
-  },
-  {
    "id": "e4f226c6-c9c3-4d99-9c13-e0050e004f9a",
    "game": "ARC Raiders",
    "title": "Frozen Trail",
@@ -1422,114 +1370,6 @@
    "asset": "assets/c9b4b2ac-7ede-4fed-b45d-9c657f20a73c.png"
   },
   {
-   "id": "1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5",
-   "game": "Modern Warships",
-   "title": "Weekly Supply Drops #37",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T00:00:00+00:00",
-   "endAt": "2026-10-18T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-12T00:00:40+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/60d4a20a-fdc7-487a-8ce7-4c9dc18e793d.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5",
-   "rewards": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5.png"
-  },
-  {
-   "id": "0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd",
-   "game": "Dead by Daylight",
-   "title": "DbD: October of Horror II",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T04:00:00+00:00",
-   "endAt": "2026-10-19T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T04:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0e1afff0-2674-4f98-aa71-f2e906949ca9.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd",
-   "rewards": [
-    {
-     "name": "Kite-Flying Fright Banner",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd.png"
-  },
-  {
-   "id": "0c0f3c99-26aa-4277-87c6-362b3c8f8231",
-   "game": "NARAKA: BLADEPOINT",
-   "title": "JS2 Weekly 10.12",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T04:00:00+00:00",
-   "endAt": "2026-10-19T03:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T04:00:32+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1094a2c-5064-4e5f-8b90-c40d924d40f0.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0c0f3c99-26aa-4277-87c6-362b3c8f8231",
-   "rewards": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0c0f3c99-26aa-4277-87c6-362b3c8f8231.png"
-  },
-  {
-   "id": "77adaf06-91a6-4245-adc5-f0718b2f493d",
-   "game": "Legion TD 2",
-   "title": "26.10 Patch",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T08:00:00+00:00",
-   "endAt": "2026-10-19T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-12T08:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/329c907a-e669-41c8-b9ad-c976ea95d905.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=77adaf06-91a6-4245-adc5-f0718b2f493d",
-   "rewards": [
-    {
-     "name": "2000 Essence",
-     "minutes": 60
-    },
-    {
-     "name": "4000 Essence",
-     "minutes": 120
-    },
-    {
-     "name": "Random Card",
-     "minutes": 240
-    },
-    {
-     "name": "1000 Premium Essence",
-     "minutes": 420
-    },
-    {
-     "name": "Random Secret Card",
-     "minutes": 600
-    },
-    {
-     "name": "Rando mSecret Card",
-     "minutes": 0
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/77adaf06-91a6-4245-adc5-f0718b2f493d.png"
-  },
-  {
    "id": "9960cf06-5bf0-4725-8cb2-036053a6a57f",
    "game": "Out of the Park Baseball 27",
    "title": "Official 23",
@@ -1740,34 +1580,6 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/fc782035-c5b0-4790-a5dd-c57f12469331.png"
-  },
-  {
-   "id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
-   "game": "Guild Wars 2",
-   "title": "Shadow of the Mad King",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T16:00:00+00:00",
-   "endAt": "2026-10-19T06:58:59.999+00:00",
-   "firstSeenAt": "2026-10-13T16:00:33+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/425ba7b8-926f-4409-a1b8-0526b8e4f1ab.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
-   "rewards": [
-    {
-     "name": "Mad King Dye Kit",
-     "minutes": 90
-    },
-    {
-     "name": "Mask of Queen Skin",
-     "minutes": 180
-    },
-    {
-     "name": "Ghoul Backpack and Mini Set",
-     "minutes": 300
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png"
   },
   {
    "id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45",
@@ -2886,66 +2698,6 @@
    "asset": "assets/9ae59038-a976-42f1-9b84-9ba430012159.png"
   },
   {
-   "id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28",
-   "game": "Fortnite",
-   "title": "Horror in Fortnite",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T21:27:58+00:00",
-   "endAt": "2026-10-19T06:58:59.999+00:00",
-   "firstSeenAt": "2026-10-16T21:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9be80956-7256-4472-877d-5a3f2cc1ae6f.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=0b228fdb-090b-4dc2-8d4a-08e141a81b28",
-   "rewards": [
-    {
-     "name": "Nitemare Grin Spray",
-     "minutes": 30
-    },
-    {
-     "name": "Window Lurker Emoticon",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/0b228fdb-090b-4dc2-8d4a-08e141a81b28.jpg"
-  },
-  {
-   "id": "c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b",
-   "game": "Modern Warships",
-   "title": "Fall Masters'26 PlayOffs",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T00:00:00+00:00",
-   "endAt": "2026-10-18T23:29:59.999+00:00",
-   "firstSeenAt": "2026-10-17T00:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8fdda404-d511-4fb0-b0df-a966c55fe132.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b",
-   "rewards": [
-    {
-     "name": "Camo Quintessence",
-     "minutes": 300
-    },
-    {
-     "name": "Flag FallMasters26",
-     "minutes": 420
-    },
-    {
-     "name": "3 Days of Premium",
-     "minutes": 60
-    },
-    {
-     "name": "500 UP's",
-     "minutes": 120
-    },
-    {
-     "name": "Smoke Consumable x50",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b.png"
-  },
-  {
    "id": "9f42c463-846b-4e57-8dac-6e735a687c13",
    "game": "Captain's Call",
    "title": "Alpha 4",
@@ -3140,118 +2892,6 @@
    "inSteamLibrary": false,
    "isFavorite": true,
    "asset": "assets/84290f61-e8fb-4502-9cef-cb61712dcce7.png"
-  },
-  {
-   "id": "63035ec0-ea9d-400f-bc2f-83d7c25106eb",
-   "game": "The Quinfall",
-   "title": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T00:00:00+00:00",
-   "endAt": "2026-10-18T23:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T12:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6fc3a993-2496-4ea5-82bf-d90ca3331bb1.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=63035ec0-ea9d-400f-bc2f-83d7c25106eb",
-   "rewards": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 60
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 120
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/63035ec0-ea9d-400f-bc2f-83d7c25106eb.png"
-  },
-  {
-   "id": "37be0b18-4e31-46c1-853a-ccad90f511ac",
-   "game": "EVE Online",
-   "title": "CSM 21 Interviews Drop 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T00:01:00+00:00",
-   "endAt": "2026-10-18T23:58:59.999+00:00",
-   "firstSeenAt": "2026-10-18T00:30:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcef1316-3dcc-4e26-84e6-258291625592.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=37be0b18-4e31-46c1-853a-ccad90f511ac",
-   "rewards": [
-    {
-     "name": "Apotheosis SOCT Shuttle",
-     "minutes": 120
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/37be0b18-4e31-46c1-853a-ccad90f511ac.jpg"
-  },
-  {
-   "id": "d017015e-cabd-4ac3-bc89-30b5c4a0720b",
-   "game": "Torchlight: Infinite",
-   "title": "New Season-TARTARUS-Day 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T02:00:00+00:00",
-   "endAt": "2026-10-19T01:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T02:00:42+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4d75494-f2ca-4563-8bbf-0671f9745c78.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=d017015e-cabd-4ac3-bc89-30b5c4a0720b",
-   "rewards": [
-    {
-     "name": "New Season Drops - 60 mins",
-     "minutes": 60
-    }
-   ],
-   "inSteamLibrary": true,
-   "isFavorite": false,
-   "asset": "assets/d017015e-cabd-4ac3-bc89-30b5c4a0720b.png"
-  },
-  {
-   "id": "bd543343-7588-4aeb-9ac1-e168e061ffed",
-   "game": "Albion Online",
-   "title": "AOCP Flamescale 5 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T10:00:00+00:00",
-   "endAt": "2026-10-19T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-18T10:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9013e38d-c367-44e7-96f5-252a1f1d5f7f.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=bd543343-7588-4aeb-9ac1-e168e061ffed",
-   "rewards": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/bd543343-7588-4aeb-9ac1-e168e061ffed.png"
-  },
-  {
-   "id": "cb7ee060-40db-4fb2-8f4b-c06097831be7",
-   "game": "Albion Online",
-   "title": "Dragonfire 7 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T10:00:00+00:00",
-   "endAt": "2026-10-19T09:29:59.999+00:00",
-   "firstSeenAt": "2026-10-18T10:00:35+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c33c86a9-4959-4559-86ad-537d7eccd32b.png",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=cb7ee060-40db-4fb2-8f4b-c06097831be7",
-   "rewards": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/cb7ee060-40db-4fb2-8f4b-c06097831be7.png"
   },
   {
    "id": "0b570238-7b70-4110-9ceb-3efef4305a5d",
@@ -3450,27 +3090,299 @@
    "asset": "assets/0fae220f-2a32-4282-8cb9-1e4e254f2775.jpg"
   },
   {
-   "id": "85a87118-2361-49d7-add4-711371c53c31",
-   "game": "Warframe",
-   "title": "PMCFQ - Slivarito",
+   "id": "2afd39d8-0acc-458f-a3fb-c87240d88b83",
+   "game": "The Quinfall",
+   "title": "October Drops",
    "status": "ACTIVE",
-   "startAt": "2026-10-18T21:00:00+00:00",
-   "endAt": "2026-10-18T22:59:59.999+00:00",
-   "firstSeenAt": "2026-10-18T21:00:43+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00844e5d-6478-4381-9b60-395684cb32eb.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=85a87118-2361-49d7-add4-711371c53c31",
+   "startAt": "2026-10-19T00:00:00+00:00",
+   "endAt": "2026-10-19T23:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T00:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d24dfee-5dd0-4915-9098-73242f863aa7.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2afd39d8-0acc-458f-a3fb-c87240d88b83",
    "rewards": [
     {
-     "name": "Random Floof",
+     "name": "Twitch Reward Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2afd39d8-0acc-458f-a3fb-c87240d88b83.png"
+  },
+  {
+   "id": "1b32252e-69ad-467c-a892-00bfc7206750",
+   "game": "Mobile Dungeon",
+   "title": "MD Drops Set 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T00:00:00+00:00",
+   "endAt": "2026-10-25T21:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T00:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb60a86d-5d43-415b-8f00-f01b2bdf7212.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b32252e-69ad-467c-a892-00bfc7206750",
+   "rewards": [
+    {
+     "name": "4x Arena Ticket",
      "minutes": 30
+    },
+    {
+     "name": "25x Crystal",
+     "minutes": 60
+    },
+    {
+     "name": "24x Thirst for Adventure",
+     "minutes": 90
+    },
+    {
+     "name": "6x Dungeon Key",
+     "minutes": 120
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/1b32252e-69ad-467c-a892-00bfc7206750.png"
+  },
+  {
+   "id": "2109e54a-edff-47c0-af40-21b7b82de7df",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #38",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T00:00:00+00:00",
+   "endAt": "2026-10-25T23:29:59.999+00:00",
+   "firstSeenAt": "2026-10-19T00:00:43+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a9d97334-e494-492c-84e4-7e1aae0d960c.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=2109e54a-edff-47c0-af40-21b7b82de7df",
+   "rewards": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/2109e54a-edff-47c0-af40-21b7b82de7df.png"
+  },
+  {
+   "id": "fede2520-a23a-435d-a47f-95cca352cf23",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS2 Weekly 10.19",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T04:00:00+00:00",
+   "endAt": "2026-10-26T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T09:30:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b863afcb-bda2-4092-8a09-16f345bb770f.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=fede2520-a23a-435d-a47f-95cca352cf23",
+   "rewards": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/fede2520-a23a-435d-a47f-95cca352cf23.png"
+  },
+  {
+   "id": "1b22fe56-30f3-4326-869f-c6e8e59e7815",
+   "game": "Dead by Daylight",
+   "title": "DbD October of Horror III",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T04:00:00+00:00",
+   "endAt": "2026-10-26T03:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T09:30:16+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2454dab9-bb69-4e42-bb81-426e07f6a0b2.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=1b22fe56-30f3-4326-869f-c6e8e59e7815",
+   "rewards": [
+    {
+     "name": "Fanged Flier Badge",
+     "minutes": 60
     }
    ],
    "inSteamLibrary": true,
-   "isFavorite": true,
-   "asset": "assets/85a87118-2361-49d7-add4-711371c53c31.jpg"
+   "isFavorite": false,
+   "asset": "assets/1b22fe56-30f3-4326-869f-c6e8e59e7815.png"
+  },
+  {
+   "id": "6e04776d-9b10-42b8-9850-fadfe3ac4e50",
+   "game": "Albion Online",
+   "title": "Dragonfire 8 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T10:00:00+00:00",
+   "endAt": "2026-10-20T09:29:59.999+00:00",
+   "firstSeenAt": "2026-10-19T10:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f488c80-45e0-4322-b3e0-156010b0fcc5.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=6e04776d-9b10-42b8-9850-fadfe3ac4e50",
+   "rewards": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/6e04776d-9b10-42b8-9850-fadfe3ac4e50.png"
+  },
+  {
+   "id": "f24a565e-9fa3-45c0-aafe-2c444f37b795",
+   "game": "Fishing Planet",
+   "title": "Carnival of Terrors",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T10:00:00+00:00",
+   "endAt": "2026-11-02T09:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T10:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4980e4ac-e538-47b9-a4be-741974644584.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=f24a565e-9fa3-45c0-aafe-2c444f37b795",
+   "rewards": [
+    {
+     "name": "Chilling Box",
+     "minutes": 60
+    },
+    {
+     "name": "Spooky Box",
+     "minutes": 120
+    },
+    {
+     "name": "Sinister Box",
+     "minutes": 180
+    },
+    {
+     "name": "Dreadful Box",
+     "minutes": 300
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/f24a565e-9fa3-45c0-aafe-2c444f37b795.png"
   }
  ],
  "archive": [
+  {
+   "id": "758d7626-d8c1-44a6-a76e-6e464347f45e",
+   "game": "Fishing Planet",
+   "title": "Haunted Fleet Drops",
+   "startAt": "2026-10-01T10:00:00+00:00",
+   "endAt": "2026-10-19T09:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "bd543343-7588-4aeb-9ac1-e168e061ffed",
+   "game": "Albion Online",
+   "title": "AOCP Flamescale 5 - #7/7",
+   "startAt": "2026-10-18T10:00:00+00:00",
+   "endAt": "2026-10-19T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "cb7ee060-40db-4fb2-8f4b-c06097831be7",
+   "game": "Albion Online",
+   "title": "Dragonfire 7 - #7/7",
+   "startAt": "2026-10-18T10:00:00+00:00",
+   "endAt": "2026-10-19T09:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d66d83da-c3e4-4f03-bc0a-ca51c43c91fb",
+   "game": "DayZ",
+   "title": "DayZ Badlands",
+   "startAt": "2026-10-08T11:00:00+00:00",
+   "endAt": "2026-10-19T08:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b",
+   "game": "Guild Wars 2",
+   "title": "Shadow of the Mad King",
+   "startAt": "2026-10-13T16:00:00+00:00",
+   "endAt": "2026-10-19T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28",
+   "game": "Fortnite",
+   "title": "Horror in Fortnite",
+   "startAt": "2026-10-16T21:27:58+00:00",
+   "endAt": "2026-10-19T06:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd",
+   "game": "Dead by Daylight",
+   "title": "DbD: October of Horror II",
+   "startAt": "2026-10-12T04:00:00+00:00",
+   "endAt": "2026-10-19T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "0c0f3c99-26aa-4277-87c6-362b3c8f8231",
+   "game": "NARAKA: BLADEPOINT",
+   "title": "JS2 Weekly 10.12",
+   "startAt": "2026-10-12T04:00:00+00:00",
+   "endAt": "2026-10-19T03:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "77adaf06-91a6-4245-adc5-f0718b2f493d",
+   "game": "Legion TD 2",
+   "title": "26.10 Patch",
+   "startAt": "2026-10-12T08:00:00+00:00",
+   "endAt": "2026-10-19T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "d017015e-cabd-4ac3-bc89-30b5c4a0720b",
+   "game": "Torchlight: Infinite",
+   "title": "New Season-TARTARUS-Day 3",
+   "startAt": "2026-10-18T02:00:00+00:00",
+   "endAt": "2026-10-19T01:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "63035ec0-ea9d-400f-bc2f-83d7c25106eb",
+   "game": "The Quinfall",
+   "title": "October Drops",
+   "startAt": "2026-10-18T00:00:00+00:00",
+   "endAt": "2026-10-18T23:59:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "37be0b18-4e31-46c1-853a-ccad90f511ac",
+   "game": "EVE Online",
+   "title": "CSM 21 Interviews Drop 2",
+   "startAt": "2026-10-18T00:01:00+00:00",
+   "endAt": "2026-10-18T23:58:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "1d4fe314-fdb6-4c92-9bff-debb1d2f8ac5",
+   "game": "Modern Warships",
+   "title": "Weekly Supply Drops #37",
+   "startAt": "2026-10-12T00:00:00+00:00",
+   "endAt": "2026-10-18T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b",
+   "game": "Modern Warships",
+   "title": "Fall Masters'26 PlayOffs",
+   "startAt": "2026-10-17T00:00:00+00:00",
+   "endAt": "2026-10-18T23:29:59.999+00:00",
+   "status": "ENDED"
+  },
+  {
+   "id": "85a87118-2361-49d7-add4-711371c53c31",
+   "game": "Warframe",
+   "title": "PMCFQ - Slivarito",
+   "startAt": "2026-10-18T21:00:00+00:00",
+   "endAt": "2026-10-18T22:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "fa81a25b-c3ac-46cc-a91a-39ba652f6f2e",
    "game": "Mobile Dungeon",
@@ -13707,67 +13619,67 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.15
+   "score": 9.05
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.9
+   "score": 12.76
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
    "likes": 2,
    "reminds": 0,
-   "score": 2.02
+   "score": 2.0
   },
   "LEGO Batman: Legacy of the Dark Knight": {
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.81
+   "score": 12.67
   },
   "Once Human": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.15
+   "score": 9.05
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.15
+   "score": 9.05
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.15
+   "score": 9.05
   },
   "THE FINALS": {
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.01
+   "score": 1.0
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.38
+   "score": 4.33
   },
   "Warframe": {
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.77
+   "score": 4.71
   },
   "Where Winds Meet": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.15
+   "score": 9.05
   }
  },
  "favoriteWeights": {
