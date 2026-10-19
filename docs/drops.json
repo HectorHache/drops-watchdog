@@ -3166,6 +3166,82 @@
    "asset": "assets/cce10d77-542b-45c7-a17d-5715936bcbf3.png"
   },
   {
+   "id": "099517a7-db19-41f9-b1c2-aef39b7baaa8",
+   "game": "Out of the Park Baseball 27",
+   "title": "Official 24",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T13:00:00+00:00",
+   "endAt": "2026-10-26T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T15:30:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=099517a7-db19-41f9-b1c2-aef39b7baaa8",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 90
+    },
+    {
+     "name": "2",
+     "minutes": 180
+    },
+    {
+     "name": "3",
+     "minutes": 270
+    },
+    {
+     "name": "4",
+     "minutes": 360
+    },
+    {
+     "name": "5",
+     "minutes": 450
+    },
+    {
+     "name": "6",
+     "minutes": 540
+    },
+    {
+     "name": "7",
+     "minutes": 630
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/099517a7-db19-41f9-b1c2-aef39b7baaa8.png"
+  },
+  {
+   "id": "ef8b34bb-1abb-425e-803d-eb807e4376b6",
+   "game": "Out of the Park Baseball 27",
+   "title": "Laptophound 24",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T13:00:00+00:00",
+   "endAt": "2026-10-26T12:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T15:30:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=ef8b34bb-1abb-425e-803d-eb807e4376b6",
+   "rewards": [
+    {
+     "name": "1",
+     "minutes": 120
+    },
+    {
+     "name": "2",
+     "minutes": 240
+    },
+    {
+     "name": "3",
+     "minutes": 360
+    },
+    {
+     "name": "4",
+     "minutes": 480
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/ef8b34bb-1abb-425e-803d-eb807e4376b6.png"
+  },
+  {
    "id": "2d557f0a-b33f-4924-bda6-5ac5ef6c36e3",
    "game": "Shakes and Fidget",
    "title": "S&F Drops 1/3",
@@ -13665,7 +13741,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.61
+   "score": 12.6
   },
   "Once Human": {
    "favorites": 2,
@@ -13689,7 +13765,7 @@
    "favorites": 0,
    "likes": 1,
    "reminds": 0,
-   "score": 1.0
+   "score": 0.99
   },
   "Tom Clancy's The Division 2": {
    "favorites": 1,
@@ -13711,17 +13787,17 @@
   }
  },
  "favoriteWeights": {
-  "ARC Raiders": 19,
+  "ARC Raiders": 18,
   "Counter-Strike 2": 10,
   "DayZ": 10,
   "Delta Force": 22,
   "LEGO Batman: Legacy of the Dark Knight": 22,
   "Marvel Rivals": 10,
-  "Once Human": 19,
-  "Palia": 19,
-  "Predecessor": 19,
+  "Once Human": 18,
+  "Palia": 18,
+  "Predecessor": 18,
   "Tom Clancy's The Division 2": 14,
   "Warframe": 14,
-  "Where Winds Meet": 19
+  "Where Winds Meet": 18
  }
 }
