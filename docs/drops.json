@@ -3272,6 +3272,34 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/4f0011a5-91e5-43c1-aef7-af44f9d3e3fb.jpg"
+  },
+  {
+   "id": "947db2a5-a39e-4327-9b31-8a0bf44b9a48",
+   "game": "Scape",
+   "title": "Scape Day 1: Lurker",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T17:00:00+00:00",
+   "endAt": "2026-10-20T06:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T17:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d442a4da-fd95-4fd3-a330-d59a3b424e14.png",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=947db2a5-a39e-4327-9b31-8a0bf44b9a48",
+   "rewards": [
+    {
+     "name": "Flex",
+     "minutes": 60
+    },
+    {
+     "name": "Came For The Clip",
+     "minutes": 90
+    },
+    {
+     "name": "Lurker",
+     "minutes": 30
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/947db2a5-a39e-4327-9b31-8a0bf44b9a48.png"
   }
  ],
  "archive": [
@@ -13701,7 +13729,7 @@
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.68
+   "score": 12.67
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13713,7 +13741,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 5,
-   "score": 12.59
+   "score": 12.58
   },
   "Once Human": {
    "favorites": 2,
@@ -13743,7 +13771,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.31
+   "score": 4.3
   },
   "Warframe": {
    "favorites": 1,
