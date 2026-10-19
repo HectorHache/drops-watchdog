@@ -2374,30 +2374,6 @@
    "asset": "assets/17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9.png"
   },
   {
-   "id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
-   "game": "World of Tanks",
-   "title": "WoT A Thrill Store #3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T15:00:00+00:00",
-   "endAt": "2026-10-19T14:59:59.999+00:00",
-   "firstSeenAt": "2026-10-16T15:00:34+00:00",
-   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fbbb25bf-f9e4-4877-a669-1952cf93029a.jpeg",
-   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
-   "rewards": [
-    {
-     "name": "Drop 1",
-     "minutes": 180
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240
-    }
-   ],
-   "inSteamLibrary": false,
-   "isFavorite": false,
-   "asset": "assets/355e9ba2-ef2a-4d49-9698-5fae95ab0c74.jpg"
-  },
-  {
    "id": "c9a9be3b-ba13-4924-a045-989ee3d26f28",
    "game": "World of Tanks Console",
    "title": "Monster Hunting #2",
@@ -3232,9 +3208,41 @@
    "inSteamLibrary": false,
    "isFavorite": false,
    "asset": "assets/2d557f0a-b33f-4924-bda6-5ac5ef6c36e3.png"
+  },
+  {
+   "id": "4f0011a5-91e5-43c1-aef7-af44f9d3e3fb",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T15:00:00+00:00",
+   "endAt": "2026-10-21T14:59:59.999+00:00",
+   "firstSeenAt": "2026-10-19T15:00:09+00:00",
+   "imageUrl": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b843ed17-c0d7-459d-97dc-5c14dc5ae194.jpeg",
+   "detailsUrl": "https://www.twitch.tv/drops/campaigns?drop=4f0011a5-91e5-43c1-aef7-af44f9d3e3fb",
+   "rewards": [
+    {
+     "name": "Drop 1",
+     "minutes": 180
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240
+    }
+   ],
+   "inSteamLibrary": false,
+   "isFavorite": false,
+   "asset": "assets/4f0011a5-91e5-43c1-aef7-af44f9d3e3fb.jpg"
   }
  ],
  "archive": [
+  {
+   "id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74",
+   "game": "World of Tanks",
+   "title": "WoT A Thrill Store #3",
+   "startAt": "2026-10-16T15:00:00+00:00",
+   "endAt": "2026-10-19T14:59:59.999+00:00",
+   "status": "ENDED"
+  },
   {
    "id": "9960cf06-5bf0-4725-8cb2-036053a6a57f",
    "game": "Out of the Park Baseball 27",
@@ -13639,13 +13647,13 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.01
+   "score": 9.0
   },
   "Delta Force": {
    "favorites": 3,
    "likes": 2,
    "reminds": 0,
-   "score": 12.7
+   "score": 12.69
   },
   "HITMAN World of Assassination": {
    "favorites": 0,
@@ -13663,19 +13671,19 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.01
+   "score": 9.0
   },
   "Palia": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.01
+   "score": 9.0
   },
   "Predecessor": {
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.01
+   "score": 9.0
   },
   "THE FINALS": {
    "favorites": 0,
@@ -13687,7 +13695,7 @@
    "favorites": 1,
    "likes": 1,
    "reminds": 0,
-   "score": 4.32
+   "score": 4.31
   },
   "Warframe": {
    "favorites": 1,
@@ -13699,7 +13707,7 @@
    "favorites": 2,
    "likes": 2,
    "reminds": 0,
-   "score": 9.01
+   "score": 9.0
   }
  },
  "favoriteWeights": {
